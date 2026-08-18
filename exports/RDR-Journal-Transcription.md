@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 10 / 119
+Pages with transcription text: 20 / 119
 
-Untranscribed PDF pages: 11-119
+Untranscribed PDF pages: 21-119
 
 ## PDF page 1
 
@@ -494,3 +494,580 @@ back to Illinois and Emigrated his sisters & children seven in
 ### Editorial annotations
 
 Complete visual first-pass transcription of PDF page 10. The overwritten priesthood-office sentence, the officiating bishop's surname, one emigration-agent name, and several written dates require later visual review. No genealogical wording has been normalized.
+
+## PDF page 11 - manuscript page 11
+
+Stable ID: `journal-rdr-page-011`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+number their father promise to come after them but has not
+as yeat come.
+
+William Hughes and Elizabeth our sister lives in a
+house of his own in this town Logan, and every thing appear
+well with them
+
+April 14. 1868
+
+Ann our sister wife of William Hopkin gave birth
+to a nice little girl her name Sarah Cathrina Hopkin
+
+I received from Wales in a letter from uncle Edward
+Roberts brother of our father dated July 20th 1854. the day month
+and year of the birth of David Robert Roberts and Cathrina
+his wife and their children which was taken from an old Bible
+once was the property of David at which time he with his own
+hand had put the early record of his children
+
+David Robert Roberts was born April 5th 1814
+
+Cathrina his wife [unclear: June overwritten by July] 25th 1828
+
+Their children are born
+
+Robert September 21st 1839
+
+Thomas July 6th 1840
+
+Daniel September 8th 1842
+
+Ann December 19th 1844
+
+Elizabeth November 15th 1846
+
+Jane January 11th 1850
+
+Logan City November 5th 1869.
+
+Monday afternoon October 11th 1869. Elizabeth our sister
+wife of Talisien Hughes gave birth to a pair of twins a boy and
+girl but they did not live only a short time
+
+Elizabeth was rather unhealthy in makeing her
+brotherinlaw's bed which was on a high place this cause their
+untimely birth she has gained her health excellent well
+their names are James and Cathreina
+
+They make arrangement to go to Salt Lake City
+November 22nd 1869. to receive their endowment in the house of
+the Lord they live in [unclear: Meadow Valley, Piute County] Utah Territory
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Bracketed readings require later visual review.
+
+## PDF page 12 - manuscript page 12
+
+Stable ID: `journal-rdr-page-012`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City July 12th 1870.
+
+June [1st?] 1870 start to Smithfield after Hannah Roberts
+and came back to Logan the same day next day start to Salt
+Lake City arrive there on the 4th on the 6th go to the house of
+the Lord and was married and sealed by Joseph F. Smith one of
+the twelve Apostle son of Hyrum Smith the Patriarch
+
+Hugh & Mary Roberts are the parents of Hannah
+she was born in Wales Pembrokeshire [unclear: Eglwes bach] March 27th
+1847, at present they live in Smithfield Cache County
+Utah Territory They emigrated from [unclear: Eglwesback] Pembrokeshire
+North Wales to Salt Lake City in the year 1864. and lived
+there for a short time.
+
+I rent a house of William M Cowly, when in
+Salt Lake City June 11th 1870. go there to live, together for
+the first time in our lives, Hannah Roberts and myself,
+Robert D. Roberts. all is well, so far July 14th 1870.
+
+January 4th 1871.
+
+Ann our sister wife of William Hopkin at nine
+thirtyfive (9.35) in the morning gave birth to a handsome
+little son weight ten pounds 10 lbs; his name David
+Roberts Hopkins he was blessed by [unclear: Benjamin Monson
+Lewis] May 4th 1871.
+
+February 8th 1871.
+
+Elizabeth our sister wife of Talisien Hughes
+gave birth [unclear inserted place] to a pair of twins two little girls their names
+are Ann & Margaret. Ann was born at nine forty (9.40)
+in the evening Margaret at ten thirty (10.30) Ann weight
+five pounds three quarter, 5 3/4 lbs; Margaret five pounds one quarter,
+5 1/4 lbs; Margaret was very weak and looks very much like
+she would not live but a short time but she is gaining
+strength they broth was blessed by Thomas J Thomas
+February 9th 1871.
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The June travel date, Pembrokeshire place, inserted Utah place, and blessing name require later visual review.
+
+## PDF page 13 - manuscript page 13
+
+Stable ID: `journal-rdr-page-013`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+March 30th 1871
+
+At eight forty, 8.40, in the evening Hannah
+Roberts my wife gave birth to a strong and a lively son
+with his voice as clear and pure as the morning air he weigh
+nine pounds, 9 lbs; his name David Robert Roberts he was
+blessed by his grandfather Hugh Roberts April 15th 1871.
+
+February 26th 1872
+
+Alexander Lewis came from Samaria Oneida County
+Idaho Territory and brought us the bad news of the death
+of Margaret one of Elizabeth our sister and Talisien Hughes's
+twins. On the 28th I received a latter bringing the same [unclear inserted
+correction: misfortune] the little one had a bad could but look like if she was
+geting better she had a fit and departed this life February 23rd
+1872. the other twin is sick of the same complaint but we
+do not know how she is at present she was born February 8th
+1871.
+
+March 6th 1872.
+
+Jane our sister with [Conar?] Hughes start to Salt
+Lake City to be married they arrived in the City on the ninth
+9th on the eleventh, 11th, they went to the endowment house
+where they was washed and anointed and married by Daniel
+H Wells for time and all eternity they went home again,
+on the fifteenth 15th, on the twentyfirst 21st they started
+for Samaria Oneida County Idaho Territory Malad Valley where
+they purpose to make their home.
+
+March 24th 1873.
+
+At onefifty 1.50 in the afternoon, Jane our sister
+wife of [Conar?] Hughes, gave birth to a little boy, weigh nine
+pounds, 9 lbs; his name David Hughes he was blessed by [unclear:
+Owen Thomas J Lewis] May 4th 1873.
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The corrected death-notice word, Conar Hughes, and blessing name remain uncertain.
+
+## PDF page 14 - manuscript page 14
+
+Stable ID: `journal-rdr-page-014`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+March 6th 1874
+
+Elizabeth our sister wife of Talisien Hughes gave birth
+to a pair of twins David Talisien Hughes was born in the morning
+at eight fifty 8.50 Thomas Hughes was born nine five 9.5
+in the morning they was blessed by [unclear: David David] and their
+father March 6th mother brought these lines from Samaria
+March 24th 1874.
+
+January 12th 1875
+
+Jane our sister with her husband [Conar?] Hughes and
+their little boy David came to our mother's house in Logan
+on the twentysecond 22nd, at tenfortyseven 10.47, in the morning
+I believe that the time is slow less or fifteen minit, she gave
+birth to her second son he looks healthy and pleasant weight
+seven and half pounds 7 1/2 lbs; his name Daniel Hughes.
+
+February 21st 1875.
+
+Daniel Roberts our brother was rebaptized by Robert
+Davieson he was confirmed by Thomas McNeil Sen.
+
+March 27th 1875
+
+He started to Salt Lake City to be married meet
+his beloved at Hamilton Station Talisien her brother
+accompany her to this place from Samaria Oneida County
+Idaho Territory on the 29th going to the house of the Lord
+and geting their washing and anointing and was united in
+the bonds of the everlasting covenant and sealed to be man
+and wife by Wilford Woodruff he was ordained to the office
+of an Elder by Samuel J Smith they rent a house in
+Ogden April 3rd go there to live.
+
+July 4th 1875.
+
+I was baptized, to the united Order, by Robert Davieson,
+confirmed by Thomas McNeil.
+
+On the 10th Hannah Roberts my wife was baptized,
+by Joseph White, confirmed by Robert Davieson.
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Conar Hughes and the twins' blessing name remain uncertain.
+
+## PDF page 15 - manuscript page 15
+
+Stable ID: `journal-rdr-page-015`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+October 4th 1875
+
+Mother and Ann Hopkin our sister was baptized to
+the United Order by Joseph White. mother was confirmed by
+Charles O Card. Ann, by Henry Ballard.
+
+On the eight 8th of October Ann Hopkin our sister
+started to Salt Lake City mother and myself started on the
+9th arrive in the City on the 10th I was in two meetings of conference
+on the 11th I received my citizen paper on the 13th he was baptized
+by Samuel H Smith in the house of the Lord for several
+of our relatives that has gon behind the veil I do not
+know the name of the man that confirmed us
+
+The names of those that I was baptized for are
+
+Robert Roberts Grandfather
+
+[unclear: Salemon] Roberts old uncle
+
+William Roberts old uncle
+
+William Roberts uncle
+
+Griffith Morris cousin inlaw
+
+Thomas Richard Grandfather
+
+Richard Thomas second Grandfather
+
+Thomas Williams Third Grandfather
+
+Robert Richard old uncle
+
+Rowland Morris second Grandfather
+
+Rowland Morris old uncle
+
+Henry Morris old uncle
+
+John Thomas old uncle
+
+Ann Roberts Hopkin was baptized for the
+following names
+
+Elizabeth Edward Grandmother
+
+Margaret Roberts old aunt
+
+Cathreina Roberts old aunt
+
+Ann Roberts old aunt
+
+Ann Roberts old aunt
+
+Elinor Roberts old aunt
+
+Elizabeth Roberts old aunt
+
+Elizabeth Roberts cousin
+
+Elinor Roberts cousin
+
+Ann Parry second Grandmother
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The overwritten Salemon Roberts entry remains uncertain.
+
+## PDF page 16 - manuscript page 16
+
+Stable ID: `journal-rdr-page-016`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Our mother Cathreina Roberts was baptized for
+the following names
+
+Ann Morris mother
+
+Elizabeth Thomas Grandmother
+
+Cathreina [unclear: Ych] Richard second Grandmother
+
+Cathreina Richard aunt
+
+Jane Richard aunt
+
+Jane Parry Grandmother
+
+Janet Morris aunt
+
+Elinor Morris aunt
+
+Elizabeth Morris aunt
+
+Cathreina Morris aunt
+
+Jane Thomas sister
+
+The following names was married and sealed and
+blessed with the blessing of the everlasting covenant and a
+part in the first resurrection by Joseph F Smith
+
+Elizabeth Edward to Robert Roberts
+
+Elizabeth Roberts to Griffith Morris
+
+Their proxy Robert David Roberts and Ann Roberts
+Hopkin
+
+Ann Morris to Thomas Richard
+
+Elizabeth Thomas to Richard Thomas
+
+Cathreina [unclear: Ych] Richard to Thomas Williams
+
+Jane Parry to Rowland Morris
+
+Elinor Morris to John Thomas
+
+Elizabeth Morris to Robert Richard
+
+Cathreina Morris to Henry Morris
+
+Their proxy Robert David Roberts and Cathreina
+Thomas Roberts
+
+There is a mistake in some way, about John
+Thomas I have his name married and sealed to
+Elinor Morris but havent got his name that I
+have been baptized for him, I do not know whether
+I omit to put his name with those that I was baptized for
+or put his name with those that was married and sealed was a mistake
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The element written before Richard appears to read "Ych" and remains uncertain; the writer's own John Thomas uncertainty is preserved verbatim.
+
+## PDF page 17 - manuscript page 17
+
+Stable ID: `journal-rdr-page-017`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+May 22nd 1876
+
+At five minute past twelve noon 12.5 a.m.
+Hannah Roberts my wife gave birth to a little boy
+weigh 4 lbs: he looks healthy but very weak in looking
+at him it comes to my mind that he will become
+a wise smart and educated boy if trained he was blessed
+by Georg Painter the same day his name Hugh Roberts
+
+June 1st 1876
+
+Sarah Cathreina Hopkin was baptized by Charles
+Olson confirmed by Christian J Larson.
+
+July 10th 1876
+
+Sarah Ann, Daniel Roberts our brother's wife
+in Ogden, at half past seven 7.30 p.m. in the morning
+gave birth to a little girl, looks of a strong constitution,
+weigh 9 lbs;
+
+October 5th she was blessed in Logan by Thomas
+Jones, her name Cathreine Roberts
+
+December 29th 1876.
+
+Jane Hughes our sister wife of [Conhar?] Hughes
+gave birth to a little boy, at fifteen minute past nine
+9.15 a.m. in the morning, he was blessed, by Owen
+Thomas February 11th 1877, his name James Hughes
+he was weigh, when a month old, 11 lbs: he was born
+in Samaria Oneida County Idaho Territory
+
+January 23rd 1877
+
+At twentyfive minutes past eleven 11.25, in the
+morning Elizabeth Hughes our sister, wife of Talisien
+Hughes gave birth to a little girl, in Samaria Oneida Co.
+Idaho Territory, weigh, 8 1/2 lbs: she was blessed February
+18th by Owen Thomas, her name Maria Hughes.
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Conhar Hughes remains an uncertain reading; contradictory time notation is preserved.
+
+## PDF page 18 - manuscript page 18
+
+Stable ID: `journal-rdr-page-018`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+May 16th 1877
+
+Daniel in Ogden this morning received by Telegraph
+from Samaria Malad Valley Oneida County Idaho Territory
+the painful news of the death of our beloved sister Elizabeth
+he was the conductor on the Train that brought President
+Brigham Young and company to Logan to hold conference
+and to consecrate the ground for the building of the Temple
+between 12 and 1 at noon brought the alarming news to
+the family in this part of the country our dear sister
+parted this life at six o clock in the morning with ease
+and no pain she desired her relatives to come to see her
+remains put in the earth to lay until the morning of the
+first resurrection on the 17th we started our journey their we
+had a most dreadful storm of snow and wind we was not
+able to go any further than [unclear: Square town] this day 18th the
+weather rather unpleasant we arrive in Samaria few minuts
+after ten in looking at her husband and her little children
+the house and the surrounding where she has been moveing
+with joy and aiming to make her little family comfortable
+and happy how her bosom is could her loving silent her lips
+eyes and ears are closed in death her appearance has change
+the spirit has had to flee, Now there is nothing to look at
+but could earth or that mortal coile the Tabernacle where
+that noble spirit once dwelt but now is decaying and time
+to take it to its resting place before it crumble to dust
+at two o clock we took her remains to the school house
+where we had a good sermon in welsh from Owen Thomas
+and the last view of her remains she gave birth to
+seven children three pair of twins three boys and four
+girls four is alive at present two boys and two girls
+on the 20th we started for home and arrive home the
+same day on the 16th Jane our sister her little boy
+break his arm little above the elbow he is gaining very
+well This was wrote June 3rd 1877
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The storm stopping place remains uncertain; historical wording such as "could" and "coile" is preserved.
+
+## PDF page 19 - manuscript page 19
+
+Stable ID: `journal-rdr-page-019`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+September 4th 1877.
+
+Talisien Hughes, and his sister Maria Roberts with
+Elizabeth's little girl Maria, and a young girl, eighteen years
+of age, by the name of Jane Mason, Talisien and her was
+married by William B Preston in his house; they return as far
+as Hamilton Station to Ann's house. our sister where Jane our
+sister was, she had come so far with them, and return back
+home with them.
+
+April 10th 1878
+
+My Dear and beloved wife parted this life with eas
+and calm as to sleep she had sickness and uncommon pain since
+the first of March from her teeth to commence all of her body
+swell very much like the dropsy her Heart and liver was
+very much affected something like the palpitation of the Heart
+she never had much health after married she fail twice
+and was near loosing her life both times she was feeling and
+looking better this winter than she did for some time but
+for all of that the destroyer took hold of her system and
+the separation of the spirit and body took place she was a
+most noble wife clean and saving she understand housework and
+do it very handily she was an excellent good mother to her
+little children learn them to pray and acknowledge God as
+soon as possible she was a kind and peaceable neighbour in
+the twelfth 12th at eleven o clock we took her remains to
+the old Hall where we had a good meeting prayer by Thomas
+McNeil preaching by John Parry Robert Davieson and Henry
+Ballard benediction by David W Davies the singing was lead
+by Alexander Lewis She was buryed in Logan graveyard
+prayer by Benjamin Williams at the grave this was wrote
+May 5th
+
+February 21st 1878
+
+Sarah Ann wife of Daniel Roberts our brother gave
+birth to a little girl at half past six in the evening 6.30
+p.m., June 6th she was blessed by Thomas McNeil her name Margaret
+Roberts she seems to be a nice fat and will be a handsome one yet
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Historical grammar and the manuscript's nonchronological entry order are preserved.
+
+## PDF page 20 - manuscript page 20
+
+Stable ID: `journal-rdr-page-020`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+December 29th 1878
+
+Jane our sister wife of [Conar?] Hughes they live in
+Samaria gave birth to a little boy at five minut to eight in
+the morning he looks well and strong his name Conar Hughes
+
+April 3rd 1879
+
+David Robert Roberts was baptized by William
+Watterson he was confirmed by Robert Davieson the same day
+also David Roberts Hopkins by Christian J Larson confirmed
+by Henry Ballard the same day
+
+May 26th 1879
+
+In the morning at ten minut past seven Ann Hopkin
+our sister gave birth to a strong and Lively boy weigh ten
+pounds 10 lbs; he was blessed by Christian J Larson July 3rd 1879
+his name William John Hopkin
+
+June 28th 1879
+
+In a few minuts to one o clock in the afternoon, noon
+1 p.m. David Talisien Hughes died from Diptheria after a short
+sickness of three days he took sick in school on friday morning
+he died
+
+Hyrum Hughes took sick of the same disease on
+on the 21st of the same month he died about two o clock in
+the morning 2 a.m. twentyfifth 25th, they were twins born
+March 6th 1874 they was nice little boys and look like they would
+grow up to be strong men they was buryed in Samaria Oneida
+County Idaho Territory where their father lives at present
+
+October 4th 1879
+
+Sarah Ann wife of Daniel Roberts our brother in Logan
+City gave birth to a nice little girl at about one o clock 1 a.m.
+in the afternoon she weigh 9 lbs: December 4th she was
+blessed by Thomas McNeil her name Ida Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Conar Hughes remains an uncertain reading; contradictory time notation is preserved.
