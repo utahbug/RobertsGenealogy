@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 38 / 119
+Pages with transcription text: 40 / 119
 
-Untranscribed PDF pages: 39-119
+Untranscribed PDF pages: 41-119
 
 ## PDF page 1
 
@@ -1987,3 +1987,107 @@ great-grand child
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement used only as reading aids. The apparent 1889 note date and 1886 blessing date are preserved as written rather than reconciled. One correspondent's given name remains uncertain. The preserved source image was not altered. Status: needs review.
+
+## PDF page 39
+
+Stable ID: `journal-rdr-page-039`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City July 31st 1887
+
+A Blessing
+
+Given by C. H. Hyde upon the head of Robert
+David Roberts son of David and Catherine Roberts
+born Merionethshire North Wales September 21st 1833
+
+Robert in the name of the Lord Jesus I
+place my hands upon your head to seal upon
+you a patriarchal blessing for thou will yet be
+called to proclaim this gospel to thy own nation
+kind and from place to place with a voice as
+the trumpet of God and thou shall bind up
+the law and seal up the testimony and the
+Angel of the Lord will go before thee and will
+commune with thee face to face and you shall
+[unclear: lead much] to Zion with songs of great joy and
+thou shall behold great signs upon the Earth
+for the hour of thy death shall not yet be come.
+Thou shall have great faith, thou art
+of Joseph and a right to the fulness of the
+Priesthood, and [unclear: over] great Kingdoms
+upon the Earth. Therefore go thy way and
+never injure the heart of man which the father
+has for thee for thou shall behold all things for
+the accomplishment of the redemption of Zion
+these blessings I seal upon thy head with all
+thy heart desires and eternal lives Amen.
+
+This Patriarchal Blessing of
+Robert David Roberts is
+Recorded in Book VI page 242
+
+Logan City July 31st 1887
+
+A Blessing
+
+Given by C. H. Hyde upon the head of
+Hannah Roberts Daughter of Hugh and
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page records Robert David Roberts's patriarchal blessing and begins a blessing for Hannah Roberts that continues on the next PDF page. Two short phrases remain uncertain. The preserved source image was not altered. Status: needs review.
+
+## PDF page 40
+
+Stable ID: `journal-rdr-page-040`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Mary Roberts born Merionethshire North Wales
+March 27th 1840.
+
+Hannah beloved sister I place my hands
+upon your head to seal upon you a Patriarch-
+al blessing for thou art of Ephraim when
+you entered this world the Angel of peace
+shall go with thee thou shalt have wisdom
+and [unclear: means] to comfort thee while you live.
+Thou shalt raise thy house in righteousness,
+peace shall dwell in thy habitation. Thy [unclear: prophets]
+shall arise of your [unclear: seed]. Thou shalt
+teach and instruct queens which shall come
+to Zion and no good thing shall be held
+from thee. Thou art a daughter of Ephraim
+and a right to the fulness of the priesthood
+and with a companion and a kingdom upon
+the Earth forever and ever. And I say
+unto thee thou shall accomplish every desire
+of the heart in righteousness for your last
+days shall be your best for thou shall
+have eternal lives with all thy kindred
+ties which I seal upon thee with [unclear: crowns]
+of glory with all thy heart's desire
+Amen.
+
+This Patriarchal Blessing of
+Hannah Roberts is Recorded in
+Book VI Page 251-52
+
+Logan City July 31st 1887
+
+A blessing given by C. H. Hyde upon
+the head of Thomas Robert Roberts Son of
+Robert and Hannah Roberts born Cache Co-
+unty Utah Territory Logan City March 30th 1861
+
+[unclear: David] I place my hands upon your
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page completes Hannah Roberts's patriarchal blessing, gives its recording reference, and begins a blessing for Thomas Robert Roberts that continues on the next PDF page. Several faint words remain uncertain. The preserved source image was not altered. Status: needs review.
