@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 20 / 119
+Pages with transcription text: 22 / 119
 
-Untranscribed PDF pages: 21-119
+Untranscribed PDF pages: 23-119
 
 ## PDF page 1
 
@@ -1071,3 +1071,112 @@ blessed by Thomas McNeil her name Ida Roberts
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan. Conar Hughes remains an uncertain reading; contradictory time notation is preserved.
+
+## PDF page 21
+
+Stable ID: `journal-rdr-page-021`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+August 5th 1880.
+
+Sarah Ann wife of Daniel Roberts was
+rebaptized by Christian J Larson confirmed
+by Henry Ballard
+
+February 19th 1881
+
+Thomas J Roberts was rebaptized by Henry Ballard
+Confirmed by the same
+
+And on the 24 him and his intended wife
+Margaret Goodman Davies went to the house of
+the Lord in Salt Lake City and was united in
+the bonds of the everlasting covenant to be man
+and wife for time and all eternity by Daniel
+H Wells
+
+Margaret receiving her endowments at the time
+Mrs Davies was born in Rhosllanerchrugog Denbighshire
+Wales June 30th 1854.
+
+Baptized by Henry Hatfield in Liverpool
+Confirmed by Joseph R Smith August 1877
+
+Emigrated to Utah in the year 1878 and
+arrived in Salt Lake City and lived with Wm Williams
+[unclear: family] until sometime in April 1880 when
+her and her sister Polly who emigrated to Salt Lake
+City in the year 1879 came to Logan and rent a
+small place of Mrs W. H. Garry and start in the
+business of millinery where they are at present
+
+Her parents are Robert and Ann Davies
+They was baptized in Rhosllanerchrugog Wales
+in the year 1855 by Elder Berry
+
+April 1858 move from Rhosllaner to Manchester
+in the year 1860 move from Manchester to Liverpool
+Emigrated from Liverpool to Utah October 18
+1879 arrived in Utah Logan November 10th 1879.
+
+two sons and two or three daughters are not as
+yet emigrated from England
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The wording and historical spelling have been preserved. One phrase following "Wm Williams" remains unclear and requires a second-reader review. Status: needs review.
+
+## PDF page 22
+
+Stable ID: `journal-rdr-page-022`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+March 22th 1881
+
+At six in the evening Jane Hughes our sister
+gave birth to a little girl weight 4 lbs mother and
+child are doing well She was born in Denbigh Ontario
+County [unclear: Nelle Stanley] and blessed May 5th
+by John Firkins her name Margaret Hughes
+
+Logan City, October 22th 1881.
+
+Sarah Ann Roberts wife of Daniel Roberts
+at fifteen minuts past three in the morning, (3.15 a.m.)
+gave birth to a nice little girl weight ten pounds
+and half, (lbs. 10½) She was blessed December 5th 1882
+by Christian J Larson, her name Ann Roberts.
+
+Logan City December 26th 1881
+
+Margreat Goodman wife of Thomas J Roberts.
+at fiftyfive minuts past seven in the morning
+gave birth to a nice little boy weighed nine pounds
+Blised by Thomas McNiel March 2nd 1882 his
+name David William Roberts.
+
+Logan City November 13th 1882
+
+In the Third Ward David Robert Roberts
+was Ordained by Robert Davidson to an office
+of a Deacon in the Aaronic Priesthood
+
+Logan City Feb 1st 1883
+
+Some time last week I received a letter
+from Denbigh Ontario County [unclear: Nelle Stanley] from
+Gomer Hughes stating that his wife Jane
+our sister gave birth to a nice son January
+17th 1883 at one twenty (1.20) in the morning
+blessed by David Rowan March 1st his name
+Robert Richard Hughes
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Historical spelling and the source's ordinal forms have been preserved. The locality phrase following "Ontario County" remains uncertain in both occurrences and requires a second-reader review. Status: needs review.
