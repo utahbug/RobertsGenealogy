@@ -29,6 +29,7 @@
     <nav class="top-nav" aria-label="Primary">
       <div class="wrapper nav-scroll" role="tablist" aria-label="Primary sections">
         <button class="nav-button is-active" data-section="story" aria-controls="story" role="tab">Story</button>
+        <button class="nav-button" data-section="family" aria-controls="family" role="tab">Family</button>
         <button class="nav-button" data-section="book" aria-controls="book" role="tab">Book</button>
         <button class="nav-button" data-section="journals" aria-controls="journals" role="tab">Journals</button>
         <button class="nav-button" data-section="sources" aria-controls="sources" role="tab">Sources</button>
@@ -44,6 +45,18 @@
         </header>
         <div id="story-status" class="status-note"></div>
         <div id="story-content" class="timeline"></div>
+      </section>
+
+      <section id="family" class="content-panel" data-panel="family" hidden role="tabpanel">
+        <header>
+          <h2>Family</h2>
+          <p>Interactive ancestry view built from structured person and relationship data.</p>
+        </header>
+        <div id="family-status" class="status-note"></div>
+        <div class="family-layout">
+          <div id="family-chart" class="family-chart" aria-live="polite"></div>
+          <div id="family-person-detail" class="person-detail" hidden></div>
+        </div>
       </section>
 
       <section id="book" class="content-panel" data-panel="book" hidden role="tabpanel">

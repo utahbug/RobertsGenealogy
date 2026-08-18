@@ -195,6 +195,106 @@ main {
   gap: 0.8rem;
 }
 
+.family-layout {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.family-chart {
+  overflow-x: auto;
+  padding-bottom: 0.35rem;
+}
+
+.family-chain {
+  display: grid;
+  gap: 0.8rem;
+  min-width: 320px;
+}
+
+.family-connector {
+  color: var(--accent-dark);
+  text-align: center;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.couple-node {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel);
+  padding: 0.7rem;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.generation-title {
+  color: var(--accent-dark);
+  font-family: var(--sans-stack);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.family-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.6rem;
+}
+
+.person-card {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 0.7rem;
+  text-align: left;
+  display: grid;
+  gap: 0.32rem;
+  min-height: 6.6rem;
+  color: var(--text);
+  cursor: pointer;
+  font: inherit;
+}
+
+.person-card:hover,
+.person-card:focus-visible {
+  border-color: var(--accent);
+}
+
+.person-card--active {
+  outline: 2px solid var(--accent-dark);
+  outline-offset: -2px;
+  border-color: var(--accent);
+}
+
+.person-card__name {
+  font-family: var(--serif-stack);
+  font-weight: 700;
+}
+
+.person-detail {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel);
+  padding: 0.7rem;
+}
+
+.person-detail-card {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.detail-close {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.45rem 0.75rem;
+  background: var(--accent-soft);
+  font: inherit;
+  justify-self: start;
+}
+
+.family-person-image {
+  margin: 0.2rem 0 0;
+}
 .timeline {
   grid-template-columns: 1fr;
 }
@@ -395,6 +495,11 @@ input[type="search"] {
   padding: .35rem .75rem;
 }
 
+.is-missing-data {
+  opacity: 0.75;
+  font-style: italic;
+}
+
 .skip-link {
   position: absolute;
   left: -999px;
@@ -468,5 +573,13 @@ input[type="search"] {
     width: 100%;
     text-align: center;
     padding: .5rem .7rem;
+  }
+
+  .family-pair {
+    grid-template-columns: 1fr;
+  }
+
+  .person-detail {
+    margin-top: 0.2rem;
   }
 }

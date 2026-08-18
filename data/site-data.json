@@ -9,6 +9,83 @@
       "id": "person-demo-002",
       "name": "SAMPLE: Mary Williams",
       "notes": "DEMO placeholder person record for architecture testing."
+    },
+    {
+      "id": "person-robert-price",
+      "name": "DEMO: Robert Price",
+      "generationLabel": "G5 (DEMO: Great-great-grandparent)",
+      "summary": "DEMO: placeholder person in the first generation anchor.",
+      "spouses": ["person-catherine-meyrick"],
+      "children": ["person-robert-roberts"]
+    },
+    {
+      "id": "person-catherine-meyrick",
+      "name": "DEMO: Catherine Meyrick",
+      "generationLabel": "G5 (DEMO spouse)",
+      "summary": "DEMO: spouse placeholder for Robert Price.",
+      "spouses": ["person-robert-price"],
+      "children": ["person-robert-roberts"]
+    },
+    {
+      "id": "person-robert-roberts",
+      "name": "DEMO: Robert Roberts",
+      "generationLabel": "G4 (DEMO: Great-grandparent)",
+      "summary": "DEMO: direct Roberts-line placeholder for the ancestry chain.",
+      "parents": ["person-robert-price", "person-catherine-meyrick"],
+      "spouses": ["person-elinor-williams"],
+      "children": ["person-david-roberts"]
+    },
+    {
+      "id": "person-elinor-williams",
+      "name": "DEMO: Elinor Williams",
+      "generationLabel": "G4 (DEMO spouse)",
+      "summary": "DEMO: spouse placeholder for Robert Roberts.",
+      "spouses": ["person-robert-roberts"],
+      "children": ["person-david-roberts"]
+    },
+    {
+      "id": "person-david-roberts",
+      "name": "DEMO: David Roberts",
+      "generationLabel": "G3 (DEMO: Grandparent)",
+      "summary": "DEMO placeholder for mid-line descent.",
+      "parents": ["person-robert-roberts", "person-elinor-williams"],
+      "spouses": ["person-catherine-thomas"],
+      "children": ["person-robert-david-roberts"]
+    },
+    {
+      "id": "person-catherine-thomas",
+      "name": "DEMO: Catherine Thomas",
+      "generationLabel": "G3 (DEMO spouse)",
+      "summary": "DEMO spouse placeholder for David Roberts.",
+      "spouses": ["person-david-roberts"],
+      "children": ["person-robert-david-roberts"]
+    },
+    {
+      "id": "person-robert-david-roberts",
+      "name": "DEMO: Robert David Roberts",
+      "generationLabel": "G2 (DEMO: Parent generation)",
+      "summary": "DEMO: focal Roberts descendant in the ancestry sample.",
+      "parents": ["person-david-roberts", "person-catherine-thomas"],
+      "spouses": ["person-eliza-neagle"],
+      "children": ["person-robert-roberts-iii"],
+      "bookPages": ["book-page-002"],
+      "notes": "DEMO: this sample person may later link to the main demo event."
+    },
+    {
+      "id": "person-eliza-neagle",
+      "name": "DEMO: Eliza Neagle",
+      "generationLabel": "G2 (DEMO spouse)",
+      "summary": "DEMO spouse placeholder for Robert David Roberts.",
+      "spouses": ["person-robert-david-roberts"],
+      "children": ["person-robert-roberts-iii"]
+    },
+    {
+      "id": "person-robert-roberts-iii",
+      "name": "DEMO: Robert Roberts III",
+      "generationLabel": "G1 (DEMO: Descendant)",
+      "summary": "DEMO child of the sample five-generation line.",
+      "parents": ["person-robert-david-roberts", "person-eliza-neagle"],
+      "bookPages": ["book-page-001"]
     }
   ],
   "places": [
@@ -163,5 +240,17 @@
       "editorialNotes": ["note-demo-corr-001"],
       "photos": ["photo-demo-001"]
     }
-  ]
+  ],
+  "genealogy": {
+    "title": "DEMO direct ancestry line",
+    "primaryLine": [
+      "person-robert-price",
+      "person-robert-roberts",
+      "person-david-roberts",
+      "person-robert-david-roberts",
+      "person-robert-roberts-iii"
+    ],
+    "focalPerson": "person-robert-roberts-iii",
+    "startGeneration": 5
+  }
 }

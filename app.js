@@ -7,6 +7,7 @@ const panels = [...document.querySelectorAll('.content-panel')];
 
 const status = {
   story: document.getElementById('story-status'),
+  family: document.getElementById('family-status'),
   book: document.getElementById('book-status'),
   journals: document.getElementById('journals-status'),
   sources: document.getElementById('sources-status'),
@@ -231,6 +232,162 @@ function renderSource(source) {
   return card;
 }
 
+function renderPersonDetail(person, data) {
+  const detail = document.getElementById('family-person-detail');
+  detail.hidden = false;
+  detail.innerHTML = '';
+
+  const panel = el('article', { className: 'person-detail-card' });
+  panel.appendChild(el('h3', { className: 'card-title', text: `${person.name} (DEMO)` }));
+  panel.appendChild(el('p', { className: 'meta', text: `ID: ${person.id}` }));
+
+  if (person.generationLabel) {
+    panel.appendChild(el('p', { className: 'meta', text: person.generationLabel }));
+  }
+
+  if (person.summary) {
+    panel.appendChild(el('p', { text: person.summary }));
+  } else {
+    panel.appendChild(el('p', { text: 'DEMO summary not yet added.' }));
+  }
+
+  if (person.birthDate || person.deathDate || person.birthPlace || person.deathPlace) {
+    const lines = [
+      person.birthDate ? `Born: ${person.birthDate}` : null,
+      person.deathDate ? `Died: ${person.deathDate}` : null,
+      person.birthPlace ? `Birth place: ${person.birthPlace}` : null,
+      person.deathPlace ? `Death place: ${person.deathPlace}` : null,
+    ].filter(Boolean);
+    panel.appendChild(el('p', { className: 'meta', text: lines.join(' • ') }));
+  }
+
+  if (person.image) {
+    panel.appendChild(el('div', { className: 'image-frame family-person-image' }, [makeZoomImage(person.image, `${person.name} image`)]));
+  }
+
+  const spouseNames = (person.spouses || [])
+    .map((id) => findById(data.people, id))
+    .filter(Boolean)
+    .map((personRecord) => personRecord.name);
+  if (spouseNames.length) {
+    panel.appendChild(buildTagRow(spouseNames, 'Spouses', (name) => name));
+  }
+
+  const parentNames = (person.parents || [])
+    .map((id) => findById(data.people, id))
+    .filter(Boolean)
+    .map((personRecord) => personRecord.name);
+  if (parentNames.length) {
+    panel.appendChild(buildTagRow(parentNames, 'Parents', (name) => name));
+  }
+
+  const childNames = (person.children || [])
+    .map((id) => findById(data.people, id))
+    .filter(Boolean)
+    .map((personRecord) => personRecord.name);
+  if (childNames.length) {
+    panel.appendChild(buildTagRow(childNames, 'Children', (name) => name));
+  }
+
+  panel.appendChild(buildLinks(person.bookPages || [], 'book', 'Book pages', data.bookPages, (item) => `Book ${item.pageNumber}`));
+  panel.appendChild(buildLinks(person.journalPages || [], 'journal', 'Journal pages', data.journalPages, (item) => `${item.journalTitle} p.${item.pageNumber}`));
+  panel.appendChild(buildLinks(person.sources || [], 'source', 'Sources', data.sources, (sourceRecord) => sourceRecord.title));
+  panel.appendChild(buildLinks(person.editorialNotes || [], 'note', 'Editorial notes', data.editorialNotes, (note) => note.title));
+
+  if (person.notes) {
+    panel.appendChild(el('p', { text: person.notes }));
+  }
+
+  panel.appendChild(
+    el('button', {
+      type: 'button',
+      className: 'detail-close',
+      text: 'Hide details',
+      onClick: () => {
+        detail.hidden = true;
+        document.querySelectorAll('[data-person-id]').forEach((btn) => btn.classList.remove('person-card--active'));
+      },
+    })
+  );
+
+  detail.appendChild(panel);
+}
+
+function renderFamilyCard(person, data) {
+  const card = el('button', {
+    type: 'button',
+    className: 'person-card',
+    'data-person-id': person.id,
+    onClick: () => {
+      document.querySelectorAll('[data-person-id]').forEach((btn) => btn.classList.remove('person-card--active'));
+      card.classList.add('person-card--active');
+      renderPersonDetail(person, data);
+    },
+    onKeyDown: (event) => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        card.click();
+      }
+    },
+  });
+  card.setAttribute('aria-label', `Open details for ${person.name}`);
+  card.appendChild(el('div', { className: 'person-card__name', text: person.name }));
+  card.appendChild(el('div', { className: 'meta', text: person.summary || 'DEMO summary missing.' }));
+  return card;
+}
+
+function renderFamilyNode(person, spouse, data) {
+  const node = el('article', { className: 'couple-node' });
+  node.appendChild(el('div', { className: 'generation-title', text: person.generationLabel || 'DEMO Generation' }));
+  const pair = el('div', { className: 'family-pair' });
+  pair.appendChild(renderFamilyCard(person, data));
+  pair.appendChild(renderFamilyCard(spouse || {
+    id: `${person.id}-spouse-missing`,
+    name: 'DEMO spouse TBD',
+    summary: 'Source spouse is placeholder until added.',
+  }, data));
+  node.appendChild(pair);
+  return node;
+}
+
+function renderFamily(data) {
+  const chart = document.getElementById('family-chart');
+  const detail = document.getElementById('family-person-detail');
+  const lineage = data.genealogy?.primaryLine || [];
+  chart.innerHTML = '';
+  detail.innerHTML = '';
+  detail.hidden = true;
+
+  if (!lineage.length) {
+    status.family.textContent = 'No demo ancestry lineage has been configured in data/genealogy.';
+    return;
+  }
+
+  const peopleById = new Map((data.people || []).map((person) => [person.id, person]));
+  const chain = el('div', { className: 'family-chain' });
+
+  lineage.forEach((personId, index) => {
+    const person = peopleById.get(personId);
+    if (!person) return;
+    const spouseId = (person.spouses || [])[0];
+    const spouse = spouseId ? peopleById.get(spouseId) : null;
+    chain.appendChild(renderFamilyNode(person, spouse, data));
+    if (index < lineage.length - 1) {
+      chain.appendChild(el('div', { className: 'family-connector', 'aria-hidden': 'true', text: '↓' }));
+    }
+  });
+
+  chart.appendChild(chain);
+  status.family.textContent = `Family ancestry chain loaded. ${lineage.length} generation nodes.`;
+
+  const finalPerson = peopleById.get(lineage[lineage.length - 1]);
+  if (finalPerson) {
+    renderPersonDetail(finalPerson, data);
+    const button = chart.querySelector(`[data-person-id="${finalPerson.id}"]`);
+    if (button) button.classList.add('person-card--active');
+  }
+}
+
 function renderPhotos() {
   const photos = appState.data.photos || [];
   if (!photos.length) return;
@@ -349,12 +506,19 @@ function openBySearchType(type, id) {
     'Journal': 'journals',
     'Journal page': 'journals',
     'Source record': 'sources',
-    'Person': 'search',
+    'Person': 'family',
     'Place': 'search',
     'Editorial note': 'search',
     'Photograph': 'sources',
   };
   focusPanel(map[type] || 'search');
+  if (type === 'Person') {
+    const person = findById(appState.data.people, id);
+    if (person) {
+      renderPersonDetail(person, appState.data);
+    }
+    return;
+  }
   document.getElementById('search-input').value = id;
   performSearch(id);
 }
@@ -398,11 +562,13 @@ function render(data) {
   const sourceContainer = document.getElementById('sources-content');
   data.sources?.forEach((source) => sourceContainer.appendChild(renderSource(source)));
   renderPhotos();
+  renderFamily(data);
 
   status.story.textContent = `${data.events?.length || 0} sample event loaded.`;
   status.book.textContent = `${data.bookPages?.length || 0} sample book pages loaded.`;
   status.journals.textContent = `${data.journals?.length || 0} journal(s) loaded with ${data.journalPages?.length || 0} pages.`;
   status.sources.textContent = `${data.sources?.length || 0} evidence records loaded.`;
+  status.family.textContent = status.family.textContent || 'Family lineage loaded from data.';
   status.search.textContent = 'Type a word to search all entities and source-linked pages.';
 }
 
@@ -419,6 +585,7 @@ async function init() {
     status.book.textContent = msg;
     status.journals.textContent = msg;
     status.sources.textContent = msg;
+    status.family.textContent = msg;
     status.search.textContent = msg;
   }
 }
