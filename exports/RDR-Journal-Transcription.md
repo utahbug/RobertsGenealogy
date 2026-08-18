@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 34 / 119
+Pages with transcription text: 36 / 119
 
-Untranscribed PDF pages: 35-119
+Untranscribed PDF pages: 37-119
 
 ## PDF page 1
 
@@ -1798,3 +1798,104 @@ Joseph M Smith confirmed by J. H. Anderson
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several officiator surnames, a burial date, and part of the injury description remain uncertain. The page contains an explicit "R. D. Roberts" signature. The preserved source image was not altered. Status: needs review.
+
+## PDF page 35
+
+Stable ID: `journal-rdr-page-035`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City January 16th 1887
+
+I shall give a little incident of my uncle
+David Roberts and his family my father's
+brother, grandfather's descent for he having an
+adopted and one son older than him and one son
+younger one each and born [illegible]
+
+Church History. Miriam M. [unclear: Flint] was Baptized
+April 11th 1849 started from Wales to America Utah
+October 9th 1856 did sail from Liverpool every arrived
+at New Orleans Louisiana November 23rd [unclear: for] from
+they went up the Mississippi river to St Louis Mo 22
+and remain at that time in these parts midland
+weeks little boy of about three years old took sick
+and died my wife took sick and died when a few
+hours after him my uncle now married November 25th
+at a place as I understand called [unclear: Muskingum] boots up
+State of Kentucky his wife my aunt was left home
+with her little girl and a little boy baby of whom
+six months old on a strange country amongst strangers
+in only a few that she got acquainted with on the
+way she could hardly speak a word of the English
+language she was brought to a very trying circum-
+stance but her husband her very moment got sick
+as the father of the sailor and the fatherless was felt
+to raise friends to her in the trying circumstance they
+reached St Louis on or about December 11th 1858
+remained here about four months and had to
+sail St Louis Riverworth in May 1857 went started
+for Winter quarters arrived there at June she remain-
+ed here about thirteen months. in June 1858 was
+left for Salt Lake City with ten hands was the first
+and had a long tedious lonesome journey of three
+months when she arrived in Salt Lake City September
+29th remained here until July 8th 1858 she was married
+at to David [unclear: M. Owens] aged [unclear: Emory], arrived two
+before came to Utah spent the most of her time as
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. Several family-history phrases, a surname, a place name, and parts of the migration chronology remain uncertain. The passage continues directly onto PDF page 36. The preserved source image was not altered. Status: needs review.
+
+## PDF page 36
+
+Stable ID: `journal-rdr-page-036`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+a Capt of a ship on the Ocean he was a very good man. on
+the 12th they started for Brigham City she called
+County January 8th 1860 where she reside at present
+a step some time in the night without no [unclear: ceremony]
+very likely of heart disease she was left now with
+the nine children one woman had had a good home
+and a farm well stocked on the latter part of
+April 1870 she started for Malad City Malad Utah
+Indian County. After starting arrived there May 9th
+where she is at present in good circumstances
+all of the children have grown and married. I
+believe that she has buried two of Capt Owen's
+children some of the family has scattered other
+have remained and gone to their parts in Utah.
+Part of October 1885 my aunt [unclear: Elen] my cousin
+[unclear: Jared] his wife came to Logan there with his
+father and some of my cousins relatives he was
+only seven months old when my uncle David died
+October 28th. They came to see us and traveled some
+of his property he as I stood by to pen down
+I sat here he died with his mother [unclear: united]. his
+mother aged 67 when he was married by Daniel
+H. Wells in Salt Lake City to Mary [unclear: Malvin]
+eldest daughter to Martin Luther Ensign and
+Merry Ensign his wife was born November 16th 1853
+in Davis County Utah her parents were [unclear: anxious]
+by both were early English descent. May 26th 1871
+he was married in Salt Lake City by Daniel H.
+Wells to his second wife Elizabeth. John [unclear: Probst]
+daughter of [unclear: Jacob M. Probst] and Ellen [unclear: Probst] his
+wife
+
+Her father of English descent the mother of her ancestors
+of Welsh ancestors. he resided in Malad City until
+May 8th 1884 when he started for Bear River [unclear: Dominion]
+County Idaho Territory arrived there on the 28th of the
+same month as he is the first of grandfather's
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. The page continues the migration and family-history passage from PDF page 35. Several names, relationship phrases, locations, and dates remain uncertain, and the final sentence continues onto the next page. The preserved source image was not altered. Status: needs review.
