@@ -79,24 +79,22 @@ h4 {
 h1 {
   font-family: var(--serif-stack);
   letter-spacing: 0.01em;
-  color: #f7f8fa;
+  color: #FFFFFF;
   font-size: 1.9rem;
 }
 
 .app-header {
-  background: var(--accent-dark);
-  border-bottom: 1px solid color-mix(in srgb, var(--correction) 35%, var(--line));
-  position: relative;
+  background: #293A43;
+  color: #FFFFFF;
+  border-bottom: 4px solid #8A3E43;
 }
 
-.app-header::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -1px;
-  height: 1px;
-  background: #7a3e43;
+.app-header h1 {
+  color: #FFFFFF;
+}
+
+.app-header p {
+  color: #D8E0E3;
 }
 
 .demo-badge {
