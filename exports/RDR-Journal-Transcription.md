@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 30 / 119
+Pages with transcription text: 32 / 119
 
-Untranscribed PDF pages: 31-119
+Untranscribed PDF pages: 33-119
 
 ## PDF page 1
 
@@ -1493,7 +1493,7 @@ The following names were Sealed and married
 under the new and everlasting Covenant and unto
 all the blessings of the Gospel of Jesus Christ to
 be men and wife for ever by the authority of
-the Holy Priesthood by [unclear: A C Tellefsen]
+the Holy Priesthood by A. C. Tellefsen
 
 James Parry and Catherine Richards
 to David Robert Roberts
@@ -1525,7 +1525,7 @@ David Roberts and Margret Goodman Davies Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several proxy names and the officiator's surname remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. The officiator's name was resolved as A. C. Tellefsen from the clearer repeated form on page 32; several proxy names remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
 
 ## PDF page 30
 
@@ -1571,3 +1571,132 @@ and died there
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Historical spelling and manuscript order are preserved. The preserved source image was not altered. Status: needs review.
+
+## PDF page 31
+
+Stable ID: `journal-rdr-page-031`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City January 27th 1885
+
+These names below were officiated for in
+Logan Temple All [unclear: himself] Baptizing Robert
+David Roberts Their proxy confirmed by Charles
+C Olsen.
+
+William Hughes was married to mothers cousin
+
+Griffith Jones
+
+William Jones mothers cousin
+
+Robert Williams grandmothers cousin
+
+Richard Thomas mothers brother
+
+Morris Isaac [unclear: her cousin]
+
+Robert Roberts
+
+Edward Roberts fathers brothers
+
+Henry Jones grandmothers cousin
+
+William Jones [unclear: his son]
+
+John Williams grandfathers cousin
+
+David Jones
+
+Henry Jones [unclear: son to]
+
+Thomas Jones grandfather's cousin
+
+Gwen Williams my friend
+
+Edward Griffith father's grandfather
+
+Robert Parry grandfather's brother inlaw
+
+William Humphry
+
+Evan Humphry my cousin
+
+Owenes Humphry
+
+January 31st 1885 Thomas A Smith Baptised
+and Charles C Olsen confirmed Catherine Thomas
+Roberts in behalf of
+
+Margaret Jones her cousin
+
+Catherine Williams wife to her mother's cousin
+
+Margaret Owens her sister inlaw
+
+Catherine Jones wife to her mother's cousin
+
+Gwen Williams wife to her father's cousin
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several relationship notes remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+
+## PDF page 32
+
+Stable ID: `journal-rdr-page-032`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+February 2nd 1885 Ann Roberts Hopkins
+was Baptised on behalf of by [unclear: Robert Brian]
+confirmed by A. C. Tellefsen
+
+Jane Roberts her father's sister
+
+Linet Jones cousin to her parents
+
+Laura Parry cousin to her mother
+
+Margaret Jones wife to her grandfather
+
+Margaret [unclear: ...] cousin
+
+March 2nd 1885 Ann Roberts Hopkins was Baptised
+by H C [unclear: Smart] confirmed by Thomas A Smith
+on behalf of
+
+Elinor Griffith her father's sister in law
+
+[unclear: Ann Richards]
+
+Margaret Richards her mother's cousin
+
+June 13th 1899 Ann Roberts Hopkins
+was Baptised by female [unclear: Spellsman] in Logan
+Temple confirmed by James Quayle & Lawrence
+Peterson in behalf of
+
+Gwen Williams Roberts Aunt inlaw
+
+Margret Roberts Aunt inlaw
+
+March 2nd 1909 Benjamin Coleman was Baptized
+for in behalf of William Roberts cousin of R. D. Roberts
+son of Robert Roberts, Joseph M. Smith in Logan Temple
+confirmed by Thomas Morgan witnessed [unclear: H. Heber Coleman]
+& J. [unclear: R. Richards]
+
+March 3rd R. D. Roberts received Endowments
+for and in behalf of William Roberts cousin
+William Roberts was born in [unclear: Harlech] North
+Wales Meirionethshire died [unclear: Brithdir] Meirionethshire
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several names, the female officiator notation, and the final birth/death places remain uncertain. The preserved source image was not altered. Status: needs review.
