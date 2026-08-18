@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 59 / 119
+Pages with transcription text: 61 / 119
 
-Untranscribed PDF pages: 60-119
+Untranscribed PDF pages: 62-119
 
 ## PDF page 1
 
@@ -3075,3 +3075,103 @@ Recorded in Book K
 ### Editorial annotations
 
 First-pass visual transcription completed. One sentence near "Thou shall have thy" appears incomplete or omitted in the manuscript and is preserved without conjectural repair. The blessing ends on this page.
+
+## PDF page 60
+
+Stable ID: `journal-rdr-page-060`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+July 7th 1897 we went to Logan Temple and was
+sealed to our parents by M. W. Merrill unknown M. B.
+[unclear: Hawerouts] & Wm H. [unclear: Bud] from [unclear: Monmouthshire] Wales
+
+Robert David Roberts       21st Sep. 1839 [unclear: Hampstead]
+Thomas Daniel Roberts      16th July 1840
+Daniel Roberts             8th Sep. 1842
+John Robert Hopkins        19th Dec. 1844
+Elizabeth Roberts Hughes   13th Mar. 1846 Festiniog
+Jane Roberts Hughes        11th June 1858
+
+Parents
+
+David Roberts Roberts      8th Apr. 1814 [unclear: Mynamor]
+Catherine Thomas Roberts   25th June 1809 [unclear: Harlech]
+
+Proxy
+
+Ann Hughes [unclear: Cowley]  8th Feb. 1891 [unclear: Jamaica Lake]
+David Robert Roberts         30th May 1891 Logan Utah
+
+Samuel Roskelley Recorder
+
+March 4th 1899 Bishop Robert Davidson
+received a recommend to President Orson Smith in the
+Priesthood meeting in favor of Hugh Roberts
+to be ordained an Elder as he was called to prepare
+for a mission to the Southern States him with several
+others was put before the meeting for the approval
+of the Priesthood which gave their unanimous sanc-
+tion on the fifth his name was placed before the
+Ward meeting by Bishop Robert Davidson which
+went over in his favor on the sixth his recom-
+mend to the 12th quorum of Seventies met in
+the Third Ward meeting house at 2.30 ordained an
+Elder under the hands of President William [unclear: Morley]
+assisted by his councilors Lars [unclear: Jacobson] and
+J. [unclear: Hagans B. Holman]. William [unclear: Morley] was ordained
+
+### Editorial annotations
+
+First-pass visual transcription completed. The family sealing list contains several faint or uncertain names, places, and dates. The Hugh Roberts mission/ordination record continues onto PDF page 61.
+
+## PDF page 61
+
+Stable ID: `journal-rdr-page-061`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+an Elder by Bishop Henry Ballard Henry Ballard
+was ordained an High Priest by John Taylor John
+Taylor was ordained an Apostle under the hands of
+Joseph Smith Brigham Young Heber C. Kimball &c
+he went to the Temple and received his endowments
+the morning of 9th The Ward gave a sociable for his
+benefit which resulted in gathering for him $50.15
+April the 11th he bid us farewell and boarded the
+train for Salt Lake City 12th he received his Blessing
+and was set apart for his mission to the Southern
+States on the evening of the 13th in company with 19
+others he boarded the train at Salt Lake City for
+Chattanooga arrived at Chattanooga on the morning
+of the 19th on the 19th he was appointed to labor in
+West Kentucky conference arrived on the 20th at his
+field of labor and received his appointment to
+labor with Elder Frank Bradley President Bradley
+son from Bear Lake Stake in London Laurel
+County Kentucky Bro. C. [unclear: Rich] President of the
+Southern Mission R. L. [unclear: Meardonhall] President of
+East Kentucky branch
+
+A Missionary blessing
+
+Pronounced upon the head of Elder Hugh Roberts
+in the Salt Lake Temple Annex, April 12, 1899, by
+Apostle Matthias Cowley:
+
+Brother Hugh Roberts, in ordaining you a
+Seventy in the Church of Jesus Christ of Latter-
+day Saints, and in setting you apart as a missionary
+to labor in the Mississippi Priesthood, and
+to say unto you, seek to understand the duties
+of this calling and the Spirit and power of God
+shall attend you in the exercise of this ministry.
+Be also set you apart to perform a mission
+
+### Editorial annotations
+
+First-pass visual transcription completed. Several leader names and the conference/mission wording remain uncertain. A missionary blessing begins near the bottom and continues onto PDF page 62.
