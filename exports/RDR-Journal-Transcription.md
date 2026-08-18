@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 46 / 119
+Pages with transcription text: 48 / 119
 
-Untranscribed PDF pages: 47-119
+Untranscribed PDF pages: 49-119
 
 ## PDF page 1
 
@@ -2416,3 +2416,104 @@ celestial law of marriage
 ### Editorial annotations
 
 First-pass visual transcription completed. Historical names, punctuation, and relationship wording are preserved as read.
+
+## PDF page 47
+
+Stable ID: `journal-rdr-page-047`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City November 17th 1893
+
+May 1st 1893 in the Stake Conference I in
+connection with several other was called to be a home
+missionary in this Stake for six months was set apart
+on the sixth by President Orson Smith assisted by
+his councillors I was able to fulfill every appointment
+but was released in Conference October 30th after accom-
+plishing my mission satisfactory to myself and I
+believe to those that called me Charles H. Baker
+was my companion
+
+Robert D Roberts
+
+A Blessing upon the Head of David Robert
+Roberts, by President George Reynolds, December 15th
+1893. Reported by John M. Whitaker.
+
+Brother David Robert Roberts, having author-
+ity given us of the Lord Jesus Christ, we lay our
+hands upon your head at this time and ordain
+you a Seventy in the Church of Jesus Christ
+of Latter Day Saints, and we confer upon you all
+the keys of authority and power pertaining to
+this high and holy calling in the Melchisedek
+Priesthood, and say be careful at all times to hon-
+or the Priesthood or this calling and magnify it and consider its
+authority to representatives that you are henceforth a mission-
+ary of eternal Truth with a special calling and
+and direct with special powers to proclaim His Word in
+your vigor. The trials of the nations of the European States
+labor. And to preach this gospel in the midst of the people
+we also set declaring therein, that you may be filled by the
+you apart to Lord as our power in your behalf, that in all
+go upon a you do that you will be in the name of the Lord,
+mission to and that your testimony shall be faithfully given
+the at all times, and we say you shall be blest of the Lord
+
+### Editorial annotations
+
+First-pass visual transcription completed. The blessing continues onto PDF page 48. The page contains an explicit signature, "Robert D Roberts," for the preceding mission entry only.
+
+## PDF page 48
+
+Stable ID: `journal-rdr-page-048`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+in your going forth to testify of his goodness and
+of the restoration of the truth to the earth again, and
+the testimony of the truth shall increase with you
+brighter and brighter until the perfect day. Faithfully dischar-
+ge your duty, trust in the Lord and he will not
+forsake you, and you shall see the result of your lab-
+ors, and shall have much joy, for the power of the
+Highest shall accompany you, and in the day of
+trial and temptation He will preserve you from evil. Though
+men may seek to fall upon you, upon the right
+hand and upon the left, or sickness seek to take
+hold of you, you shall be preserved and not a hair of
+your head shall fall to the ground unheeded, but you shall
+be preserved from the powers of the evil one in your
+labors and journeyings and through trials and dangers
+shall be warned and after filling a faithful mission
+shall return bringing your sheaves with you as a result
+of your labors; for we seal these with all your former
+blessings upon your head together with all your hea-
+rt can desire in righteousness before the Lord for
+this mission, and may go in peace and return in
+safety and may the Lord prosper you upon this
+journey and may all things prosper under your
+hands as we set you apart in the name of
+the Lord Jesus Christ, amen.
+
+December 15th 1893
+
+David Robert Roberts was ordained to the Office
+of a Seventy by George Reynolds assisted by B. H.
+Roberts and J. M. Smith in Salt Lake City as he was
+going on his mission
+
+December 18th 1893
+
+Hugh Roberts was ordained to the Office of a
+Priest by Richard Yeates assisted by Bishop Robert Dav-
+idson and Loric C. Larsen.
+
+### Editorial annotations
+
+First-pass visual transcription completed. The page completes the blessing begun on PDF page 47 and records two ordinations.
