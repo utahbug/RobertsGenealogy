@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 40 / 119
+Pages with transcription text: 42 / 119
 
-Untranscribed PDF pages: 41-119
+Untranscribed PDF pages: 43-119
 
 ## PDF page 1
 
@@ -2091,3 +2091,125 @@ unty Utah Territory Logan City March 30th 1861
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page completes Hannah Roberts's patriarchal blessing, gives its recording reference, and begins a blessing for Thomas Robert Roberts that continues on the next PDF page. Several faint words remain uncertain. The preserved source image was not altered. Status: needs review.
+
+## PDF page 41
+
+Stable ID: `journal-rdr-page-041`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+head and I seal upon you a patriarchal blessing
+as the spirit of the Lord shall direct. Thou art of the
+house of Israel and a literal descendant of
+Ephraim and a right to the fulness of the Priesthood
+which shall be handed down to you from generation
+to generation if you will magnify your calling and
+cultivate the spirit which is within you and do
+right there shall be no power on earth nor in
+hell that can destroy you nor harm you your
+name shall stand with your generation
+through all time to come your name shall be
+handed down from father to son and from
+generation to generation and your posterity shall
+become numerous upon the earth even like the
+stars of heaven and shall increase from generation
+to generation until it shall become a great
+nation in the earth you shall have power to lay
+hands upon the sick and they shall recover
+and shall have power to command in the name of
+Jesus Christ and it shall be done by you
+your mind shall expand your faculties enlarge
+you shall become a great [unclear: man] in the Priesthood
+your children shall stand around you and call
+you blessed. This blessing I seal upon your head
+and seal you up unto eternal life in the name
+of Jesus Christ Amen
+
+This Patriarchal Blessing of David
+Robert Roberts
+Recorded in Book VI Page 252.
+
+Logan City July 31st 1887
+
+A Blessing given by C. H. Hyde upon the
+head of Hugh Roberts son of Robert and Hannah
+Roberts born Utah Territory Cache County Logan City
+May 22nd 1866.
+
+Hugh in the name of the Father I
+place my hands upon you to seal upon you a
+patriarchal blessing for your good inasmuch
+as you have desired it. Thou art of the house of
+Israel of the lineage of Ephraim and a lawful
+heir to all the blessings which belong to that
+lineage. Therefore I say unto you be humble
+and faithful unto the Lord and you shall be
+redeemed and the earth forever dwell upon with
+
+### Editorial annotations
+
+This PDF page awaits line-by-line visual transcription.
+
+## PDF page 42
+
+Stable ID: `journal-rdr-page-042`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+redeemed and the earth forever dwell upon with
+a perfect body both flesh and bones. Your
+labouring days shall be long and shall [unclear: commence]
+with the Priesthood upon you and those blessings
+promised with the Priesthood [unclear: shall be granted]
+unto you. You shall have power with God and
+shall call upon his name when ever in
+need with your petitions and shall be heard
+for the blessing and the Lord will be with you
+and shall be preserved in other countries. Great blessings
+of land upon your return with honored [unclear: loved] with the
+[unclear: honest]. Thousands shall be brought into the Kingdom
+of God through your instrumentality and shall
+travel from the [unclear: rivers] to the ends of the earth
+and shall preach the Gospel where ever you
+shall be called and shall bless and not curse
+until earth's utmost bounds shall be redeemed
+with [unclear: rich] reward received where faithful.
+You shall be [unclear: enabled] in other nations. Great shall
+be your labors and no man shall take
+your crown from you. You shall have peace
+and comfort in your home when you shall
+have one and shall be blessed with a posterity
+which shall become numerous upon the earth
+from generation to generation. Your name shall
+be handed down from father to son and you shall
+have means to spare to assist your fellow man.
+Your posterity shall multiply upon the earth
+and call you blessed. These blessings I seal
+upon your head and seal you up unto Eternal
+Life in the name of Jesus Christ Amen
+
+This Patriarchal Blessing of
+Hugh Roberts is Recorded in Book VI
+Page 247-48.
+
+Logan City January 5th 1888
+
+William John Hopkins was Baptized
+by Charles Lundberg confirmed by
+Charles Goodell
+
+October 30th 1893
+
+David Robert Roberts was ordained to the
+office of an Elder by Bishop Robert Davidson
+in the Bishops ward in the 3rd ward of Logan
+City assisted by Henry William Ballard Bishop
+of Benson ward
+
+### Editorial annotations
+
+This PDF page awaits line-by-line visual transcription.
