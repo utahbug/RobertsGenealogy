@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 50 / 119
+Pages with transcription text: 55 / 119
 
-Untranscribed PDF pages: 51-119
+Untranscribed PDF pages: 56-119
 
 ## PDF page 1
 
@@ -2625,3 +2625,248 @@ of the dreadful disease diphtheria he had come down from Kamas Montana to attend
 ### Editorial annotations
 
 First-pass visual transcription completed. This page contains faint and difficult mission-remembrance wording and apparent date inconsistencies; the death entry continues onto PDF page 51.
+
+## PDF page 51
+
+Stable ID: `journal-rdr-page-051`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+of her which was a pupil in the preparatory department
+of the Brigham Young College He was of a noble
+spirit kind and affectionate to all and loved by his
+parents and all his acquaintances was born May 26th 1879
+buried January 13th in Logan Cemetery a short sensible
+sermon held at the grave that Elder [unclear: John] who had prayer
+over by Benjamin M. Lewis Apostle Moses Thatcher
+dedicated the ground was dedicated by Newell W. Kimball
+
+Logan City July 21st 1895
+
+On the 6th of February 1895 I had the
+honor of leading to the altar before Marrion M. Merrill
+in the Logan Temple Miss Eliza Ridale we was
+sealed and married over the holy altar for time
+and all eternity she be husband and wife she was
+born in Ferndale Rhondda County Glamorgan September 18th
+1858 Baptized January 5th 1890 by Elder Edward
+Berkins confirmed by Elder Alma Hale her
+parents are John Hagley and Agnes Martin
+her father was born in Ballymechrett Belfast
+Down County Ireland her mother was born in Kil-
+more Down County Ireland were both baptized
+April 13th 1890 by Elder Berkins confirmed by Elder
+Hale and James Borough the family of four
+parents and two daughters emigrated to Utah
+started from Ireland September 24th 1890 arrived in
+Franklin Idaho September 28th 1890 stayed here until
+August 1891 then moved to Richmond stayed there
+until April 1892 when they moved to Logan where
+they are at present both parents and daughter
+were rebaptized at Franklin by Elder E. Berkins
+on May 9th 1891 parents went to the Logan Temple
+October 1892 to receive their blessings they have
+one son William left in Ireland who has not yet
+receive the gospel from the other daughter is married
+to Robert Fraser and lives in Salt Lake County Utah
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page continues the William John Hopkins death entry from PDF page 50. One name in the burial passage and several Irish names and places remain uncertain.
+
+## PDF page 52
+
+Stable ID: `journal-rdr-page-052`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+October 8th 1895
+
+At six minutes past one afternoon (1-6 P.M.)
+my wife Eliza gave birth to a little girl she is
+only eight month a baby very small but looks
+healthy did not weigh but I was in mind at
+the time our having a name for David Hughes
+She was blessed December 8th by Bishop Robert
+Davidson her name Agnes Alister Roberts she
+is growing very nice she weigh six lbs when a
+month old born at Logan city
+
+July 19th 1895
+
+David Hughes son to [unclear: new sister Jane]
+and Agnes Hughes from Llanaris Cardigan
+County Wales was married in the Logan
+Temple by M. W. Merrill to Miss Eliza Ann
+Thomas of the same place first born of Charles
+Thomas and Eliza Mathews his wife
+
+Logan City December 12th
+1895
+
+David D. Roberts arrived home after an
+absence of two years lacking two days, on a mission
+to the Northern States in good health and spirits
+His labors were confined to the States of Indiana
+and Illinois Baptized seven persons his compan-
+ions baptized ten others Blessed several
+children ordained under the direction several
+to the Priesthood administered to several
+afflicted the power of God was made manifest
+Distributed many tracts and done a surprising
+many friends and enjoyed his labors very
+much came home with a good account of faithful
+labors from Elder Joshua W. Clark President of
+the Northern States mission he was clerk of the
+
+### Editorial annotations
+
+First-pass visual transcription completed. The opening birth entry contains awkward or overwritten wording, and one relationship/place phrase in the David Hughes entry remains uncertain. The mission entry continues onto PDF page 53.
+
+## PDF page 53
+
+Stable ID: `journal-rdr-page-053`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Indiana Conference and traveled in several fields
+
+July 8th 1896
+
+Received from David Hughes of Indiana by
+Jonas Hughes for the glad news that on
+July 3rd 1896 his wife Eliza A. Hughes gave
+birth to a nice little daughter her name
+Eliza Hughes was blessed by Thomas Thorpe August 6th
+1896 died December 14th 1896
+
+December 15th 1896 William Thomas Hopkins was
+Baptized in the Logan Temple for
+Rev Hopkins his father
+Evan Hopkins brother
+William Hopkins Grandfather
+William Thomas Grandfather
+He received endowments for the above names on the
+following order
+16th John Hopkins confirmed by
+17 William Hopkins
+18 William Thomas
+23 Rev Hopkins             James J. Lorman
+24 William John Hopkins    Sanford Porter
+
+December 23rd 1896 Mrs Hopkins and Sarah Thomas
+Hopkins were sealed and married in the Logan
+Temple by M. W. Merrill William T. Hopkins &
+Ann Roberts Hopkins their proxy they are
+William T Hopkins parents
+
+### Editorial annotations
+
+First-pass visual transcription completed. The page includes a small ink blot and compact proxy-ordinance notation; names and order are preserved as visually read.
+
+## PDF page 54
+
+Stable ID: `journal-rdr-page-054`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+November 10th 1896
+
+Little girl was born to David R. Roberts and
+Tryphena Davies Roberts at 5.20 in the morning
+Blessed January 3rd 1897 by her father David Roberts
+Roberts her name Tryphena Bronwen Roberts
+born at Logan city
+
+April 16th 1897
+
+My wife Eliza at two thirty (2 1/2) in the
+morning gave birth to a bouncing boy weigh
+9 1/2 lbs he seems to be a strong boy and well
+be a strong man he was blessed by the Bishop
+and his name Robert [unclear: G.] Roberts
+his blessing his name Thomas Roberts
+born at Logan city
+
+August 9th 1898
+
+Tryphena Roberts wife of David R Roberts
+gave birth to a very nice little boy same to be
+strong and healthy weight 8 lbs was blessed
+September 4th 1898 by his father David R Roberts
+his name David Llewelyn Roberts born ten minutes
+past five in the morning 5.10 A.M. born at Logan
+City
+
+July 6th 1900
+
+Tryphena wife of David Robert Roberts
+gave birth to a baby boy same to be strong
+weight healthy about 11 in the morning
+weight 6 1/2 lbs blessed September 30th by his
+grandfather Robert D. Roberts assisted by counse-
+lor William Wilkinson James Larson Joseph [unclear: Welling]
+high Priest his name Robert Meredith Roberts
+born at Logan city
+
+### Editorial annotations
+
+First-pass visual transcription completed. The April 1897 child's name appears overwritten or internally inconsistent, and two officiator names in the July 1900 entry remain uncertain.
+
+## PDF page 55
+
+Stable ID: `journal-rdr-page-055`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City Cache County Utah July 28th 1884
+
+A blessing given by William J Smith Patriarch upon
+the head of Tryphena Davies daughter of David D Davies and
+Cady Davies born April 25th 1874 in Delano Schuylkill County
+Pennsylvania Recorded in Book C page 544
+
+Dear sister Tryphena I place my hand upon thy head
+in the name of Jesus of Nazareth and by the authority of
+the holy Priesthood I pronounce and seal a patriarchal
+and a fathers blessing upon thy head and I bless you
+with the blessings of the Daughters of Abraham Isaac and
+Jacob with all pertaining to the new and Everlasting
+Covenant and thy posterity shall be numerous because of
+the Lord and mighty in the priesthood and they
+shall have peace in thy habitation and be a partaker
+of all the Blessing of thy Husband for the Lord will
+give unto thee a suitable companion and thou shall
+have a storehouse filled with plenty and the blessings
+of the fruit and the Vine thou shall assist in the
+redemption of thy honorable Dead have the minis-
+tering of Angels have Dreams and visions and the
+holy comforter to be thy constant companion I
+seal thee up against the power of Darkness and
+the Destroyer that Satan and pestilence may have
+no power over thee for thou art of the seed of Israel
+of the Blood of Joseph of the Lineage of Ephraim
+a lawful heir in Our Lady I seal these blessings
+and I seal thee up to Eternal life to a holy Resur-
+rection in name of Jesus Christ Amen
+
+William J Smith
+
+Tryphena Bronwen Roberts daughter of David
+R. and Tryphena Davies Roberts was baptized in the
+Logan Temple December 15th 1921 by William J Raymond
+confirmed by Joseph C. Bentley
+
+### Editorial annotations
+
+First-pass visual transcription completed. The patriarchal blessing is preserved with its original grammar and unusual wording; the phrase transcribed as "a lawful heir in Our Lady" is especially uncertain in context.
