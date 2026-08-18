@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 32 / 119
+Pages with transcription text: 34 / 119
 
-Untranscribed PDF pages: 33-119
+Untranscribed PDF pages: 35-119
 
 ## PDF page 1
 
@@ -1700,3 +1700,101 @@ Wales Meirionethshire died [unclear: Brithdir] Meirionethshire
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several names, the female officiator notation, and the final birth/death places remain uncertain. The preserved source image was not altered. Status: needs review.
+
+## PDF page 33
+
+Stable ID: `journal-rdr-page-033`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City April 9th 1888
+
+I received a letter from Gomer Hughes
+from Samaria Malad Valley Oneida County
+Idaho informing us that his wife Jane our
+sister gave birth to a nice little girl
+weight ten pounds (10 lbs.) March 31st 1888
+at fifteen minutes past twelve in the morning
+blessed May 3rd 1888 by Jonah Evans (the
+Bishop) her name Catherine Roberts Hughes
+
+April 2nd 1891
+
+Robert Richard Hughes was Bap-
+tised by William Roding Confirmed by
+Jonah Evans the Bishop in Samaria
+Malad Valley Oneida County Idaho
+
+Logan City January 5th 1895
+
+William John Hopkins was Baptised
+by Charles [unclear: Learnberg] confirmed by John
+[unclear: Thally]
+
+May 15th 1897
+
+At seven o clock in the evening my wife Eliza
+gave premature birth to a little boy as he was
+very weak I blessed him and gave him the name
+of John Royal Roberts I anoint him Thomas my
+brother undertake a lasting on him for a month he died
+on the 19th few minuts after five (5) in the evening
+was buried on the 22th in Logan cemetery by my wife
+Hannah
+
+I received a note from Daniel Roberts my
+brother that his wife Sarah had gave premature
+birth to a little girl on Friday July 7th 1899 at 11.30
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Two baptism/confirmation names and part of the infant-care passage remain uncertain. The final entry continues onto page 34. The preserved source image was not altered. Status: needs review.
+
+## PDF page 34
+
+Stable ID: `journal-rdr-page-034`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+in the morning blessed by Arthur Bradler &
+George Gill given the name of Jane Roberts Died
+at 2.10 the same day was Burried Saturday July [unclear: 10]
+in Ogden City Cemetery Weber County Utah
+
+Logan City May 11th 1900
+
+My wife Eliza gave birth to little
+girl at five twenty in the morning (5.20
+A. M.) she weight 8 lbs. she seems to be
+very bright strong and healthy babe was
+blessed July 1st by R. D. Roberts her father
+assisted by Richard [unclear: Quickel] Bishops and his
+counciler James Larson her name Jane
+Roberts
+
+R. D. Roberts
+
+Oct 7th 1903
+
+Agnes [unclear: Mister] Roberts was Baptised by
+G. H. [unclear: Furbeth] confirmed by Milton D. Hammond
+
+February 22nd 1905 Agnes [unclear: Mister] Roberts
+was kicked by a colt on the top of her forehead
+it was very severely cut Dr Budge dressed it very
+[unclear: sore it pulled up around and a clear cut on her]
+lip we are very thankful that it was no worse
+
+April 26th 1906 [interlined: Sept 15th 1906]
+
+Thomas Roberts son of Robert
+& Eliza Roberts was Baptised in Logan Temple by
+Joseph M Smith confirmed by J. H. Anderson
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several officiator surnames, a burial date, and part of the injury description remain uncertain. The page contains an explicit "R. D. Roberts" signature. The preserved source image was not altered. Status: needs review.
