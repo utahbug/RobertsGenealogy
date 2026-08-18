@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 22 / 119
+Pages with transcription text: 26 / 119
 
-Untranscribed PDF pages: 23-119
+Untranscribed PDF pages: 27-119
 
 ## PDF page 1
 
@@ -1180,3 +1180,206 @@ Robert Richard Hughes
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan. Historical spelling and the source's ordinal forms have been preserved. The locality phrase following "Ontario County" remains uncertain in both occurrences and requires a second-reader review. Status: needs review.
+
+## PDF page 23
+
+Stable ID: `journal-rdr-page-023`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City January 4th 1884
+
+In memory of
+Robert Davies born in Rhuthun,
+Denbighshire, Wales, February 25th 1819.
+Baptized in Rhuthun, by John Parry in
+the year 1853.
+
+Died at Logan, January 2nd 1884, at one
+ten (1.10), in the morning, buryed on the
+3rd, the meeting was conducted by Bishop
+Henry Ballard prayer by Georg Painter
+Preaching by the Bishop and his counsellor
+Christian J Larson, which was very pleasing
+and encouraging, singing was lead by
+Georg Morrison, benediction by John Thomas
+Dedication at the grave by Christian J Larson.
+Robert Davies is the father in law of Thomas J Roberts
+
+January 19th 1884
+
+Robert D. Roberts was Baptised and
+confirmed in Farmington Davis County Utah
+April 4th 1858 by my father David R. Roberts
+Confirmed on the same at the waters edge
+
+Logan City January 6th 1884
+
+I was Ordained to the fourth quorum
+of Seventies by Silvester Low
+
+R D Roberts
+
+Logan City January 6th 1884
+
+Thomas J Roberts was Ordained to
+the fourth quorum of Seventies by Aaron D.
+Thatcher
+
+December 19th 1883
+
+Sarah Ann wife of Daniel Roberts in Ogden
+gave birth to a little girl weight 12 lbs at fourtyfive
+minuts past eight (8.45) in the evening blessed by Christian
+J Larson at Logan March 16th 1884 name [unclear: Marah Roberts]
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Historical spelling and manuscript order are preserved. The child's name in the final line requires second-reader review. The page includes an explicit "R D Roberts" signature. Status: needs review.
+
+## PDF page 24
+
+Stable ID: `journal-rdr-page-024`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City June 5th 1884
+
+Hugh Roberts was baptized by
+William C Perkington Confirmed by John
+Johnson the same day
+
+Logan City May 16th [unclear: 1885]
+
+Brigham Young and company arrived
+in Logan, on the 19th the site was selected
+for the Temple ground broken and site
+dedicated on the 18th corner stones laid September
+19th 1878 the Temple finish and dedicated May
+17th 1884 meetings was held in the Temple
+for three days 17th 18th 19th I had the priviledge
+of going in there the second day the dedicatory
+prayer was read every day to each congregation
+and the congregation had the privilege of going
+throught the Temple to view most of the
+rooms
+
+Logan City January 21st 1885
+
+Comence to work for the dead in
+the Logan Temple we have been Baptized for
+Thirty three in Salt Lake City October 13th 1895
+had my Endowment this day for father
+[crossed out: confirmed] ordained by Thomas Moor
+
+Jan: 21st David Robert Roberts
+
+22 Robert Roberts [crossed out: confirmed] ordained by [unclear: Fratrig Pire]
+
+23 Thomas Richards " by Milton D. Hammond
+
+28 Edward Griffith " by Thomas Cordon
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The overwritten year in the Brigham Young entry, the source's written "1895" date, and one officiator's name remain for second-reader review. Crossed-out and interlined wording is recorded explicitly. Status: needs review.
+
+## PDF page 25
+
+Stable ID: `journal-rdr-page-025`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Jan: 29 Richard Thomas [crossed out: confirmed] [interlined: ordained] by John Jacob
+
+30 Thomas Williams " by Thomas Moore
+
+Feb. 11th Rowland Morris " by Georg Barbor
+
+12th Griffith Morris " by [unclear: Fratrig Pire]
+
+13th John Roberts he was ordained in the old Country
+
+18 Robert Roberts " by Hans L Christensen uncle
+
+19 William Roberts " by John Jacob fathers brother
+
+20 William Roberts " by Thomas Morel
+
+25 Richard Thomas " by Thomas Moore uncle
+
+26 Robert Parry " by John Jacob
+
+27 Morris Isaac " by Neals C. Edlyson
+
+March 5 Edward Roberts " by Thomas Cordon
+
+6 Salmon Roberts " by Thomas McNiel
+
+April 1 Robert Richards " by Georg Barbor
+
+2 Rowland Morris " by Georg Barbor uncle
+
+9 John Thomas " by Georg Barbor
+
+10 Henry Morris " by [unclear: Fratrig Thicar]
+
+16 William Williams " by [unclear: Fratrig Thicar]
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Ditto marks are retained as quotation marks. Several officiators' names require second-reader review; no normalization has been attempted. Status: needs review.
+
+## PDF page 26
+
+Stable ID: `journal-rdr-page-026`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+April 19 William Humphry " by N W Marriell
+
+March 10th 1886 William Hughes by James A Leishman
+
+11 William Jones " by James A Leishman
+
+12 Robert Williams " by Edwin Curtis
+
+March 10th 1886 Thomas David Roberts work for
+
+May 10 Griffith Jones [interlined: ordained] by W W Merrill
+
+11 William Jones " by James A Leishman
+
+12 Henry Lewis " by Edwin Curtis
+
+March 30th 1897 I went and was Baptized for and in behalf of Rees
+Roberts cousin and his son Griffith Roberts was Baptized by
+William Checkels confirmed by James George in behalf of
+each of them
+
+March 31st 1897 had Endowment for Rees Roberts was
+Ordained by Sanford Porter
+
+April 1st 1897 had Endowment for Griffith Roberts was Ordained
+by Sanford Porter
+
+Rees Roberts was born in 1823 Parish Llanfrothen
+Meirioneth Shire North Wales died April 8th 1896 Parish
+Festiniog Meirionethshire Wales
+
+Griffith Roberts was born in 1870 Parish [unclear: Bedd...]
+Meirionethshire died December 4th 1894 Parish Festiniog
+
+Robert D. Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. The final birthplace parish for Griffith Roberts is only partly legible and remains unresolved. The page closes with an explicit "Robert D. Roberts" signature. Status: needs review.
