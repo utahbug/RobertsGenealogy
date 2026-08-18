@@ -15,60 +15,99 @@
       "name": "DEMO: Robert Price",
       "generationLabel": "G5 (DEMO: Great-great-grandparent)",
       "summary": "DEMO: placeholder person in the first generation anchor.",
-      "spouses": ["person-catherine-meyrick"],
-      "children": ["person-robert-roberts"]
+      "spouses": [
+        "person-catherine-meyrick"
+      ],
+      "children": [
+        "person-robert-roberts"
+      ]
     },
     {
       "id": "person-catherine-meyrick",
       "name": "DEMO: Catherine Meyrick",
       "generationLabel": "G5 (DEMO spouse)",
       "summary": "DEMO: spouse placeholder for Robert Price.",
-      "spouses": ["person-robert-price"],
-      "children": ["person-robert-roberts"]
+      "spouses": [
+        "person-robert-price"
+      ],
+      "children": [
+        "person-robert-roberts"
+      ]
     },
     {
       "id": "person-robert-roberts",
       "name": "DEMO: Robert Roberts",
       "generationLabel": "G4 (DEMO: Great-grandparent)",
       "summary": "DEMO: direct Roberts-line placeholder for the ancestry chain.",
-      "parents": ["person-robert-price", "person-catherine-meyrick"],
-      "spouses": ["person-elinor-williams"],
-      "children": ["person-david-roberts"]
+      "parents": [
+        "person-robert-price",
+        "person-catherine-meyrick"
+      ],
+      "spouses": [
+        "person-elinor-williams"
+      ],
+      "children": [
+        "person-david-roberts"
+      ]
     },
     {
       "id": "person-elinor-williams",
       "name": "DEMO: Elinor Williams",
       "generationLabel": "G4 (DEMO spouse)",
       "summary": "DEMO: spouse placeholder for Robert Roberts.",
-      "spouses": ["person-robert-roberts"],
-      "children": ["person-david-roberts"]
+      "spouses": [
+        "person-robert-roberts"
+      ],
+      "children": [
+        "person-david-roberts"
+      ]
     },
     {
       "id": "person-david-roberts",
       "name": "DEMO: David Roberts",
       "generationLabel": "G3 (DEMO: Grandparent)",
       "summary": "DEMO placeholder for mid-line descent.",
-      "parents": ["person-robert-roberts", "person-elinor-williams"],
-      "spouses": ["person-catherine-thomas"],
-      "children": ["person-robert-david-roberts"]
+      "parents": [
+        "person-robert-roberts",
+        "person-elinor-williams"
+      ],
+      "spouses": [
+        "person-catherine-thomas"
+      ],
+      "children": [
+        "person-robert-david-roberts"
+      ]
     },
     {
       "id": "person-catherine-thomas",
       "name": "DEMO: Catherine Thomas",
       "generationLabel": "G3 (DEMO spouse)",
       "summary": "DEMO spouse placeholder for David Roberts.",
-      "spouses": ["person-david-roberts"],
-      "children": ["person-robert-david-roberts"]
+      "spouses": [
+        "person-david-roberts"
+      ],
+      "children": [
+        "person-robert-david-roberts"
+      ]
     },
     {
       "id": "person-robert-david-roberts",
       "name": "DEMO: Robert David Roberts",
       "generationLabel": "G2 (DEMO: Parent generation)",
       "summary": "DEMO: focal Roberts descendant in the ancestry sample.",
-      "parents": ["person-david-roberts", "person-catherine-thomas"],
-      "spouses": ["person-eliza-neagle"],
-      "children": ["person-robert-roberts-iii"],
-      "bookPages": ["book-page-002"],
+      "parents": [
+        "person-david-roberts",
+        "person-catherine-thomas"
+      ],
+      "spouses": [
+        "person-eliza-neagle"
+      ],
+      "children": [
+        "person-robert-roberts-iii"
+      ],
+      "bookPages": [
+        "book-page-002"
+      ],
       "notes": "DEMO: this sample person may later link to the main demo event."
     },
     {
@@ -76,16 +115,25 @@
       "name": "DEMO: Eliza Neagle",
       "generationLabel": "G2 (DEMO spouse)",
       "summary": "DEMO spouse placeholder for Robert David Roberts.",
-      "spouses": ["person-robert-david-roberts"],
-      "children": ["person-robert-roberts-iii"]
+      "spouses": [
+        "person-robert-david-roberts"
+      ],
+      "children": [
+        "person-robert-roberts-iii"
+      ]
     },
     {
       "id": "person-robert-roberts-iii",
       "name": "DEMO: Robert Roberts III",
       "generationLabel": "G1 (DEMO: Descendant)",
       "summary": "DEMO child of the sample five-generation line.",
-      "parents": ["person-robert-david-roberts", "person-eliza-neagle"],
-      "bookPages": ["book-page-001"]
+      "parents": [
+        "person-robert-david-roberts",
+        "person-eliza-neagle"
+      ],
+      "bookPages": [
+        "book-page-001"
+      ]
     }
   ],
   "places": [
@@ -108,33 +156,765 @@
       "summary": "Original book text appears to use one spelling in this line; editorial review suggests modern equivalent.",
       "details": "This is sample correction metadata. The application keeps the book statement as-is and stores this correction as linked editorial interpretation.",
       "status": "sample",
-      "evidence": ["source-demo-002"],
-      "relatedPeople": ["person-demo-001"],
-      "relatedPlaces": ["place-demo-001"]
+      "evidence": [
+        "source-demo-002"
+      ],
+      "relatedPeople": [
+        "person-demo-001"
+      ],
+      "relatedPlaces": [
+        "place-demo-001"
+      ]
     }
   ],
   "bookPages": [
     {
       "id": "book-page-001",
-      "bookId": "book-demo-001",
-      "title": "DEMO: Introductory genealogy section",
-      "pageNumber": 12,
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 1",
+      "pageNumber": 1,
       "sourceType": "Book page",
-      "image": "assets/demo-images/book-page-001.svg",
-      "caption": "DEMO placeholder for book page 12 image.",
-      "ocrText": "Sample OCR placeholder for original book page.",
-      "linkedEvents": ["event-demo-chron-001"]
+      "image": "assets/book-pages/book-page-001.png",
+      "caption": "Source scan for page 1.",
+      "ocrText": "",
+      "linkedEvents": []
     },
     {
       "id": "book-page-002",
-      "bookId": "book-demo-001",
-      "title": "DEMO: Family summary section",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 2",
+      "pageNumber": 2,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-002.png",
+      "caption": "Source scan for page 2.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-003",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 3",
+      "pageNumber": 3,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-003.png",
+      "caption": "Source scan for page 3.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-004",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 4",
+      "pageNumber": 4,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-004.png",
+      "caption": "Source scan for page 4.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-005",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 5",
+      "pageNumber": 5,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-005.png",
+      "caption": "Source scan for page 5.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-006",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 6",
+      "pageNumber": 6,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-006.png",
+      "caption": "Source scan for page 6.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-007",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 7",
+      "pageNumber": 7,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-007.png",
+      "caption": "Source scan for page 7.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-008",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 8",
+      "pageNumber": 8,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-008.png",
+      "caption": "Source scan for page 8.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-009",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 9",
+      "pageNumber": 9,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-009.png",
+      "caption": "Source scan for page 9.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-010",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 10",
+      "pageNumber": 10,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-010.png",
+      "caption": "Source scan for page 10.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-011",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 11",
+      "pageNumber": 11,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-011.png",
+      "caption": "Source scan for page 11.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-012",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 12",
+      "pageNumber": 12,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-012.png",
+      "caption": "Source scan for page 12.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-013",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 13",
+      "pageNumber": 13,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-013.png",
+      "caption": "Source scan for page 13.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-014",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 14",
+      "pageNumber": 14,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-014.png",
+      "caption": "Source scan for page 14.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-015",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 15",
       "pageNumber": 15,
       "sourceType": "Book page",
-      "image": "assets/demo-images/book-page-002.svg",
-      "caption": "DEMO placeholder for book page 15 image.",
-      "ocrText": "Sample OCR placeholder for original book page.",
-      "linkedEvents": ["event-demo-chron-001"]
+      "image": "assets/book-pages/book-page-015.png",
+      "caption": "Source scan for page 15.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-016",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 16",
+      "pageNumber": 16,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-016.png",
+      "caption": "Source scan for page 16.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-017",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 17",
+      "pageNumber": 17,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-017.png",
+      "caption": "Source scan for page 17.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-018",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 18",
+      "pageNumber": 18,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-018.png",
+      "caption": "Source scan for page 18.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-019",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 19",
+      "pageNumber": 19,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-019.png",
+      "caption": "Source scan for page 19.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-020",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 20",
+      "pageNumber": 20,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-020.png",
+      "caption": "Source scan for page 20.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-021",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 21",
+      "pageNumber": 21,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-021.png",
+      "caption": "Source scan for page 21.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-022",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 22",
+      "pageNumber": 22,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-022.png",
+      "caption": "Source scan for page 22.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-023",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 23",
+      "pageNumber": 23,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-023.png",
+      "caption": "Source scan for page 23.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-024",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 24",
+      "pageNumber": 24,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-024.png",
+      "caption": "Source scan for page 24.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-025",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 25",
+      "pageNumber": 25,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-025.png",
+      "caption": "Source scan for page 25.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-026",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 26",
+      "pageNumber": 26,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-026.png",
+      "caption": "Source scan for page 26.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-027",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 27",
+      "pageNumber": 27,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-027.png",
+      "caption": "Source scan for page 27.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-028",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 28",
+      "pageNumber": 28,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-028.png",
+      "caption": "Source scan for page 28.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-029",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 29",
+      "pageNumber": 29,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-029.png",
+      "caption": "Source scan for page 29.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-030",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 30",
+      "pageNumber": 30,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-030.png",
+      "caption": "Source scan for page 30.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-031",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 31",
+      "pageNumber": 31,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-031.png",
+      "caption": "Source scan for page 31.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-032",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 32",
+      "pageNumber": 32,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-032.png",
+      "caption": "Source scan for page 32.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-033",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 33",
+      "pageNumber": 33,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-033.png",
+      "caption": "Source scan for page 33.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-034",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 34",
+      "pageNumber": 34,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-034.png",
+      "caption": "Source scan for page 34.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-035",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 35",
+      "pageNumber": 35,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-035.png",
+      "caption": "Source scan for page 35.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-036",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 36",
+      "pageNumber": 36,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-036.png",
+      "caption": "Source scan for page 36.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-037",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 37",
+      "pageNumber": 37,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-037.png",
+      "caption": "Source scan for page 37.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-038",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 38",
+      "pageNumber": 38,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-038.png",
+      "caption": "Source scan for page 38.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-039",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 39",
+      "pageNumber": 39,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-039.png",
+      "caption": "Source scan for page 39.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-040",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 40",
+      "pageNumber": 40,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-040.png",
+      "caption": "Source scan for page 40.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-041",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 41",
+      "pageNumber": 41,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-041.png",
+      "caption": "Source scan for page 41.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-042",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 42",
+      "pageNumber": 42,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-042.png",
+      "caption": "Source scan for page 42.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-043",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 43",
+      "pageNumber": 43,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-043.png",
+      "caption": "Source scan for page 43.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-044",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 44",
+      "pageNumber": 44,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-044.png",
+      "caption": "Source scan for page 44.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-045",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 45",
+      "pageNumber": 45,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-045.png",
+      "caption": "Source scan for page 45.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-046",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 46",
+      "pageNumber": 46,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-046.png",
+      "caption": "Source scan for page 46.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-047",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 47",
+      "pageNumber": 47,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-047.png",
+      "caption": "Source scan for page 47.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-048",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 48",
+      "pageNumber": 48,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-048.png",
+      "caption": "Source scan for page 48.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-049",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 49",
+      "pageNumber": 49,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-049.png",
+      "caption": "Source scan for page 49.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-050",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 50",
+      "pageNumber": 50,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-050.png",
+      "caption": "Source scan for page 50.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-051",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 51",
+      "pageNumber": 51,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-051.png",
+      "caption": "Source scan for page 51.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-052",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 52",
+      "pageNumber": 52,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-052.png",
+      "caption": "Source scan for page 52.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-053",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 53",
+      "pageNumber": 53,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-053.png",
+      "caption": "Source scan for page 53.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-054",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 54",
+      "pageNumber": 54,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-054.png",
+      "caption": "Source scan for page 54.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-055",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 55",
+      "pageNumber": 55,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-055.png",
+      "caption": "Source scan for page 55.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-056",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 56",
+      "pageNumber": 56,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-056.png",
+      "caption": "Source scan for page 56.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-057",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 57",
+      "pageNumber": 57,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-057.png",
+      "caption": "Source scan for page 57.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-058",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 58",
+      "pageNumber": 58,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-058.png",
+      "caption": "Source scan for page 58.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-059",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 59",
+      "pageNumber": 59,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-059.png",
+      "caption": "Source scan for page 59.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-060",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 60",
+      "pageNumber": 60,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-060.png",
+      "caption": "Source scan for page 60.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-061",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 61",
+      "pageNumber": 61,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-061.png",
+      "caption": "Source scan for page 61.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-062",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 62",
+      "pageNumber": 62,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-062.png",
+      "caption": "Source scan for page 62.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-063",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 63",
+      "pageNumber": 63,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-063.png",
+      "caption": "Source scan for page 63.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-064",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 64",
+      "pageNumber": 64,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-064.png",
+      "caption": "Source scan for page 64.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-065",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 65",
+      "pageNumber": 65,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-065.png",
+      "caption": "Source scan for page 65.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-066",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 66",
+      "pageNumber": 66,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-066.png",
+      "caption": "Source scan for page 66.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-067",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 67",
+      "pageNumber": 67,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-067.png",
+      "caption": "Source scan for page 67.",
+      "ocrText": "",
+      "linkedEvents": []
+    },
+    {
+      "id": "book-page-068",
+      "bookId": "book-roberts-remembrance",
+      "title": "Book of Remembrance page 68",
+      "pageNumber": 68,
+      "sourceType": "Book page",
+      "image": "assets/book-pages/book-page-068.png",
+      "caption": "Source scan for page 68.",
+      "ocrText": "",
+      "linkedEvents": []
     }
   ],
   "journals": [
@@ -158,10 +938,18 @@
       "originalLanguageTranscription": "DEMO: original-language text placeholder",
       "translation": "DEMO translation line for journal page 1.",
       "notes": "DEMO note: weather and grain yield entries are unclear.",
-      "people": ["person-demo-001"],
-      "places": ["place-demo-001"],
-      "dates": ["DEMO 1823-05-14"],
-      "linkedEvents": ["event-demo-chron-001"]
+      "people": [
+        "person-demo-001"
+      ],
+      "places": [
+        "place-demo-001"
+      ],
+      "dates": [
+        "DEMO 1823-05-14"
+      ],
+      "linkedEvents": [
+        "event-demo-chron-001"
+      ]
     },
     {
       "id": "journal-page-002",
@@ -172,10 +960,19 @@
       "transcription": "DEMO transcription line for journal page 2.",
       "translation": "DEMO translation line for journal page 2.",
       "notes": "DEMO note: family purchase entry appears in this segment.",
-      "people": ["person-demo-001", "person-demo-002"],
-      "places": ["place-demo-002"],
-      "dates": ["DEMO 1824-09-01"],
-      "linkedEvents": ["event-demo-chron-001"]
+      "people": [
+        "person-demo-001",
+        "person-demo-002"
+      ],
+      "places": [
+        "place-demo-002"
+      ],
+      "dates": [
+        "DEMO 1824-09-01"
+      ],
+      "linkedEvents": [
+        "event-demo-chron-001"
+      ]
     },
     {
       "id": "journal-page-003",
@@ -186,10 +983,19 @@
       "transcription": "DEMO transcription line for journal page 3.",
       "originalLanguageTranscription": "DEMO: optional non-English script placeholder",
       "notes": "DEMO note: possible place-name variant appears here.",
-      "people": ["person-demo-002"],
-      "places": ["place-demo-001", "place-demo-002"],
-      "dates": ["DEMO 1825-02-10"],
-      "linkedEvents": ["event-demo-chron-001"]
+      "people": [
+        "person-demo-002"
+      ],
+      "places": [
+        "place-demo-001",
+        "place-demo-002"
+      ],
+      "dates": [
+        "DEMO 1825-02-10"
+      ],
+      "linkedEvents": [
+        "event-demo-chron-001"
+      ]
     }
   ],
   "sources": [
@@ -201,7 +1007,9 @@
       "location": "SAMPLE county archive",
       "citation": "DEMO citation placeholder",
       "description": "Sample evidence record for relationship testing.",
-      "supports": ["event-demo-chron-001"],
+      "supports": [
+        "event-demo-chron-001"
+      ],
       "notes": "DEMO note indicating this source may support chronology correction."
     },
     {
@@ -212,7 +1020,10 @@
       "location": "SAMPLE federal records office",
       "citation": "DEMO archival citation placeholder",
       "description": "Sample census source that is linked as additional evidence for the demo event.",
-      "supports": ["event-demo-chron-001", "note-demo-corr-001"],
+      "supports": [
+        "event-demo-chron-001",
+        "note-demo-corr-001"
+      ],
       "notes": "DEMO placeholder note for evidence linkage."
     }
   ],
@@ -232,13 +1043,33 @@
       "title": "DEMO: Family household forms and first relocation notes",
       "originalSourceText": "The book states that the family moved while engaged in farm work; wording is preserved as a historical statement.",
       "editorialNarrative": "Editorial context is layered separately. This sample points to a potential date clarification and supporting records without replacing the book line.",
-      "people": ["person-demo-001", "person-demo-002"],
-      "places": ["place-demo-001", "place-demo-002"],
-      "bookPages": ["book-page-001", "book-page-002"],
-      "journalPages": ["journal-page-001", "journal-page-002", "journal-page-003"],
-      "sources": ["source-demo-001", "source-demo-002"],
-      "editorialNotes": ["note-demo-corr-001"],
-      "photos": ["photo-demo-001"]
+      "people": [
+        "person-demo-001",
+        "person-demo-002"
+      ],
+      "places": [
+        "place-demo-001",
+        "place-demo-002"
+      ],
+      "bookPages": [
+        "book-page-001",
+        "book-page-002"
+      ],
+      "journalPages": [
+        "journal-page-001",
+        "journal-page-002",
+        "journal-page-003"
+      ],
+      "sources": [
+        "source-demo-001",
+        "source-demo-002"
+      ],
+      "editorialNotes": [
+        "note-demo-corr-001"
+      ],
+      "photos": [
+        "photo-demo-001"
+      ]
     }
   ],
   "genealogy": {
@@ -252,5 +1083,16 @@
     ],
     "focalPerson": "person-robert-roberts-iii",
     "startGeneration": 5
-  }
+  },
+  "books": [
+    {
+      "id": "book-roberts-remembrance",
+      "title": "Book of Remembrance of David and Catherine (uch Thomas ap Richard) Roberts",
+      "sourceFile": "source/DavidRoberts-Searchable.pdf",
+      "startPage": 1,
+      "endPage": 68,
+      "sourceType": "Historical source manuscript",
+      "preservationState": "Digitized source scan with searchable text layer"
+    }
+  ]
 }

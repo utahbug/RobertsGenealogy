@@ -29,9 +29,10 @@
     <nav class="top-nav" aria-label="Primary">
       <div class="wrapper nav-scroll" role="tablist" aria-label="Primary sections">
         <button class="nav-button is-active" data-section="story" aria-controls="story" role="tab">Story</button>
-        <button class="nav-button" data-section="family" aria-controls="family" role="tab">Family</button>
+        <button class="nav-button" data-section="charts" aria-controls="charts" role="tab">Charts</button>
         <button class="nav-button" data-section="book" aria-controls="book" role="tab">Book</button>
         <button class="nav-button" data-section="journals" aria-controls="journals" role="tab">Journals</button>
+        <button class="nav-button" data-section="names-places" aria-controls="names-places" role="tab">Names and Places</button>
         <button class="nav-button" data-section="sources" aria-controls="sources" role="tab">Sources</button>
         <button class="nav-button" data-section="search" aria-controls="search" role="tab">Search</button>
       </div>
@@ -47,16 +48,19 @@
         <div id="story-content" class="timeline"></div>
       </section>
 
-      <section id="family" class="content-panel" data-panel="family" hidden role="tabpanel">
+      <section id="charts" class="content-panel" data-panel="charts" hidden role="tabpanel">
         <header>
-          <h2>Family</h2>
-          <p>Interactive ancestry view built from structured person and relationship data.</p>
+          <h2>Charts</h2>
+          <p>Visual family relationships derived from curated project records.</p>
         </header>
-        <div id="family-status" class="status-note"></div>
-        <div class="family-layout">
-          <div id="family-chart" class="family-chart" aria-live="polite"></div>
-          <div id="family-person-detail" class="person-detail" hidden></div>
-        </div>
+        <div id="charts-status" class="status-note"></div>
+        <section id="direct-ancestral-line" class="family-layout">
+          <h3>Direct Ancestral Line</h3>
+          <div class="family-layout">
+            <div id="family-chart" class="family-chart" aria-live="polite"></div>
+            <div id="family-person-detail" class="person-detail" hidden></div>
+          </div>
+        </section>
       </section>
 
       <section id="book" class="content-panel" data-panel="book" hidden role="tabpanel">
@@ -65,7 +69,22 @@
           <p>Selected pages from the original genealogy book are shown as historical source pages.</p>
         </header>
         <div id="book-status" class="status-note"></div>
-        <div id="book-content" class="page-grid"></div>
+        <div class="book-reader">
+          <div class="book-controls" role="group" aria-label="Book page controls">
+            <button id="book-first" type="button" class="book-control">First</button>
+            <button id="book-prev" type="button" class="book-control">Previous</button>
+            <label for="book-page-input" class="book-page-jump">
+              Page
+              <input id="book-page-input" type="number" min="1" max="68" value="1" aria-label="Book page number" />
+              <span id="book-page-total">/ 68</span>
+            </label>
+            <button id="book-go" type="button" class="book-control">Go</button>
+            <button id="book-next" type="button" class="book-control">Next</button>
+            <button id="book-last" type="button" class="book-control">Last</button>
+          </div>
+          <div id="book-page-title" class="book-page-title" aria-live="polite"></div>
+          <div id="book-viewer" class="book-viewer"></div>
+        </div>
       </section>
 
       <section id="journals" class="content-panel" data-panel="journals" hidden role="tabpanel">
@@ -75,6 +94,26 @@
         </header>
         <div id="journals-status" class="status-note"></div>
         <div id="journals-content" class="stack"></div>
+      </section>
+
+      <section id="names-places" class="content-panel" data-panel="names-places" hidden role="tabpanel">
+        <header>
+          <h2>Names and Places</h2>
+          <p>Index of name and place entities linked to source page references.</p>
+        </header>
+        <div class="names-places-controls">
+          <label class="sr-only" for="names-places-search">Search names and places</label>
+          <input id="names-places-search" type="search" placeholder="Search names and places" />
+          <div class="nameplace-filters" role="tablist" aria-label="Names and places categories">
+            <button class="filter-button is-active" data-filter="all" type="button">All</button>
+            <button class="filter-button" data-filter="people" type="button">People</button>
+            <button class="filter-button" data-filter="places" type="button">Places</button>
+            <button class="filter-button" data-filter="homes-properties" type="button">Homes &amp; Properties</button>
+          </div>
+        </div>
+        <div id="names-places-status" class="status-note"></div>
+        <div id="names-places-content" class="stack"></div>
+        <div id="names-places-detail" class="person-detail" hidden></div>
       </section>
 
       <section id="sources" class="content-panel" data-panel="sources" hidden role="tabpanel">

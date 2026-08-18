@@ -583,3 +583,167 @@ input[type="search"] {
     margin-top: 0.2rem;
   }
 }
+
+.book-reader {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.book-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  align-items: center;
+}
+
+.book-control {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--panel);
+  color: var(--text);
+  padding: 0.5rem 0.75rem;
+  font-family: var(--sans-stack);
+  cursor: pointer;
+}
+
+.book-control:hover,
+.book-control:focus-visible {
+  border-color: var(--accent-dark);
+}
+
+.book-page-jump {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.94rem;
+  font-family: var(--sans-stack);
+  color: var(--muted);
+}
+
+#book-page-input {
+  width: 4.6rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.48rem 0.55rem;
+  font-size: 1rem;
+  font-family: var(--sans-stack);
+}
+
+.book-page-title {
+  font-family: var(--sans-stack);
+  font-size: 0.94rem;
+  color: var(--muted);
+}
+
+.book-viewer {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.book-page-figure {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.45rem;
+  background: #fff;
+}
+
+.book-page-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 900px;
+}
+
+.book-caption {
+  margin-top: 0.45rem;
+  font-size: 0.89rem;
+}
+
+@media (max-width: 820px) {
+  .book-controls {
+    gap: 0.35rem;
+  }
+
+  .book-control,
+  #book-page-input {
+    min-height: 2.4rem;
+  }
+
+  .book-page-jump {
+    width: 100%;
+    justify-content: space-between;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 0.45rem 0.55rem;
+    box-sizing: border-box;
+  }
+
+  .book-viewer {
+    overflow-x: auto;
+  }
+
+  .book-page-figure {
+    padding: 0.35rem;
+  }
+}
+
+.names-places-controls {
+  display: grid;
+  gap: 0.55rem;
+  margin-bottom: 0.6rem;
+}
+
+.nameplace-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.filter-button {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  padding: 0.45rem 0.75rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.filter-button.is-active {
+  border-color: var(--accent-dark);
+  background: var(--accent-soft);
+}
+
+.filter-button:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  outline-offset: 2px;
+}
+
+#names-places-content .page-card {
+  display: grid;
+  gap: 0.5rem;
+}
+
+#names-places-detail {
+  margin-top: 0.6rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+@media (max-width: 820px) {
+  .nameplace-filters {
+    gap: 0.35rem;
+  }
+
+  .filter-button {
+    min-height: 2.2rem;
+  }
+}

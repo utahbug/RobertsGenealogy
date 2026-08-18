@@ -1,5 +1,7 @@
 const appState = {
   data: null,
+  bookState: { pages: [], activeIndex: 0 },
+  searchIndex: [],
 };
 
 const panelButtons = [...document.querySelectorAll('.nav-button')];
@@ -7,11 +9,37 @@ const panels = [...document.querySelectorAll('.content-panel')];
 
 const status = {
   story: document.getElementById('story-status'),
-  family: document.getElementById('family-status'),
+  family: document.getElementById('family-status') || document.getElementById('charts-status'),
+  namesPlaces: document.getElementById('names-places-status'),
   book: document.getElementById('book-status'),
   journals: document.getElementById('journals-status'),
   sources: document.getElementById('sources-status'),
   search: document.getElementById('search-status'),
+};
+
+const namesPlacesState = {
+  entries: [],
+  filter: 'all',
+  search: '',
+};
+
+const namesPlacesControls = {
+  search: document.getElementById('names-places-search'),
+  filters: [...document.querySelectorAll('.nameplace-filters .filter-button')],
+  content: document.getElementById('names-places-content'),
+  detail: document.getElementById('names-places-detail'),
+};
+
+const bookControls = {
+  first: document.getElementById('book-first'),
+  prev: document.getElementById('book-prev'),
+  next: document.getElementById('book-next'),
+  last: document.getElementById('book-last'),
+  input: document.getElementById('book-page-input'),
+  go: document.getElementById('book-go'),
+  total: document.getElementById('book-page-total'),
+  title: document.getElementById('book-page-title'),
+  viewer: document.getElementById('book-viewer'),
 };
 
 function el(tag, attrs = {}, children = '') {
@@ -60,6 +88,98 @@ function sortedByDate(items) {
   return [...items].sort((a, b) => (a.date || '').localeCompare(b.date || ''));
 }
 
+function getBookPages() {
+  if (!appState.data || !Array.isArray(appState.data.bookPages)) return [];
+  return [...appState.data.bookPages].sort((a, b) => Number(a.pageNumber || 0) - Number(b.pageNumber || 0));
+}
+
+function bookIndexFromId(pageId) {
+  return getBookPages().findIndex((page) => page.id === pageId);
+}
+
+function formatBookLabel(index, total) {
+  return `Book page ${String(index + 1).padStart(3, '0')} of ${String(total).padStart(2, '0')}`;
+}
+
+function renderCurrentBookPage(index, updateHash = true) {
+  const pages = appState.bookState.pages;
+  if (!pages.length || !bookControls.viewer) return;
+
+  const bounded = Math.max(0, Math.min(index, pages.length - 1));
+  appState.bookState.activeIndex = bounded;
+  const page = pages[bounded];
+
+  bookControls.title.textContent = `${formatBookLabel(bounded, pages.length)} · ${page.bookId || 'Source book'}`;
+  bookControls.input.value = String(page.pageNumber || bounded + 1);
+  bookControls.prev.disabled = bounded <= 0;
+  bookControls.next.disabled = bounded >= pages.length - 1;
+
+  bookControls.viewer.innerHTML = '';
+  bookControls.viewer.appendChild(
+    el('div', { className: 'book-page-figure' }, [
+      makeZoomImage(page.image, `Book page image ${page.pageNumber}`),
+      el('div', { className: 'book-caption', text: page.caption || 'Historical book scan (original page).' }),
+    ])
+  );
+
+  bookControls.viewer.appendChild(
+    el('div', { className: 'section-links' }, [
+      el('span', { className: 'tag', text: 'Linked:' }),
+      ...(page.linkedEvents || []).map((id) => {
+        const event = findById(appState.data.events, id);
+        if (!event) return null;
+        return el('a', {
+          className: 'link-chip',
+          href: '#',
+          text: event.title,
+          onClick: (eventObj) => {
+            eventObj.preventDefault();
+            focusPanel('story');
+            navigateSearchTo(event.id);
+          },
+        });
+      }).filter(Boolean),
+    ])
+  );
+
+  if (updateHash) {
+    const hash = `#${page.id}`;
+    if (window.location.hash !== hash) {
+      history.replaceState(null, '', hash);
+    }
+  }
+
+  status.book.textContent = `Showing source page ${bounded + 1} of ${pages.length}.`;
+}
+
+function wireBookControls() {
+  if (!bookControls.first) return;
+  bookControls.first.addEventListener('click', () => renderCurrentBookPage(0));
+  bookControls.prev.addEventListener('click', () => renderCurrentBookPage(appState.bookState.activeIndex - 1));
+  bookControls.next.addEventListener('click', () => renderCurrentBookPage(appState.bookState.activeIndex + 1));
+  bookControls.last.addEventListener('click', () => renderCurrentBookPage(appState.bookState.pages.length - 1));
+  bookControls.go.addEventListener('click', jumpToInputPage);
+  bookControls.input.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+      jumpToInputPage();
+    }
+  });
+}
+
+function jumpToInputPage() {
+  const raw = Number(bookControls.input.value);
+  if (!Number.isFinite(raw)) return;
+  const pages = appState.bookState.pages;
+  const target = Math.max(1, Math.min(Math.round(raw), pages.length || 1));
+  renderCurrentBookPage(target - 1);
+}
+
+function openBookById(pageId, updateHash = true) {
+  const index = bookIndexFromId(pageId);
+  if (index < 0) return;
+  renderCurrentBookPage(index, updateHash);
+}
+
 function buildTagRow(items, label, getText) {
   if (!items || !items.length) return null;
   const row = el('div', { className: 'tag-row' });
@@ -87,7 +207,10 @@ function buildLinks(ids, type, fallback, sourceCollection, labelFn) {
         e.preventDefault();
         if (type === 'book') {
           focusPanel('book');
-        } else if (type === 'journal') {
+          openBookById(item.id);
+          return;
+        }
+        if (type === 'journal') {
           focusPanel('journals');
         } else if (type === 'story') {
           focusPanel('story');
@@ -139,23 +262,6 @@ function renderEvent(event, data) {
   eventCard.appendChild(links);
 
   return eventCard;
-}
-
-function renderBookPage(page) {
-  const card = el('article', { className: 'page-card', id: `book-page-${page.id}` });
-  card.appendChild(el('h3', { className: 'card-title', text: `Book page ${page.pageNumber} · ${page.title} (DEMO)` }));
-  card.appendChild(el('p', { className: 'meta', text: `${page.bookId} • ${page.sourceType}` }));
-
-  const frame = el('div', { className: 'image-frame' }, [makeZoomImage(page.image, page.caption || 'Sample book page image')]);
-  card.appendChild(frame);
-  card.appendChild(el('p', { text: page.caption || 'No caption provided.' }));
-
-  if (page.linkedEvents?.length) {
-    const row = buildLinks(page.linkedEvents, 'story', 'Linked event', appState.data.events, (e) => e.title);
-    card.appendChild(row);
-  }
-
-  return card;
 }
 
 function renderJournal(journal, data) {
@@ -378,7 +484,7 @@ function renderFamily(data) {
   });
 
   chart.appendChild(chain);
-  status.family.textContent = `Family ancestry chain loaded. ${lineage.length} generation nodes.`;
+  status.family.textContent = `${lineage.length} generation nodes loaded.`;
 
   const finalPerson = peopleById.get(lineage[lineage.length - 1]);
   if (finalPerson) {
@@ -388,6 +494,195 @@ function renderFamily(data) {
   }
 }
 
+function buildNamesPlacesEntries(data) {
+  const people = (data.people || []).map((person) => ({
+    id: person.id,
+    type: 'person',
+    kind: 'Person',
+    displayName: person.displayName || person.name,
+    nameAsWritten: person.name || '',
+    variants: person.variants || [],
+    sourcePages: person.bookPages || [],
+    relatedPersonId: person.id,
+    notes: person.notes || '',
+    locality: person.birthPlace || '',
+    county: '',
+    uncertainty: Boolean(person.uncertainty),
+    relationship: person.relationship || person.generationLabel || '',
+    searchText: [person.name, person.displayName, person.relationship, ...(person.variants || []), ...(person.bookPages || [])]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase(),
+  }));
+
+  const places = (data.places || []).map((place) => {
+    const rawType = (place.type || 'place').toLowerCase();
+    const homeTypes = ['home', 'farm', 'house', 'estate', 'property', 'quarry'];
+    return {
+      id: place.id,
+      type: homeTypes.includes(rawType) ? 'home' : (place.type || 'Place'),
+      kind: homeTypes.includes(rawType) ? 'Home / Property' : 'Place',
+      displayName: place.displayName || place.name,
+      nameAsWritten: place.nameAsWritten || place.name,
+      variants: place.variants || [],
+      sourcePages: place.bookPages || place.sourcePages || [],
+      relatedPeople: place.relatedPeople || [],
+      notes: place.notes || '',
+      locality: place.locality || '',
+      county: place.county || place.historicalCounty || '',
+      englishGloss: place.englishGloss || '',
+      uncertainty: Boolean(place.uncertainty),
+      searchText: [place.name, place.displayName, place.locality, place.county, place.englishGloss, ...(place.variants || []), ...(place.bookPages || [])]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase(),
+    };
+  });
+
+  return [...people, ...places].sort((a, b) => a.displayName.localeCompare(b.displayName));
+}
+
+function renderNamesPlacesContent() {
+  const visible = namesPlacesState.entries.filter((entry) => {
+    const byType =
+      namesPlacesState.filter === 'all'
+        ? true
+        : namesPlacesState.filter === 'people'
+          ? entry.type === 'person'
+          : namesPlacesState.filter === 'places'
+            ? entry.type !== 'person' && entry.kind === 'Place'
+            : entry.kind === 'Home / Property';
+
+    const bySearch = !namesPlacesState.search
+      ? true
+      : entry.searchText.includes(namesPlacesState.search.toLowerCase());
+
+    return byType && bySearch;
+  });
+
+  const content = namesPlacesControls.content;
+  const detail = namesPlacesControls.detail;
+  if (!content) return;
+
+  content.innerHTML = '';
+  if (detail) {
+    detail.innerHTML = '';
+    detail.hidden = true;
+  }
+
+  if (!visible.length) {
+    if (status.namesPlaces) {
+      status.namesPlaces.textContent = 'No matching names or places found.';
+    }
+    return;
+  }
+
+  if (status.namesPlaces) {
+    status.namesPlaces.textContent = `${visible.length} matching name/place entries.`;
+  }
+
+  visible.forEach((entry) => {
+    const card = el('article', { className: 'page-card', id: `np-${entry.id}` });
+    card.appendChild(el('h3', { className: 'card-title', text: `${entry.displayName} (${entry.kind})` }));
+    const desc = entry.type === 'person' ? `ID: ${entry.id}` : `Source: ${entry.sourcePages.join(', ') || 'not linked'}`;
+    card.appendChild(el('p', { className: 'meta', text: desc }));
+
+    card.appendChild(el('button', {
+      type: 'button',
+      className: 'detail-close',
+      text: 'Open entry',
+      onClick: () => renderNamesPlacesDetail(entry),
+    }));
+
+    content.appendChild(card);
+  });
+}
+
+function renderNamesPlacesDetail(entry) {
+  const detail = namesPlacesControls.detail;
+  if (!detail) return;
+  detail.hidden = false;
+  detail.innerHTML = '';
+
+  const panel = el('article', { className: 'person-detail-card' });
+  panel.appendChild(el('h3', { className: 'card-title', text: `${entry.displayName} (${entry.kind})` }));
+  panel.appendChild(el('p', { className: 'meta', text: `${entry.type === 'person' ? 'Person' : 'Place / Property'}` }));
+
+  if (entry.searchText) {
+    panel.appendChild(el('p', { text: entry.notes || 'DEMO record with no extra detail yet.' }));
+  }
+
+  if (entry.variants?.length) {
+    panel.appendChild(el('p', { className: 'meta', text: `Variants: ${entry.variants.join(', ')}` }));
+  }
+
+  if (entry.relationship) {
+    panel.appendChild(el('p', { className: 'meta', text: entry.relationship }));
+  }
+
+  const sourcePages = entry.sourcePages || [];
+  if (sourcePages.length) {
+    const links = el('div', { className: 'section-links' });
+    links.appendChild(el('span', { className: 'tag', text: 'Book pages' }));
+    sourcePages.forEach((pageId) => {
+      const page = findById(appState.data.bookPages, pageId);
+      if (!page) return;
+      links.appendChild(el('a', {
+        className: 'link-chip',
+        href: `#${pageId}`,
+        text: `Book ${page.pageNumber}`,
+        onClick: (eventObj) => {
+          eventObj.preventDefault();
+          openBookById(pageId);
+        },
+      }));
+    });
+    panel.appendChild(links);
+  }
+
+  if (entry.type === 'person' && entry.relatedPersonId) {
+    panel.appendChild(
+      el('button', {
+        type: 'button',
+        className: 'detail-close',
+        text: 'Open person in Charts',
+        onClick: () => {
+          focusPanel('charts');
+          const person = findById(appState.data.people, entry.relatedPersonId);
+          if (person) renderPersonDetail(person, appState.data);
+        },
+      })
+    );
+  }
+
+  panel.appendChild(
+    el('button', {
+      type: 'button',
+      className: 'detail-close',
+      text: 'Hide detail',
+      onClick: () => (detail.hidden = true),
+    })
+  );
+  detail.appendChild(panel);
+}
+
+function wireNamesPlacesControls() {
+  if (!namesPlacesControls.search || !namesPlacesControls.filters.length) return;
+
+  namesPlacesControls.filters.forEach((button) => {
+    button.addEventListener('click', () => {
+      namesPlacesControls.filters.forEach((btn) => btn.classList.remove('is-active'));
+      button.classList.add('is-active');
+      namesPlacesState.filter = button.dataset.filter;
+      renderNamesPlacesContent();
+    });
+  });
+
+  namesPlacesControls.search.addEventListener('input', (eventObj) => {
+    namesPlacesState.search = eventObj.target.value;
+    renderNamesPlacesContent();
+  });
+}
 function renderPhotos() {
   const photos = appState.data.photos || [];
   if (!photos.length) return;
@@ -506,8 +801,9 @@ function openBySearchType(type, id) {
     'Journal': 'journals',
     'Journal page': 'journals',
     'Source record': 'sources',
-    'Person': 'family',
-    'Place': 'search',
+    'Person': 'charts',
+    'Place': 'names-places',
+    'Home / Property': 'names-places',
     'Editorial note': 'search',
     'Photograph': 'sources',
   };
@@ -517,6 +813,10 @@ function openBySearchType(type, id) {
     if (person) {
       renderPersonDetail(person, appState.data);
     }
+    return;
+  }
+  if (type === 'Book page') {
+    openBookById(id);
     return;
   }
   document.getElementById('search-input').value = id;
@@ -543,18 +843,48 @@ function wireNavigation() {
     performSearch(event.target.value);
   });
 
+  wireNamesPlacesControls();
+
+
+  window.addEventListener('hashchange', () => {
+    const hash = window.location.hash.replace(/^#/, '');
+    const index = bookIndexFromId(hash);
+    if (index >= 0) {
+      focusPanel('book');
+      renderCurrentBookPage(index, false);
+    }
+  });
+
+  wireBookControls();
   focusPanel('story');
 }
 
 function render(data) {
   appState.data = data;
+  namesPlacesState.entries = buildNamesPlacesEntries(data);
   appState.searchIndex = flattenSearchIndex(data);
 
   const storyContainer = document.getElementById('story-content');
   data.events && sortedByDate(data.events).forEach((event) => storyContainer.appendChild(renderEvent(event, data)));
 
-  const bookContainer = document.getElementById('book-content');
-  data.bookPages?.forEach((page) => bookContainer.appendChild(renderBookPage(page)));
+  const pages = getBookPages();
+  appState.bookState.pages = pages;
+  appState.bookState.activeIndex = 0;
+  bookControls.input.max = String(pages.length || 1);
+  bookControls.total.textContent = `/ ${pages.length || 0}`;
+
+  const hash = window.location.hash.replace(/^#/, '');
+  const startIndex = bookIndexFromId(hash);
+  if (pages.length) {
+    if (startIndex >= 0) {
+      renderCurrentBookPage(startIndex, true);
+    } else {
+      renderCurrentBookPage(0, false);
+    }
+  } else {
+    bookControls.viewer.innerHTML = '';
+    status.book.textContent = 'No book pages found in the source dataset.';
+  }
 
   const journalContainer = document.getElementById('journals-content');
   data.journals?.forEach((journal) => journalContainer.appendChild(renderJournal(journal, data)));
@@ -562,10 +892,10 @@ function render(data) {
   const sourceContainer = document.getElementById('sources-content');
   data.sources?.forEach((source) => sourceContainer.appendChild(renderSource(source)));
   renderPhotos();
+  renderNamesPlacesContent();
   renderFamily(data);
 
   status.story.textContent = `${data.events?.length || 0} sample event loaded.`;
-  status.book.textContent = `${data.bookPages?.length || 0} sample book pages loaded.`;
   status.journals.textContent = `${data.journals?.length || 0} journal(s) loaded with ${data.journalPages?.length || 0} pages.`;
   status.sources.textContent = `${data.sources?.length || 0} evidence records loaded.`;
   status.family.textContent = status.family.textContent || 'Family lineage loaded from data.';
@@ -586,8 +916,18 @@ async function init() {
     status.journals.textContent = msg;
     status.sources.textContent = msg;
     status.family.textContent = msg;
+    if (status.namesPlaces) status.namesPlaces.textContent = msg;
     status.search.textContent = msg;
   }
 }
 
 init();
+
+
+
+
+
+
+
+
+
