@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 55 / 119
+Pages with transcription text: 59 / 119
 
-Untranscribed PDF pages: 56-119
+Untranscribed PDF pages: 60-119
 
 ## PDF page 1
 
@@ -2870,3 +2870,208 @@ confirmed by Joseph C. Bentley
 ### Editorial annotations
 
 First-pass visual transcription completed. The patriarchal blessing is preserved with its original grammar and unusual wording; the phrase transcribed as "a lawful heir in Our Lady" is especially uncertain in context.
+
+## PDF page 56
+
+Stable ID: `journal-rdr-page-056`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Home mission
+
+The conference of November 1 & 2 1896 on the 2nd
+Horton Collet was called to labor at Bear Lake Valley
+Utah I was one of them we were notify to meet the
+Presidency of the Stake in the council Room in the
+Tabernacle office on the 7th after the Priesthood meeting in
+the Tabernacle President Orson Smith and his two
+councilors Sandon Molen and Isaac Smith were there to
+set us apart and give us instruction for the mission
+Samuel Roskelley was there to assist them Samuel
+Roskelley pronounce the blessing on my head then
+Orson was called to proceed with the mission we were
+to start on the 20th I received a notification that
+Nephi Miller of Providence would be my companion
+we were to commence at Swan we traveled together there
+on the 22nd Bro William Johnson was guide there as to
+the people there to commence our work we visited
+Aron Paradise College Ward Right hand Logan Second
+Ward and fifth district of the third ward and work
+at home missionary I M. Roskelley are neither
+
+February 13th 1897
+
+We visited 553 families Sunday Schools 5
+meetings 24 administrations 24 ordinance 9
+bottles of olive Oil blessed 2 babies
+Was released in the Priesthood meeting March
+6th 1897 Bro Miller and myself enjoyed ourself
+very much the people in general felt good in the
+gospel received us kindly The spirit of God was
+with us to assist us so far as I know we gave
+satisfaction to those that called us
+
+March 29th 1897
+
+I have some record of my uncle John Roberts
+I shall put it on record as well as I can get it
+Him and his family started the same time as we
+did from Wales traveled in the same company all the
+
+### Editorial annotations
+
+First-pass visual transcription completed. Several names, totals, and awkward home-mission phrases remain uncertain. The John Roberts family entry continues onto PDF page 57.
+
+## PDF page 57
+
+Stable ID: `journal-rdr-page-057`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+way to Salt Lake City started from Wales April 9th 1856
+arrived in Salt Lake City October 2nd 1856 after a very hard
+journey on sea and land crossed the plains with handcarts
+when he was about (19) nineteen years of age he was work-
+ing in the present State quarry Parish Mormon he was
+preparing a blast when it went off and hurt him very
+bad his right hand was mangled very much one eye
+was entirely out the other was injured he was not able
+to see but very little I came with him as a guide to
+helped him and the family there and three children he paid
+my passage to Salt Lake City the reasons that we joined
+and not half enough to support our bodies several died
+because the hardships of the journey he died November 15th 1856
+was buried in Salt Lake City Cemetery This family came to
+Farmington 18 miles north of Salt Lake City and lived with
+father and family all winter In the year 1859 she
+married John C. Jones in 1861 they joined the Mormon
+They had a camp on Weber River about a mile below the
+mouth of the Canyon in the year 1862 they broke up
+camp and was scattered around the county John C Jones
+moved and family went to California where they
+live at present Round Valley Inyo County the two sons
+and daughter are married
+
+John Roberts was born December 8th 1822 married
+November 21st 1846 Baptized July 17th 1847 confirmed and
+ordained an Elder in the year 1849 died November 15th 1856
+I have the birth of his children
+Elizabeth Roberts was born August 8th 1847 was
+Baptized in Farmington Davis County about the year 1858
+Sidney was born March 14th 1854 died May 19th 1855
+William Daniel Roberts was born February 15th 1852
+Eliza M. Roberts was born March 12th 1854 died 6th of the
+same month
+
+Robert Edward Roberts was born January 20th 1896
+Received a letter from Mrs Jones McBride from Round
+Valley Inyo County California that her grandmother was dead
+died June 9th 1899 after an illness of 22 month Mary Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed. The family narrative contains difficult syntax, crowded dates, marginal writing, and several uncertain place/name readings; these are preserved without reconciliation.
+
+## PDF page 58
+
+Stable ID: `journal-rdr-page-058`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City December 5th 1899
+
+Some time ago I received a letter
+from my sister Ann Roberts Hopkins from
+Lima Montana in regard to the birth and
+death of her grandmother her son David is
+unknown
+
+Born at Lima Montana on September
+1st at 6 P.M. 1895 a son to David Roberts Hopkins
+and Lillian Baker Hopkins blessed by Elder
+Albert William given the name of Alfred Baker
+Hopkins died September 8th at 3 A.M. 1895
+buried at Lima
+
+December 19th 1896 a son was born
+to the above parents and blessed by his grand-
+father William Thomas Hopkins and George T.
+Young given the name of William Baker Hopkins
+The latter promises the blessing he was born
+at South Butte Montana baptized in Logan Temple
+Dec 19th 1904 by Wm H. Seamons confirmed by Joseph C. Bentley
+
+Logan City Cache County
+October 10th 1885
+
+A Blessing given by John Smith
+Patriarch upon the head of David William
+Roberts son of Thomas D. and Margaret T.
+Roberts born in Logan Cache County U.T.
+December 26th 1884
+
+David William Roberts Notwithstanding
+thy youth thou art encumbered with the seeds
+of life and an heir to all the promises of the
+Lord privileges of the new and everlasting coven-
+ants and by the authority of the priesthood
+I have I bless thee with a fathers blessing
+which is also patriarchal and I ask God
+the Eternal Father to give thine Angel
+special charge concerning thee, to watch
+
+### Editorial annotations
+
+First-pass visual transcription completed. The opening family note and several ordinance names/dates are difficult; the patriarchal blessing continues onto PDF page 59.
+
+## PDF page 59
+
+Stable ID: `journal-rdr-page-059`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+over thee through the journey of life Protect
+thee from evil and give thee power over the
+destroyer that you may grow up to man's
+Estate, become an instrument in the hands of
+the Lord in doing much good and assist in
+gathering scattered Israel Thou art of Ephraim
+and entitled to the blessings of Abraham
+Isaac and Jacob, and I say unto thee because
+of thy parents the way of life and salvation
+which thou art in thy youth and thy mind
+shall Expand. Thou shall have great faith
+in the ordinances of the Lord's house, and
+thou shall prophesy at an early day, and
+thou shall prevail among thy brethren, and
+many shall seek thee for counsel and rejoic-
+ing thy teachings Therefore be prudent and all
+shall be well with thee, Thou shall have thy
+in thy labors spiritual and temporal, shall
+be thy lot to feed the hungry and to provide
+for the fatherless and as a father in Israel
+thou shall be known far and near among
+the people, and thy name shall be handed
+down with thy posterity, in honorable remem-
+brance from generation to generation, Therefore
+remember that there is a God in Israel in
+whom we should trust, and thou shall
+fulfill thy mission. This blessing I seal
+upon thee in the name of Jesus Christ and
+I seal thee up unto Eternal life to come forth
+in the morning of the first resurrection a
+saviour in thy fathers house even so Amen
+
+Recorded in Book K
+
+### Editorial annotations
+
+First-pass visual transcription completed. One sentence near "Thou shall have thy" appears incomplete or omitted in the manuscript and is preserved without conjectural repair. The blessing ends on this page.
