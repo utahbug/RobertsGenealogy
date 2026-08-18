@@ -1,14 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
   <title id="title">Roberts Family History icon</title>
-  <desc id="desc">Welsh-family-history emblem in restrained archival palette.</desc>
-  <rect x="8" y="8" width="164" height="164" rx="26" ry="26" fill="#f3efe5" stroke="#d8cdb9" stroke-width="4"/>
+  <desc id="desc">Simplified Welsh dragon emblem for the Roberts family history archive.</desc>
+  <rect x="16" y="16" width="148" height="148" rx="22" ry="22" fill="#f3efe5" stroke="#d8cdb9" stroke-width="6"/>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M36 125 C52 58 74 52 86 86 C100 50 127 52 139 82 C153 114 139 138 118 128" stroke="#315e52" stroke-width="16"/>
-    <path d="M118 128 C92 122 96 88 112 82 C128 76 151 94 149 132" stroke="#7b3f46" stroke-width="9"/>
-    <path d="M84 84 74 72" stroke="#a8874e" stroke-width="5"/>
-    <path d="M36 128 46 130 58 136" stroke="#315e52" stroke-width="6"/>
+    <path d="M42 130 L64 38 C72 44 84 58 98 68 C112 78 130 80 142 130" stroke="#315e52" stroke-width="18" />
+    <path d="M142 130 L128 108 L150 98" stroke="#315e52" stroke-width="18" />
+    <path d="M56 128 L80 126" stroke="#315e52" stroke-width="9" />
+    <path d="M72 118 L80 92" stroke="#315e52" stroke-width="9" />
+    <path d="M56 108 L42 118" stroke="#315e52" stroke-width="8" />
+    <path d="M128 132 L120 118 L132 112" stroke="#315e52" stroke-width="8" />
+    <path d="M76 52 C72 56 72 58 76 66" stroke="#315e52" stroke-width="8" />
+    <path d="M124 58 L138 50" stroke="#315e52" stroke-width="7" />
   </g>
-  <path d="M138 90 156 86 152 104Z" fill="#315e52"/>
-  <circle cx="74" cy="82" r="3.6" fill="#302c27"/>
-  <path d="M18 148 58 148 C76 148 80 145 92 130" stroke="#a8874e" stroke-width="3" fill="none"/>
+  <circle cx="78" cy="66" r="4" fill="#302c27" />
+  <path d="M75 76 L78 70" stroke="#a8874e" stroke-width="4" />
+  <path d="M82 116 L108 116" stroke="#e2ebe5" stroke-width="4" />
+  <circle cx="112" cy="112" r="2.8" fill="#7b3f46" />
+  <path d="M36 140 C78 136 116 136 144 138" stroke="#d8cdb9" stroke-width="3" />
 </svg>
