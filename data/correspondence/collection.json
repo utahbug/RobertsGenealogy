@@ -1,0 +1,14 @@
+{
+  "id": "correspondence-roberts-family-001",
+  "title": "Roberts Family Correspondence",
+  "sectionTitle": "Letters & Correspondence",
+  "description": "Family correspondence between members of the Roberts family and their relatives and friends in Wales, Utah, and elsewhere, spanning the nineteenth and early twentieth centuries.",
+  "sourceFile": "source/Letters between Wales and Robert D Roberts.pdf",
+  "sourceFileName": "Letters between Wales and Robert D Roberts.pdf",
+  "sourceSha256": "90884f23395c2dd9cedb9dcea3b12400b8e65055d4521737b5c2b09accec475d",
+  "pdfPageCount": 109,
+  "itemCount": 80,
+  "sourceLayerNote": "The supplied source is a typed compilation of already translated and transcribed letters. It is not uniformly a set of original manuscript scans. Supplied translator comments, bracketed explanations, question marks, and uncertain readings remain part of the source text; future project editorial annotations are stored separately.",
+  "textLayer": "Supplied typed translation/transcription",
+  "annotations": []
+}

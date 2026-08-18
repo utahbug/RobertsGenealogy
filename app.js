@@ -1,6 +1,8 @@
 const appState = {
   data: null,
   bookState: { pages: [], activeIndex: 0 },
+  journalReaders: new Map(),
+  correspondenceReader: null,
   searchIndex: [],
 };
 
@@ -224,6 +226,7 @@ function buildLinks(ids, type, fallback, sourceCollection, labelFn) {
         }
         if (type === 'journal') {
           focusPanel('journals');
+          openJournalPageById(item.id);
         } else if (type === 'story') {
           focusPanel('story');
           navigateSearchTo(id);
@@ -278,35 +281,224 @@ function renderEvent(event, data) {
 
 function renderJournal(journal, data) {
   const card = el('article', { className: 'journal-card' });
-  card.appendChild(el('h3', { className: 'card-title', text: `${journal.title} (DEMO)` }));
-  card.appendChild(el('p', { className: 'meta', text: `${journal.owner || 'Sample repository'} • ${journal.location || 'Unknown'} • ${journal.dateRange || 'Date unknown'}` }));
+  card.appendChild(el('h3', { className: 'card-title', text: journal.title }));
+
+  const journalMeta = [
+    journal.primaryWriter ? `${journal.creatorLabel || 'Primary writer'}: ${journal.primaryWriter}` : '',
+    journal.language ? `Language: ${journal.language}` : '',
+    journal.pdfPageCount ? `${journal.pdfPageCount} PDF pages` : '',
+    journal.dateRange || 'Date range not established',
+  ].filter(Boolean);
+  card.appendChild(el('p', { className: 'meta', text: journalMeta.join(' • ') }));
 
   if (journal.description) {
     card.appendChild(el('p', { text: journal.description }));
+  }
+
+  if (journal.sourceTitle) {
+    card.appendChild(el('p', { className: 'journal-source-title', text: `Source label: ${journal.sourceTitle}` }));
+  }
+
+  if (journal.openingContentNote) {
+    card.appendChild(el('p', { className: 'journal-context-note', text: journal.openingContentNote }));
+  }
+
+  if (journal.authorshipNote) {
+    card.appendChild(el('p', { className: 'journal-context-note', text: journal.authorshipNote }));
+  }
+
+  if (journal.continuationNote) {
+    card.appendChild(el('p', { className: 'meta', text: journal.continuationNote }));
+  }
+
+  if (journal.sourceIdentityNote) {
+    card.appendChild(el('p', { className: 'journal-context-note', text: journal.sourceIdentityNote }));
+  }
+
+  if (journal.physicalStructureNote) {
+    card.appendChild(el('p', { className: 'meta', text: journal.physicalStructureNote }));
+  }
+
+  if (journal.exportStatus) {
+    card.appendChild(el('p', { className: 'meta', text: journal.exportStatus }));
+  }
+
+  if (journal.downloads?.length) {
+    const downloads = el('div', { className: 'journal-downloads' });
+    downloads.appendChild(el('span', { className: 'tag', text: 'Transcription exports' }));
+    journal.downloads.forEach((download) => {
+      downloads.appendChild(el('a', { className: 'link-chip', href: download.path, text: download.label }));
+    });
+    card.appendChild(downloads);
   }
 
   const pages = data.journalPages
     .filter((p) => p.journalId === journal.id)
     .sort((a, b) => (Number(a.pageNumber) || 0) - (Number(b.pageNumber) || 0));
 
-  pages.forEach((page) => {
-    const panel = el('section', { className: 'event-card' });
-    panel.appendChild(el('h4', { className: 'card-title', text: `Page ${page.pageNumber}` }));
-    panel.appendChild(el('p', { className: 'meta', text: `Journal page ${page.pageNumber} (DEMO)` }));
+  if (!pages.length) {
+    card.appendChild(el('p', { className: 'status-note', text: 'No journal pages are available.' }));
+    return card;
+  }
 
-    const reader = el('div', { className: 'journal-reader' });
-    reader.appendChild(el('div', { className: 'image-frame' }, [makeZoomImage(page.image, `Sample journal page ${page.pageNumber}`)]));
+  const toolbar = el('div', { className: 'journal-toolbar', role: 'group', 'aria-label': `${journal.title} page controls` });
+  const firstButton = el('button', { type: 'button', className: 'journal-control', text: 'First' });
+  const prevButton = el('button', { type: 'button', className: 'journal-control', text: 'Previous' });
+  const nextButton = el('button', { type: 'button', className: 'journal-control', text: 'Next' });
+  const lastButton = el('button', { type: 'button', className: 'journal-control', text: 'Last' });
+  const pageInput = el('input', {
+    type: 'number',
+    className: 'journal-page-input',
+    min: 1,
+    max: pages.length,
+    value: 1,
+    'aria-label': `${journal.title} PDF page number`,
+  });
+  const goButton = el('button', { type: 'button', className: 'journal-control', text: 'Go' });
+  const pageJump = el('div', { className: 'journal-page-jump' }, [
+    el('span', { text: 'PDF page' }),
+    pageInput,
+    el('span', { text: `/ ${pages.length}` }),
+    goButton,
+  ]);
+  toolbar.appendChild(firstButton);
+  toolbar.appendChild(prevButton);
+  toolbar.appendChild(pageJump);
+  toolbar.appendChild(nextButton);
+  toolbar.appendChild(lastButton);
+  card.appendChild(toolbar);
+
+  const pageHost = el('div', { className: 'journal-page-host' });
+  card.appendChild(pageHost);
+
+  let activeIndex = 0;
+
+  const renderPageAt = (requestedIndex, updateHash = true) => {
+    activeIndex = Math.max(0, Math.min(requestedIndex, pages.length - 1));
+    const page = pages[activeIndex];
+    pageInput.value = String(page.pdfPageNumber || page.pageNumber);
+    firstButton.disabled = activeIndex === 0;
+    prevButton.disabled = activeIndex === 0;
+    nextButton.disabled = activeIndex === pages.length - 1;
+    lastButton.disabled = activeIndex === pages.length - 1;
+
+    pageHost.innerHTML = '';
+    const panel = el('section', { className: 'event-card journal-page-panel', id: page.id });
+    const manuscriptLabel = page.manuscriptPageNumber ? ` • Manuscript page ${page.manuscriptPageNumber}` : '';
+    const sectionLabel = page.sectionLabel ? ` • ${page.sectionLabel}` : '';
+    panel.appendChild(el('h4', { className: 'card-title', text: `PDF page ${page.pdfPageNumber || page.pageNumber}${manuscriptLabel}${sectionLabel}` }));
+    panel.appendChild(el('p', { className: 'meta', text: `Stable ID: ${page.id}` }));
+
+    const statusText = (page.transcriptionStatus || 'untranscribed').replaceAll('-', ' ');
+    panel.appendChild(el('span', {
+      className: `transcription-status status-${page.transcriptionStatus || 'untranscribed'}`,
+      text: `Transcription status: ${statusText}`,
+    }));
+
+    if (page.translationStatus) {
+      const translationStatusText = page.translationStatus.replaceAll('-', ' ');
+      panel.appendChild(el('span', {
+        className: `transcription-status translation-status status-${page.translationStatus}`,
+        text: `Translation status: ${translationStatusText}`,
+      }));
+    }
+
+    const attribution = [
+      page.contentAuthor ? `Content author: ${page.contentAuthor}` : '',
+      page.scribe ? `Scribe: ${page.scribe}` : '',
+      page.translator ? `Translator: ${page.translator}` : '',
+      page.editor ? `Editor: ${page.editor}` : '',
+      page.attributionStatus ? `Attribution: ${page.attributionStatus}` : '',
+    ].filter(Boolean);
+    if (attribution.length) {
+      panel.appendChild(el('p', { className: 'meta journal-attribution', text: attribution.join(' • ') }));
+    }
+    if (page.attributionBasis) {
+      panel.appendChild(el('p', { className: 'meta', text: `Attribution basis: ${page.attributionBasis}` }));
+    }
+
+    if (page.contentContext) {
+      panel.appendChild(el('p', { className: 'journal-context-note', text: page.contentContext }));
+    }
+
+    const isWelshReader = journal.readerLayout === 'welsh-english';
+    const reader = el('div', { className: `journal-reader${isWelshReader ? ' journal-reader--welsh' : ''}` });
+    const imageColumn = el('div', { className: 'journal-source-column' });
+    imageColumn.appendChild(el('h5', { className: 'reader-heading', text: 'Original scanned journal page' }));
+    imageColumn.appendChild(el('div', { className: 'image-frame' }, [
+      makeZoomImage(page.image, `${journal.title}, PDF page ${page.pdfPageNumber || page.pageNumber}`),
+    ]));
+    if (journal.sourceFile) {
+      imageColumn.appendChild(el('a', {
+        className: 'journal-pdf-link',
+        href: `${journal.sourceFile}#page=${page.pdfPageNumber || page.pageNumber}`,
+        target: '_blank',
+        rel: 'noopener',
+        text: 'Open this page in the unchanged source PDF',
+      }));
+    }
+    reader.appendChild(imageColumn);
 
     const textColumn = el('div', { className: 'reader-text' });
-    textColumn.appendChild(el('p', { text: `Transcription: ${page.transcription || 'Transcription sample pending.'}` }));
+    if (isWelshReader) {
+      const comparison = el('div', { className: 'journal-language-comparison' });
+      const welshLayer = el('section', { className: 'journal-language-layer' });
+      welshLayer.appendChild(el('h5', { className: 'reader-heading', text: page.sourceTranscriptionLabel || 'Welsh transcription' }));
+      welshLayer.appendChild(el('pre', { className: 'transcription-text', text: page.welshTranscription || '[Untranscribed]' }));
+      comparison.appendChild(welshLayer);
+
+      const englishLayer = el('section', { className: 'journal-language-layer' });
+      englishLayer.appendChild(el('h5', { className: 'reader-heading', text: page.translationLabel || 'Modern English translation' }));
+      englishLayer.appendChild(el('pre', { className: 'transcription-text', text: page.translation || '[Untranslated]' }));
+      comparison.appendChild(englishLayer);
+      textColumn.appendChild(comparison);
+    } else {
+      textColumn.appendChild(el('h5', { className: 'reader-heading', text: page.transcriptionLabel || 'Transcription' }));
+      textColumn.appendChild(el('pre', { className: 'transcription-text', text: page.transcription || '[Untranscribed]' }));
+    }
+
+    if (page.machineDraft) {
+      const machineLayer = el('section', { className: 'journal-layer' });
+      machineLayer.appendChild(el('h5', { className: 'reader-heading', text: 'Machine/OCR assistance' }));
+      machineLayer.appendChild(el('pre', { className: 'transcription-text machine-draft', text: page.machineDraft }));
+      textColumn.appendChild(machineLayer);
+    }
     if (page.originalLanguageTranscription) {
-      textColumn.appendChild(el('p', { text: `Original language: ${page.originalLanguageTranscription}` }));
+      const languageLayer = el('section', { className: 'journal-layer' });
+      languageLayer.appendChild(el('h5', { className: 'reader-heading', text: 'Original-language transcription' }));
+      languageLayer.appendChild(el('pre', { className: 'transcription-text', text: page.originalLanguageTranscription }));
+      textColumn.appendChild(languageLayer);
     }
     if (page.translation) {
-      textColumn.appendChild(el('p', { text: `English translation: ${page.translation}` }));
+      const translationLayer = el('section', { className: 'journal-layer' });
+      translationLayer.appendChild(el('h5', { className: 'reader-heading', text: 'English translation' }));
+      translationLayer.appendChild(el('pre', { className: 'transcription-text', text: page.translation }));
+      textColumn.appendChild(translationLayer);
     }
     if (page.notes) {
-      textColumn.appendChild(el('p', { className: 'meta', text: `Notes: ${page.notes}` }));
+      const notesLayer = el('section', { className: 'journal-layer' });
+      notesLayer.appendChild(el('h5', { className: 'reader-heading', text: page.notesLabel || 'Editorial annotations' }));
+      notesLayer.appendChild(el('p', { className: 'meta', text: page.notes }));
+      textColumn.appendChild(notesLayer);
+    }
+
+    if (page.relatedJournalPassages?.length) {
+      const relatedLayer = el('section', { className: 'journal-layer' });
+      relatedLayer.appendChild(el('h5', { className: 'reader-heading', text: 'Related journal passages' }));
+      page.relatedJournalPassages.forEach((relationship) => {
+        const relatedPage = findById(data.journalPages, relationship.pageId);
+        if (!relatedPage) return;
+        relatedLayer.appendChild(el('a', {
+          className: 'link-chip',
+          href: `#${relatedPage.id}`,
+          text: `${relationship.relationship}: ${relatedPage.title}`,
+          onClick: (event) => {
+            event.preventDefault();
+            openJournalPageById(relatedPage.id);
+          },
+        }));
+      });
+      textColumn.appendChild(relatedLayer);
     }
 
     const people = (page.people || [])
@@ -329,18 +521,53 @@ function renderJournal(journal, data) {
     reader.appendChild(textColumn);
 
     panel.appendChild(reader);
-    card.appendChild(panel);
+    pageHost.appendChild(panel);
+
+    if (updateHash) history.replaceState(null, '', `#${page.id}`);
+  };
+
+  firstButton.addEventListener('click', () => renderPageAt(0));
+  prevButton.addEventListener('click', () => renderPageAt(activeIndex - 1));
+  nextButton.addEventListener('click', () => renderPageAt(activeIndex + 1));
+  lastButton.addEventListener('click', () => renderPageAt(pages.length - 1));
+  goButton.addEventListener('click', () => {
+    const requested = Number(pageInput.value);
+    if (Number.isFinite(requested)) renderPageAt(Math.round(requested) - 1);
   });
+  pageInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') goButton.click();
+  });
+
+  appState.journalReaders.set(journal.id, {
+    openPage(pageId, updateHash = true) {
+      const index = pages.findIndex((page) => page.id === pageId);
+      if (index >= 0) renderPageAt(index, updateHash);
+    },
+  });
+
+  renderPageAt(0, false);
 
   return card;
 }
 
+function openJournalPageById(pageId, updateHash = true) {
+  const page = findById(appState.data?.journalPages || [], pageId);
+  if (!page) return;
+  const reader = appState.journalReaders.get(page.journalId);
+  if (!reader) return;
+  focusPanel('journals');
+  reader.openPage(pageId, updateHash);
+  document.getElementById(pageId)?.scrollIntoView({ block: 'nearest' });
+}
+
 function renderSource(source) {
   const card = el('article', { className: 'source-card', id: `source-${source.id}` });
-  card.appendChild(el('h3', { className: 'card-title', text: `${source.title} (DEMO)` }));
-  card.appendChild(el('p', { className: 'meta', text: `${source.type} • ${source.date || 'date not set'}` }));
-  card.appendChild(el('p', { text: source.description || 'No description available.' }));
-  if (source.location) card.appendChild(el('p', { className: 'meta', text: `Repository: ${source.location}` }));
+  const demoLabel = source.demo === false ? '' : ' (DEMO)';
+  card.appendChild(el('h3', { className: 'card-title', text: `${source.title}${demoLabel}` }));
+  card.appendChild(el('p', { className: 'meta', text: `${source.sourceType || source.type || 'Source'} • ${source.date || 'date not set'}` }));
+  card.appendChild(el('p', { text: source.description || source.summary || 'No description available.' }));
+  const repository = source.location || source.repository;
+  if (repository) card.appendChild(el('p', { className: 'meta', text: `Repository: ${repository}` }));
   if (source.citation) card.appendChild(el('p', { className: 'meta', text: `Citation: ${source.citation}` }));
 
   if (source.supports?.length) {
@@ -348,6 +575,224 @@ function renderSource(source) {
   }
 
   return card;
+}
+
+function correspondenceParticipantLabel(item) {
+  const sender = item.senderDisplay || (item.senders || []).join(' and ') || 'Sender not identified';
+  const recipient = item.recipientDisplay || (item.recipients || []).join(' and ') || 'Recipient not identified';
+  return `${sender} -> ${recipient}`;
+}
+
+function renderCorrespondence(data) {
+  const host = document.getElementById('sources-content');
+  const collections = data.correspondenceCollections || [];
+  const pages = [...(data.correspondencePages || [])].sort((a, b) => a.pdfPageNumber - b.pdfPageNumber);
+  const items = [...(data.letters || [])].sort((a, b) => (a.sortDate || '9999-99-99').localeCompare(b.sortDate || '9999-99-99') || a.id.localeCompare(b.id));
+  if (!host || !collections.length || !pages.length) return;
+
+  const collection = collections[0];
+  const section = el('section', { className: 'correspondence-section', id: collection.id });
+  section.appendChild(el('p', { className: 'eyebrow', text: 'Letters & Correspondence' }));
+  section.appendChild(el('h3', { className: 'card-title correspondence-title', text: collection.title }));
+  section.appendChild(el('p', { text: collection.description }));
+  section.appendChild(el('p', { className: 'journal-context-note', text: collection.sourceLayerNote }));
+  section.appendChild(el('p', { className: 'meta', text: `${collection.pdfPageCount} supplied compilation pages • ${items.length} identifiable letters/items • Stable collection ID: ${collection.id}` }));
+
+  const browseHeading = el('h4', { className: 'reader-heading', text: 'Browse identifiable correspondence' });
+  section.appendChild(browseHeading);
+
+  const browseControls = el('div', { className: 'correspondence-browse-controls' });
+  const modes = [
+    ['all', 'All'],
+    ['date', 'Date'],
+    ['participant', 'Sender / Recipient'],
+    ['place', 'Place'],
+  ];
+  const modeButtons = modes.map(([mode, label], index) => el('button', {
+    type: 'button',
+    className: `filter-button${index === 0 ? ' is-active' : ''}`,
+    text: label,
+    dataset: { mode },
+  }));
+  modeButtons.forEach((button) => browseControls.appendChild(button));
+  const filterValue = el('select', { className: 'correspondence-filter-value', 'aria-label': 'Correspondence filter value' });
+  filterValue.hidden = true;
+  browseControls.appendChild(filterValue);
+  const localSearch = el('input', {
+    type: 'search',
+    className: 'correspondence-search',
+    placeholder: 'Search letters, people, places, or supplied text',
+    'aria-label': 'Search Roberts Family Correspondence',
+  });
+  browseControls.appendChild(localSearch);
+  section.appendChild(browseControls);
+
+  const itemStatus = el('p', { className: 'status-note', role: 'status', 'aria-live': 'polite' });
+  const itemList = el('div', { className: 'correspondence-item-list' });
+  section.appendChild(itemStatus);
+  section.appendChild(itemList);
+
+  const readerHeading = el('h4', { className: 'reader-heading correspondence-reader-heading', text: 'Compilation page reader' });
+  section.appendChild(readerHeading);
+  const toolbar = el('div', { className: 'journal-toolbar correspondence-toolbar', role: 'group', 'aria-label': 'Correspondence page controls' });
+  const prevButton = el('button', { type: 'button', className: 'journal-control', text: 'Previous' });
+  const nextButton = el('button', { type: 'button', className: 'journal-control', text: 'Next' });
+  const pageInput = el('input', { type: 'number', className: 'journal-page-input', min: 1, max: pages.length, value: 1, 'aria-label': 'Correspondence PDF page number' });
+  const goButton = el('button', { type: 'button', className: 'journal-control', text: 'Go' });
+  toolbar.appendChild(prevButton);
+  toolbar.appendChild(el('div', { className: 'journal-page-jump' }, [el('span', { text: 'PDF page' }), pageInput, el('span', { text: `/ ${pages.length}` }), goButton]));
+  toolbar.appendChild(nextButton);
+  section.appendChild(toolbar);
+  const pageHost = el('div', { className: 'correspondence-page-host' });
+  section.appendChild(pageHost);
+  host.appendChild(section);
+
+  let activePageIndex = 0;
+  let activeItemId = '';
+  let filterMode = 'all';
+
+  const openPageAt = (requestedIndex, updateHash = true) => {
+    activePageIndex = Math.max(0, Math.min(requestedIndex, pages.length - 1));
+    const page = pages[activePageIndex];
+    pageInput.value = String(page.pdfPageNumber);
+    prevButton.disabled = activePageIndex === 0;
+    nextButton.disabled = activePageIndex === pages.length - 1;
+    pageHost.innerHTML = '';
+
+    const panel = el('article', { className: 'event-card correspondence-page-panel', id: page.id });
+    panel.appendChild(el('h5', { className: 'card-title', text: `Roberts Family Correspondence - PDF page ${page.pdfPageNumber}` }));
+    panel.appendChild(el('p', { className: 'meta', text: `Stable page ID: ${page.id}` }));
+
+    const pageItems = (page.itemIds || []).map((id) => findById(items, id)).filter(Boolean);
+    if (pageItems.length) {
+      const itemMeta = el('div', { className: 'correspondence-page-items' });
+      pageItems.forEach((item) => {
+        itemMeta.appendChild(el('div', { className: `correspondence-page-item${item.id === activeItemId ? ' is-active' : ''}` }, [
+          el('strong', { text: item.title }),
+          el('span', { className: 'meta', text: `${item.dateDisplay} • ${item.textTypeLabel}` }),
+        ]));
+      });
+      panel.appendChild(itemMeta);
+    }
+
+    const reader = el('div', { className: 'correspondence-reader-grid' });
+    const pageColumn = el('div', { className: 'journal-source-column' });
+    pageColumn.appendChild(el('h6', { className: 'reader-heading', text: 'Supplied compilation page' }));
+    pageColumn.appendChild(el('div', { className: 'image-frame' }, [makeZoomImage(page.image, `Roberts Family Correspondence PDF page ${page.pdfPageNumber}`)]));
+    pageColumn.appendChild(el('a', {
+      className: 'journal-pdf-link',
+      href: `${collection.sourceFile}#page=${page.pdfPageNumber}`,
+      target: '_blank',
+      rel: 'noopener',
+      text: 'Open this page in the unchanged source compilation PDF',
+    }));
+    reader.appendChild(pageColumn);
+
+    const textColumn = el('div', { className: 'reader-text correspondence-text-column' });
+    textColumn.appendChild(el('h6', { className: 'reader-heading', text: 'Selectable supplied text' }));
+    textColumn.appendChild(el('p', { className: 'meta', text: 'This is the compilation text as supplied, not a project-corrected transcription or a claim that an original manuscript survives.' }));
+    textColumn.appendChild(el('pre', { className: 'transcription-text correspondence-page-text', text: page.suppliedText || '[No supplied text extracted]' }));
+    reader.appendChild(textColumn);
+    panel.appendChild(reader);
+    pageHost.appendChild(panel);
+    if (updateHash) history.replaceState(null, '', `#${page.id}`);
+  };
+
+  const openLetter = (letterId, updateHash = true) => {
+    const item = findById(items, letterId);
+    if (!item) return;
+    activeItemId = item.id;
+    const pageIndex = pages.findIndex((page) => page.id === item.sourcePageIds?.[0]);
+    if (pageIndex >= 0) openPageAt(pageIndex, updateHash);
+    itemList.querySelectorAll('[data-letter-id]').forEach((button) => button.classList.toggle('is-active', button.dataset.letterId === item.id));
+    pageHost.scrollIntoView({ block: 'nearest' });
+  };
+
+  const rebuildFilterValues = () => {
+    filterValue.innerHTML = '';
+    filterValue.appendChild(el('option', { value: '', text: 'All values' }));
+    let values = [];
+    if (filterMode === 'date') {
+      values = [...new Set(items.map((item) => item.date ? `${item.date.slice(0, 3)}0s` : 'Uncertain / undated'))];
+    } else if (filterMode === 'participant') {
+      values = [...new Set(items.flatMap((item) => [...(item.senders || []), ...(item.recipients || [])]))];
+    } else if (filterMode === 'place') {
+      values = [...new Set(items.flatMap((item) => item.placeNames || [item.origin, item.destination]).filter(Boolean))];
+    }
+    values.sort((a, b) => a.localeCompare(b));
+    values.forEach((value) => filterValue.appendChild(el('option', { value, text: value })));
+    filterValue.hidden = filterMode === 'all';
+  };
+
+  const renderItemList = () => {
+    const query = localSearch.value.trim().toLowerCase();
+    const selected = filterValue.value;
+    const visible = items.filter((item) => {
+      const matchesQuery = !query || item.searchText.includes(query);
+      if (!matchesQuery || !selected) return matchesQuery;
+      if (filterMode === 'date') return item.date ? `${item.date.slice(0, 3)}0s` === selected : selected === 'Uncertain / undated';
+      if (filterMode === 'participant') return [...(item.senders || []), ...(item.recipients || [])].includes(selected);
+      if (filterMode === 'place') return (item.placeNames || [item.origin, item.destination]).includes(selected);
+      return true;
+    });
+    itemStatus.textContent = `${visible.length} of ${items.length} identifiable correspondence items shown.`;
+    itemList.innerHTML = '';
+    visible.forEach((item) => {
+      const button = el('button', {
+        type: 'button',
+        className: `correspondence-item-button${item.id === activeItemId ? ' is-active' : ''}`,
+        dataset: { letterId: item.id },
+        onClick: () => openLetter(item.id),
+      });
+      button.appendChild(el('strong', { text: item.title }));
+      button.appendChild(el('span', { className: 'meta', text: [item.origin, item.destination, `PDF ${item.pdfPages.join(', ')}`, item.dateCertainty !== 'exact' ? `Date: ${item.dateCertainty}` : ''].filter(Boolean).join(' • ') }));
+      if (item.notes) button.appendChild(el('span', { className: 'meta', text: item.notes }));
+      itemList.appendChild(button);
+    });
+  };
+
+  modeButtons.forEach((button) => button.addEventListener('click', () => {
+    modeButtons.forEach((candidate) => candidate.classList.remove('is-active'));
+    button.classList.add('is-active');
+    filterMode = button.dataset.mode;
+    rebuildFilterValues();
+    renderItemList();
+  }));
+  filterValue.addEventListener('change', renderItemList);
+  localSearch.addEventListener('input', renderItemList);
+  prevButton.addEventListener('click', () => openPageAt(activePageIndex - 1));
+  nextButton.addEventListener('click', () => openPageAt(activePageIndex + 1));
+  goButton.addEventListener('click', () => {
+    const requested = Number(pageInput.value);
+    if (Number.isFinite(requested)) openPageAt(Math.round(requested) - 1);
+  });
+  pageInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') goButton.click();
+  });
+
+  rebuildFilterValues();
+  renderItemList();
+  openPageAt(0, false);
+  appState.correspondenceReader = {
+    openPage(pageId, updateHash = true) {
+      const index = pages.findIndex((page) => page.id === pageId);
+      if (index >= 0) openPageAt(index, updateHash);
+    },
+    openLetter,
+  };
+}
+
+function openCorrespondencePageById(pageId, updateHash = true) {
+  if (!appState.correspondenceReader) return;
+  focusPanel('sources');
+  appState.correspondenceReader.openPage(pageId, updateHash);
+  document.getElementById(pageId)?.scrollIntoView({ block: 'nearest' });
+}
+
+function openCorrespondenceItemById(letterId, updateHash = true) {
+  if (!appState.correspondenceReader) return;
+  focusPanel('sources');
+  appState.correspondenceReader.openLetter(letterId, updateHash);
 }
 
 function renderPersonDetail(person, data) {
@@ -367,6 +812,15 @@ function renderPersonDetail(person, data) {
     panel.appendChild(el('p', { text: person.summary }));
   } else {
     panel.appendChild(el('p', { text: 'No biographical summary has been added.' }));
+  }
+
+  const personAliases = [...new Set([...(person.aliases || []), ...(person.variants || [])])];
+  if (personAliases.length) {
+    panel.appendChild(el('p', { className: 'meta', text: `Aliases / source variants: ${personAliases.join(', ')}` }));
+  }
+
+  if (person.historicalRoles?.length) {
+    panel.appendChild(buildTagRow(person.historicalRoles, 'Historical roles', (role) => role));
   }
 
   if (person.birthDate || person.deathDate || person.birthPlace || person.deathPlace) {
@@ -508,7 +962,7 @@ function renderFamily(data) {
 
 function buildNamesPlacesEntries(data) {
   const people = (data.people || [])
-    .filter((person) => person.indexScope === 'book-pages-001-068' && sourcePagesFor(person).length)
+    .filter((person) => (person.indexScope === 'book-pages-001-068' && sourcePagesFor(person).length) || (person.sourceOccurrences || []).some((occurrence) => occurrence.sourceType === 'correspondence'))
     .map((person) => ({
     id: person.id,
     type: 'person',
@@ -525,14 +979,15 @@ function buildNamesPlacesEntries(data) {
     uncertainty: Boolean(person.uncertainty),
     uncertaintyNote: person.uncertaintyNote || '',
     relationship: person.relationship || person.generationLabel || '',
-    searchText: [person.name, person.nameAsWritten, person.displayName, person.relationship, person.locality, person.county, ...(person.variants || []), ...sourcePagesFor(person)]
+    correspondenceOccurrences: (person.sourceOccurrences || []).filter((occurrence) => occurrence.sourceType === 'correspondence'),
+    searchText: [person.name, person.nameAsWritten, person.displayName, person.relationship, person.locality, person.county, ...(person.variants || []), ...sourcePagesFor(person), ...(person.sourceOccurrences || []).flatMap((occurrence) => [occurrence.letterId, occurrence.sourcePageId, occurrence.role])]
       .filter(Boolean)
       .join(' ')
       .toLowerCase(),
   }));
 
   const places = (data.places || [])
-    .filter((place) => place.indexScope === 'book-pages-001-068' && sourcePagesFor(place).length)
+    .filter((place) => (place.indexScope === 'book-pages-001-068' && sourcePagesFor(place).length) || (place.sourceOccurrences || []).some((occurrence) => occurrence.sourceType === 'correspondence'))
     .map((place) => {
     const rawType = (place.type || 'place').toLowerCase();
     const homeTypes = ['home', 'farm', 'house', 'estate', 'property', 'quarry', 'factory', 'mine'];
@@ -552,7 +1007,8 @@ function buildNamesPlacesEntries(data) {
       englishGloss: place.englishGloss || '',
       uncertainty: Boolean(place.uncertainty),
       uncertaintyNote: place.uncertaintyNote || '',
-      searchText: [place.name, place.nameAsWritten, place.displayName, place.displayType, place.locality, place.county, place.englishGloss, ...(place.variants || []), ...sourcePagesFor(place)]
+      correspondenceOccurrences: (place.sourceOccurrences || []).filter((occurrence) => occurrence.sourceType === 'correspondence'),
+      searchText: [place.name, place.nameAsWritten, place.displayName, place.displayType, place.locality, place.county, place.englishGloss, ...(place.variants || []), ...sourcePagesFor(place), ...(place.sourceOccurrences || []).flatMap((occurrence) => [occurrence.letterId, occurrence.sourcePageId])]
         .filter(Boolean)
         .join(' ')
         .toLowerCase(),
@@ -604,7 +1060,14 @@ function renderNamesPlacesContent() {
   visible.forEach((entry) => {
     const card = el('article', { className: 'page-card nameplace-entry', id: `np-${entry.id}` });
     card.appendChild(el('h3', { className: 'card-title', text: entry.displayName }));
-    card.appendChild(el('p', { className: 'meta', text: `${entry.kind} | ${entry.sourcePages.length} Book page reference${entry.sourcePages.length === 1 ? '' : 's'}` }));
+    const referenceSummary = [];
+    if (entry.sourcePages.length) {
+      referenceSummary.push(`${entry.sourcePages.length} Book page reference${entry.sourcePages.length === 1 ? '' : 's'}`);
+    }
+    if (entry.correspondenceOccurrences?.length) {
+      referenceSummary.push(`${entry.correspondenceOccurrences.length} correspondence reference${entry.correspondenceOccurrences.length === 1 ? '' : 's'}`);
+    }
+    card.appendChild(el('p', { className: 'meta', text: `${entry.kind} | ${referenceSummary.join(' | ')}` }));
     if (entry.locality || entry.county) {
       card.appendChild(el('p', { className: 'nameplace-summary', text: [entry.locality, entry.county].filter(Boolean).join(' | ') }));
     }
@@ -676,6 +1139,25 @@ function renderNamesPlacesDetail(entry) {
           eventObj.preventDefault();
           focusPanel('book');
           openBookById(pageId);
+        },
+      }));
+    });
+    panel.appendChild(links);
+  }
+
+  if (entry.correspondenceOccurrences?.length) {
+    const links = el('div', { className: 'section-links' });
+    links.appendChild(el('span', { className: 'tag', text: 'Correspondence' }));
+    entry.correspondenceOccurrences.forEach((occurrence) => {
+      const letter = findById(appState.data.letters || [], occurrence.letterId);
+      if (!letter) return;
+      links.appendChild(el('a', {
+        className: 'link-chip',
+        href: `#${occurrence.sourcePageId}`,
+        text: `${letter.dateDisplay}: ${letter.title}`,
+        onClick: (eventObj) => {
+          eventObj.preventDefault();
+          openCorrespondenceItemById(letter.id);
         },
       }));
     });
@@ -764,6 +1246,8 @@ function flattenSearchIndex(data) {
         item.description,
         item.caption,
         item.transcription,
+        item.primaryWriter,
+        item.transcriptionStatus,
         item.originalLanguageTranscription,
         item.translation,
         item.summary,
@@ -781,18 +1265,71 @@ function flattenSearchIndex(data) {
         title: item.title || item.displayName || item.name || 'Untitled',
         text: chunks.toLowerCase(),
         snippet: item.summary || item.description || item.caption || item.notes || '',
-        rawText: item.ocrText || '',
+        rawText: item.ocrText || (item.journalId ? item.transcription || '' : ''),
       });
+    });
+  };
+
+  const appendJournalLayer = (item, layerLabel, layerText) => {
+    const chunks = [
+      item.id,
+      item.title,
+      item.journalTitle,
+      item.sectionLabel,
+      item.contentContext,
+      item.notes,
+      item.attributionBasis,
+      layerText,
+      ...(item.dates || []),
+    ].filter(Boolean).join(' ');
+    index.push({
+      id: item.id,
+      type: `Journal - ${layerLabel}`,
+      title: item.title || `${item.journalTitle} - PDF page ${item.pdfPageNumber}`,
+      text: chunks.toLowerCase(),
+      snippet: item.contentContext || `${item.journalTitle}, PDF page ${item.pdfPageNumber}`,
+      rawText: layerText || '',
     });
   };
 
   appendItems(data.events, 'Story Event');
   appendItems(data.bookPages, 'Original Book');
   appendItems(data.journals, 'Journal');
-  appendItems(data.journalPages, 'Journal page');
+  (data.journalPages || []).forEach((page) => {
+    if (page.welshTranscription != null) {
+      appendJournalLayer(page, page.searchLayer || 'Welsh transcription', page.welshTranscription);
+      const translation = (page.translation || '').trim();
+      if (translation && !/^\[(Untranslated|Not applicable)/i.test(translation)) {
+        appendJournalLayer(page, 'Modern English translation', translation);
+      }
+      return;
+    }
+    appendJournalLayer(page, page.searchLayer || 'English transcription', page.transcription || '');
+  });
+  appendItems(data.correspondenceCollections, 'Correspondence collection');
+  (data.letters || []).forEach((item) => {
+    index.push({
+      id: item.id,
+      type: 'Correspondence',
+      title: item.title,
+      text: item.searchText,
+      snippet: ['Roberts Family Correspondence', correspondenceParticipantLabel(item), item.dateDisplay, item.pageLabel, item.origin].filter(Boolean).join(' • '),
+      rawText: item.text || '',
+    });
+  });
+  (data.correspondencePages || []).forEach((page) => {
+    index.push({
+      id: page.id,
+      type: 'Correspondence page',
+      title: `Roberts Family Correspondence - PDF page ${page.pdfPageNumber}`,
+      text: `${page.id} correspondence page ${page.pdfPageNumber}`,
+      snippet: `Supplied compilation PDF page ${page.pdfPageNumber}`,
+      rawText: '',
+    });
+  });
   appendItems(data.sources, 'Source record');
-  appendItems((data.people || []).filter((item) => item.indexScope === 'book-pages-001-068'), 'Person');
-  appendItems((data.places || []).filter((item) => item.indexScope === 'book-pages-001-068'), (item) => item.displayType || 'Place');
+  appendItems((data.people || []).filter((item) => item.indexScope === 'book-pages-001-068' || (item.sourceOccurrences || []).length), 'Person');
+  appendItems((data.places || []).filter((item) => item.indexScope === 'book-pages-001-068' || (item.sourceOccurrences || []).length), (item) => item.displayType || 'Place');
   appendItems(data.editorialNotes, 'Editorial note');
   appendItems(data.photos, 'Photograph');
 
@@ -867,11 +1404,29 @@ function openBySearchType(type, id) {
     return;
   }
 
+  if (findById(appState.data?.journalPages || [], id)) {
+    openJournalPageById(id);
+    return;
+  }
+
+  if (findById(appState.data?.letters || [], id)) {
+    openCorrespondenceItemById(id);
+    return;
+  }
+
+  if (findById(appState.data?.correspondencePages || [], id)) {
+    openCorrespondencePageById(id);
+    return;
+  }
+
   const map = {
     'Story Event': 'story',
     'Original Book': 'book',
     'Journal': 'journals',
     'Journal page': 'journals',
+    'Correspondence': 'sources',
+    'Correspondence page': 'sources',
+    'Correspondence collection': 'sources',
     'Source record': 'sources',
     'Person': 'charts',
     'Place': 'names-places',
@@ -929,11 +1484,54 @@ function wireNavigation() {
     if (index >= 0) {
       focusPanel('book');
       renderCurrentBookPage(index, false);
+      return;
+    }
+    openJournalPageById(hash, false);
+    if (findById(appState.data?.correspondencePages || [], hash)) {
+      openCorrespondencePageById(hash, false);
     }
   });
 
   wireBookControls();
   focusPanel('story');
+}
+
+function renderBookProvenance(data) {
+  const host = document.getElementById('book-provenance');
+  if (!host) return;
+  host.innerHTML = '';
+  const book = (data.books || []).find((item) => item.id === 'book-roberts-remembrance') || data.books?.[0];
+  if (!book?.compiler) return;
+
+  const card = el('article', { className: 'book-provenance-card' });
+  card.appendChild(el('p', { className: 'eyebrow', text: 'Historical compilation context' }));
+  card.appendChild(el('h3', { className: 'card-title', text: 'Original compilation and modern editorial layer' }));
+  card.appendChild(el('p', { className: 'meta', text: `Compiler: ${book.compiler}${book.compilerAliases?.length ? ` (also known as ${book.compilerAliases.join(', ')})` : ''}` }));
+  if (book.originalCompilationNote) {
+    card.appendChild(el('p', { text: book.originalCompilationNote }));
+  }
+
+  const context = book.historicalContext;
+  if (context) {
+    const contextBlock = el('div', { className: 'book-provenance-context' });
+    contextBlock.appendChild(el('h4', { className: 'reader-heading', text: 'Historical context' }));
+    [context.welshLanguage, context.travel, context.researchImplication]
+      .filter(Boolean)
+      .forEach((statement) => contextBlock.appendChild(el('p', { text: statement })));
+    card.appendChild(contextBlock);
+  }
+
+  if (book.editionLayers?.length) {
+    const layers = el('div', { className: 'book-edition-layers' });
+    book.editionLayers.forEach((layer) => {
+      layers.appendChild(el('section', { className: 'book-edition-layer' }, [
+        el('h4', { className: 'reader-heading', text: layer.label }),
+        el('p', { text: layer.description }),
+      ]));
+    });
+    card.appendChild(layers);
+  }
+  host.appendChild(card);
 }
 
 function render(data) {
@@ -943,6 +1541,8 @@ function render(data) {
 
   const storyContainer = document.getElementById('story-content');
   data.events && sortedByDate(data.events).forEach((event) => storyContainer.appendChild(renderEvent(event, data)));
+
+  renderBookProvenance(data);
 
   const pages = getBookPages();
   appState.bookState.pages = pages;
@@ -964,17 +1564,28 @@ function render(data) {
   }
 
   const journalContainer = document.getElementById('journals-content');
+  journalContainer.innerHTML = '';
+  appState.journalReaders.clear();
   data.journals?.forEach((journal) => journalContainer.appendChild(renderJournal(journal, data)));
+  if (findById(data.journalPages || [], hash)) openJournalPageById(hash, false);
 
   const sourceContainer = document.getElementById('sources-content');
+  sourceContainer.innerHTML = '';
+  renderCorrespondence(data);
+  const correspondenceHash = window.location.hash.slice(1);
+  if (findById(data.correspondencePages || [], correspondenceHash)) {
+    openCorrespondencePageById(correspondenceHash, false);
+  }
   data.sources?.forEach((source) => sourceContainer.appendChild(renderSource(source)));
   renderPhotos();
   renderNamesPlacesContent();
   renderFamily(data);
 
   status.story.textContent = `${data.events?.length || 0} sample event loaded.`;
-  status.journals.textContent = `${data.journals?.length || 0} journal(s) loaded with ${data.journalPages?.length || 0} pages.`;
-  status.sources.textContent = `${data.sources?.length || 0} evidence records loaded.`;
+  const reviewedPages = (data.journalPages || []).filter((page) => page.transcriptionStatus === 'reviewed').length;
+  const journalCount = data.journals?.length || 0;
+  status.journals.textContent = `${journalCount} journal${journalCount === 1 ? '' : 's'} loaded with ${data.journalPages?.length || 0} PDF pages; ${reviewedPages} reviewed transcription pages.`;
+  status.sources.textContent = `${data.sources?.length || 0} evidence records and ${data.letters?.length || 0} correspondence items loaded.`;
   status.family.textContent = status.family.textContent || 'Family lineage loaded from data.';
   status.search.textContent = 'Type a word to search all entities and source-linked pages.';
 }
@@ -982,16 +1593,28 @@ function render(data) {
 async function init() {
   wireNavigation();
   try {
-    const paths = ['data/site-data.json', 'data/book-text.json', 'data/people.json', 'data/places.json'];
+    const paths = ['data/site-data.json', 'data/book-text.json', 'data/people.json', 'data/places.json', 'data/journals/rdr/journal-data.json', 'data/journals/dr/journal-data.json', 'data/correspondence/correspondence-data.json', 'data/provenance.json'];
     const responses = await Promise.all(paths.map((path) => fetch(path)));
     responses.forEach((response, index) => {
       if (!response.ok) throw new Error(`Unable to load ${paths[index]} (${response.status})`);
     });
-    const [data, bookText, peopleData, placesData] = await Promise.all(responses.map((response) => response.json()));
+    const [data, bookText, peopleData, placesData, rdrJournalData, drJournalData, correspondenceData, provenanceData] = await Promise.all(responses.map((response) => response.json()));
     const textByPageId = new Map((bookText.pages || []).map((page) => [page.id, page.ocrText || '']));
     data.bookPages = (data.bookPages || []).map((page) => ({ ...page, ocrText: textByPageId.get(page.id) || '' }));
     data.people = mergeById(data.people || [], peopleData.people || []);
+    data.people = mergeById(data.people, correspondenceData.people || []);
+    data.people = mergeById(data.people, provenanceData.people || []);
     data.places = mergeById(data.places || [], placesData.places || []);
+    data.places = mergeById(data.places, correspondenceData.places || []);
+    data.journals = [...(rdrJournalData.journals || []), ...(drJournalData.journals || [])];
+    data.journalPages = [...(rdrJournalData.journalPages || []), ...(drJournalData.journalPages || [])];
+    data.correspondenceCollections = correspondenceData.correspondenceCollections || [];
+    data.correspondencePages = correspondenceData.correspondencePages || [];
+    data.letters = correspondenceData.letters || [];
+    data.books = mergeById(data.books || [], provenanceData.books || []);
+    data.sources = mergeById(data.sources || [], provenanceData.sources || []);
+    data.genealogy = { ...(data.genealogy || {}), ...(provenanceData.genealogy || {}) };
+    data.provenance = provenanceData;
     render(data);
   } catch (error) {
     console.error(error);

@@ -945,87 +945,8 @@
       "linkedEvents": []
     }
   ],
-  "journals": [
-    {
-      "id": "journal-demo-001",
-      "title": "DEMO: Farm household ledger",
-      "owner": "SAMPLE collector",
-      "location": "SAMPLE archive",
-      "dateRange": "DEMO 1820s-1830s",
-      "description": "Demo journal representing a first-class primary source with structured page entries."
-    }
-  ],
-  "journalPages": [
-    {
-      "id": "journal-page-001",
-      "journalId": "journal-demo-001",
-      "journalTitle": "DEMO: Farm household ledger",
-      "pageNumber": 1,
-      "image": "assets/demo-images/journal-page-001.svg",
-      "transcription": "DEMO transcription line for journal page 1.",
-      "originalLanguageTranscription": "DEMO: original-language text placeholder",
-      "translation": "DEMO translation line for journal page 1.",
-      "notes": "DEMO note: weather and grain yield entries are unclear.",
-      "people": [
-        "person-demo-001"
-      ],
-      "places": [
-        "place-demo-001"
-      ],
-      "dates": [
-        "DEMO 1823-05-14"
-      ],
-      "linkedEvents": [
-        "event-demo-chron-001"
-      ]
-    },
-    {
-      "id": "journal-page-002",
-      "journalId": "journal-demo-001",
-      "journalTitle": "DEMO: Farm household ledger",
-      "pageNumber": 2,
-      "image": "assets/demo-images/journal-page-002.svg",
-      "transcription": "DEMO transcription line for journal page 2.",
-      "translation": "DEMO translation line for journal page 2.",
-      "notes": "DEMO note: family purchase entry appears in this segment.",
-      "people": [
-        "person-demo-001",
-        "person-demo-002"
-      ],
-      "places": [
-        "place-demo-002"
-      ],
-      "dates": [
-        "DEMO 1824-09-01"
-      ],
-      "linkedEvents": [
-        "event-demo-chron-001"
-      ]
-    },
-    {
-      "id": "journal-page-003",
-      "journalId": "journal-demo-001",
-      "journalTitle": "DEMO: Farm household ledger",
-      "pageNumber": 3,
-      "image": "assets/demo-images/journal-page-003.svg",
-      "transcription": "DEMO transcription line for journal page 3.",
-      "originalLanguageTranscription": "DEMO: optional non-English script placeholder",
-      "notes": "DEMO note: possible place-name variant appears here.",
-      "people": [
-        "person-demo-002"
-      ],
-      "places": [
-        "place-demo-001",
-        "place-demo-002"
-      ],
-      "dates": [
-        "DEMO 1825-02-10"
-      ],
-      "linkedEvents": [
-        "event-demo-chron-001"
-      ]
-    }
-  ],
+  "journals": [],
+  "journalPages": [],
   "sources": [
     {
       "id": "source-demo-001",
@@ -1083,11 +1004,7 @@
         "book-page-001",
         "book-page-002"
       ],
-      "journalPages": [
-        "journal-page-001",
-        "journal-page-002",
-        "journal-page-003"
-      ],
+      "journalPages": [],
       "sources": [
         "source-demo-001",
         "source-demo-002"

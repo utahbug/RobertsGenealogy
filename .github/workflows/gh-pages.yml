@@ -20,6 +20,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build journal reader data from editable Markdown
+        run: |
+          python -m pip install python-docx
+          python scripts/build_journal_data.py
+          python scripts/build_dr_journal_data.py
+          python scripts/build_correspondence_data.py
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 

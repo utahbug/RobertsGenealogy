@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "people": [
+    {
+      "id": "person-david-d-roberts",
+      "name": "David D. Roberts",
+      "displayName": "David D. Roberts",
+      "canonicalName": "David D. Roberts",
+      "nameAsWritten": "David R. Roberts",
+      "aliases": ["D.D. Roberts", "The Judge"],
+      "variants": ["David R. Roberts", "David R Roberts", "D.D. Roberts", "The Judge"],
+      "relationship": "Son of Robert D. Roberts; compiler of the Roberts Book of Remembrance",
+      "generationLabel": "Son of Robert D. Roberts",
+      "summary": "David D. Roberts, known in family context as The Judge, was a Utah legislator, continued his father's English record book after Robert D. Roberts's death, and compiled the later Roberts genealogy / Book of Remembrance.",
+      "parents": ["person-robert-david-roberts"],
+      "children": [],
+      "indexScope": "book-pages-001-068",
+      "sourcePages": ["book-page-003", "book-page-005", "book-page-009", "book-page-015", "book-page-016", "book-page-036", "book-page-051", "book-page-057", "book-page-063"],
+      "sources": ["source-roberts-book-provenance"],
+      "historicalRoles": [
+        "Son of Robert D. Roberts",
+        "Known in family context as The Judge",
+        "Utah legislator",
+        "Continuator of the Robert D. Roberts English record book after his father's death",
+        "Compiler of the Roberts genealogy / Book of Remembrance"
+      ],
+      "sourceRoles": [
+        {"sourceType": "chart", "role": "son of Robert D. Roberts", "status": "confirmed"},
+        {"sourceType": "book", "sourceId": "book-roberts-remembrance", "role": "compiler", "status": "confirmed"},
+        {"sourceType": "journal", "sourceId": "journal-rdr-001", "role": "later continuator", "status": "confirmed", "note": "The exact page-level transition remains unassigned pending handwriting, date, signature, and contextual review."},
+        {"sourceType": "correspondence", "role": "identity available for supported links", "status": "not-linked", "note": "Welsh correspondents named David D. or D.D. Roberts are kept separate unless evidence establishes that they are this person."}
+      ],
+      "identitySafeguards": {
+        "doNotMergeWith": ["corr-person-david-d-roberts", "corr-person-d-d-roberts"],
+        "basis": "Those correspondence addressees are described as sons of David Roberts in Wales, while this David D. Roberts was the son of Robert D. Roberts in Utah."
+      },
+      "notes": "The Book-derived form David R. Roberts is retained as source wording; the canonical identity follows the project-supplied authorship provenance.",
+      "photos": []
+    }
+  ],
+  "books": [
+    {
+      "id": "book-roberts-remembrance",
+      "compilerPersonId": "person-david-d-roberts",
+      "compiler": "David D. Roberts",
+      "compilerAliases": ["D.D. Roberts", "The Judge"],
+      "originalCompilationNote": "The Book of Remembrance is preserved as David D. Roberts's historical compilation. Statements in it are not silently rewritten or replaced.",
+      "historicalContext": {
+        "welshLanguage": "David D. Roberts did not know the Welsh language.",
+        "travel": "David D. Roberts never visited Wales.",
+        "researchImplication": "Some conclusions may reflect translations by others, incomplete information, or interpretations available to him at the time. This context is explanatory and is not used to disparage his work."
+      },
+      "editionLayers": [
+        {
+          "id": "original-compilation",
+          "label": "Original compilation",
+          "description": "What David D. Roberts recorded, preserved with its historical wording and page boundaries."
+        },
+        {
+          "id": "modern-editorial-layer",
+          "label": "Modern editorial layer",
+          "description": "Corrections, improved translations, identifications, additional evidence, and context developed later, always shown separately with reasons and supporting sources."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "source-roberts-book-provenance",
+      "title": "Original Book of Remembrance compilation context",
+      "demo": false,
+      "sourceType": "Historical source context",
+      "date": "",
+      "summary": "David D. Roberts compiled the original Roberts genealogy / Book of Remembrance. The annotated edition preserves that compilation while keeping later Welsh-source research and modern editorial findings separate.",
+      "repository": "Roberts family records",
+      "citation": "Project authorship and editorial provenance record",
+      "people": ["person-david-d-roberts"],
+      "bookId": "book-roberts-remembrance",
+      "editorialLayer": "provenance"
+    }
+  ],
+  "genealogy": {
+    "title": "Direct Roberts line",
+    "primaryLine": ["person-robert-price", "person-robert-roberts", "person-robert-roberts-2", "person-david-roberts", "person-robert-david-roberts", "person-david-d-roberts"],
+    "focalPerson": "person-david-d-roberts",
+    "startGeneration": 6
+  },
+  "editorialModel": {
+    "purpose": "Create an annotated digital edition that preserves the historical compilation while adding information unavailable or inaccessible to its compiler.",
+    "modernFindingFields": ["originalBookStatement", "modernFinding", "reason", "supportingSources"],
+    "principle": "Historical and modern layers are not silently blended. Differences are explained respectfully, including likely translation, naming-convention, place-identification, or incomplete-record causes when evidence supports them.",
+    "knowledgeStreams": [
+      "American family records preserved by Robert D. Roberts and David D. Roberts",
+      "Later Welsh-source research, language interpretation, local historical knowledge, documentary evidence, and first-hand place examination"
+    ]
+  },
+  "crossSourceAuthorshipChain": [
+    {"person": "David Roberts", "role": "Original Welsh family and journal material"},
+    {"person": "Robert D. Roberts", "role": "Continuation where applicable; historical English translation/copy; own English journal and family record"},
+    {"person": "David D. Roberts", "role": "Continuation of the RDR English volume after his father's death; compiler of the later Book of Remembrance"},
+    {"person": "Modern annotated edition", "role": "Preserves the three historical layers and adds evidence and corrections separately"}
+  ]
+}

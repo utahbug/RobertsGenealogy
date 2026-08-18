@@ -1,0 +1,5082 @@
+{
+  "people": [
+    {
+      "id": "corr-person-agnes-roberts",
+      "name": "Agnes Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-catherine-roberts",
+      "name": "Catherine Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-009",
+          "pageId": "correspondence-page-019",
+          "sourcePageId": "correspondence-page-019",
+          "pageNumber": 19,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-022",
+          "sourcePageId": "correspondence-page-022",
+          "pageNumber": 22,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-016",
+          "pageId": "correspondence-page-031",
+          "sourcePageId": "correspondence-page-031",
+          "pageNumber": 31,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-020",
+          "pageId": "correspondence-page-037",
+          "sourcePageId": "correspondence-page-037",
+          "pageNumber": 37,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-033",
+          "pageId": "correspondence-page-055",
+          "sourcePageId": "correspondence-page-055",
+          "pageNumber": 55,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-d-d-roberts",
+      "name": "D.D. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-075",
+          "pageId": "correspondence-page-102",
+          "sourcePageId": "correspondence-page-102",
+          "pageNumber": 102,
+          "role": "recipient"
+        }
+      ],
+      "attributionStatus": "separate-correspondence-identity",
+      "identityNote": "This Welsh correspondent is described in the supplied text as a son of David Roberts and is not automatically identified with David D. Roberts (The Judge), son of Robert D. Roberts.",
+      "notSameAs": [
+        "person-david-d-roberts"
+      ]
+    },
+    {
+      "id": "corr-person-d-r-evans",
+      "name": "D.R. Evans",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-david-d-roberts",
+      "name": "David D. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "recipient"
+        }
+      ],
+      "attributionStatus": "separate-correspondence-identity",
+      "identityNote": "This Welsh correspondent is described in the supplied text as a son of David Roberts and is not automatically identified with David D. Roberts (The Judge), son of Robert D. Roberts.",
+      "notSameAs": [
+        "person-david-d-roberts"
+      ]
+    },
+    {
+      "id": "corr-person-david-roberts",
+      "name": "David Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-002",
+          "sourcePageId": "correspondence-page-002",
+          "pageNumber": 2,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-013",
+          "sourcePageId": "correspondence-page-013",
+          "pageNumber": 13,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-049",
+          "pageId": "correspondence-page-073",
+          "sourcePageId": "correspondence-page-073",
+          "pageNumber": 73,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-e-w-roberts",
+      "name": "E.W. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-056",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-076",
+          "pageId": "correspondence-page-103",
+          "sourcePageId": "correspondence-page-103",
+          "pageNumber": 103,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-077",
+          "pageId": "correspondence-page-104",
+          "sourcePageId": "correspondence-page-104",
+          "pageNumber": 104,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-edward-e-roberts",
+      "name": "Edward E. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-012",
+          "pageId": "correspondence-page-024",
+          "sourcePageId": "correspondence-page-024",
+          "pageNumber": 24,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-edward-humphreys",
+      "name": "Edward Humphreys",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-028",
+          "pageId": "correspondence-page-049",
+          "sourcePageId": "correspondence-page-049",
+          "pageNumber": 49,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-036",
+          "pageId": "correspondence-page-058",
+          "sourcePageId": "correspondence-page-058",
+          "pageNumber": 58,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-edward-roberts",
+      "name": "Edward Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-022",
+          "sourcePageId": "correspondence-page-022",
+          "pageNumber": 22,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-031",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-elisabeth-roberts",
+      "name": "Elisabeth Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-027",
+          "pageId": "correspondence-page-048",
+          "sourcePageId": "correspondence-page-048",
+          "pageNumber": 48,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-029",
+          "pageId": "correspondence-page-051",
+          "sourcePageId": "correspondence-page-051",
+          "pageNumber": 51,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-034",
+          "pageId": "correspondence-page-056",
+          "sourcePageId": "correspondence-page-056",
+          "pageNumber": 56,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-035",
+          "pageId": "correspondence-page-057",
+          "sourcePageId": "correspondence-page-057",
+          "pageNumber": 57,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-037",
+          "pageId": "correspondence-page-059",
+          "sourcePageId": "correspondence-page-059",
+          "pageNumber": 59,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-ellis-roberts",
+      "name": "Ellis Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-055",
+          "pageId": "correspondence-page-080",
+          "sourcePageId": "correspondence-page-080",
+          "pageNumber": 80,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-064",
+          "pageId": "correspondence-page-089",
+          "sourcePageId": "correspondence-page-089",
+          "pageNumber": 89,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-evan-roberts",
+      "name": "Evan Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-048",
+          "pageId": "correspondence-page-072",
+          "sourcePageId": "correspondence-page-072",
+          "pageNumber": 72,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-evan-w-roberts",
+      "name": "Evan W. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-051",
+          "pageId": "correspondence-page-075",
+          "sourcePageId": "correspondence-page-075",
+          "pageNumber": 75,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-058",
+          "pageId": "correspondence-page-082",
+          "sourcePageId": "correspondence-page-082",
+          "pageNumber": 82,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-059",
+          "pageId": "correspondence-page-083",
+          "sourcePageId": "correspondence-page-083",
+          "pageNumber": 83,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-060",
+          "pageId": "correspondence-page-084",
+          "sourcePageId": "correspondence-page-084",
+          "pageNumber": 84,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-085",
+          "sourcePageId": "correspondence-page-085",
+          "pageNumber": 85,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-062",
+          "pageId": "correspondence-page-086",
+          "sourcePageId": "correspondence-page-086",
+          "pageNumber": 86,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-063",
+          "pageId": "correspondence-page-088",
+          "sourcePageId": "correspondence-page-088",
+          "pageNumber": 88,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-066",
+          "pageId": "correspondence-page-092",
+          "sourcePageId": "correspondence-page-092",
+          "pageNumber": 92,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-067",
+          "pageId": "correspondence-page-093",
+          "sourcePageId": "correspondence-page-093",
+          "pageNumber": 93,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-068",
+          "pageId": "correspondence-page-094",
+          "sourcePageId": "correspondence-page-094",
+          "pageNumber": 94,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-070",
+          "pageId": "correspondence-page-097",
+          "sourcePageId": "correspondence-page-097",
+          "pageNumber": 97,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-071",
+          "pageId": "correspondence-page-098",
+          "sourcePageId": "correspondence-page-098",
+          "pageNumber": 98,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-072",
+          "pageId": "correspondence-page-099",
+          "sourcePageId": "correspondence-page-099",
+          "pageNumber": 99,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-073",
+          "pageId": "correspondence-page-100",
+          "sourcePageId": "correspondence-page-100",
+          "pageNumber": 100,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-her-aunt",
+      "name": "Her aunt",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-026",
+          "pageId": "correspondence-page-047",
+          "sourcePageId": "correspondence-page-047",
+          "pageNumber": 47,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-hugh-roberts",
+      "name": "Hugh Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-024",
+          "pageId": "correspondence-page-044",
+          "sourcePageId": "correspondence-page-044",
+          "pageNumber": 44,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-humphrey-jones-bryfdir",
+      "name": "Humphrey Jones (Bryfdir)",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-jane-humphreys",
+      "name": "Jane Humphreys",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-028",
+          "pageId": "correspondence-page-049",
+          "sourcePageId": "correspondence-page-049",
+          "pageNumber": 49,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-036",
+          "pageId": "correspondence-page-058",
+          "sourcePageId": "correspondence-page-058",
+          "pageNumber": 58,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-jane-thomas",
+      "name": "Jane Thomas",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-john-lloyd",
+      "name": "John Lloyd",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-john-roberts",
+      "name": "John Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-009",
+          "sourcePageId": "correspondence-page-009",
+          "pageNumber": 9,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-john-w-humphrey",
+      "name": "John W. Humphrey",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-040",
+          "pageId": "correspondence-page-062",
+          "sourcePageId": "correspondence-page-062",
+          "pageNumber": 62,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-laura",
+      "name": "Laura",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-060",
+          "pageId": "correspondence-page-084",
+          "sourcePageId": "correspondence-page-084",
+          "pageNumber": 84,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-m-g-roberts",
+      "name": "M.G. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-078",
+          "pageId": "correspondence-page-105",
+          "sourcePageId": "correspondence-page-105",
+          "pageNumber": 105,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-margaret-thomas",
+      "name": "Margaret Thomas",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-030",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-033",
+          "pageId": "correspondence-page-055",
+          "sourcePageId": "correspondence-page-055",
+          "pageNumber": 55,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-mary-jane-roberts",
+      "name": "Mary Jane Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-026",
+          "pageId": "correspondence-page-047",
+          "sourcePageId": "correspondence-page-047",
+          "pageNumber": 47,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-mary-roberts",
+      "name": "Mary Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-024",
+          "pageId": "correspondence-page-044",
+          "sourcePageId": "correspondence-page-044",
+          "pageNumber": 44,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-mr-jones",
+      "name": "Mr. Jones",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-mr-roberts",
+      "name": "Mr. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-078",
+          "pageId": "correspondence-page-105",
+          "sourcePageId": "correspondence-page-105",
+          "pageNumber": 105,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-r-m-parry",
+      "name": "R.M. Parry",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-044",
+          "pageId": "correspondence-page-067",
+          "sourcePageId": "correspondence-page-067",
+          "pageNumber": 67,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-rees-roberts",
+      "name": "Rees Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-019",
+          "pageId": "correspondence-page-036",
+          "sourcePageId": "correspondence-page-036",
+          "pageNumber": 36,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-richard-thomas",
+      "name": "Richard Thomas",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-009",
+          "pageId": "correspondence-page-019",
+          "sourcePageId": "correspondence-page-019",
+          "pageNumber": 19,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-016",
+          "pageId": "correspondence-page-031",
+          "sourcePageId": "correspondence-page-031",
+          "pageNumber": 31,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-020",
+          "pageId": "correspondence-page-037",
+          "sourcePageId": "correspondence-page-037",
+          "pageNumber": 37,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-030",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-033",
+          "pageId": "correspondence-page-055",
+          "sourcePageId": "correspondence-page-055",
+          "pageNumber": 55,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-robert-d-roberts",
+      "name": "Robert D. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-003",
+          "pageId": "correspondence-page-007",
+          "sourcePageId": "correspondence-page-007",
+          "pageNumber": 7,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-004",
+          "pageId": "correspondence-page-008",
+          "sourcePageId": "correspondence-page-008",
+          "pageNumber": 8,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-010",
+          "pageId": "correspondence-page-020",
+          "sourcePageId": "correspondence-page-020",
+          "pageNumber": 20,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-012",
+          "pageId": "correspondence-page-024",
+          "sourcePageId": "correspondence-page-024",
+          "pageNumber": 24,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-013",
+          "pageId": "correspondence-page-025",
+          "sourcePageId": "correspondence-page-025",
+          "pageNumber": 25,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-019",
+          "pageId": "correspondence-page-036",
+          "sourcePageId": "correspondence-page-036",
+          "pageNumber": 36,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-042",
+          "sourcePageId": "correspondence-page-042",
+          "pageNumber": 42,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-039",
+          "pageId": "correspondence-page-061",
+          "sourcePageId": "correspondence-page-061",
+          "pageNumber": 61,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-040",
+          "pageId": "correspondence-page-062",
+          "sourcePageId": "correspondence-page-062",
+          "pageNumber": 62,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-041",
+          "pageId": "correspondence-page-063",
+          "sourcePageId": "correspondence-page-063",
+          "pageNumber": 63,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-047",
+          "pageId": "correspondence-page-071",
+          "sourcePageId": "correspondence-page-071",
+          "pageNumber": 71,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-048",
+          "pageId": "correspondence-page-072",
+          "sourcePageId": "correspondence-page-072",
+          "pageNumber": 72,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-049",
+          "pageId": "correspondence-page-073",
+          "sourcePageId": "correspondence-page-073",
+          "pageNumber": 73,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-051",
+          "pageId": "correspondence-page-075",
+          "sourcePageId": "correspondence-page-075",
+          "pageNumber": 75,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-052",
+          "pageId": "correspondence-page-076",
+          "sourcePageId": "correspondence-page-076",
+          "pageNumber": 76,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-053",
+          "pageId": "correspondence-page-078",
+          "sourcePageId": "correspondence-page-078",
+          "pageNumber": 78,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-054",
+          "pageId": "correspondence-page-079",
+          "sourcePageId": "correspondence-page-079",
+          "pageNumber": 79,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-055",
+          "pageId": "correspondence-page-080",
+          "sourcePageId": "correspondence-page-080",
+          "pageNumber": 80,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-056",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-058",
+          "pageId": "correspondence-page-082",
+          "sourcePageId": "correspondence-page-082",
+          "pageNumber": 82,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-059",
+          "pageId": "correspondence-page-083",
+          "sourcePageId": "correspondence-page-083",
+          "pageNumber": 83,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-060",
+          "pageId": "correspondence-page-084",
+          "sourcePageId": "correspondence-page-084",
+          "pageNumber": 84,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-085",
+          "sourcePageId": "correspondence-page-085",
+          "pageNumber": 85,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-062",
+          "pageId": "correspondence-page-086",
+          "sourcePageId": "correspondence-page-086",
+          "pageNumber": 86,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-063",
+          "pageId": "correspondence-page-088",
+          "sourcePageId": "correspondence-page-088",
+          "pageNumber": 88,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-064",
+          "pageId": "correspondence-page-089",
+          "sourcePageId": "correspondence-page-089",
+          "pageNumber": 89,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-066",
+          "pageId": "correspondence-page-092",
+          "sourcePageId": "correspondence-page-092",
+          "pageNumber": 92,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-067",
+          "pageId": "correspondence-page-093",
+          "sourcePageId": "correspondence-page-093",
+          "pageNumber": 93,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-068",
+          "pageId": "correspondence-page-094",
+          "sourcePageId": "correspondence-page-094",
+          "pageNumber": 94,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-070",
+          "pageId": "correspondence-page-097",
+          "sourcePageId": "correspondence-page-097",
+          "pageNumber": 97,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-071",
+          "pageId": "correspondence-page-098",
+          "sourcePageId": "correspondence-page-098",
+          "pageNumber": 98,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-072",
+          "pageId": "correspondence-page-099",
+          "sourcePageId": "correspondence-page-099",
+          "pageNumber": 99,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-073",
+          "pageId": "correspondence-page-100",
+          "sourcePageId": "correspondence-page-100",
+          "pageNumber": 100,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-075",
+          "pageId": "correspondence-page-102",
+          "sourcePageId": "correspondence-page-102",
+          "pageNumber": 102,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-076",
+          "pageId": "correspondence-page-103",
+          "sourcePageId": "correspondence-page-103",
+          "pageNumber": 103,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-077",
+          "pageId": "correspondence-page-104",
+          "sourcePageId": "correspondence-page-104",
+          "pageNumber": 104,
+          "role": "recipient"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-robert-david-roberts",
+      "name": "Robert David Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-031",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "recipient"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-robert-roberts",
+      "name": "Robert Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-027",
+          "pageId": "correspondence-page-048",
+          "sourcePageId": "correspondence-page-048",
+          "pageNumber": 48,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-029",
+          "pageId": "correspondence-page-051",
+          "sourcePageId": "correspondence-page-051",
+          "pageNumber": 51,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-034",
+          "pageId": "correspondence-page-056",
+          "sourcePageId": "correspondence-page-056",
+          "pageNumber": 56,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-035",
+          "pageId": "correspondence-page-057",
+          "sourcePageId": "correspondence-page-057",
+          "pageNumber": 57,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-037",
+          "pageId": "correspondence-page-059",
+          "sourcePageId": "correspondence-page-059",
+          "pageNumber": 59,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-052",
+          "pageId": "correspondence-page-076",
+          "sourcePageId": "correspondence-page-076",
+          "pageNumber": 76,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-053",
+          "pageId": "correspondence-page-078",
+          "sourcePageId": "correspondence-page-078",
+          "pageNumber": 78,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-054",
+          "pageId": "correspondence-page-079",
+          "sourcePageId": "correspondence-page-079",
+          "pageNumber": 79,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-robert-w-roberts",
+      "name": "Robert W. Roberts",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-042",
+          "sourcePageId": "correspondence-page-042",
+          "pageNumber": 42,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-039",
+          "pageId": "correspondence-page-061",
+          "sourcePageId": "correspondence-page-061",
+          "pageNumber": 61,
+          "role": "sender"
+        }
+      ]
+    },
+    {
+      "id": "corr-person-william-ajax",
+      "name": "William Ajax",
+      "type": "person",
+      "entryType": "person",
+      "category": "people",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-002",
+          "sourcePageId": "correspondence-page-002",
+          "pageNumber": 2,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-013",
+          "sourcePageId": "correspondence-page-013",
+          "pageNumber": 13,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "sender"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-010",
+          "pageId": "correspondence-page-020",
+          "sourcePageId": "correspondence-page-020",
+          "pageNumber": 20,
+          "role": "sender"
+        }
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "corr-place-bangor",
+      "name": "Bangor",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-003",
+          "sourcePageId": "correspondence-page-003",
+          "pageNumber": 3,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-035",
+          "pageId": "correspondence-page-057",
+          "sourcePageId": "correspondence-page-057",
+          "pageNumber": 57,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-044",
+          "pageId": "correspondence-page-067",
+          "sourcePageId": "correspondence-page-067",
+          "pageNumber": 67,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-051",
+          "pageId": "correspondence-page-075",
+          "sourcePageId": "correspondence-page-075",
+          "pageNumber": 75,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-056",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-058",
+          "pageId": "correspondence-page-082",
+          "sourcePageId": "correspondence-page-082",
+          "pageNumber": 82,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-059",
+          "pageId": "correspondence-page-083",
+          "sourcePageId": "correspondence-page-083",
+          "pageNumber": 83,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-060",
+          "pageId": "correspondence-page-084",
+          "sourcePageId": "correspondence-page-084",
+          "pageNumber": 84,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-085",
+          "sourcePageId": "correspondence-page-085",
+          "pageNumber": 85,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-087",
+          "sourcePageId": "correspondence-page-087",
+          "pageNumber": 87,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-062",
+          "pageId": "correspondence-page-086",
+          "sourcePageId": "correspondence-page-086",
+          "pageNumber": 86,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-063",
+          "pageId": "correspondence-page-088",
+          "sourcePageId": "correspondence-page-088",
+          "pageNumber": 88,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-066",
+          "pageId": "correspondence-page-092",
+          "sourcePageId": "correspondence-page-092",
+          "pageNumber": 92,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-067",
+          "pageId": "correspondence-page-093",
+          "sourcePageId": "correspondence-page-093",
+          "pageNumber": 93,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-068",
+          "pageId": "correspondence-page-094",
+          "sourcePageId": "correspondence-page-094",
+          "pageNumber": 94,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-070",
+          "pageId": "correspondence-page-097",
+          "sourcePageId": "correspondence-page-097",
+          "pageNumber": 97,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-071",
+          "pageId": "correspondence-page-098",
+          "sourcePageId": "correspondence-page-098",
+          "pageNumber": 98,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-072",
+          "pageId": "correspondence-page-099",
+          "sourcePageId": "correspondence-page-099",
+          "pageNumber": 99,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-073",
+          "pageId": "correspondence-page-100",
+          "sourcePageId": "correspondence-page-100",
+          "pageNumber": 100,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-076",
+          "pageId": "correspondence-page-103",
+          "sourcePageId": "correspondence-page-103",
+          "pageNumber": 103,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-077",
+          "pageId": "correspondence-page-104",
+          "sourcePageId": "correspondence-page-104",
+          "pageNumber": 104,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-blaenau-ffestiniog",
+      "name": "Blaenau Ffestiniog",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-013",
+          "pageId": "correspondence-page-025",
+          "sourcePageId": "correspondence-page-025",
+          "pageNumber": 25,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-029",
+          "sourcePageId": "correspondence-page-029",
+          "pageNumber": 29,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-042",
+          "sourcePageId": "correspondence-page-042",
+          "pageNumber": 42,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-039",
+          "pageId": "correspondence-page-061",
+          "sourcePageId": "correspondence-page-061",
+          "pageNumber": 61,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-049",
+          "pageId": "correspondence-page-073",
+          "sourcePageId": "correspondence-page-073",
+          "pageNumber": 73,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-052",
+          "pageId": "correspondence-page-076",
+          "sourcePageId": "correspondence-page-076",
+          "pageNumber": 76,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-053",
+          "pageId": "correspondence-page-078",
+          "sourcePageId": "correspondence-page-078",
+          "pageNumber": 78,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-054",
+          "pageId": "correspondence-page-079",
+          "sourcePageId": "correspondence-page-079",
+          "pageNumber": 79,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-box-elder",
+      "name": "Box Elder",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-caernarfon",
+      "name": "Caernarfon",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-002",
+          "sourcePageId": "correspondence-page-002",
+          "pageNumber": 2,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-003",
+          "sourcePageId": "correspondence-page-003",
+          "pageNumber": 3,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-005",
+          "sourcePageId": "correspondence-page-005",
+          "pageNumber": 5,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-006",
+          "sourcePageId": "correspondence-page-006",
+          "pageNumber": 6,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-003",
+          "pageId": "correspondence-page-007",
+          "sourcePageId": "correspondence-page-007",
+          "pageNumber": 7,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-009",
+          "sourcePageId": "correspondence-page-009",
+          "pageNumber": 9,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-010",
+          "sourcePageId": "correspondence-page-010",
+          "pageNumber": 10,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-016",
+          "sourcePageId": "correspondence-page-016",
+          "pageNumber": 16,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-016",
+          "pageId": "correspondence-page-031",
+          "sourcePageId": "correspondence-page-031",
+          "pageNumber": 31,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-030",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-066",
+          "sourcePageId": "correspondence-page-066",
+          "pageNumber": 66,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-california",
+      "name": "California",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-003",
+          "pageId": "correspondence-page-007",
+          "sourcePageId": "correspondence-page-007",
+          "pageNumber": 7,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-085",
+          "sourcePageId": "correspondence-page-085",
+          "pageNumber": 85,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-087",
+          "sourcePageId": "correspondence-page-087",
+          "pageNumber": 87,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-creuau",
+      "name": "Creuau",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-005",
+          "sourcePageId": "correspondence-page-005",
+          "pageNumber": 5,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-004",
+          "pageId": "correspondence-page-008",
+          "sourcePageId": "correspondence-page-008",
+          "pageNumber": 8,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-010",
+          "sourcePageId": "correspondence-page-010",
+          "pageNumber": 10,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-014",
+          "sourcePageId": "correspondence-page-014",
+          "pageNumber": 14,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-009",
+          "pageId": "correspondence-page-019",
+          "sourcePageId": "correspondence-page-019",
+          "pageNumber": 19,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-023",
+          "sourcePageId": "correspondence-page-023",
+          "pageNumber": 23,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-030",
+          "sourcePageId": "correspondence-page-030",
+          "pageNumber": 30,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-016",
+          "pageId": "correspondence-page-031",
+          "sourcePageId": "correspondence-page-031",
+          "pageNumber": 31,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-020",
+          "pageId": "correspondence-page-037",
+          "sourcePageId": "correspondence-page-037",
+          "pageNumber": 37,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-030",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-040",
+          "pageId": "correspondence-page-062",
+          "sourcePageId": "correspondence-page-062",
+          "pageNumber": 62,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-diffwys",
+      "name": "Diffwys",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-dolgarregddu",
+      "name": "Dolgarregddu",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-014",
+          "sourcePageId": "correspondence-page-014",
+          "pageNumber": 14,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-013",
+          "pageId": "correspondence-page-025",
+          "sourcePageId": "correspondence-page-025",
+          "pageNumber": 25,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-042",
+          "sourcePageId": "correspondence-page-042",
+          "pageNumber": 42,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-051",
+          "pageId": "correspondence-page-075",
+          "sourcePageId": "correspondence-page-075",
+          "pageNumber": 75,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-063",
+          "pageId": "correspondence-page-088",
+          "sourcePageId": "correspondence-page-088",
+          "pageNumber": 88,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-east-bangor",
+      "name": "East Bangor",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-erw-fawr",
+      "name": "Erw Fawr",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-022",
+          "sourcePageId": "correspondence-page-022",
+          "pageNumber": 22,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-019",
+          "pageId": "correspondence-page-036",
+          "sourcePageId": "correspondence-page-036",
+          "pageNumber": 36,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-020",
+          "pageId": "correspondence-page-037",
+          "sourcePageId": "correspondence-page-037",
+          "pageNumber": 37,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-039",
+          "pageId": "correspondence-page-061",
+          "sourcePageId": "correspondence-page-061",
+          "pageNumber": 61,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-ffestiniog",
+      "name": "Ffestiniog",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-002",
+          "sourcePageId": "correspondence-page-002",
+          "pageNumber": 2,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-003",
+          "sourcePageId": "correspondence-page-003",
+          "pageNumber": 3,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-005",
+          "sourcePageId": "correspondence-page-005",
+          "pageNumber": 5,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-003",
+          "pageId": "correspondence-page-007",
+          "sourcePageId": "correspondence-page-007",
+          "pageNumber": 7,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-004",
+          "pageId": "correspondence-page-008",
+          "sourcePageId": "correspondence-page-008",
+          "pageNumber": 8,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-009",
+          "sourcePageId": "correspondence-page-009",
+          "pageNumber": 9,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-010",
+          "sourcePageId": "correspondence-page-010",
+          "pageNumber": 10,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-011",
+          "sourcePageId": "correspondence-page-011",
+          "pageNumber": 11,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-014",
+          "sourcePageId": "correspondence-page-014",
+          "pageNumber": 14,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-022",
+          "sourcePageId": "correspondence-page-022",
+          "pageNumber": 22,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-012",
+          "pageId": "correspondence-page-024",
+          "sourcePageId": "correspondence-page-024",
+          "pageNumber": 24,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-013",
+          "pageId": "correspondence-page-025",
+          "sourcePageId": "correspondence-page-025",
+          "pageNumber": 25,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-027",
+          "sourcePageId": "correspondence-page-027",
+          "pageNumber": 27,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-029",
+          "sourcePageId": "correspondence-page-029",
+          "pageNumber": 29,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-042",
+          "sourcePageId": "correspondence-page-042",
+          "pageNumber": 42,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-028",
+          "pageId": "correspondence-page-049",
+          "sourcePageId": "correspondence-page-049",
+          "pageNumber": 49,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-030",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-039",
+          "pageId": "correspondence-page-061",
+          "sourcePageId": "correspondence-page-061",
+          "pageNumber": 61,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-049",
+          "pageId": "correspondence-page-073",
+          "sourcePageId": "correspondence-page-073",
+          "pageNumber": 73,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-052",
+          "pageId": "correspondence-page-076",
+          "sourcePageId": "correspondence-page-076",
+          "pageNumber": 76,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-053",
+          "pageId": "correspondence-page-078",
+          "sourcePageId": "correspondence-page-078",
+          "pageNumber": 78,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-054",
+          "pageId": "correspondence-page-079",
+          "sourcePageId": "correspondence-page-079",
+          "pageNumber": 79,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-085",
+          "sourcePageId": "correspondence-page-085",
+          "pageNumber": 85,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-087",
+          "sourcePageId": "correspondence-page-087",
+          "pageNumber": 87,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-075",
+          "pageId": "correspondence-page-102",
+          "sourcePageId": "correspondence-page-102",
+          "pageNumber": 102,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-gelli",
+      "name": "Gelli",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-005",
+          "sourcePageId": "correspondence-page-005",
+          "pageNumber": 5,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-004",
+          "pageId": "correspondence-page-008",
+          "sourcePageId": "correspondence-page-008",
+          "pageNumber": 8,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-010",
+          "sourcePageId": "correspondence-page-010",
+          "pageNumber": 10,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-008",
+          "pageId": "correspondence-page-017",
+          "sourcePageId": "correspondence-page-017",
+          "pageNumber": 17,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-009",
+          "pageId": "correspondence-page-019",
+          "sourcePageId": "correspondence-page-019",
+          "pageNumber": 19,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-022",
+          "sourcePageId": "correspondence-page-022",
+          "pageNumber": 22,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-012",
+          "pageId": "correspondence-page-024",
+          "sourcePageId": "correspondence-page-024",
+          "pageNumber": 24,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-031",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-039",
+          "pageId": "correspondence-page-061",
+          "sourcePageId": "correspondence-page-061",
+          "pageNumber": 61,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-gelli-park",
+      "name": "Gelli Park",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-glan-y-pwll",
+      "name": "Glan-y-Pwll",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-029",
+          "sourcePageId": "correspondence-page-029",
+          "pageNumber": 29,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-042",
+          "sourcePageId": "correspondence-page-042",
+          "pageNumber": 42,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-023",
+          "pageId": "correspondence-page-043",
+          "sourcePageId": "correspondence-page-043",
+          "pageNumber": 43,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-gloddfa-ganol",
+      "name": "Gloddfa Ganol",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-066",
+          "sourcePageId": "correspondence-page-066",
+          "pageNumber": 66,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-051",
+          "pageId": "correspondence-page-075",
+          "sourcePageId": "correspondence-page-075",
+          "pageNumber": 75,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-059",
+          "pageId": "correspondence-page-083",
+          "sourcePageId": "correspondence-page-083",
+          "pageNumber": 83,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-great-salt-lake",
+      "name": "Great Salt Lake",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-052",
+          "pageId": "correspondence-page-077",
+          "sourcePageId": "correspondence-page-077",
+          "pageNumber": 77,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-harlech",
+      "name": "Harlech",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-005",
+          "sourcePageId": "correspondence-page-005",
+          "pageNumber": 5,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-006",
+          "sourcePageId": "correspondence-page-006",
+          "pageNumber": 6,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-014",
+          "sourcePageId": "correspondence-page-014",
+          "pageNumber": 14,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-027",
+          "pageId": "correspondence-page-048",
+          "sourcePageId": "correspondence-page-048",
+          "pageNumber": 48,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-028",
+          "pageId": "correspondence-page-049",
+          "sourcePageId": "correspondence-page-049",
+          "pageNumber": 49,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-029",
+          "pageId": "correspondence-page-051",
+          "sourcePageId": "correspondence-page-051",
+          "pageNumber": 51,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-036",
+          "pageId": "correspondence-page-058",
+          "sourcePageId": "correspondence-page-058",
+          "pageNumber": 58,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-051",
+          "pageId": "correspondence-page-075",
+          "sourcePageId": "correspondence-page-075",
+          "pageNumber": 75,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-072",
+          "pageId": "correspondence-page-099",
+          "sourcePageId": "correspondence-page-099",
+          "pageNumber": 99,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-hoosick-falls",
+      "name": "Hoosick Falls",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-040",
+          "pageId": "correspondence-page-062",
+          "sourcePageId": "correspondence-page-062",
+          "pageNumber": 62,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-llandudno",
+      "name": "Llandudno",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-006",
+          "sourcePageId": "correspondence-page-006",
+          "pageNumber": 6,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-012",
+          "sourcePageId": "correspondence-page-012",
+          "pageNumber": 12,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-013",
+          "sourcePageId": "correspondence-page-013",
+          "pageNumber": 13,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-010",
+          "pageId": "correspondence-page-021",
+          "sourcePageId": "correspondence-page-021",
+          "pageNumber": 21,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-llanfairfechan",
+      "name": "Llanfairfechan",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-026",
+          "pageId": "correspondence-page-047",
+          "sourcePageId": "correspondence-page-047",
+          "pageNumber": 47,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-027",
+          "pageId": "correspondence-page-048",
+          "sourcePageId": "correspondence-page-048",
+          "pageNumber": 48,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-028",
+          "pageId": "correspondence-page-049",
+          "sourcePageId": "correspondence-page-049",
+          "pageNumber": 49,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-029",
+          "pageId": "correspondence-page-051",
+          "sourcePageId": "correspondence-page-051",
+          "pageNumber": 51,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-034",
+          "pageId": "correspondence-page-056",
+          "sourcePageId": "correspondence-page-056",
+          "pageNumber": 56,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-035",
+          "pageId": "correspondence-page-057",
+          "sourcePageId": "correspondence-page-057",
+          "pageNumber": 57,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-037",
+          "pageId": "correspondence-page-059",
+          "sourcePageId": "correspondence-page-059",
+          "pageNumber": 59,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-llanfrothen",
+      "name": "Llanfrothen",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-004",
+          "pageId": "correspondence-page-008",
+          "sourcePageId": "correspondence-page-008",
+          "pageNumber": 8,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-005",
+          "pageId": "correspondence-page-010",
+          "sourcePageId": "correspondence-page-010",
+          "pageNumber": 10,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-013",
+          "sourcePageId": "correspondence-page-013",
+          "pageNumber": 13,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-006",
+          "pageId": "correspondence-page-014",
+          "sourcePageId": "correspondence-page-014",
+          "pageNumber": 14,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-011",
+          "pageId": "correspondence-page-022",
+          "sourcePageId": "correspondence-page-022",
+          "pageNumber": 22,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-012",
+          "pageId": "correspondence-page-024",
+          "sourcePageId": "correspondence-page-024",
+          "pageNumber": 24,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-016",
+          "pageId": "correspondence-page-031",
+          "sourcePageId": "correspondence-page-031",
+          "pageNumber": 31,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-033",
+          "sourcePageId": "correspondence-page-033",
+          "pageNumber": 33,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-019",
+          "pageId": "correspondence-page-036",
+          "sourcePageId": "correspondence-page-036",
+          "pageNumber": 36,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-030",
+          "pageId": "correspondence-page-052",
+          "sourcePageId": "correspondence-page-052",
+          "pageNumber": 52,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-062",
+          "pageId": "correspondence-page-086",
+          "sourcePageId": "correspondence-page-086",
+          "pageNumber": 86,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-063",
+          "pageId": "correspondence-page-088",
+          "sourcePageId": "correspondence-page-088",
+          "pageNumber": 88,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-068",
+          "pageId": "correspondence-page-094",
+          "sourcePageId": "correspondence-page-094",
+          "pageNumber": 94,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-078",
+          "pageId": "correspondence-page-105",
+          "sourcePageId": "correspondence-page-105",
+          "pageNumber": 105,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-logan-city",
+      "name": "Logan City",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-016",
+          "pageId": "correspondence-page-031",
+          "sourcePageId": "correspondence-page-031",
+          "pageNumber": 31,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-020",
+          "pageId": "correspondence-page-037",
+          "sourcePageId": "correspondence-page-037",
+          "pageNumber": 37,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-033",
+          "pageId": "correspondence-page-055",
+          "sourcePageId": "correspondence-page-055",
+          "pageNumber": 55,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-041",
+          "pageId": "correspondence-page-063",
+          "sourcePageId": "correspondence-page-063",
+          "pageNumber": 63,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-lord-quarry",
+      "name": "Lord Quarry",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-013",
+          "pageId": "correspondence-page-025",
+          "sourcePageId": "correspondence-page-025",
+          "pageNumber": 25,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-014",
+          "pageId": "correspondence-page-026",
+          "sourcePageId": "correspondence-page-026",
+          "pageNumber": 26,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-middle-granville",
+      "name": "Middle Granville",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-040",
+          "pageId": "correspondence-page-062",
+          "sourcePageId": "correspondence-page-062",
+          "pageNumber": 62,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-monmouthshire",
+      "name": "Monmouthshire",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-016",
+          "sourcePageId": "correspondence-page-016",
+          "pageNumber": 16,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-new-york",
+      "name": "New York",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-058",
+          "pageId": "correspondence-page-082",
+          "sourcePageId": "correspondence-page-082",
+          "pageNumber": 82,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-067",
+          "pageId": "correspondence-page-093",
+          "sourcePageId": "correspondence-page-093",
+          "pageNumber": 93,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-069",
+          "pageId": "correspondence-page-095",
+          "sourcePageId": "correspondence-page-095",
+          "pageNumber": 95,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-077",
+          "pageId": "correspondence-page-104",
+          "sourcePageId": "correspondence-page-104",
+          "pageNumber": 104,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-northampton-county",
+      "name": "Northampton County",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-pen-y-cae",
+      "name": "Pen-y-Cae",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-pennsylvania",
+      "name": "Pennsylvania",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-050",
+          "pageId": "correspondence-page-074",
+          "sourcePageId": "correspondence-page-074",
+          "pageNumber": 74,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-penrhyndeudraeth",
+      "name": "Penrhyndeudraeth",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-074",
+          "pageId": "correspondence-page-101",
+          "sourcePageId": "correspondence-page-101",
+          "pageNumber": 101,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-078",
+          "pageId": "correspondence-page-105",
+          "sourcePageId": "correspondence-page-105",
+          "pageNumber": 105,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-ramoth-cemetery",
+      "name": "Ramoth Cemetery",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-001",
+          "pageId": "correspondence-page-001",
+          "sourcePageId": "correspondence-page-001",
+          "pageNumber": 1,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-rhiw-quarry",
+      "name": "Rhiw Quarry",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-013",
+          "pageId": "correspondence-page-025",
+          "sourcePageId": "correspondence-page-025",
+          "pageNumber": 25,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-025",
+          "pageId": "correspondence-page-045",
+          "sourcePageId": "correspondence-page-045",
+          "pageNumber": 45,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-rhiwbryfdir",
+      "name": "Rhiwbryfdir",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-017",
+          "pageId": "correspondence-page-032",
+          "sourcePageId": "correspondence-page-032",
+          "pageNumber": 32,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-018",
+          "pageId": "correspondence-page-034",
+          "sourcePageId": "correspondence-page-034",
+          "pageNumber": 34,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-043",
+          "pageId": "correspondence-page-065",
+          "sourcePageId": "correspondence-page-065",
+          "pageNumber": 65,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-045",
+          "pageId": "correspondence-page-068",
+          "sourcePageId": "correspondence-page-068",
+          "pageNumber": 68,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-rhosydd-quarry",
+      "name": "Rhosydd Quarry",
+      "type": "home-property",
+      "entryType": "home-property",
+      "category": "homes-properties",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-012",
+          "pageId": "correspondence-page-024",
+          "sourcePageId": "correspondence-page-024",
+          "pageNumber": 24,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-salt-lake-city",
+      "name": "Salt Lake City",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-004",
+          "pageId": "correspondence-page-008",
+          "sourcePageId": "correspondence-page-008",
+          "pageNumber": 8,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-021",
+          "pageId": "correspondence-page-038",
+          "sourcePageId": "correspondence-page-038",
+          "pageNumber": 38,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-033",
+          "pageId": "correspondence-page-055",
+          "sourcePageId": "correspondence-page-055",
+          "pageNumber": 55,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-068",
+          "pageId": "correspondence-page-094",
+          "sourcePageId": "correspondence-page-094",
+          "pageNumber": 94,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-salt-lake-valley",
+      "name": "Salt Lake Valley",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-029",
+          "sourcePageId": "correspondence-page-029",
+          "pageNumber": 29,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-seattle",
+      "name": "Seattle",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-055",
+          "pageId": "correspondence-page-080",
+          "sourcePageId": "correspondence-page-080",
+          "pageNumber": 80,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-064",
+          "pageId": "correspondence-page-089",
+          "sourcePageId": "correspondence-page-089",
+          "pageNumber": 89,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-068",
+          "pageId": "correspondence-page-094",
+          "sourcePageId": "correspondence-page-094",
+          "pageNumber": 94,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-smithfield",
+      "name": "Smithfield",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-024",
+          "pageId": "correspondence-page-044",
+          "sourcePageId": "correspondence-page-044",
+          "pageNumber": 44,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-utah",
+      "name": "Utah",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-002",
+          "pageId": "correspondence-page-004",
+          "sourcePageId": "correspondence-page-004",
+          "pageNumber": 4,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-007",
+          "pageId": "correspondence-page-015",
+          "sourcePageId": "correspondence-page-015",
+          "pageNumber": 15,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-010",
+          "pageId": "correspondence-page-021",
+          "sourcePageId": "correspondence-page-021",
+          "pageNumber": 21,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-024",
+          "pageId": "correspondence-page-044",
+          "sourcePageId": "correspondence-page-044",
+          "pageNumber": 44,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-032",
+          "pageId": "correspondence-page-053",
+          "sourcePageId": "correspondence-page-053",
+          "pageNumber": 53,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-041",
+          "pageId": "correspondence-page-063",
+          "sourcePageId": "correspondence-page-063",
+          "pageNumber": 63,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-047",
+          "pageId": "correspondence-page-071",
+          "sourcePageId": "correspondence-page-071",
+          "pageNumber": 71,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-054",
+          "pageId": "correspondence-page-079",
+          "sourcePageId": "correspondence-page-079",
+          "pageNumber": 79,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-090",
+          "sourcePageId": "correspondence-page-090",
+          "pageNumber": 90,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-065",
+          "pageId": "correspondence-page-091",
+          "sourcePageId": "correspondence-page-091",
+          "pageNumber": 91,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-070",
+          "pageId": "correspondence-page-097",
+          "sourcePageId": "correspondence-page-097",
+          "pageNumber": 97,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-106",
+          "sourcePageId": "correspondence-page-106",
+          "pageNumber": 106,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-079",
+          "pageId": "correspondence-page-107",
+          "sourcePageId": "correspondence-page-107",
+          "pageNumber": 107,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-080",
+          "pageId": "correspondence-page-109",
+          "sourcePageId": "correspondence-page-109",
+          "pageNumber": 109,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-vermont",
+      "name": "Vermont",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-015",
+          "pageId": "correspondence-page-028",
+          "sourcePageId": "correspondence-page-028",
+          "pageNumber": 28,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-042",
+          "pageId": "correspondence-page-064",
+          "sourcePageId": "correspondence-page-064",
+          "pageNumber": 64,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-063",
+          "pageId": "correspondence-page-088",
+          "sourcePageId": "correspondence-page-088",
+          "pageNumber": 88,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-washington-territory",
+      "name": "Washington Territory",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-046",
+          "pageId": "correspondence-page-070",
+          "sourcePageId": "correspondence-page-070",
+          "pageNumber": 70,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-west-rutland",
+      "name": "West Rutland",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-057",
+          "pageId": "correspondence-page-081",
+          "sourcePageId": "correspondence-page-081",
+          "pageNumber": 81,
+          "role": "mentioned"
+        }
+      ]
+    },
+    {
+      "id": "corr-place-wisconsin",
+      "name": "Wisconsin",
+      "type": "place",
+      "entryType": "place",
+      "category": "places",
+      "uncertain": false,
+      "sourceOccurrences": [
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-022",
+          "pageId": "correspondence-page-040",
+          "sourcePageId": "correspondence-page-040",
+          "pageNumber": 40,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-038",
+          "pageId": "correspondence-page-060",
+          "sourcePageId": "correspondence-page-060",
+          "pageNumber": 60,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-055",
+          "pageId": "correspondence-page-080",
+          "sourcePageId": "correspondence-page-080",
+          "pageNumber": 80,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-085",
+          "sourcePageId": "correspondence-page-085",
+          "pageNumber": 85,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-061",
+          "pageId": "correspondence-page-087",
+          "sourcePageId": "correspondence-page-087",
+          "pageNumber": 87,
+          "role": "mentioned"
+        },
+        {
+          "sourceType": "correspondence",
+          "collectionId": "correspondence-roberts-family-001",
+          "letterId": "letter-062",
+          "pageId": "correspondence-page-086",
+          "sourcePageId": "correspondence-page-086",
+          "pageNumber": 86,
+          "role": "mentioned"
+        }
+      ]
+    }
+  ]
+}
