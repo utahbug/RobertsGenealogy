@@ -77,8 +77,9 @@ function buildLinks(ids, type, fallback, sourceCollection, labelFn) {
     const item = findById(sourceCollection, id);
     if (!item) return;
     const label = labelFn(item);
+    const isCorrectionNote = type === 'note' && item && item.type === 'correction';
     wrapper.appendChild(el('a', {
-      className: 'link-chip',
+      className: isCorrectionNote ? 'link-chip note-correction' : 'link-chip',
       href: '#',
       text: label,
       onClick: (e) => {
@@ -106,7 +107,10 @@ function buildLinks(ids, type, fallback, sourceCollection, labelFn) {
 function renderEvent(event, data) {
   const eventCard = el('article', { className: 'event-card', id: `event-${event.id}` });
   eventCard.appendChild(el('h3', { className: 'card-title', html: `${event.title} <span class="source-type">(DEMO)</span>` }));
-  eventCard.appendChild(el('p', { className: 'meta', text: `${event.date || 'DEMO date missing'} • Event ${event.id}` }));
+  eventCard.appendChild(el('p', {
+    className: 'meta',
+    html: `<span class="date-mark">${event.date || 'DEMO date missing'}</span> • Event ${event.id}`,
+  }));
 
   const people = (event.people || [])
     .map((id) => findById(data.people, id))
