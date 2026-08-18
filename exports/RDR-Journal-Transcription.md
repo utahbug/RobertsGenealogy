@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 48 / 119
+Pages with transcription text: 50 / 119
 
-Untranscribed PDF pages: 49-119
+Untranscribed PDF pages: 51-119
 
 ## PDF page 1
 
@@ -2517,3 +2517,111 @@ idson and Loric C. Larsen.
 ### Editorial annotations
 
 First-pass visual transcription completed. The page completes the blessing begun on PDF page 47 and records two ordinations.
+
+## PDF page 49
+
+Stable ID: `journal-rdr-page-049`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+December 6th 1893
+
+David Robert Roberts and Tryphena Davies went to
+the Logan Temple and received their washing and anoin-
+tings and was sealed in the bonds of wedlock and marriage
+in the new and everlasting covenant by [unclear: H. C. McAllister]
+
+Tryphena Davies Roberts is a daughter to Edward D.
+and Eliz Davis born April 25th 1874 at twenty minutes to
+three A.M. (2.40 A.M.) at Delano Rush Township Clearfield
+County Pennsylvania
+
+David David Davis was born July 14th 1834 in
+George Town Merthyr Tydfil Parish of Merthyr Tydfil
+Glamorgan Shire South Wales he received the gospel in his
+fifteenth year
+
+Cady Davies was born March 20th 1841 in Dowlais
+Parish of Merthyr Tydfil Glamorganshire South Wales
+her parents received the gospel when she was six years old
+
+David D. and Cady Davies was Married September 13th
+1863 at Saint Davids Church Merthyr Tydfil by the Rector
+William Davies
+
+They Emigrated from Wales July 1867 to the
+State of Pennsylvania Schuylkill County Delano August 13th
+1878 moved from Delano to and arrived in Salt Lake
+City August 20th in February 1879 moved to Paragoonah Iron
+County on June 21st 1881 moved to Logan Cache County
+
+Tryphena Davies Roberts was baptized June 25 1882 by
+William Watterson Confirmed by Robert Davidson Bishop in
+Logan third Ward
+
+Logan City February 20th 1894
+
+In the year 1891 Thomas D. Roberts was called
+to go on a mission to Europe October 9th he started to
+Salt Lake City on the 10th he was set apart and blessed
+for the mission by B. H. Roberts assisted by M. J.
+Grant on the 10th left Salt Lake City in company with
+others for Europe aboard the Steamboat Alaska at
+New York on the 17th arrived in Liverpool 26th. [unclear: David]
+
+### Editorial annotations
+
+First-pass visual transcription completed. Overwritten officiator text and apparent date/place inconsistencies are preserved with uncertainty notation. The final mission entry continues onto PDF page 50.
+
+## PDF page 50
+
+Stable ID: `journal-rdr-page-050`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Liverpool on the 30th for the Netherland Conference Haarlem.
+He was appointed in company with John J. Hallam to
+labor at Amsterdam. A little after he labored in
+Groningen and then at Amsterdam he had an intelligent
+companion he worked our old house and both
+places with very kindly received by new relatives and
+old friends visit the old farm where mother was born
+and all down walking streets from some of the old
+families that we used to call some when we [unclear: were] little by
+brought them home and gave us each of their pictures
+and brothers and in the station we went through
+name for each of us a Plate from the quarry
+that we used to work with our father silver sent gifts
+to him of Robert W Roberts our cousin
+
+He was released from his mission started from
+Cardiff Wales September 16th 1893 to return home
+with the liberty that he had perform the labor
+that was required of him to the best of his ability
+and the satisfaction of himself and those that called
+and hired I believe he had the honor to baptize
+two persons
+
+Left Liverpool Sep 16 in company with 17
+other returning Elders and 100 emigrant Saints on
+the Steamer arrived in New York on the
+24th took the train for Utah the same day
+arrived home October 26th been away from home his
+days lacking two years fellow and family arrived
+in Salt Lake City October 2nd 1856 after crossing the
+plains with handcarts after been five months lacking
+two days 39 years has made quite a change in
+living
+
+Logan City January 12th 1895
+
+William John Hopkins died after four weeks illness
+of the dreadful disease diphtheria he had come down from Kamas Montana to attend
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page contains faint and difficult mission-remembrance wording and apparent date inconsistencies; the death entry continues onto PDF page 51.
