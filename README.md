@@ -52,6 +52,15 @@ The expected published URL is:
 
 - https://utahbug.github.io/RobertsGenealogy/
 
+This GitHub Pages deployment is intentionally private-review only and includes:
+
+- `noindex`
+- `nofollow`
+- `noarchive`
+- `noimageindex`
+
+Both the page-level robots and googlebot directives are set in `index.html` so crawlers should not index or follow while content is in DEMO/review state.
+
 After deployment, open that URL and verify:
 - no horizontal scroll on normal content,
 - sections are usable on narrow devices,

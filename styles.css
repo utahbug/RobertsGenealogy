@@ -49,11 +49,11 @@ h4 {
 .app-header,
 .top-nav,
 .site-footer {
-  padding: 1rem 0;
+  padding: 0.6rem 0;
 }
 
 .app-header .wrapper {
-  padding-bottom: 0.55rem;
+  padding-bottom: 0.4rem;
 }
 
 .app-header h1,
@@ -66,7 +66,7 @@ h4 {
 
 .app-header p {
   margin: .3rem 0 0;
-  color: var(--muted);
+  color: #b9c5cf;
 }
 
 .title-row {
@@ -79,11 +79,24 @@ h4 {
 h1 {
   font-family: var(--serif-stack);
   letter-spacing: 0.01em;
+  color: #f7f8fa;
+  font-size: 1.9rem;
 }
 
 .app-header {
-  background: var(--panel);
-  border-bottom: 1px solid var(--line);
+  background: var(--accent-dark);
+  border-bottom: 1px solid color-mix(in srgb, var(--correction) 35%, var(--line));
+  position: relative;
+}
+
+.app-header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 1px;
+  background: #7a3e43;
 }
 
 .demo-badge {
@@ -92,7 +105,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: #ffffff;
-  background: var(--correction);
+  background: #7a3e43;
   border: 1px solid #7a3539;
   border-radius: 3px;
   padding: 0.2rem 0.45rem;
