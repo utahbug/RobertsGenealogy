@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e9e0d3"/>
+  <rect x="40" y="40" width="1120" height="820" fill="#ffffff" fill-opacity="0.35"/>
+  <text x="80" y="140" fill="#3b5a3f" font-size="56" font-family="Georgia" font-weight="700">DEMO PHOTOGRAPH</text>
+  <text x="80" y="210" fill="#3b5a3f" font-size="32" font-family="Georgia">Home placeholder sample only</text>
+</svg>

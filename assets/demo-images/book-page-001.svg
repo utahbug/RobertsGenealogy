@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f8fbff"/>
+  <rect x="32" y="32" width="836" height="1136" fill="none" stroke="#b9c7dd" stroke-width="2"/>
+  <text x="60" y="100" font-size="42" fill="#2f4b7c" font-family="Georgia" font-weight="700">DEMO BOOK PAGE 12</text>
+  <text x="60" y="170" font-size="28" fill="#4f6384" font-family="Georgia">Placeholder source page image.</text>
+  <rect x="80" y="230" width="740" height="820" fill="#f4f8ff" stroke="#d5e0f2"/>
+  <text x="140" y="320" font-size="30" fill="#63789c" font-family="Georgia">DEMO original book scan area</text>
+</svg>

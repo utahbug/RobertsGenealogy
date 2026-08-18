@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f3f8f3"/>
+  <text x="80" y="90" fill="#2f6b44" font-size="36" font-family="Georgia" font-weight="700">DEMO JOURNAL PAGE 2</text>
+  <rect x="60" y="130" width="780" height="980" fill="#ffffff" stroke="#d7e6d7"/>
+  <text x="110" y="220" fill="#4f8661" font-size="28" font-family="Georgia">DEMO journal page placeholder</text>
+</svg>

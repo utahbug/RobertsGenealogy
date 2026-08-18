@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RobertsGenealogy (DEMO)</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#story">Skip to content</a>
+    <header class="app-header">
+      <div class="wrapper">
+        <h1>RobertsGenealogy (DEMO)</h1>
+        <p>Annotated digital genealogy workspace for the Roberts family materials.</p>
+      </div>
+    </header>
+
+    <nav class="top-nav" aria-label="Primary">
+      <div class="wrapper nav-scroll" role="tablist" aria-label="Primary sections">
+        <button class="nav-button is-active" data-section="story" aria-controls="story" role="tab">Story</button>
+        <button class="nav-button" data-section="book" aria-controls="book" role="tab">Book</button>
+        <button class="nav-button" data-section="journals" aria-controls="journals" role="tab">Journals</button>
+        <button class="nav-button" data-section="sources" aria-controls="sources" role="tab">Sources</button>
+        <button class="nav-button" data-section="search" aria-controls="search" role="tab">Search</button>
+      </div>
+    </nav>
+
+    <main class="wrapper">
+      <section id="story" class="content-panel" data-panel="story" role="tabpanel">
+        <header>
+          <h2>Story</h2>
+          <p>Chronological narrative driven entirely by structured data files.</p>
+        </header>
+        <div id="story-status" class="status-note"></div>
+        <div id="story-content" class="timeline"></div>
+      </section>
+
+      <section id="book" class="content-panel" data-panel="book" hidden role="tabpanel">
+        <header>
+          <h2>Book</h2>
+          <p>Selected pages from the original genealogy book are shown as historical source pages.</p>
+        </header>
+        <div id="book-status" class="status-note"></div>
+        <div id="book-content" class="page-grid"></div>
+      </section>
+
+      <section id="journals" class="content-panel" data-panel="journals" hidden role="tabpanel">
+        <header>
+          <h2>Journals</h2>
+          <p>Primary source journals with image-and-transcription reader layout (stacked on narrow screens).</p>
+        </header>
+        <div id="journals-status" class="status-note"></div>
+        <div id="journals-content" class="stack"></div>
+      </section>
+
+      <section id="sources" class="content-panel" data-panel="sources" hidden role="tabpanel">
+        <header>
+          <h2>Sources</h2>
+          <p>Evidence and supporting materials connected to events, notes, people, and places.</p>
+        </header>
+        <div id="sources-status" class="status-note"></div>
+        <div id="sources-content" class="stack"></div>
+      </section>
+
+      <section id="search" class="content-panel" data-panel="search" hidden role="tabpanel">
+        <header>
+          <h2>Search</h2>
+          <p>Search is built across Story, Book, Journals, Sources, people, places, photographs, and editorial material.</p>
+        </header>
+        <div class="search-controls">
+          <label for="search-input">Find across all source-linked records</label>
+          <input id="search-input" type="search" placeholder="Search e.g. SAMPLE person, SAMPLE place, correction" />
+        </div>
+        <div id="search-status" class="status-note"></div>
+        <div id="search-results" class="stack"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Repository purpose: preserve original source language and structure while supporting modern editorial interpretation.</p>
+      <p class="sample-disclaimer">All sample/demo content in this build is explicitly labeled with SAMPLE/DEMO.</p>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
