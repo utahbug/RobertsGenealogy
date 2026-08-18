@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 36 / 119
+Pages with transcription text: 38 / 119
 
-Untranscribed PDF pages: 37-119
+Untranscribed PDF pages: 39-119
 
 ## PDF page 1
 
@@ -1899,3 +1899,91 @@ same month as he is the first of grandfather's
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. The page continues the migration and family-history passage from PDF page 35. Several names, relationship phrases, locations, and dates remain uncertain, and the final sentence continues onto the next page. The preserved source image was not altered. Status: needs review.
+
+## PDF page 37
+
+Stable ID: `journal-rdr-page-037`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+descendant that I know of to day [unclear: eastern line]
+of america which has been settled in these last
+days through Joseph Smith the prophet he has
+suffered persecution and imprisonment for his own
+religion and keeping the law of god was arrested
+May 11th 1885 about four oclock in the morning May
+11th was before the Court at Blackfoot plead guilty
+to the charge and had his bond. May 23rd was
+sentenced to five months in the United States
+Penitentiary and three hundred dollars fine $300.00
+on the evening May 30th started for Boise City arrived
+at Pendleton Sunday morning May 31st September
+23rd was released from his confinement in the Pri-
+son with some others of the Brethren they were treated
+with some respect while there [unclear: towards the prejudice]
+that existed against them arrived home September
+25th
+
+Some time after he came home one of his six
+children was sick he sent there a [unclear: alternative]
+to have [unclear: some statement] which [unclear: caused] who
+[unclear: had through affairs of the law were after him] he
+had to leave home and family to a considerable
+time to keep from unconstitutional laws and very good
+useful friends. I do not know where he is at present
+I believe that his family are at Rexburg.
+
+My cousin David his father whom he resides
+there [unclear: strength] in the state married [unclear: his]
+second loved in North [unclear: there] a very right minded man
+he married my father's sister his family lived in
+Nottingham by the mothers [unclear: residence] used to lodge
+with us from monday morning untill Saturday
+evening he was a very good and hard man he
+was not good to read to me since I was a little
+boy at which I shall always remember him
+with kind affection
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page continues the family-history narrative from pages 35–36 and includes a legal/imprisonment account. Several relationship and legal phrases remain uncertain. The preserved source image was not altered. Status: needs review.
+
+## PDF page 38
+
+Stable ID: `journal-rdr-page-038`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City June 21st 1889
+
+Received a note from [unclear: Corn] Hughes from Malad
+Idaho Territory dated June 18th 1889 that [unclear: Leon] his
+wife her sister had given birth to a nice boy that
+morning at 11 oclock mother and baby doing well
+he was blessed September 2nd 1886 by David J Bowen
+his name Thomas William Hughes
+
+December 15th 1889
+
+Thomas William Hughes died in
+Samaria Oneida County Idaho Territory
+
+September 21st 1891 at Logan City
+
+Sarah Catherine Hopkins
+Thatcher wife of Moses Thatcher Junr
+gave birth to a little girl weighing
+ten pound
+
+was blessed by her grandfather
+Moses Thatcher October 3rd her name
+Lillie Ann Thatcher mother's first
+great-grand child
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement used only as reading aids. The apparent 1889 note date and 1886 blessing date are preserved as written rather than reconciled. One correspondent's given name remains uncertain. The preserved source image was not altered. Status: needs review.
