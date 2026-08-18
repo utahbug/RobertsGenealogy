@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 44 / 119
+Pages with transcription text: 46 / 119
 
-Untranscribed PDF pages: 45-119
+Untranscribed PDF pages: 47-119
 
 ## PDF page 1
 
@@ -2312,3 +2312,107 @@ of life and salvation, to call them to repentance, and
 ### Editorial annotations
 
 First-pass visual transcription completed. The memorial continues on PDF page 45; uncertain place-name spelling is preserved as read.
+
+## PDF page 45
+
+Stable ID: `journal-rdr-page-045`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+yield obedience to the gospel of Jesus Christ and warn them of the
+judgment that was to come upon the disobedient, with
+but few exceptions the world would scorn, ridicule, and
+reject their message, and very often arose them under those
+trying circumstances the Elder found her as a mother to
+them, to aid, and comfort them on their unregarded and
+thankful mission. She was watchful and kind to her children,
+She fed and clothed them as her circumstance would permit
+her, with care and tenderness. She administered to them in
+sickness, and with a loving hand she wiped their tears
+sooth and comfort them in their trouble, She was a noble,
+obedient, affectionate, and a loving wife. in return for
+these grand qualities She was highly, esteemed, and every
+attention that a kind husband could give her, she
+received, They lived peaceable and Happy together, she
+was quiet, and unassuming, never had any quarrel or
+dispute with her neighbors but was always the best
+of friend with them, She never spoke ill or slander
+anyone, but had a kind word for all. She sympathized
+with the poor, and needy, and assisted them, She did
+much with the garments.
+
+October 12th 1892 She went to
+her son Thomas's house to see the funeral of sister
+Davis. Thomas's mother in law Started from there, She was
+left in a room by herself for a few minutes, it seems
+that she arose from the chair to go to the door,
+in turning back she got dizzy, and fell on the
+edge of the stove on her forehead, and bruised her
+face and her eye was black. On the evening of the
+13th when we were about to retire. I was bathing
+her face and head. She looked much better, and
+she said, I feel very much better, I will be all right
+in a day or two, but next morning She was very
+sick, and from this time it seems that death had
+taken hold of her, but She was not in very
+great pain, at 25 minutes past 12, on the morning
+of Oct. 17th 1892 her spirit quietly took leave of
+the body, on the evening of the 19th we had a meeting
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page continues the memorial from PDF page 44 and continues onto PDF page 46.
+
+## PDF page 46
+
+Stable ID: `journal-rdr-page-046`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+in the house Richard Yeates presiding prayer
+by William Partington. George Reunter Benjamin
+Hallam. William Waterson and Richard Yeates prea-
+ched benediction by Willard Cranney. next morning at
+seven o clock we met the train at the depot, and
+took her to Birmingham, and she was buried by the side
+of father.
+
+Logan City November 10th 1893
+
+Ann Hughes daughter to Elizabeth
+Robert Hughes and Thiesan Hughes (Elizabeth
+is our sister) was married to John William
+Cowley on the evening of August 23rd 1893 in his
+grandmother Davidson's house in the first ward
+of Logan City by Edward Smith justice of the
+peace
+
+John William Cowley is a son to John
+Abner Cowley and Jennet Davidson Cowley was
+born in Logan City. Ann Hughes was born in
+Samaria Oneida County Idaho
+
+John Abner Cowley was a son to Charles
+Cowley and Ann Killips Cowley They embraced
+the gospel in Isle of man in the year 1840 emi-
+grated to Nauvoo State of Illinois the same
+year came to Utah in 1850 remained in Salt
+Lake City until the year 1860 when they moved
+to Logan Cache County he was a very good
+old Gentleman
+
+Jennet Davidson Cowley was a daug-
+hter to Thomas Davidson and Ann Davidson
+They embraced the gospel in Fifeshire Scotland
+February 1852 emigrated to Salt Lake City Utah
+the same year, in the year 1860 moved to
+Logan Cache County he had obeyed the
+celestial law of marriage
+
+### Editorial annotations
+
+First-pass visual transcription completed. Historical names, punctuation, and relationship wording are preserved as read.
