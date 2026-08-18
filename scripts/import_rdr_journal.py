@@ -146,10 +146,14 @@ def main() -> None:
         page = {
             "id": page_id,
             "pdfPageNumber": page_number,
-            "manuscriptPageNumber": str(page_number) if page_number in {2, 3, 4} else None,
+            "manuscriptPageNumber": str(page_number) if 2 <= page_number <= 10 else None,
             "image": f"assets/journals/rdr/{page_id}.jpg",
             "transcriptionFile": f"data/journals/rdr/pages/{page_number:03d}.md",
-            "transcriptionStatus": "needs-review" if page_number <= 3 else "untranscribed",
+            "transcriptionStatus": (
+                "untranscribed"
+                if "[Untranscribed]" in markdown_path.read_text(encoding="utf-8")
+                else "needs-review"
+            ),
             "hand": None,
             "contentAuthor": None,
             "contentAuthorId": None,

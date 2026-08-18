@@ -169,6 +169,26 @@ def build_reader_data(journal: dict) -> list[dict]:
     return journal_pages
 
 
+def is_started_page(page: dict) -> bool:
+    text = (page.get("transcription") or "").strip()
+    return bool(text and not text.lower().startswith("[untranscribed"))
+
+
+def page_number_ranges(numbers: list[int]) -> str:
+    if not numbers:
+        return "None"
+    ranges = []
+    start = previous = numbers[0]
+    for number in numbers[1:]:
+        if number == previous + 1:
+            previous = number
+            continue
+        ranges.append(str(start) if start == previous else f"{start}-{previous}")
+        start = previous = number
+    ranges.append(str(start) if start == previous else f"{start}-{previous}")
+    return ", ".join(ranges)
+
+
 def write_markdown_export(journal: dict, pages: list[dict]) -> None:
     lines = [
         f"# {journal['title']}",
@@ -183,12 +203,23 @@ def write_markdown_export(journal: dict, pages: list[dict]) -> None:
         f"> {journal['openingContentNote']}",
         "",
     ]
-    for page in pages:
+    started_pages = [page for page in pages if is_started_page(page)]
+    unfinished_numbers = [page["pdfPageNumber"] for page in pages if not is_started_page(page)]
+    lines.extend(
+        [
+            f"Pages with transcription text: {len(started_pages)} / {len(pages)}",
+            "",
+            f"Untranscribed PDF pages: {page_number_ranges(unfinished_numbers)}",
+            "",
+        ]
+    )
+    for page in started_pages:
         lines.extend(
             [
                 f"## {page_heading(page)}",
                 "",
-                f"Stable ID: `{page['id']}`  ",
+                f"Stable ID: `{page['id']}`",
+                "",
                 f"Transcription status: `{page['transcriptionStatus']}`",
                 "",
                 "### English transcription",
@@ -205,6 +236,8 @@ def write_markdown_export(journal: dict, pages: list[dict]) -> None:
 
 
 def write_docx_export(journal: dict, pages: list[dict]) -> None:
+    started_pages = [page for page in pages if is_started_page(page)]
+    unfinished_numbers = [page["pdfPageNumber"] for page in pages if not is_started_page(page)]
     document = Document()
     section = document.sections[0]
     section.top_margin = Inches(1)
@@ -262,7 +295,14 @@ def write_docx_export(journal: dict, pages: list[dict]) -> None:
 
     status = document.add_paragraph()
     status.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_run_font(status.add_run("Working transcription: no page is marked reviewed; uncertainty notation is retained."), size=10, color=MUTED_COLOR, italic=True)
+    set_run_font(
+        status.add_run(
+            f"Working transcription: {len(started_pages)} of {len(pages)} PDF pages contain transcription text; uncertainty notation is retained."
+        ),
+        size=10,
+        color=MUTED_COLOR,
+        italic=True,
+    )
 
     document.add_page_break()
 
@@ -271,7 +311,7 @@ def write_docx_export(journal: dict, pages: list[dict]) -> None:
     add_text_block(document, journal["openingContentNote"])
     add_text_block(document, journal["authorshipNote"])
 
-    for page in pages:
+    for page in started_pages:
         document.add_paragraph(page_heading(page), style="Heading 1")
         metadata = document.add_paragraph()
         metadata.paragraph_format.space_after = Pt(7)
@@ -287,6 +327,13 @@ def write_docx_export(journal: dict, pages: list[dict]) -> None:
         add_text_block(document, page["transcription"])
         document.add_paragraph("Editorial annotations", style="Heading 2")
         add_text_block(document, page["notes"])
+
+    if unfinished_numbers:
+        document.add_paragraph("Untranscribed pages", style="Heading 1")
+        add_text_block(
+            document,
+            f"Transcription has not yet been completed for PDF pages {page_number_ranges(unfinished_numbers)}.",
+        )
 
     document.core_properties.title = "RDR Journal Transcription"
     document.core_properties.subject = "Editable English transcription of the Robert D. Roberts Journal"

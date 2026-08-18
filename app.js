@@ -279,285 +279,98 @@ function renderEvent(event, data) {
   return eventCard;
 }
 
+function journalAlias(journalId) {
+  if (journalId === 'journal-rdr-001') return 'rdr';
+  if (journalId === 'journal-dr-001') return 'dr';
+  return '';
+}
+
+function journalPageIsStarted(page) {
+  const text = String(page.transcription || page.welshTranscription || '').trim();
+  return Boolean(text && !/^\[(Untranscribed|Untranslated|Not applicable)/i.test(text));
+}
+
+function journalViewerUrl(journal, pageNumber, query = '') {
+  const alias = journalAlias(journal.id);
+  const preferredPage = pageNumber || (alias === 'dr' ? 68 : 3);
+  const params = new URLSearchParams({ id: alias, page: String(preferredPage) });
+  if (query.trim()) params.set('q', query.trim());
+  return `journal-viewer.html?${params.toString()}`;
+}
+
 function renderJournal(journal, data) {
-  const card = el('article', { className: 'journal-card' });
-  card.appendChild(el('h3', { className: 'card-title', text: journal.title }));
+  const pages = (data.journalPages || [])
+    .filter((page) => page.journalId === journal.id)
+    .sort((a, b) => Number(a.pdfPageNumber || a.pageNumber) - Number(b.pdfPageNumber || b.pageNumber));
+  const alias = journalAlias(journal.id);
+  const card = el('article', { className: 'journal-catalog-entry' });
+  const summary = alias === 'rdr'
+    ? 'English family record and journal'
+    : 'Welsh family history, journal, poetry, and later Roberts-family additions';
+  const started = pages.filter(journalPageIsStarted).length;
+  const reviewed = pages.filter((page) => page.transcriptionStatus === 'reviewed').length;
 
-  const journalMeta = [
-    journal.primaryWriter ? `${journal.creatorLabel || 'Primary writer'}: ${journal.primaryWriter}` : '',
-    journal.language ? `Language: ${journal.language}` : '',
-    journal.pdfPageCount ? `${journal.pdfPageCount} PDF pages` : '',
-    journal.dateRange || 'Date range not established',
-  ].filter(Boolean);
-  card.appendChild(el('p', { className: 'meta', text: journalMeta.join(' • ') }));
+  card.appendChild(el('p', { className: 'journal-catalog-kicker', text: 'Historical volume' }));
+  card.appendChild(el('h3', { className: 'journal-catalog-title', text: journal.title }));
+  card.appendChild(el('p', { className: 'journal-catalog-summary', text: summary }));
+  card.appendChild(el('p', {
+    className: 'journal-catalog-meta',
+    text: `${journal.pdfPageCount || pages.length} PDF pages${journal.language ? ` · ${journal.language}` : ''}`,
+  }));
 
-  if (journal.description) {
-    card.appendChild(el('p', { text: journal.description }));
-  }
-
-  if (journal.sourceTitle) {
-    card.appendChild(el('p', { className: 'journal-source-title', text: `Source label: ${journal.sourceTitle}` }));
-  }
-
-  if (journal.openingContentNote) {
-    card.appendChild(el('p', { className: 'journal-context-note', text: journal.openingContentNote }));
-  }
-
-  if (journal.authorshipNote) {
-    card.appendChild(el('p', { className: 'journal-context-note', text: journal.authorshipNote }));
-  }
-
-  if (journal.continuationNote) {
-    card.appendChild(el('p', { className: 'meta', text: journal.continuationNote }));
-  }
-
-  if (journal.sourceIdentityNote) {
-    card.appendChild(el('p', { className: 'journal-context-note', text: journal.sourceIdentityNote }));
-  }
-
-  if (journal.physicalStructureNote) {
-    card.appendChild(el('p', { className: 'meta', text: journal.physicalStructureNote }));
-  }
-
-  if (journal.exportStatus) {
-    card.appendChild(el('p', { className: 'meta', text: journal.exportStatus }));
-  }
-
-  if (journal.downloads?.length) {
-    const downloads = el('div', { className: 'journal-downloads' });
-    downloads.appendChild(el('span', { className: 'tag', text: 'Transcription exports' }));
-    journal.downloads.forEach((download) => {
-      downloads.appendChild(el('a', { className: 'link-chip', href: download.path, text: download.label }));
-    });
-    card.appendChild(downloads);
-  }
-
-  const pages = data.journalPages
-    .filter((p) => p.journalId === journal.id)
-    .sort((a, b) => (Number(a.pageNumber) || 0) - (Number(b.pageNumber) || 0));
-
-  if (!pages.length) {
-    card.appendChild(el('p', { className: 'status-note', text: 'No journal pages are available.' }));
-    return card;
-  }
-
-  const toolbar = el('div', { className: 'journal-toolbar', role: 'group', 'aria-label': `${journal.title} page controls` });
-  const firstButton = el('button', { type: 'button', className: 'journal-control', text: 'First' });
-  const prevButton = el('button', { type: 'button', className: 'journal-control', text: 'Previous' });
-  const nextButton = el('button', { type: 'button', className: 'journal-control', text: 'Next' });
-  const lastButton = el('button', { type: 'button', className: 'journal-control', text: 'Last' });
-  const pageInput = el('input', {
-    type: 'number',
-    className: 'journal-page-input',
-    min: 1,
-    max: pages.length,
-    value: 1,
-    'aria-label': `${journal.title} PDF page number`,
-  });
-  const goButton = el('button', { type: 'button', className: 'journal-control', text: 'Go' });
-  const pageJump = el('div', { className: 'journal-page-jump' }, [
-    el('span', { text: 'PDF page' }),
-    pageInput,
-    el('span', { text: `/ ${pages.length}` }),
-    goButton,
-  ]);
-  toolbar.appendChild(firstButton);
-  toolbar.appendChild(prevButton);
-  toolbar.appendChild(pageJump);
-  toolbar.appendChild(nextButton);
-  toolbar.appendChild(lastButton);
-  card.appendChild(toolbar);
-
-  const pageHost = el('div', { className: 'journal-page-host' });
-  card.appendChild(pageHost);
-
-  let activeIndex = 0;
-
-  const renderPageAt = (requestedIndex, updateHash = true) => {
-    activeIndex = Math.max(0, Math.min(requestedIndex, pages.length - 1));
-    const page = pages[activeIndex];
-    pageInput.value = String(page.pdfPageNumber || page.pageNumber);
-    firstButton.disabled = activeIndex === 0;
-    prevButton.disabled = activeIndex === 0;
-    nextButton.disabled = activeIndex === pages.length - 1;
-    lastButton.disabled = activeIndex === pages.length - 1;
-
-    pageHost.innerHTML = '';
-    const panel = el('section', { className: 'event-card journal-page-panel', id: page.id });
-    const manuscriptLabel = page.manuscriptPageNumber ? ` • Manuscript page ${page.manuscriptPageNumber}` : '';
-    const sectionLabel = page.sectionLabel ? ` • ${page.sectionLabel}` : '';
-    panel.appendChild(el('h4', { className: 'card-title', text: `PDF page ${page.pdfPageNumber || page.pageNumber}${manuscriptLabel}${sectionLabel}` }));
-    panel.appendChild(el('p', { className: 'meta', text: `Stable ID: ${page.id}` }));
-
-    const statusText = (page.transcriptionStatus || 'untranscribed').replaceAll('-', ' ');
-    panel.appendChild(el('span', {
-      className: `transcription-status status-${page.transcriptionStatus || 'untranscribed'}`,
-      text: `Transcription status: ${statusText}`,
+  if (alias === 'rdr') {
+    card.appendChild(el('p', {
+      text: "Mostly written and compiled by Robert D. Roberts; later continued by David D. Roberts. The opening portion preserves Robert D. Roberts's historical English translation/copy of David Roberts's Welsh record.",
     }));
+    card.appendChild(el('p', {
+      className: 'journal-progress',
+      text: `Transcription progress: ${started} / ${pages.length} pages started · ${reviewed} reviewed`,
+    }));
+  } else {
+    card.appendChild(el('p', {
+      text: 'A separate Welsh-language source volume. Poetry and other writings precede the family-history and journal section beginning at PDF page 68.',
+    }));
+    card.appendChild(el('p', {
+      className: 'journal-progress',
+      text: 'Family-history section transcription in progress; Welsh transcription and modern English translation remain incomplete.',
+    }));
+  }
 
-    if (page.translationStatus) {
-      const translationStatusText = page.translationStatus.replaceAll('-', ' ');
-      panel.appendChild(el('span', {
-        className: `transcription-status translation-status status-${page.translationStatus}`,
-        text: `Translation status: ${translationStatusText}`,
+  const actions = el('div', { className: 'journal-catalog-actions', 'aria-label': `${journal.title} actions` });
+  actions.appendChild(el('a', {
+    className: 'catalog-action catalog-action-primary',
+    href: journalViewerUrl(journal),
+    text: alias === 'rdr' ? 'Read transcription' : 'Read Welsh / English',
+  }));
+  if (journal.sourceFile) {
+    actions.appendChild(el('a', {
+      className: 'catalog-action',
+      href: journal.sourceFile,
+      target: '_blank',
+      rel: 'noopener',
+      text: 'View original',
+    }));
+  }
+  if (alias === 'rdr') {
+    const wordDownload = (journal.downloads || []).find((download) => /Word/i.test(download.label));
+    if (wordDownload) {
+      actions.appendChild(el('a', {
+        className: 'catalog-action',
+        href: wordDownload.path,
+        text: 'Download Word',
       }));
     }
-
-    const attribution = [
-      page.contentAuthor ? `Content author: ${page.contentAuthor}` : '',
-      page.scribe ? `Scribe: ${page.scribe}` : '',
-      page.translator ? `Translator: ${page.translator}` : '',
-      page.editor ? `Editor: ${page.editor}` : '',
-      page.attributionStatus ? `Attribution: ${page.attributionStatus}` : '',
-    ].filter(Boolean);
-    if (attribution.length) {
-      panel.appendChild(el('p', { className: 'meta journal-attribution', text: attribution.join(' • ') }));
-    }
-    if (page.attributionBasis) {
-      panel.appendChild(el('p', { className: 'meta', text: `Attribution basis: ${page.attributionBasis}` }));
-    }
-
-    if (page.contentContext) {
-      panel.appendChild(el('p', { className: 'journal-context-note', text: page.contentContext }));
-    }
-
-    const isWelshReader = journal.readerLayout === 'welsh-english';
-    const reader = el('div', { className: `journal-reader${isWelshReader ? ' journal-reader--welsh' : ''}` });
-    const imageColumn = el('div', { className: 'journal-source-column' });
-    imageColumn.appendChild(el('h5', { className: 'reader-heading', text: 'Original scanned journal page' }));
-    imageColumn.appendChild(el('div', { className: 'image-frame' }, [
-      makeZoomImage(page.image, `${journal.title}, PDF page ${page.pdfPageNumber || page.pageNumber}`),
-    ]));
-    if (journal.sourceFile) {
-      imageColumn.appendChild(el('a', {
-        className: 'journal-pdf-link',
-        href: `${journal.sourceFile}#page=${page.pdfPageNumber || page.pageNumber}`,
-        target: '_blank',
-        rel: 'noopener',
-        text: 'Open this page in the unchanged source PDF',
-      }));
-    }
-    reader.appendChild(imageColumn);
-
-    const textColumn = el('div', { className: 'reader-text' });
-    if (isWelshReader) {
-      const comparison = el('div', { className: 'journal-language-comparison' });
-      const welshLayer = el('section', { className: 'journal-language-layer' });
-      welshLayer.appendChild(el('h5', { className: 'reader-heading', text: page.sourceTranscriptionLabel || 'Welsh transcription' }));
-      welshLayer.appendChild(el('pre', { className: 'transcription-text', text: page.welshTranscription || '[Untranscribed]' }));
-      comparison.appendChild(welshLayer);
-
-      const englishLayer = el('section', { className: 'journal-language-layer' });
-      englishLayer.appendChild(el('h5', { className: 'reader-heading', text: page.translationLabel || 'Modern English translation' }));
-      englishLayer.appendChild(el('pre', { className: 'transcription-text', text: page.translation || '[Untranslated]' }));
-      comparison.appendChild(englishLayer);
-      textColumn.appendChild(comparison);
-    } else {
-      textColumn.appendChild(el('h5', { className: 'reader-heading', text: page.transcriptionLabel || 'Transcription' }));
-      textColumn.appendChild(el('pre', { className: 'transcription-text', text: page.transcription || '[Untranscribed]' }));
-    }
-
-    if (page.machineDraft) {
-      const machineLayer = el('section', { className: 'journal-layer' });
-      machineLayer.appendChild(el('h5', { className: 'reader-heading', text: 'Machine/OCR assistance' }));
-      machineLayer.appendChild(el('pre', { className: 'transcription-text machine-draft', text: page.machineDraft }));
-      textColumn.appendChild(machineLayer);
-    }
-    if (page.originalLanguageTranscription) {
-      const languageLayer = el('section', { className: 'journal-layer' });
-      languageLayer.appendChild(el('h5', { className: 'reader-heading', text: 'Original-language transcription' }));
-      languageLayer.appendChild(el('pre', { className: 'transcription-text', text: page.originalLanguageTranscription }));
-      textColumn.appendChild(languageLayer);
-    }
-    if (page.translation) {
-      const translationLayer = el('section', { className: 'journal-layer' });
-      translationLayer.appendChild(el('h5', { className: 'reader-heading', text: 'English translation' }));
-      translationLayer.appendChild(el('pre', { className: 'transcription-text', text: page.translation }));
-      textColumn.appendChild(translationLayer);
-    }
-    if (page.notes) {
-      const notesLayer = el('section', { className: 'journal-layer' });
-      notesLayer.appendChild(el('h5', { className: 'reader-heading', text: page.notesLabel || 'Editorial annotations' }));
-      notesLayer.appendChild(el('p', { className: 'meta', text: page.notes }));
-      textColumn.appendChild(notesLayer);
-    }
-
-    if (page.relatedJournalPassages?.length) {
-      const relatedLayer = el('section', { className: 'journal-layer' });
-      relatedLayer.appendChild(el('h5', { className: 'reader-heading', text: 'Related journal passages' }));
-      page.relatedJournalPassages.forEach((relationship) => {
-        const relatedPage = findById(data.journalPages, relationship.pageId);
-        if (!relatedPage) return;
-        relatedLayer.appendChild(el('a', {
-          className: 'link-chip',
-          href: `#${relatedPage.id}`,
-          text: `${relationship.relationship}: ${relatedPage.title}`,
-          onClick: (event) => {
-            event.preventDefault();
-            openJournalPageById(relatedPage.id);
-          },
-        }));
-      });
-      textColumn.appendChild(relatedLayer);
-    }
-
-    const people = (page.people || [])
-      .map((id) => findById(data.people, id))
-      .filter(Boolean);
-    const places = (page.places || [])
-      .map((id) => findById(data.places, id))
-      .filter(Boolean);
-
-    const peopleRow = buildTagRow(people, 'People', (person) => person.name);
-    if (peopleRow) textColumn.appendChild(peopleRow);
-
-    const placeRow = buildTagRow(places, 'Places', (place) => place.name);
-    if (placeRow) textColumn.appendChild(placeRow);
-
-    const dateRow = buildTagRow(page.dates || [], 'Dates', (value) => value);
-    if (dateRow) textColumn.appendChild(dateRow);
-
-    textColumn.appendChild(buildLinks(page.linkedEvents || [], 'story', 'Linked events', data.events, (e) => e.title));
-    reader.appendChild(textColumn);
-
-    panel.appendChild(reader);
-    pageHost.appendChild(panel);
-
-    if (updateHash) history.replaceState(null, '', `#${page.id}`);
-  };
-
-  firstButton.addEventListener('click', () => renderPageAt(0));
-  prevButton.addEventListener('click', () => renderPageAt(activeIndex - 1));
-  nextButton.addEventListener('click', () => renderPageAt(activeIndex + 1));
-  lastButton.addEventListener('click', () => renderPageAt(pages.length - 1));
-  goButton.addEventListener('click', () => {
-    const requested = Number(pageInput.value);
-    if (Number.isFinite(requested)) renderPageAt(Math.round(requested) - 1);
-  });
-  pageInput.addEventListener('keydown', (event) => {
-    if (event.key === 'Enter') goButton.click();
-  });
-
-  appState.journalReaders.set(journal.id, {
-    openPage(pageId, updateHash = true) {
-      const index = pages.findIndex((page) => page.id === pageId);
-      if (index >= 0) renderPageAt(index, updateHash);
-    },
-  });
-
-  renderPageAt(0, false);
-
+  }
+  card.appendChild(actions);
   return card;
 }
 
-function openJournalPageById(pageId, updateHash = true) {
+function openJournalPageById(pageId, query = '') {
   const page = findById(appState.data?.journalPages || [], pageId);
   if (!page) return;
-  const reader = appState.journalReaders.get(page.journalId);
-  if (!reader) return;
-  focusPanel('journals');
-  reader.openPage(pageId, updateHash);
-  document.getElementById(pageId)?.scrollIntoView({ block: 'nearest' });
+  const journal = findById(appState.data?.journals || [], page.journalId);
+  if (!journal) return;
+  window.location.href = journalViewerUrl(journal, page.pdfPageNumber || page.pageNumber, query);
 }
 
 function renderSource(source) {
@@ -1386,7 +1199,7 @@ function performSearch(query) {
         text: 'Open related',
         onClick: (event) => {
           event.preventDefault();
-          openBySearchType(result.type, result.id);
+          openBySearchType(result.type, result.id, query);
         },
       })
     );
@@ -1395,7 +1208,7 @@ function performSearch(query) {
   });
 }
 
-function openBySearchType(type, id) {
+function openBySearchType(type, id, query = '') {
   const indexedEntry = namesPlacesState.entries.find((entry) => entry.id === id);
   if (indexedEntry) {
     focusPanel('names-places');
@@ -1405,7 +1218,7 @@ function openBySearchType(type, id) {
   }
 
   if (findById(appState.data?.journalPages || [], id)) {
-    openJournalPageById(id);
+    openJournalPageById(id, query);
     return;
   }
 
@@ -1480,6 +1293,10 @@ function wireNavigation() {
 
   window.addEventListener('hashchange', () => {
     const hash = window.location.hash.replace(/^#/, '');
+    if (panels.some((panel) => panel.id === hash)) {
+      focusPanel(hash);
+      return;
+    }
     const index = bookIndexFromId(hash);
     if (index >= 0) {
       focusPanel('book');
@@ -1551,6 +1368,7 @@ function render(data) {
   bookControls.total.textContent = `/ ${pages.length || 0}`;
 
   const hash = window.location.hash.replace(/^#/, '');
+  if (panels.some((panel) => panel.id === hash)) focusPanel(hash);
   const startIndex = bookIndexFromId(hash);
   if (pages.length) {
     if (startIndex >= 0) {
@@ -1583,8 +1401,9 @@ function render(data) {
 
   status.story.textContent = `${data.events?.length || 0} sample event loaded.`;
   const reviewedPages = (data.journalPages || []).filter((page) => page.transcriptionStatus === 'reviewed').length;
+  const startedPages = (data.journalPages || []).filter(journalPageIsStarted).length;
   const journalCount = data.journals?.length || 0;
-  status.journals.textContent = `${journalCount} journal${journalCount === 1 ? '' : 's'} loaded with ${data.journalPages?.length || 0} PDF pages; ${reviewedPages} reviewed transcription pages.`;
+  status.journals.textContent = `${journalCount} journals | ${startedPages} pages with transcription text | ${reviewedPages} reviewed.`;
   status.sources.textContent = `${data.sources?.length || 0} evidence records and ${data.letters?.length || 0} correspondence items loaded.`;
   status.family.textContent = status.family.textContent || 'Family lineage loaded from data.';
   status.search.textContent = 'Type a word to search all entities and source-linked pages.';

@@ -4,7 +4,40 @@
   "sourceTitle": "FAMILY RECORD AND TEMPLE RECORD #1 OF THE FAMILY OF DAVID AND CATHERINE UCH THOMAS AP RICHARD ROBERTS OF MERIONETHSHIRE, WALES THEIR ANCESTERS AND DESCENDANTS. ALSO RECORDING THE BEGINNING OF TEMPLE WORK IN THE FAMILY AND OTHER IMPORTANT MATTERS. WRITTEN AND COMPILED BY ROBERT D. ROBERTS OF LOGAN, UTAH.",
   "primaryWriter": "Robert D. Roberts",
   "primaryWriterId": "person-robert-david-roberts",
+  "continuator": "David D. Roberts",
+  "continuatorId": "person-david-d-roberts",
+  "continuationNote": "After Robert D. Roberts's death, this English record book was continued by his son David D. Roberts. The exact transition page has not been assigned solely from position and requires date, handwriting, signature, and contextual review.",
   "authorshipNote": "The volume belonged primarily to and was written or compiled by Robert D. Roberts, then was continued after his death by his son David D. Roberts. Authorship is represented page by page; unreviewed pages remain unassigned rather than being attributed from their position.",
+  "contributors": [
+    {
+      "personId": "person-robert-david-roberts",
+      "name": "Robert D. Roberts",
+      "role": "primary writer and compiler"
+    },
+    {
+      "personId": "person-david-d-roberts",
+      "name": "David D. Roberts",
+      "role": "later continuator after Robert D. Roberts's death"
+    }
+  ],
+  "attributionModel": {
+    "fields": [
+      "contentAuthor",
+      "scribe",
+      "editor",
+      "attributionStatus",
+      "attributionBasis"
+    ],
+    "statuses": [
+      "explicit",
+      "confirmed",
+      "probable",
+      "uncertain",
+      "unassigned"
+    ],
+    "transitionRule": "Do not assign the Robert D. Roberts to David D. Roberts transition solely from PDF position. Use dates, handwriting, signatures, explicit statements, known death chronology, and contextual evidence.",
+    "historicalConstraint": "Material physically entered after Robert D. Roberts's death cannot be attributed to him as scribe."
+  },
   "language": "English",
   "dateRange": null,
   "repository": null,
@@ -42,7 +75,6 @@
       "transcriptionFile": "data/journals/rdr/pages/001.md",
       "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -50,7 +82,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-002",
@@ -60,7 +93,6 @@
       "transcriptionFile": "data/journals/rdr/pages/002.md",
       "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -68,7 +100,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-003",
@@ -78,6 +111,14 @@
       "transcriptionFile": "data/journals/rdr/pages/003.md",
       "transcriptionStatus": "needs-review",
       "hand": null,
+      "contentAuthor": "David Roberts (underlying Welsh material)",
+      "contentAuthorId": "person-david-roberts",
+      "scribe": "Robert D. Roberts",
+      "scribeId": "person-robert-david-roberts",
+      "editor": null,
+      "editorId": null,
+      "attributionStatus": "explicit",
+      "attributionBasis": "The page states that David Roberts wrote the material January 6, 1854, in Welsh and that Robert David Roberts translated it into English; the remaining page still needs full transcription review.",
       "relatedJournalPassages": [
         {
           "journalId": "journal-dr-001",
@@ -87,18 +128,10 @@
           "basis": "Both openings identify David Roberts and January 6, 1854; full passage alignment awaits transcription."
         }
       ],
-      "contentContext": "English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. The original Welsh journal is preserved as a separate journal source.",
-      "searchLayer": "Historical English translation",
-      "contentAuthor": "David Roberts (underlying Welsh material)",
-      "contentAuthorId": "person-david-roberts",
-      "scribe": "Robert D. Roberts",
-      "scribeId": "person-robert-david-roberts",
-      "editor": null,
-      "editorId": null,
-      "attributionStatus": "explicit",
-      "attributionBasis": "The page states that David Roberts wrote the material January 6, 1854, in Welsh and that Robert David Roberts translated it into English; the remaining page still needs full transcription review.",
       "translator": "Robert D. Roberts",
-      "translatorId": "person-robert-david-roberts"
+      "translatorId": "person-robert-david-roberts",
+      "contentContext": "English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. The original Welsh journal is preserved as a separate journal source.",
+      "searchLayer": "Historical English translation"
     },
     {
       "id": "journal-rdr-page-004",
@@ -106,9 +139,8 @@
       "manuscriptPageNumber": "4",
       "image": "assets/journals/rdr/journal-rdr-page-004.jpg",
       "transcriptionFile": "data/journals/rdr/pages/004.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -116,17 +148,17 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-005",
       "pdfPageNumber": 5,
-      "manuscriptPageNumber": null,
+      "manuscriptPageNumber": "5",
       "image": "assets/journals/rdr/journal-rdr-page-005.jpg",
       "transcriptionFile": "data/journals/rdr/pages/005.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -134,17 +166,17 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-006",
       "pdfPageNumber": 6,
-      "manuscriptPageNumber": null,
+      "manuscriptPageNumber": "6",
       "image": "assets/journals/rdr/journal-rdr-page-006.jpg",
       "transcriptionFile": "data/journals/rdr/pages/006.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -152,17 +184,17 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-007",
       "pdfPageNumber": 7,
-      "manuscriptPageNumber": null,
+      "manuscriptPageNumber": "7",
       "image": "assets/journals/rdr/journal-rdr-page-007.jpg",
       "transcriptionFile": "data/journals/rdr/pages/007.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -170,17 +202,17 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-008",
       "pdfPageNumber": 8,
-      "manuscriptPageNumber": null,
+      "manuscriptPageNumber": "8",
       "image": "assets/journals/rdr/journal-rdr-page-008.jpg",
       "transcriptionFile": "data/journals/rdr/pages/008.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -188,17 +220,17 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-009",
       "pdfPageNumber": 9,
-      "manuscriptPageNumber": null,
+      "manuscriptPageNumber": "9",
       "image": "assets/journals/rdr/journal-rdr-page-009.jpg",
       "transcriptionFile": "data/journals/rdr/pages/009.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -206,17 +238,17 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-010",
       "pdfPageNumber": 10,
-      "manuscriptPageNumber": null,
+      "manuscriptPageNumber": "10",
       "image": "assets/journals/rdr/journal-rdr-page-010.jpg",
       "transcriptionFile": "data/journals/rdr/pages/010.md",
-      "transcriptionStatus": "untranscribed",
+      "transcriptionStatus": "needs-review",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -224,7 +256,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-011",
@@ -234,7 +267,6 @@
       "transcriptionFile": "data/journals/rdr/pages/011.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -242,7 +274,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-012",
@@ -252,7 +285,6 @@
       "transcriptionFile": "data/journals/rdr/pages/012.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -260,7 +292,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-013",
@@ -270,7 +303,6 @@
       "transcriptionFile": "data/journals/rdr/pages/013.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -278,7 +310,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-014",
@@ -288,7 +321,6 @@
       "transcriptionFile": "data/journals/rdr/pages/014.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -296,7 +328,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-015",
@@ -306,7 +339,6 @@
       "transcriptionFile": "data/journals/rdr/pages/015.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -314,7 +346,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-016",
@@ -324,7 +357,6 @@
       "transcriptionFile": "data/journals/rdr/pages/016.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -332,7 +364,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-017",
@@ -342,7 +375,6 @@
       "transcriptionFile": "data/journals/rdr/pages/017.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -350,7 +382,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-018",
@@ -360,7 +393,6 @@
       "transcriptionFile": "data/journals/rdr/pages/018.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -368,7 +400,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-019",
@@ -378,7 +411,6 @@
       "transcriptionFile": "data/journals/rdr/pages/019.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -386,7 +418,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-020",
@@ -396,7 +429,6 @@
       "transcriptionFile": "data/journals/rdr/pages/020.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -404,7 +436,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-021",
@@ -414,7 +447,6 @@
       "transcriptionFile": "data/journals/rdr/pages/021.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -422,7 +454,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-022",
@@ -432,7 +465,6 @@
       "transcriptionFile": "data/journals/rdr/pages/022.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -440,7 +472,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-023",
@@ -450,7 +483,6 @@
       "transcriptionFile": "data/journals/rdr/pages/023.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -458,7 +490,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-024",
@@ -468,7 +501,6 @@
       "transcriptionFile": "data/journals/rdr/pages/024.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -476,7 +508,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-025",
@@ -486,7 +519,6 @@
       "transcriptionFile": "data/journals/rdr/pages/025.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -494,7 +526,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-026",
@@ -504,7 +537,6 @@
       "transcriptionFile": "data/journals/rdr/pages/026.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -512,7 +544,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-027",
@@ -522,7 +555,6 @@
       "transcriptionFile": "data/journals/rdr/pages/027.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -530,7 +562,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-028",
@@ -540,7 +573,6 @@
       "transcriptionFile": "data/journals/rdr/pages/028.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -548,7 +580,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-029",
@@ -558,7 +591,6 @@
       "transcriptionFile": "data/journals/rdr/pages/029.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -566,7 +598,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-030",
@@ -576,7 +609,6 @@
       "transcriptionFile": "data/journals/rdr/pages/030.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -584,7 +616,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-031",
@@ -594,7 +627,6 @@
       "transcriptionFile": "data/journals/rdr/pages/031.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -602,7 +634,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-032",
@@ -612,7 +645,6 @@
       "transcriptionFile": "data/journals/rdr/pages/032.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -620,7 +652,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-033",
@@ -630,7 +663,6 @@
       "transcriptionFile": "data/journals/rdr/pages/033.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -638,7 +670,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-034",
@@ -648,7 +681,6 @@
       "transcriptionFile": "data/journals/rdr/pages/034.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -656,7 +688,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-035",
@@ -666,7 +699,6 @@
       "transcriptionFile": "data/journals/rdr/pages/035.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -674,7 +706,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-036",
@@ -684,7 +717,6 @@
       "transcriptionFile": "data/journals/rdr/pages/036.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -692,7 +724,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-037",
@@ -702,7 +735,6 @@
       "transcriptionFile": "data/journals/rdr/pages/037.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -710,7 +742,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-038",
@@ -720,7 +753,6 @@
       "transcriptionFile": "data/journals/rdr/pages/038.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -728,7 +760,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-039",
@@ -738,7 +771,6 @@
       "transcriptionFile": "data/journals/rdr/pages/039.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -746,7 +778,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-040",
@@ -756,7 +789,6 @@
       "transcriptionFile": "data/journals/rdr/pages/040.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -764,7 +796,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-041",
@@ -774,7 +807,6 @@
       "transcriptionFile": "data/journals/rdr/pages/041.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -782,7 +814,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-042",
@@ -792,7 +825,6 @@
       "transcriptionFile": "data/journals/rdr/pages/042.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -800,7 +832,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-043",
@@ -810,7 +843,6 @@
       "transcriptionFile": "data/journals/rdr/pages/043.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -818,7 +850,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-044",
@@ -828,7 +861,6 @@
       "transcriptionFile": "data/journals/rdr/pages/044.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -836,7 +868,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-045",
@@ -846,7 +879,6 @@
       "transcriptionFile": "data/journals/rdr/pages/045.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -854,7 +886,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-046",
@@ -864,7 +897,6 @@
       "transcriptionFile": "data/journals/rdr/pages/046.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -872,7 +904,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-047",
@@ -882,7 +915,6 @@
       "transcriptionFile": "data/journals/rdr/pages/047.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -890,7 +922,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-048",
@@ -900,7 +933,6 @@
       "transcriptionFile": "data/journals/rdr/pages/048.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -908,7 +940,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-049",
@@ -918,7 +951,6 @@
       "transcriptionFile": "data/journals/rdr/pages/049.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -926,7 +958,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-050",
@@ -936,7 +969,6 @@
       "transcriptionFile": "data/journals/rdr/pages/050.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -944,7 +976,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-051",
@@ -954,7 +987,6 @@
       "transcriptionFile": "data/journals/rdr/pages/051.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -962,7 +994,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-052",
@@ -972,7 +1005,6 @@
       "transcriptionFile": "data/journals/rdr/pages/052.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -980,7 +1012,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-053",
@@ -990,7 +1023,6 @@
       "transcriptionFile": "data/journals/rdr/pages/053.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -998,7 +1030,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-054",
@@ -1008,7 +1041,6 @@
       "transcriptionFile": "data/journals/rdr/pages/054.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1016,7 +1048,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-055",
@@ -1026,7 +1059,6 @@
       "transcriptionFile": "data/journals/rdr/pages/055.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1034,7 +1066,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-056",
@@ -1044,7 +1077,6 @@
       "transcriptionFile": "data/journals/rdr/pages/056.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1052,7 +1084,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-057",
@@ -1062,7 +1095,6 @@
       "transcriptionFile": "data/journals/rdr/pages/057.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1070,7 +1102,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-058",
@@ -1080,7 +1113,6 @@
       "transcriptionFile": "data/journals/rdr/pages/058.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1088,7 +1120,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-059",
@@ -1098,7 +1131,6 @@
       "transcriptionFile": "data/journals/rdr/pages/059.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1106,7 +1138,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-060",
@@ -1116,7 +1149,6 @@
       "transcriptionFile": "data/journals/rdr/pages/060.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1124,7 +1156,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-061",
@@ -1134,7 +1167,6 @@
       "transcriptionFile": "data/journals/rdr/pages/061.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1142,7 +1174,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-062",
@@ -1152,7 +1185,6 @@
       "transcriptionFile": "data/journals/rdr/pages/062.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1160,7 +1192,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-063",
@@ -1170,7 +1203,6 @@
       "transcriptionFile": "data/journals/rdr/pages/063.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1178,7 +1210,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-064",
@@ -1188,7 +1221,6 @@
       "transcriptionFile": "data/journals/rdr/pages/064.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1196,7 +1228,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-065",
@@ -1206,7 +1239,6 @@
       "transcriptionFile": "data/journals/rdr/pages/065.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1214,7 +1246,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-066",
@@ -1224,7 +1257,6 @@
       "transcriptionFile": "data/journals/rdr/pages/066.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1232,7 +1264,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-067",
@@ -1242,7 +1275,6 @@
       "transcriptionFile": "data/journals/rdr/pages/067.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1250,7 +1282,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-068",
@@ -1260,7 +1293,6 @@
       "transcriptionFile": "data/journals/rdr/pages/068.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1268,7 +1300,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-069",
@@ -1278,7 +1311,6 @@
       "transcriptionFile": "data/journals/rdr/pages/069.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1286,7 +1318,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-070",
@@ -1296,7 +1329,6 @@
       "transcriptionFile": "data/journals/rdr/pages/070.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1304,7 +1336,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-071",
@@ -1314,7 +1347,6 @@
       "transcriptionFile": "data/journals/rdr/pages/071.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1322,7 +1354,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-072",
@@ -1332,7 +1365,6 @@
       "transcriptionFile": "data/journals/rdr/pages/072.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1340,7 +1372,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-073",
@@ -1350,7 +1383,6 @@
       "transcriptionFile": "data/journals/rdr/pages/073.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1358,7 +1390,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-074",
@@ -1368,7 +1401,6 @@
       "transcriptionFile": "data/journals/rdr/pages/074.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1376,7 +1408,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-075",
@@ -1386,7 +1419,6 @@
       "transcriptionFile": "data/journals/rdr/pages/075.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1394,7 +1426,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-076",
@@ -1404,7 +1437,6 @@
       "transcriptionFile": "data/journals/rdr/pages/076.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1412,7 +1444,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-077",
@@ -1422,7 +1455,6 @@
       "transcriptionFile": "data/journals/rdr/pages/077.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1430,7 +1462,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-078",
@@ -1440,7 +1473,6 @@
       "transcriptionFile": "data/journals/rdr/pages/078.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1448,7 +1480,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-079",
@@ -1458,7 +1491,6 @@
       "transcriptionFile": "data/journals/rdr/pages/079.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1466,7 +1498,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-080",
@@ -1476,7 +1509,6 @@
       "transcriptionFile": "data/journals/rdr/pages/080.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1484,7 +1516,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-081",
@@ -1494,7 +1527,6 @@
       "transcriptionFile": "data/journals/rdr/pages/081.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1502,7 +1534,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-082",
@@ -1512,7 +1545,6 @@
       "transcriptionFile": "data/journals/rdr/pages/082.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1520,7 +1552,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-083",
@@ -1530,7 +1563,6 @@
       "transcriptionFile": "data/journals/rdr/pages/083.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1538,7 +1570,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-084",
@@ -1548,7 +1581,6 @@
       "transcriptionFile": "data/journals/rdr/pages/084.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1556,7 +1588,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-085",
@@ -1566,7 +1599,6 @@
       "transcriptionFile": "data/journals/rdr/pages/085.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1574,7 +1606,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-086",
@@ -1584,7 +1617,6 @@
       "transcriptionFile": "data/journals/rdr/pages/086.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1592,7 +1624,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-087",
@@ -1602,7 +1635,6 @@
       "transcriptionFile": "data/journals/rdr/pages/087.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1610,7 +1642,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-088",
@@ -1620,7 +1653,6 @@
       "transcriptionFile": "data/journals/rdr/pages/088.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1628,7 +1660,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-089",
@@ -1638,7 +1671,6 @@
       "transcriptionFile": "data/journals/rdr/pages/089.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1646,7 +1678,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-090",
@@ -1656,7 +1689,6 @@
       "transcriptionFile": "data/journals/rdr/pages/090.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1664,7 +1696,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-091",
@@ -1674,7 +1707,6 @@
       "transcriptionFile": "data/journals/rdr/pages/091.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1682,7 +1714,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-092",
@@ -1692,7 +1725,6 @@
       "transcriptionFile": "data/journals/rdr/pages/092.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1700,7 +1732,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-093",
@@ -1710,7 +1743,6 @@
       "transcriptionFile": "data/journals/rdr/pages/093.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1718,7 +1750,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-094",
@@ -1728,7 +1761,6 @@
       "transcriptionFile": "data/journals/rdr/pages/094.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1736,7 +1768,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-095",
@@ -1746,7 +1779,6 @@
       "transcriptionFile": "data/journals/rdr/pages/095.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1754,7 +1786,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-096",
@@ -1764,7 +1797,6 @@
       "transcriptionFile": "data/journals/rdr/pages/096.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1772,7 +1804,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-097",
@@ -1782,7 +1815,6 @@
       "transcriptionFile": "data/journals/rdr/pages/097.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1790,7 +1822,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-098",
@@ -1800,7 +1833,6 @@
       "transcriptionFile": "data/journals/rdr/pages/098.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1808,7 +1840,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-099",
@@ -1818,7 +1851,6 @@
       "transcriptionFile": "data/journals/rdr/pages/099.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1826,7 +1858,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-100",
@@ -1836,7 +1869,6 @@
       "transcriptionFile": "data/journals/rdr/pages/100.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1844,7 +1876,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-101",
@@ -1854,7 +1887,6 @@
       "transcriptionFile": "data/journals/rdr/pages/101.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1862,7 +1894,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-102",
@@ -1872,7 +1905,6 @@
       "transcriptionFile": "data/journals/rdr/pages/102.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1880,7 +1912,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-103",
@@ -1890,7 +1923,6 @@
       "transcriptionFile": "data/journals/rdr/pages/103.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1898,7 +1930,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-104",
@@ -1908,7 +1941,6 @@
       "transcriptionFile": "data/journals/rdr/pages/104.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1916,7 +1948,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-105",
@@ -1926,7 +1959,6 @@
       "transcriptionFile": "data/journals/rdr/pages/105.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1934,7 +1966,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-106",
@@ -1944,7 +1977,6 @@
       "transcriptionFile": "data/journals/rdr/pages/106.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1952,7 +1984,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-107",
@@ -1962,7 +1995,6 @@
       "transcriptionFile": "data/journals/rdr/pages/107.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1970,7 +2002,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-108",
@@ -1980,7 +2013,6 @@
       "transcriptionFile": "data/journals/rdr/pages/108.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -1988,7 +2020,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-109",
@@ -1998,7 +2031,6 @@
       "transcriptionFile": "data/journals/rdr/pages/109.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2006,7 +2038,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-110",
@@ -2016,7 +2049,6 @@
       "transcriptionFile": "data/journals/rdr/pages/110.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2024,7 +2056,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-111",
@@ -2034,7 +2067,6 @@
       "transcriptionFile": "data/journals/rdr/pages/111.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2042,7 +2074,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-112",
@@ -2052,7 +2085,6 @@
       "transcriptionFile": "data/journals/rdr/pages/112.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2060,7 +2092,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-113",
@@ -2070,7 +2103,6 @@
       "transcriptionFile": "data/journals/rdr/pages/113.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2078,7 +2110,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-114",
@@ -2088,7 +2121,6 @@
       "transcriptionFile": "data/journals/rdr/pages/114.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2096,7 +2128,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-115",
@@ -2106,7 +2139,6 @@
       "transcriptionFile": "data/journals/rdr/pages/115.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2114,7 +2146,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-116",
@@ -2124,7 +2157,6 @@
       "transcriptionFile": "data/journals/rdr/pages/116.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2132,7 +2164,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-117",
@@ -2142,7 +2175,6 @@
       "transcriptionFile": "data/journals/rdr/pages/117.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2150,7 +2182,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-118",
@@ -2160,7 +2193,6 @@
       "transcriptionFile": "data/journals/rdr/pages/118.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2168,7 +2200,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     },
     {
       "id": "journal-rdr-page-119",
@@ -2178,7 +2211,6 @@
       "transcriptionFile": "data/journals/rdr/pages/119.md",
       "transcriptionStatus": "untranscribed",
       "hand": null,
-      "relatedJournalPassages": [],
       "contentAuthor": null,
       "contentAuthorId": null,
       "scribe": null,
@@ -2186,40 +2218,8 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position."
+      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "relatedJournalPassages": []
     }
-  ],
-  "continuator": "David D. Roberts",
-  "continuatorId": "person-david-d-roberts",
-  "continuationNote": "After Robert D. Roberts's death, this English record book was continued by his son David D. Roberts. The exact transition page has not been assigned solely from position and requires date, handwriting, signature, and contextual review.",
-  "contributors": [
-    {
-      "personId": "person-robert-david-roberts",
-      "name": "Robert D. Roberts",
-      "role": "primary writer and compiler"
-    },
-    {
-      "personId": "person-david-d-roberts",
-      "name": "David D. Roberts",
-      "role": "later continuator after Robert D. Roberts's death"
-    }
-  ],
-  "attributionModel": {
-    "fields": [
-      "contentAuthor",
-      "scribe",
-      "editor",
-      "attributionStatus",
-      "attributionBasis"
-    ],
-    "statuses": [
-      "explicit",
-      "confirmed",
-      "probable",
-      "uncertain",
-      "unassigned"
-    ],
-    "transitionRule": "Do not assign the Robert D. Roberts to David D. Roberts transition solely from PDF position. Use dates, handwriting, signatures, explicit statements, known death chronology, and contextual evidence.",
-    "historicalConstraint": "Material physically entered after Robert D. Roberts's death cannot be attributed to him as scribe."
-  }
+  ]
 }

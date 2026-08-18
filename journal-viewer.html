@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex,nofollow,noarchive,noimageindex" />
+    <meta name="googlebot" content="noindex,nofollow,noarchive,noimageindex" />
+    <meta name="theme-color" content="#293A43" />
+    <title>Journal Reader | The Roberts Family History</title>
+    <link rel="stylesheet" href="journal-viewer.css" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32.png" />
+    <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg" />
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="assets/icons/apple-touch-icon.png" />
+  </head>
+  <body>
+    <a class="skip-link" href="#journal-page">Skip to journal page</a>
+    <header class="reader-header">
+      <div class="reader-shell reader-header-inner">
+        <a class="return-link" href="index.html#journals">&larr; Journals</a>
+        <div>
+          <p class="reader-series">The Roberts Family History &middot; Historical journal reader</p>
+          <h1 id="journal-title">Journal reader</h1>
+          <p id="journal-context" class="reader-context"></p>
+        </div>
+        <span class="demo-badge">DEMO</span>
+      </div>
+    </header>
+
+    <div class="reader-toolbar-wrap">
+      <div class="reader-shell reader-toolbar" role="region" aria-label="Journal controls">
+        <button id="previous-page" class="reader-control" type="button">Previous</button>
+        <label class="page-jump" for="page-number">
+          <span>PDF page</span>
+          <input id="page-number" type="number" min="1" value="1" inputmode="numeric" aria-label="PDF page number" />
+          <span id="page-total">of ...</span>
+        </label>
+        <button id="next-page" class="reader-control" type="button">Next</button>
+        <div id="view-modes" class="view-modes" role="group" aria-label="Reader view"></div>
+        <div id="zoom-controls" class="zoom-controls" role="group" aria-label="Original page image controls" hidden>
+          <button id="zoom-out" class="icon-control" type="button" aria-label="Zoom out">-</button>
+          <button id="zoom-in" class="icon-control" type="button" aria-label="Zoom in">+</button>
+          <button id="fit-page" class="reader-control compact" type="button">Fit page</button>
+          <button id="fit-width" class="reader-control compact" type="button">Fit width</button>
+        </div>
+      </div>
+    </div>
+
+    <main class="reader-shell reader-main">
+      <section class="journal-search" aria-labelledby="journal-search-label">
+        <form id="journal-search-form" role="search">
+          <label id="journal-search-label" for="journal-search-input">Search this journal</label>
+          <div class="search-row">
+            <input id="journal-search-input" type="search" autocomplete="off" />
+            <button class="reader-control search-button" type="submit">Search</button>
+          </div>
+        </form>
+        <p id="search-summary" class="search-summary" aria-live="polite"></p>
+        <div id="search-results" class="journal-search-results" hidden></div>
+      </section>
+
+      <div id="reader-status" class="reader-status" role="status">Loading journal...</div>
+      <section id="journal-page" class="page-stage" aria-label="Journal page" tabindex="-1">
+        <button id="side-previous" class="side-turn side-turn-left" type="button" aria-label="Previous page">&lsaquo;</button>
+        <article class="reading-sheet">
+          <header class="page-heading">
+            <p id="page-reference" class="page-reference"></p>
+            <h2 id="page-title">Journal page</h2>
+            <p id="page-attribution" class="page-attribution"></p>
+            <p id="transcription-status" class="transcription-notice"></p>
+          </header>
+          <div id="page-content" class="page-content"></div>
+        </article>
+        <button id="side-next" class="side-turn side-turn-right" type="button" aria-label="Next page">&rsaquo;</button>
+      </section>
+    </main>
+
+    <footer class="reader-footer">
+      <div class="reader-shell">
+        <p>Original scans and modern transcription/editorial layers remain distinct.</p>
+      </div>
+    </footer>
+    <script src="journal-viewer.js" type="module"></script>
+  </body>
+</html>

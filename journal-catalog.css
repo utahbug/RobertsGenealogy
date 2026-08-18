@@ -1,0 +1,110 @@
+/* Publication-style journal catalog */
+#journals-content {
+  border-top: 1px solid var(--line);
+}
+
+.journal-catalog-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 2rem;
+  padding: 1.4rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.journal-catalog-entry > :not(.journal-catalog-actions) {
+  grid-column: 1;
+}
+
+.journal-catalog-kicker {
+  margin: 0 0 .3rem;
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.journal-catalog-title {
+  margin: 0;
+  color: var(--accent-dark);
+  font-size: clamp(1.25rem, 2vw, 1.65rem);
+}
+
+.journal-catalog-summary {
+  margin: .3rem 0 .15rem;
+  color: var(--text);
+  font-style: italic;
+}
+
+.journal-catalog-meta,
+.journal-progress {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: .9rem;
+}
+
+.journal-progress {
+  padding-left: .75rem;
+  border-left: 3px solid var(--accent);
+}
+
+.journal-catalog-actions {
+  grid-column: 2;
+  grid-row: 1 / span 7;
+  display: flex;
+  min-width: 10.5rem;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  gap: .45rem;
+}
+
+.catalog-action {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  justify-content: center;
+  padding: .55rem .8rem;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--panel);
+  color: var(--accent-dark);
+  font-family: var(--sans);
+  font-size: .9rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
+
+.catalog-action:hover,
+.catalog-action:focus-visible {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.catalog-action-primary {
+  border-color: var(--accent-dark);
+  background: var(--accent-dark);
+  color: #fff;
+}
+
+.catalog-action-primary:hover,
+.catalog-action-primary:focus-visible {
+  background: var(--accent);
+  color: #fff;
+}
+
+@media (max-width: 680px) {
+  .journal-catalog-entry {
+    grid-template-columns: minmax(0, 1fr);
+    gap: .8rem;
+    padding: 1.1rem 0;
+  }
+
+  .journal-catalog-actions {
+    grid-column: 1;
+    grid-row: auto;
+    min-width: 0;
+  }
+}

@@ -214,3 +214,14 @@ until supported by research.
 ## Notes
 
 This is an initial scaffold for review before uploading or transcribing real Roberts material.
+
+## Dedicated journal reader
+
+`index.html#journals` is the journal catalog. Each historical volume opens in `journal-viewer.html`, which accepts stable query parameters:
+
+- `?id=rdr&page=3` opens the Robert D. Roberts Journal at PDF page 3.
+- `?id=dr&page=68` opens the David Roberts Welsh Journal at PDF page 68.
+- `&q=Roberts` searches the authoritative transcription layer and highlights the term on the selected page.
+- `&view=original` selects an alternate reader view; supported views depend on the journal.
+
+RDR transcription remains authoritative in `data/journals/rdr/pages/*.md`. Run `python scripts/build_journal_data.py` after editing a page to rebuild `journal-data.json` and both transcription exports. Unfinished pages remain in the page manifest and reader but are omitted from the body of the Word/Markdown exports so the exports cannot be mistaken for a complete transcription.
