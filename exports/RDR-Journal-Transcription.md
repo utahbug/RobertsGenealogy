@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 28 / 119
+Pages with transcription text: 30 / 119
 
-Untranscribed PDF pages: 29-119
+Untranscribed PDF pages: 31-119
 
 ## PDF page 1
 
@@ -1478,3 +1478,96 @@ Gwen Williams Roberts Aunt inlaw
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan. Historical spelling and the manuscript's list order are preserved. Several entries rely on ditto-style continuation from the preceding heading and require second-reader review. Status: needs review.
+
+## PDF page 29
+
+Stable ID: `journal-rdr-page-029`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City February 21st 1885
+
+The following names were Sealed and married
+under the new and everlasting Covenant and unto
+all the blessings of the Gospel of Jesus Christ to
+be men and wife for ever by the authority of
+the Holy Priesthood by [unclear: A C Tellefsen]
+
+James Parry and Catherine Richards
+to David Robert Roberts
+
+Margaret Owens to Richard Thomas
+
+Their proxy Robert Jared Roberts and Catherine Thomas
+Roberts
+
+Linet Jones and Jane Richards
+Ann [unclear: Roberts] to Robert Parry
+
+Ann Parry to Edward Griffith
+
+Their proxy Robert David Roberts
+and [unclear: Ann] Roberts Hopkins
+
+March 12th 1886 Jane Thomas to Morris Isaac
+
+Margret Jones to William Hughes
+
+Their proxy David R Roberts and Catherine Thomas Roberts
+
+March 17th 1886 Elinor Griffith to Edward Roberts Their proxy Robert
+David Roberts and Ann Roberts Hopkins
+
+March 22nd 1886 Mrs Catherine Jones to Henry Jones Their proxy Thomas
+David Roberts and Margret Goodman Davies Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several proxy names and the officiator's surname remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+
+## PDF page 30
+
+Stable ID: `journal-rdr-page-030`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+June 15. 1899 Robert Roberts & Gwen Williams Roberts was
+united in marriage
+
+William Roberts & Margret Roberts was
+united in marriage by James Quayle their
+proxy Robert David Roberts & Ann Roberts Hopkins
+
+March 28th 1904
+
+Hugh Roberts was Baptised in Logan Temple
+in behalf of great great grandfather Roberts by
+William A Timmins
+
+Jane Roberts Hughes was Baptised in Logan
+Temple in behalf of her great grandmother
+Roberts by William A Hammond
+
+March 29th 1904
+
+David R Roberts had his endowment in
+behalf of great great grandfather Roberts
+
+Jane Roberts Hughes had her endowment in
+behalf of great grandmother Roberts
+
+Great grandfather and great grandmother
+Roberts were sealed and married in Logan Temple
+by James Quayle their proxy David R Roberts
+and Jane Roberts Hughes March 29th 1904
+
+They were born in Caernarvonshire North Wales
+and died there
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Historical spelling and manuscript order are preserved. The preserved source image was not altered. Status: needs review.
