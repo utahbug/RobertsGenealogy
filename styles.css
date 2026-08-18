@@ -285,7 +285,7 @@ main {
 
 .detail-close {
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: 5px;
   padding: 0.45rem 0.75rem;
   background: var(--accent-soft);
   font: inherit;
@@ -309,6 +309,7 @@ main {
 .source-card,
 .search-result,
 .photo-card {
+  min-width: 0;
   border: 1px solid var(--line);
   background: var(--panel);
   border-radius: var(--radius);
@@ -557,7 +558,7 @@ input[type="search"] {
   .stack,
   .page-grid,
   .journal-reader {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .event-card,
@@ -721,6 +722,30 @@ input[type="search"] {
 #names-places-content .page-card {
   display: grid;
   gap: 0.5rem;
+}
+
+.nameplace-entry {
+  border-left: 3px solid var(--accent-soft);
+}
+
+.nameplace-summary {
+  margin: 0;
+}
+
+.entry-button {
+  min-height: 2.45rem;
+  color: var(--accent-dark);
+  cursor: pointer;
+}
+
+.uncertainty-note {
+  margin: 0.2rem 0;
+  padding: 0.45rem 0.55rem;
+  border-left: 3px solid var(--correction);
+  background: var(--correction-soft);
+  color: #663137;
+  font-family: var(--sans-stack);
+  font-size: 0.9rem;
 }
 
 #names-places-detail {

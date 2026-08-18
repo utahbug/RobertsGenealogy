@@ -56,7 +56,7 @@ function el(tag, attrs = {}, children = '') {
     } else if (key === 'html') {
       node.innerHTML = value;
     } else if (key.startsWith('on') && typeof value === 'function') {
-      node.addEventListener(key.slice(2), value);
+      node.addEventListener(key.slice(2).toLowerCase(), value);
     } else if (value !== false && value != null) {
       node.setAttribute(key, value);
     }
@@ -82,6 +82,18 @@ function makeZoomImage(src, alt) {
 
 function findById(collection, id) {
   return collection.find((item) => item.id === id);
+}
+
+function mergeById(baseItems = [], addedItems = []) {
+  const merged = new Map(baseItems.map((item) => [item.id, item]));
+  addedItems.forEach((item) => {
+    merged.set(item.id, { ...(merged.get(item.id) || {}), ...item });
+  });
+  return [...merged.values()];
+}
+
+function sourcePagesFor(item) {
+  return item.sourcePages || item.bookPages || [];
 }
 
 function sortedByDate(items) {
@@ -344,7 +356,7 @@ function renderPersonDetail(person, data) {
   detail.innerHTML = '';
 
   const panel = el('article', { className: 'person-detail-card' });
-  panel.appendChild(el('h3', { className: 'card-title', text: `${person.name} (DEMO)` }));
+  panel.appendChild(el('h3', { className: 'card-title', text: person.displayName || person.name }));
   panel.appendChild(el('p', { className: 'meta', text: `ID: ${person.id}` }));
 
   if (person.generationLabel) {
@@ -354,7 +366,7 @@ function renderPersonDetail(person, data) {
   if (person.summary) {
     panel.appendChild(el('p', { text: person.summary }));
   } else {
-    panel.appendChild(el('p', { text: 'DEMO summary not yet added.' }));
+    panel.appendChild(el('p', { text: 'No biographical summary has been added.' }));
   }
 
   if (person.birthDate || person.deathDate || person.birthPlace || person.deathPlace) {
@@ -395,7 +407,7 @@ function renderPersonDetail(person, data) {
     panel.appendChild(buildTagRow(childNames, 'Children', (name) => name));
   }
 
-  panel.appendChild(buildLinks(person.bookPages || [], 'book', 'Book pages', data.bookPages, (item) => `Book ${item.pageNumber}`));
+  panel.appendChild(buildLinks(sourcePagesFor(person), 'book', 'Book pages', data.bookPages, (item) => `Book ${item.pageNumber}`));
   panel.appendChild(buildLinks(person.journalPages || [], 'journal', 'Journal pages', data.journalPages, (item) => `${item.journalTitle} p.${item.pageNumber}`));
   panel.appendChild(buildLinks(person.sources || [], 'source', 'Sources', data.sources, (sourceRecord) => sourceRecord.title));
   panel.appendChild(buildLinks(person.editorialNotes || [], 'note', 'Editorial notes', data.editorialNotes, (note) => note.title));
@@ -438,19 +450,19 @@ function renderFamilyCard(person, data) {
   });
   card.setAttribute('aria-label', `Open details for ${person.name}`);
   card.appendChild(el('div', { className: 'person-card__name', text: person.name }));
-  card.appendChild(el('div', { className: 'meta', text: person.summary || 'DEMO summary missing.' }));
+  card.appendChild(el('div', { className: 'meta', text: person.summary || person.relationship || 'Details available from the source index.' }));
   return card;
 }
 
 function renderFamilyNode(person, spouse, data) {
   const node = el('article', { className: 'couple-node' });
-  node.appendChild(el('div', { className: 'generation-title', text: person.generationLabel || 'DEMO Generation' }));
+  node.appendChild(el('div', { className: 'generation-title', text: person.generationLabel || 'Generation' }));
   const pair = el('div', { className: 'family-pair' });
   pair.appendChild(renderFamilyCard(person, data));
   pair.appendChild(renderFamilyCard(spouse || {
     id: `${person.id}-spouse-missing`,
-    name: 'DEMO spouse TBD',
-    summary: 'Source spouse is placeholder until added.',
+    name: 'Spouse not yet identified',
+    summary: 'No spouse record is connected in the current chart data.',
   }, data));
   node.appendChild(pair);
   return node;
@@ -465,7 +477,7 @@ function renderFamily(data) {
   detail.hidden = true;
 
   if (!lineage.length) {
-    status.family.textContent = 'No demo ancestry lineage has been configured in data/genealogy.';
+    status.family.textContent = 'No ancestry lineage has been configured in the genealogy data.';
     return;
   }
 
@@ -495,44 +507,52 @@ function renderFamily(data) {
 }
 
 function buildNamesPlacesEntries(data) {
-  const people = (data.people || []).map((person) => ({
+  const people = (data.people || [])
+    .filter((person) => person.indexScope === 'book-pages-001-068' && sourcePagesFor(person).length)
+    .map((person) => ({
     id: person.id,
     type: 'person',
     kind: 'Person',
     displayName: person.displayName || person.name,
-    nameAsWritten: person.name || '',
+    nameAsWritten: person.nameAsWritten || person.name || '',
     variants: person.variants || [],
-    sourcePages: person.bookPages || [],
-    relatedPersonId: person.id,
+    sourcePages: sourcePagesFor(person),
+    relatedPersonId: person.relatedPedigreePersonId || '',
+    relatedPeople: person.relatedPeople || [],
     notes: person.notes || '',
-    locality: person.birthPlace || '',
-    county: '',
+    locality: person.locality || person.birthPlace || '',
+    county: person.county || '',
     uncertainty: Boolean(person.uncertainty),
+    uncertaintyNote: person.uncertaintyNote || '',
     relationship: person.relationship || person.generationLabel || '',
-    searchText: [person.name, person.displayName, person.relationship, ...(person.variants || []), ...(person.bookPages || [])]
+    searchText: [person.name, person.nameAsWritten, person.displayName, person.relationship, person.locality, person.county, ...(person.variants || []), ...sourcePagesFor(person)]
       .filter(Boolean)
       .join(' ')
       .toLowerCase(),
   }));
 
-  const places = (data.places || []).map((place) => {
+  const places = (data.places || [])
+    .filter((place) => place.indexScope === 'book-pages-001-068' && sourcePagesFor(place).length)
+    .map((place) => {
     const rawType = (place.type || 'place').toLowerCase();
-    const homeTypes = ['home', 'farm', 'house', 'estate', 'property', 'quarry'];
+    const homeTypes = ['home', 'farm', 'house', 'estate', 'property', 'quarry', 'factory', 'mine'];
+    const isHomeProperty = place.category === 'homes-properties' || homeTypes.includes(rawType);
     return {
       id: place.id,
-      type: homeTypes.includes(rawType) ? 'home' : (place.type || 'Place'),
-      kind: homeTypes.includes(rawType) ? 'Home / Property' : 'Place',
+      type: isHomeProperty ? 'home' : rawType,
+      kind: place.displayType || (isHomeProperty ? 'Home / Property' : 'Place'),
       displayName: place.displayName || place.name,
       nameAsWritten: place.nameAsWritten || place.name,
       variants: place.variants || [],
-      sourcePages: place.bookPages || place.sourcePages || [],
+      sourcePages: sourcePagesFor(place),
       relatedPeople: place.relatedPeople || [],
       notes: place.notes || '',
       locality: place.locality || '',
       county: place.county || place.historicalCounty || '',
       englishGloss: place.englishGloss || '',
       uncertainty: Boolean(place.uncertainty),
-      searchText: [place.name, place.displayName, place.locality, place.county, place.englishGloss, ...(place.variants || []), ...(place.bookPages || [])]
+      uncertaintyNote: place.uncertaintyNote || '',
+      searchText: [place.name, place.nameAsWritten, place.displayName, place.displayType, place.locality, place.county, place.englishGloss, ...(place.variants || []), ...sourcePagesFor(place)]
         .filter(Boolean)
         .join(' ')
         .toLowerCase(),
@@ -550,8 +570,8 @@ function renderNamesPlacesContent() {
         : namesPlacesState.filter === 'people'
           ? entry.type === 'person'
           : namesPlacesState.filter === 'places'
-            ? entry.type !== 'person' && entry.kind === 'Place'
-            : entry.kind === 'Home / Property';
+            ? entry.type !== 'person' && entry.type !== 'home'
+            : entry.type === 'home';
 
     const bySearch = !namesPlacesState.search
       ? true
@@ -582,14 +602,19 @@ function renderNamesPlacesContent() {
   }
 
   visible.forEach((entry) => {
-    const card = el('article', { className: 'page-card', id: `np-${entry.id}` });
-    card.appendChild(el('h3', { className: 'card-title', text: `${entry.displayName} (${entry.kind})` }));
-    const desc = entry.type === 'person' ? `ID: ${entry.id}` : `Source: ${entry.sourcePages.join(', ') || 'not linked'}`;
-    card.appendChild(el('p', { className: 'meta', text: desc }));
+    const card = el('article', { className: 'page-card nameplace-entry', id: `np-${entry.id}` });
+    card.appendChild(el('h3', { className: 'card-title', text: entry.displayName }));
+    card.appendChild(el('p', { className: 'meta', text: `${entry.kind} | ${entry.sourcePages.length} Book page reference${entry.sourcePages.length === 1 ? '' : 's'}` }));
+    if (entry.locality || entry.county) {
+      card.appendChild(el('p', { className: 'nameplace-summary', text: [entry.locality, entry.county].filter(Boolean).join(' | ') }));
+    }
+    if (entry.uncertainty) {
+      card.appendChild(el('p', { className: 'uncertainty-note', text: 'Uncertain identification - visual source review requested.' }));
+    }
 
     card.appendChild(el('button', {
       type: 'button',
-      className: 'detail-close',
+      className: 'detail-close entry-button',
       text: 'Open entry',
       onClick: () => renderNamesPlacesDetail(entry),
     }));
@@ -608,8 +633,24 @@ function renderNamesPlacesDetail(entry) {
   panel.appendChild(el('h3', { className: 'card-title', text: `${entry.displayName} (${entry.kind})` }));
   panel.appendChild(el('p', { className: 'meta', text: `${entry.type === 'person' ? 'Person' : 'Place / Property'}` }));
 
-  if (entry.searchText) {
-    panel.appendChild(el('p', { text: entry.notes || 'DEMO record with no extra detail yet.' }));
+  if (entry.nameAsWritten && entry.nameAsWritten !== entry.displayName) {
+    panel.appendChild(el('p', { className: 'meta', text: `As written: ${entry.nameAsWritten}` }));
+  }
+
+  if (entry.locality || entry.county) {
+    panel.appendChild(el('p', { className: 'meta', text: [entry.locality, entry.county].filter(Boolean).join(' | ') }));
+  }
+
+  if (entry.englishGloss) {
+    panel.appendChild(el('p', { className: 'meta', text: `English gloss in the book: ${entry.englishGloss}` }));
+  }
+
+  if (entry.notes) {
+    panel.appendChild(el('p', { text: entry.notes }));
+  }
+
+  if (entry.uncertainty) {
+    panel.appendChild(el('p', { className: 'uncertainty-note', text: entry.uncertaintyNote || 'The searchable text is uncertain. Confirm this entry against the page scan before editorial use.' }));
   }
 
   if (entry.variants?.length) {
@@ -633,6 +674,7 @@ function renderNamesPlacesDetail(entry) {
         text: `Book ${page.pageNumber}`,
         onClick: (eventObj) => {
           eventObj.preventDefault();
+          focusPanel('book');
           openBookById(pageId);
         },
       }));
@@ -708,12 +750,16 @@ function renderPhotos() {
 function flattenSearchIndex(data) {
   const index = [];
 
-  const appendItems = (items, type) => {
+  const appendItems = (items = [], type) => {
     items.forEach((item) => {
+      const resultType = typeof type === 'function' ? type(item) : type;
       const chunks = [
         item.id,
         item.title,
         item.name,
+        item.nameAsWritten,
+        item.displayName,
+        item.displayType,
         item.notes,
         item.description,
         item.caption,
@@ -722,24 +768,31 @@ function flattenSearchIndex(data) {
         item.translation,
         item.summary,
         item.ocrText,
+        item.relationship,
+        item.locality,
+        item.county,
+        item.englishGloss,
+        ...(item.variants || []),
+        ...sourcePagesFor(item),
       ].filter(Boolean).join(' ');
       index.push({
         id: item.id,
-        type,
-        title: item.title || item.name || 'Untitled',
+        type: resultType,
+        title: item.title || item.displayName || item.name || 'Untitled',
         text: chunks.toLowerCase(),
         snippet: item.summary || item.description || item.caption || item.notes || '',
+        rawText: item.ocrText || '',
       });
     });
   };
 
   appendItems(data.events, 'Story Event');
-  appendItems(data.bookPages, 'Book page');
+  appendItems(data.bookPages, 'Original Book');
   appendItems(data.journals, 'Journal');
   appendItems(data.journalPages, 'Journal page');
   appendItems(data.sources, 'Source record');
-  appendItems(data.people, 'Person');
-  appendItems(data.places, 'Place');
+  appendItems((data.people || []).filter((item) => item.indexScope === 'book-pages-001-068'), 'Person');
+  appendItems((data.places || []).filter((item) => item.indexScope === 'book-pages-001-068'), (item) => item.displayType || 'Place');
   appendItems(data.editorialNotes, 'Editorial note');
   appendItems(data.photos, 'Photograph');
 
@@ -774,8 +827,19 @@ function performSearch(query) {
     resultEl.appendChild(heading);
     resultEl.appendChild(el('p', { className: 'meta', text: `ID: ${result.id}` }));
 
-    if (result.snippet) {
-      resultEl.appendChild(el('p', { text: result.snippet }));
+    let snippet = result.snippet;
+    if (result.rawText) {
+      const lowerText = result.rawText.toLowerCase();
+      const matchIndex = lowerText.indexOf(normalized);
+      if (matchIndex >= 0) {
+        const start = Math.max(0, matchIndex - 90);
+        const end = Math.min(result.rawText.length, matchIndex + normalized.length + 140);
+        snippet = `${start > 0 ? '...' : ''}${result.rawText.slice(start, end).replace(/\s+/g, ' ').trim()}${end < result.rawText.length ? '...' : ''}`;
+      }
+    }
+
+    if (snippet) {
+      resultEl.appendChild(el('p', { text: snippet }));
     }
 
     resultEl.appendChild(
@@ -795,9 +859,17 @@ function performSearch(query) {
 }
 
 function openBySearchType(type, id) {
+  const indexedEntry = namesPlacesState.entries.find((entry) => entry.id === id);
+  if (indexedEntry) {
+    focusPanel('names-places');
+    renderNamesPlacesDetail(indexedEntry);
+    document.getElementById(`np-${id}`)?.scrollIntoView({ block: 'nearest' });
+    return;
+  }
+
   const map = {
     'Story Event': 'story',
-    'Book page': 'book',
+    'Original Book': 'book',
     'Journal': 'journals',
     'Journal page': 'journals',
     'Source record': 'sources',
@@ -815,7 +887,7 @@ function openBySearchType(type, id) {
     }
     return;
   }
-  if (type === 'Book page') {
+  if (type === 'Original Book') {
     openBookById(id);
     return;
   }
@@ -830,7 +902,12 @@ function navigateSearchTo(term) {
 }
 
 function focusPanel(sectionId) {
-  panelButtons.forEach((button) => button.classList.toggle('is-active', button.dataset.section === sectionId));
+  panelButtons.forEach((button) => {
+    const isActive = button.dataset.section === sectionId;
+    button.classList.toggle('is-active', isActive);
+    button.setAttribute('aria-selected', String(isActive));
+    button.tabIndex = isActive ? 0 : -1;
+  });
   panels.forEach((panel) => (panel.hidden = panel.id !== sectionId));
 }
 
@@ -905,12 +982,20 @@ function render(data) {
 async function init() {
   wireNavigation();
   try {
-    const response = await fetch('data/site-data.json');
-    const data = await response.json();
+    const paths = ['data/site-data.json', 'data/book-text.json', 'data/people.json', 'data/places.json'];
+    const responses = await Promise.all(paths.map((path) => fetch(path)));
+    responses.forEach((response, index) => {
+      if (!response.ok) throw new Error(`Unable to load ${paths[index]} (${response.status})`);
+    });
+    const [data, bookText, peopleData, placesData] = await Promise.all(responses.map((response) => response.json()));
+    const textByPageId = new Map((bookText.pages || []).map((page) => [page.id, page.ocrText || '']));
+    data.bookPages = (data.bookPages || []).map((page) => ({ ...page, ocrText: textByPageId.get(page.id) || '' }));
+    data.people = mergeById(data.people || [], peopleData.people || []);
+    data.places = mergeById(data.places || [], placesData.places || []);
     render(data);
   } catch (error) {
     console.error(error);
-    const msg = 'Data file failed to load. This demo expects data/site-data.json to be accessible.';
+    const msg = 'A required structured data file failed to load. Serve the repository through a local web server or GitHub Pages.';
     status.story.textContent = msg;
     status.book.textContent = msg;
     status.journals.textContent = msg;

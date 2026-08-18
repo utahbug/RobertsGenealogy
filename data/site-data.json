@@ -47,7 +47,7 @@
         "person-elinor-williams"
       ],
       "children": [
-        "person-david-roberts"
+        "person-robert-roberts-2"
       ]
     },
     {
@@ -59,6 +59,34 @@
         "person-robert-roberts"
       ],
       "children": [
+        "person-robert-roberts-2"
+      ]
+    },
+    {
+      "id": "person-robert-roberts-2",
+      "name": "DEMO: Robert Roberts",
+      "generationLabel": "G3 (DEMO: Grandparent)",
+      "summary": "DEMO: second Robert Roberts in the supplied five-generation direct line.",
+      "parents": [
+        "person-robert-roberts",
+        "person-elinor-williams"
+      ],
+      "spouses": [
+        "person-elizabeth-griffiths"
+      ],
+      "children": [
+        "person-david-roberts"
+      ]
+    },
+    {
+      "id": "person-elizabeth-griffiths",
+      "name": "DEMO: Elizabeth Griffiths",
+      "generationLabel": "G3 (DEMO spouse)",
+      "summary": "DEMO: spouse in the supplied five-generation direct line.",
+      "spouses": [
+        "person-robert-roberts-2"
+      ],
+      "children": [
         "person-david-roberts"
       ]
     },
@@ -68,8 +96,8 @@
       "generationLabel": "G3 (DEMO: Grandparent)",
       "summary": "DEMO placeholder for mid-line descent.",
       "parents": [
-        "person-robert-roberts",
-        "person-elinor-williams"
+        "person-robert-roberts-2",
+        "person-elizabeth-griffiths"
       ],
       "spouses": [
         "person-catherine-thomas"
@@ -1077,11 +1105,11 @@
     "primaryLine": [
       "person-robert-price",
       "person-robert-roberts",
+      "person-robert-roberts-2",
       "person-david-roberts",
-      "person-robert-david-roberts",
-      "person-robert-roberts-iii"
+      "person-robert-david-roberts"
     ],
-    "focalPerson": "person-robert-roberts-iii",
+    "focalPerson": "person-robert-david-roberts",
     "startGeneration": 5
   },
   "books": [
