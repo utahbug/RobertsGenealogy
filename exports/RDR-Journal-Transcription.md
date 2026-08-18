@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 26 / 119
+Pages with transcription text: 28 / 119
 
-Untranscribed PDF pages: 27-119
+Untranscribed PDF pages: 29-119
 
 ## PDF page 1
 
@@ -1383,3 +1383,98 @@ Robert D. Roberts
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan. The final birthplace parish for Griffith Roberts is only partly legible and remains unresolved. The page closes with an explicit "Robert D. Roberts" signature. Status: needs review.
+
+## PDF page 27
+
+Stable ID: `journal-rdr-page-027`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City February 11th 1885
+
+Comence to work in Logan Temple for our
+relations and friends that had got behind
+the veil
+
+Feb 11th Catherine Thomas Roberts in behalf of Ann Parry
+
+12 in behalf of Ann Morris
+
+13 Catherine [unclear: Uch] Richards
+
+25 Margaret Owens
+
+26 Elizabeth Thomas
+
+27 Catherine Richards
+
+Mar 11 Ann Roberts Hopkins in behalf of [unclear: Eliz Griffith Catharine]
+
+12 in behalf of Elizabeth Roberts
+
+18 Ann Parry
+
+25 Elias Roberts
+
+26 Ann Roberts
+
+27 Lewis Roberts
+
+Mar 11 Margaret Goodman Davies Roberts in behalf of [unclear: David Evans]
+
+12 in behalf of Laura Parry
+
+March 26 Ann Roberts Hughes in behalf of Elinor Morris
+
+27 in behalf of Elizabeth Morris
+
+28 Catherine Morris
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several proxy names remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+
+## PDF page 28
+
+Stable ID: `journal-rdr-page-028`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+March 10th 1886 Ann Roberts Hopkins in behalf of Elinor Griffith
+
+11 Margaret Roberts
+
+12 Catherine Roberts
+
+March 10th 1886 Margaret Goodman Davies Roberts in behalf of
+
+11 Laura Richards
+
+11 Linet Morris
+
+12 Mrs Catherine Jones
+
+March 11th 1886 Catherine Thomas Roberts in behalf of Jane Thomas
+
+12 in behalf of Margaret Jones
+
+March 19th 1886 Sarah Ann Hughes Baptized in behalf of Margaret Richards
+
+18 Gwen Williams
+
+19 Mrs Margaret Jones wife of David Jones
+
+June 14th 1899 Ann Roberts Hopkins had her Endowment
+in behalf of
+
+Gwen Williams Roberts Aunt inlaw
+
+15 Margaret Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed from the original scan. Historical spelling and the manuscript's list order are preserved. Several entries rely on ditto-style continuation from the preceding heading and require second-reader review. Status: needs review.
