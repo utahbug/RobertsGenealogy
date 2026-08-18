@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 42 / 119
+Pages with transcription text: 44 / 119
 
-Untranscribed PDF pages: 43-119
+Untranscribed PDF pages: 45-119
 
 ## PDF page 1
 
@@ -2213,3 +2213,102 @@ of Benson ward
 ### Editorial annotations
 
 This PDF page awaits line-by-line visual transcription.
+
+## PDF page 43
+
+Stable ID: `journal-rdr-page-043`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City December 17th 1890
+
+Sarah Cathrine Hopkins was married
+in Logan Temple by Apostle Moses
+Thatcher to his son Moses Thatcher Jun:
+she is the oldest granddaughter of father
+and mother and the first to get married
+
+Received a letter from Ogden from my
+brother Daniel informing us that his wife
+October 20th 1890 at six fifteen 6.15 in the
+evening gave birth to a baby boy a
+quarter weighting 11 lbs: was blessed
+by Charles Brown
+his name Daniel Hughes Roberts
+
+Received a letter from Samaria
+Malad Valley Oneida County Idaho from
+Gomer Hughes that his wife gave our
+sister on January 17th 1891 at seven in
+the morning gave birth to a baby boy
+weighting [unclear: nine] pounds 10 lbs: blessed February
+2nd by Jonah Evans his name Reuben
+Roberts Hughes
+
+February 7th 1891
+Hugh Roberts was ordained to
+the office of a Deacon in the Logan
+Third Ward Logan City
+by Robert Davidson in the
+Third Ward
+
+Gomer Hughes was born in Maesteg
+Talfil Glamorganshire South Wales July 29th 1846
+
+### Editorial annotations
+
+First-pass visual transcription completed. Apparent inconsistencies in the recorded birth weight are preserved as written.
+
+## PDF page 44
+
+Stable ID: `journal-rdr-page-044`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City January 11th 1893
+
+In memory of our departed mother.
+
+She was born June 25th 1807 in a farm house
+called Crvin Mawr Parish Llanfrothen Merioneth-
+shire North Wales. She was the second daughter
+of Thomas Richards and Ann Morris. She was
+married January 1839 to David Robert Roberts
+in the Parish of Llanfrothen. She received the gospel
+and was baptized in the Parish of Festiniog Merion-
+ethshire August 22nd 1847 by David Peters. She
+was the mother of three sons and three daughters.
+The family Emigrated to Utah in 1856. Left
+Festiniog Merionethshire Wales April 9th set sail from
+Liverpool on 20th and arrived in Boston May 21st
+after a very rough and tedious voyage. Traveled
+from Boston to Iowa City by rail, and then from
+Iowa City to Salt Lake City with hand carts.
+This journey was exceedingly hard and trying,
+not having much more than half enough to satisfy
+the appetite and many died for the lack of food,
+to support their constitutions. She had been very ill
+for some years before this journey, and was hardly
+able to walk a mile. When she was a little girl she had
+some pain in her leg which made her little lame, but
+she walked nearly all the way across the plains from
+ten to twenty five miles every day without a murmur
+or complaint, devised the sleeping rations as equal and
+loving as possible between those under her care, which
+in the old country (or Wales) quite a few of the branch
+Elders called with us, some times cold, wet, and hungry.
+They was welcomed with a change of clothes, some food
+to eat, and a good bed to lay themselves at night,
+which made their hearts to rejoice and thank God that
+they had found, brother, sister, and a friend, while
+traveling from place to place without purse or
+script to lay before their fellow creatures the plan
+of life and salvation, to call them to repentance, and
+
+### Editorial annotations
+
+First-pass visual transcription completed. The memorial continues on PDF page 45; uncertain place-name spelling is preserved as read.
