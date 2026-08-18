@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">Roberts Family History icon</title>
+  <desc id="desc">Welsh-family-history emblem in restrained archival palette.</desc>
+  <rect x="8" y="8" width="164" height="164" rx="26" ry="26" fill="#f3efe5" stroke="#d8cdb9" stroke-width="4"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 125 C52 58 74 52 86 86 C100 50 127 52 139 82 C153 114 139 138 118 128" stroke="#315e52" stroke-width="16"/>
+    <path d="M118 128 C92 122 96 88 112 82 C128 76 151 94 149 132" stroke="#7b3f46" stroke-width="9"/>
+    <path d="M84 84 74 72" stroke="#a8874e" stroke-width="5"/>
+    <path d="M36 128 46 130 58 136" stroke="#315e52" stroke-width="6"/>
+  </g>
+  <path d="M138 90 156 86 152 104Z" fill="#315e52"/>
+  <circle cx="74" cy="82" r="3.6" fill="#302c27"/>
+  <path d="M18 148 58 148 C76 148 80 145 92 130" stroke="#a8874e" stroke-width="3" fill="none"/>
+</svg>
