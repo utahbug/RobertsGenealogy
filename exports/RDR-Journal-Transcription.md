@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 95 / 119
+Pages with transcription text: 98 / 119
 
-Untranscribed PDF pages: 96-119
+Untranscribed PDF pages: 99-119
 
 ## PDF page 1
 
@@ -4940,3 +4940,175 @@ Richard Thomas born about 1809 died about May 16th 1877
 ### Editorial annotations
 
 First-pass visual transcription completed. The family sketch begun on PDF page 90 ends in the opening paragraph. Subsequent records concern births, blessings, baptism, temple sealings, and the beginning of a Richards genealogy that continues onto PDF page 96. Marginal temple-work dates and several names/dates require review.
+
+## PDF page 96
+
+Stable ID: `journal-rdr-page-096`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Grandfather Thomas Richards parents name are
+Richard Thomas and Elizabeth Thomas their children
+are
+
+Thomas Richards
+
+Catherine Richards
+
+Robert Richards
+
+Jane Richards
+
+Those born in Merionethshire North Wales Parish Llanfihangel
+or Nanner about the year or between the year 1775 and
+1783 Baptized for in Logan Temple Endowment House
+Salt Lake City Oct. 13th 1875
+
+Grandmother Ann Morris parents name are
+Rowland Morris and Ann Parry their children names
+are
+
+Rowland Morris
+
+Janet Morris
+
+Ann Morris
+
+Elinor Morris
+
+Henry Morris
+
+They were born in Hawn Rhiwch Parish Nanner-
+ch about the years or between the years 1769 and the 1779
+Baptized for in Salt Lake City Endowment House
+Oct. 13th 1875
+
+[Marginal note: born Parish [unclear: Rhiw?] Caernarvonshire]
+
+Grandfather Robert Roberts born Jan: 15th 1775
+married Feb 3rd 1805 grandmother Elizabeth Edwards Roberts
+Their children names are
+
+Robert Roberts born Parish Nanner
+
+Edward Roberts [marginal note: April 1807 died Feb. 10th 1877]
+
+Robert Roberts 2nd [marginal note: April 1809]
+
+Elinor Roberts [unclear: Humphries] [marginal note: born 1811 died Aug 14th 1879]
+
+David R Roberts born Sept 8th 1814 died May 1838
+
+William Roberts [marginal note: June 1816]
+
+Daniel Roberts [marginal note: Dec 1818 died Nov 28th 1854]
+
+John Roberts [marginal note: Dec 6th 1822 Nov 15th 1856]
+
+### Editorial annotations
+
+First-pass visual transcription. The Richards genealogy continued from PDF page 95 ends on this page, followed by Morris and Roberts genealogical entries. The marginal locality beside Robert Roberts's entry and one word associated with Elinor Roberts require review.
+
+## PDF page 97
+
+Stable ID: `journal-rdr-page-097`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+all except John Roberts was born in the Parish Nanner he
+was born in Parish Llanfythin all in Merionethshire North
+Wales
+
+I received a letter dated March 5th 1910 from
+my son David who is at Washington District of Colu-
+mbia him and his family had moved from Logan
+September 29th to live in Washington as David was
+going to College to study law at the same time having
+a position under the Government in the Senate to occupy
+part of his time as a Clerk in the Disbursing Office of
+the U.S. Senate untill May 3 1910 at which time was
+promoted to have charge of the Record of Senate Docu-
+ments and Resolutions in the Office of the Secretary of
+U.S. Senate also which inform us that on January 19th at 5:
+25 P.M. a noble son arrive as an addition to the family by
+birth mother and baby doing well blessed Sunday evening
+March 6th 1910 at a meeting of the members of Church at
+Apostle Smoot home in Washington D.C. very excellent blessing
+was given him he was given the name of William Reed
+Washington Roberts in honor to President William Taff
+and Reed Smoot the Apostle and Washington City when
+Congress adjourned he and family return to Logan
+arrive here July 5th at about 15 minutes after 2 noon
+with the intention of returning to Washington sometime
+in October next
+
+Jan 29th 1911
+
+To Hugh & Margai[t?] Parry Roberts nice
+baby girl was born August 8th 1910 Logan Third
+Ward Cache Co Utah [interlined: she was blessed] September 4th 1910 at a fast
+meeting by Elder R D Roberts her Grandfather assisted
+by Bishop Wm Evans and his Counselors John [Quayle?]
+and John Everton she weighed 7 1/2 lbs seems to do
+well so far her name Catherine Roberts
+
+### Editorial annotations
+
+First-pass visual transcription. The opening completes the Roberts genealogy begun on PDF page 96. Several compact names and an interlined phrase in the Catherine Roberts entry require review.
+
+## PDF page 98
+
+Stable ID: `journal-rdr-page-098`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+January 9th 1911
+
+Thomas Roberts son of Robert David Roberts and
+his wife Eliza Neagle Roberts was ordained to the
+Office of a Deacon under the hands of the Bishopric
+of the Third Ward Logan Cache Co Utah William Evans
+John Quayle John Everton John [unclear: Quayle] being present
+in a Priesthood meeting in the Third Ward meeting
+house
+
+R D Roberts
+
+July 13th 1911
+
+I had the privilege of going to the Logan
+Temple to receive my second Endowment Sister
+Mary [unclear: Bow?] Kaley was with me in behalf of my wife
+Hannah Roberts her sister and my wife Eliza Neagle
+President [unclear: Sergeants?] Thomas Morgan and Samuel Roskelley
+officiating it is a glorious blessing
+
+R D Roberts
+
+March 31st 1912
+
+In a Priesthood meeting in the Third Ward Logan David
+Llewelyn Roberts was Ordained to the Office of a Deacon in
+the Aaronic Priesthood by Bp William Evans John Quayle Everton
+Jacobson his Counselors John Quayle being mouth
+
+R D Roberts
+
+Jan 20th 1913
+
+In a Priesthood meeting in the Third Ward Logan
+Robert Meredith Roberts was Ordained to the Office of
+a Deacon in the Aaronic Priesthood by Bp William Evans as
+Counselor John Quayle assisted by counselor Christian Jacobson
+
+R D Roberts
+
+### Editorial annotations
+
+First-pass visual transcription. Several officiator names and compact phrases require review. Four explicit R D Roberts signatures identify the entries they accompany; they are not generalized into a broader page-range attribution.
