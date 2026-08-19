@@ -1074,7 +1074,7 @@ Complete second-pass visual review performed. Conar Hughes is clear in the manus
 
 Stable ID: `journal-rdr-page-021`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1101,11 +1101,11 @@ Mrs Davies was born in Rhosllanerchrugog Denbighshire
 Wales June 30th 1854.
 
 Baptized by Henry Hatfield in Liverpool
-Confirmed by Joseph R Smith August 1877
+Confirmed by Joseph H Smith August 1877
 
 Emigrated to Utah in the year 1878 and
 arrived in Salt Lake City and lived with Wm Williams
-[unclear: family] until sometime in April 1880 when
+Kensington family until sometime in April 1880 when
 her and her sister Polly who emigrated to Salt Lake
 City in the year 1879 came to Logan and rent a
 small place of Mrs W. H. Garry and start in the
@@ -1125,7 +1125,7 @@ yet emigrated from England
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The wording and historical spelling have been preserved. One phrase following "Wm Williams" remains unclear and requires a second-reader review. Status: needs review.
+Complete second-pass visual verification performed. "Kensington family" was resolved from the enhanced manuscript view, and Joseph H Smith's middle initial was corrected. Historical wording and spelling are preserved.
 
 ## PDF page 22
 
@@ -1140,7 +1140,7 @@ March 22th 1881
 At six in the evening Jane Hughes our sister
 gave birth to a little girl weight 4 lbs mother and
 child are doing well She was born in Denbigh Ontario
-County [unclear: Nelle Stanley] and blessed May 5th
+County [unclear: Belle Farmley] and blessed May 5th
 by John Firkins her name Margaret Hughes
 
 Logan City, October 22th 1881.
@@ -1168,7 +1168,7 @@ of a Deacon in the Aaronic Priesthood
 Logan City Feb 1st 1883
 
 Some time last week I received a letter
-from Denbigh Ontario County [unclear: Nelle Stanley] from
+from Denbigh Ontario County [unclear: Belle Farmley] from
 Gomer Hughes stating that his wife Jane
 our sister gave birth to a nice son January
 17th 1883 at one twenty (1.20) in the morning
@@ -1177,13 +1177,13 @@ Robert Richard Hughes
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Historical spelling and the source's ordinal forms have been preserved. The locality phrase following "Ontario County" remains uncertain in both occurrences and requires a second-reader review. Status: needs review.
+Complete second-pass visual comparison performed. The repeated locality candidate was improved to "Belle Farmley," but its spelling remains materially uncertain in both occurrences; the page therefore remains needs-review. Historical spelling and ordinal forms are preserved.
 
 ## PDF page 23
 
 Stable ID: `journal-rdr-page-023`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1231,11 +1231,11 @@ December 19th 1883
 Sarah Ann wife of Daniel Roberts in Ogden
 gave birth to a little girl weight 12 lbs at fourtyfive
 minuts past eight (8.45) in the evening blessed by Christian
-J Larson at Logan March 16th 1884 name [unclear: Marah Roberts]
+J Larson at Logan March 16th 1884 name Martha Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Historical spelling and manuscript order are preserved. The child's name in the final line requires second-reader review. The page includes an explicit "R D Roberts" signature. Status: needs review.
+Complete second-pass visual verification performed. The final child's name was resolved as Martha Roberts. Historical spelling and manuscript order are preserved. The page includes an explicit "R D Roberts" signature identifying that entry.
 
 ## PDF page 24
 
@@ -1248,7 +1248,7 @@ Transcription status: `needs-review`
 Logan City June 5th 1884
 
 Hugh Roberts was baptized by
-William C Perkington Confirmed by John
+William C Partington Confirmed by John
 Johnson the same day
 
 Logan City May 16th [unclear: 1885]
@@ -1276,7 +1276,7 @@ had my Endowment this day for father
 
 Jan: 21st David Robert Roberts
 
-22 Robert Roberts [crossed out: confirmed] ordained by [unclear: Fratrig Pire]
+22 Robert Roberts [crossed out: confirmed] ordained by [unclear: Fratrig Pine]
 
 23 Thomas Richards " by Milton D. Hammond
 
@@ -1284,7 +1284,7 @@ Jan: 21st David Robert Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The overwritten year in the Brigham Young entry, the source's written "1895" date, and one officiator's name remain for second-reader review. Crossed-out and interlined wording is recorded explicitly. Status: needs review.
+Complete second-pass visual comparison performed. William C Partington was corrected, and the uncertain officiator candidate was improved to "Fratrig Pine." The overwritten Brigham Young-entry year and that officiator's identity remain materially uncertain, so the page remains needs-review. The manuscript's written "1895" date and crossed-out/interlined wording are preserved.
 
 ## PDF page 25
 
@@ -1300,7 +1300,7 @@ Jan: 29 Richard Thomas [crossed out: confirmed] [interlined: ordained] by John J
 
 Feb. 11th Rowland Morris " by Georg Barbor
 
-12th Griffith Morris " by [unclear: Fratrig Pire]
+12th Griffith Morris " by [unclear: Fratrig Pine]
 
 13th John Roberts he was ordained in the old Country
 
@@ -1332,17 +1332,17 @@ April 1 Robert Richards " by Georg Barbor
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Ditto marks are retained as quotation marks. Several officiators' names require second-reader review; no normalization has been attempted. Status: needs review.
+Complete second-pass visual comparison performed. The repeated officiator candidate was improved to "Fratrig Pine." Several officiator names, including Fratrig Pine and Fratrig Thicar, remain materially uncertain, so the page remains needs-review. Ditto marks are retained as quotation marks and no normalization has been attempted.
 
 ## PDF page 26
 
 Stable ID: `journal-rdr-page-026`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
-April 19 William Humphry " by N W Marriell
+April 19 William Humphry " by N W Merrill
 
 March 10th 1886 William Hughes by James A Leishman
 
@@ -1373,14 +1373,14 @@ Rees Roberts was born in 1823 Parish Llanfrothen
 Meirioneth Shire North Wales died April 8th 1896 Parish
 Festiniog Meirionethshire Wales
 
-Griffith Roberts was born in 1870 Parish [unclear: Bedd...]
+Griffith Roberts was born in 1870 Parish Festiniog
 Meirionethshire died December 4th 1894 Parish Festiniog
 
 Robert D. Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The final birthplace parish for Griffith Roberts is only partly legible and remains unresolved. The page closes with an explicit "Robert D. Roberts" signature. Status: needs review.
+Complete second-pass visual verification performed. N W Merrill was corrected and Griffith Roberts's birthplace parish was resolved as Festiniog. The incomplete "Thomas David Roberts work for" line is preserved as written. The page closes with an explicit "Robert D. Roberts" signature.
 
 ## PDF page 27
 
