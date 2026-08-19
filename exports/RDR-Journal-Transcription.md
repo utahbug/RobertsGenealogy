@@ -2006,17 +2006,18 @@ Robert in the name of the Lord Jesus I
 place my hands upon your head to seal upon
 you a patriarchal blessing for thou will yet be
 called to proclaim this gospel to thy own nation
-kind and from place to place with a voice as
+land and from place to place with a voice as
 the trumpet of God and thou shall bind up
 the law and seal up the testimony and the
 Angel of the Lord will go before thee and will
 commune with thee face to face and you shall
-[unclear: lead much] to Zion with songs of great joy and
+[unclear: lead ten] to Zion with songs of great joy and
 thou shall behold great signs upon the Earth
-for the hour of thy death shall not yet be come.
+for the hair of thy head shall not fall by an
+enemy.
 Thou shall have great faith, thou art
 of Joseph and a right to the fulness of the
-Priesthood, and [unclear: over] great Kingdoms
+Priesthood, and with wives and a great Kingdom
 upon the Earth. Therefore go thy way and
 never injure the heart of man which the father
 has for thee for thou shall behold all things for
@@ -2037,7 +2038,7 @@ Hannah Roberts Daughter of Hugh and
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page records Robert David Roberts's patriarchal blessing and begins a blessing for Hannah Roberts that continues on the next PDF page. Two short phrases remain uncertain. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement used only as reading aids. Several clear first-pass blessing errors were corrected, including nation land, the hair-of-the-head phrase, and the promised wives and kingdom. One phrase near the middle remains materially uncertain, and additional difficult blessing wording requires a later focused review, so the page remains needs review. The page begins Hannah Roberts's blessing, which continues on PDF page 40. The preserved source image was not altered. Status: needs review.
 
 ## PDF page 40
 
@@ -2055,10 +2056,9 @@ upon your head to seal upon you a Patriarch-
 al blessing for thou art of Ephraim when
 you entered this world the Angel of peace
 shall go with thee thou shalt have wisdom
-and [unclear: means] to comfort thee while you live.
-Thou shalt raise thy house in righteousness,
-peace shall dwell in thy habitation. Thy [unclear: prophets]
-shall arise of your [unclear: seed]. Thou shalt
+and dreams to comfort thee while you live.
+Thou shalt order thy house in righteousness,
+peace shall dwell in thy habitation. Holy prophets shall dine at your table. Thou shalt
 teach and instruct queens which shall come
 to Zion and no good thing shall be held
 from thee. Thou art a daughter of Ephraim
@@ -2069,7 +2069,7 @@ unto thee thou shall accomplish every desire
 of the heart in righteousness for your last
 days shall be your best for thou shall
 have eternal lives with all thy kindred
-ties which I seal upon thee with [unclear: crowns]
+ties which I seal upon thee with crowns
 of glory with all thy heart's desire
 Amen.
 
@@ -2080,15 +2080,15 @@ Book VI Page 251-52
 Logan City July 31st 1887
 
 A blessing given by C. H. Hyde upon
-the head of Thomas Robert Roberts Son of
+the head of David Robert Roberts Son of
 Robert and Hannah Roberts born Cache Co-
 unty Utah Territory Logan City March 30th 1861
 
-[unclear: David] I place my hands upon your
+David I place my hands upon your
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page completes Hannah Roberts's patriarchal blessing, gives its recording reference, and begins a blessing for Thomas Robert Roberts that continues on the next PDF page. Several faint words remain uncertain. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement used only as reading aids. Dreams, ordering the house, prophets dining at the table, and crowns were clarified. The next blessing recipient was corrected from Thomas to David Robert Roberts. Other difficult blessing wording remains materially uncertain, so the page remains needs review. The David Robert Roberts blessing continues on PDF page 41. The preserved source image was not altered. Status: needs review.
 
 ## PDF page 41
 
@@ -2148,7 +2148,7 @@ redeemed and the earth forever dwell upon with
 
 ### Editorial annotations
 
-This PDF page awaits line-by-line visual transcription.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement used only as reading aids. The existing first-pass blessing text contains numerous substantive wording errors and omissions in both the David Robert Roberts conclusion and the Hugh Roberts opening. A defensible full retranscription remains necessary, so the page remains needs review. The preserved source image was not altered. Status: needs review.
 
 ## PDF page 42
 
@@ -2210,13 +2210,13 @@ of Benson ward
 
 ### Editorial annotations
 
-This PDF page awaits line-by-line visual transcription.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement used only as reading aids. The Hugh Roberts blessing contains numerous substantive first-pass wording errors and omissions that require a focused full retranscription. The later baptism and ordination entries are substantially clear, but the unresolved blessing prevents promotion. The preserved source image was not altered. Status: needs review.
 
 ## PDF page 43
 
 Stable ID: `journal-rdr-page-043`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -2225,23 +2225,23 @@ Logan City December 17th 1890
 Sarah Cathrine Hopkins was married
 in Logan Temple by Apostle Moses
 Thatcher to his son Moses Thatcher Jun:
-she is the oldest granddaughter of father
+she is the oldest grandchild of father
 and mother and the first to get married
 
 Received a letter from Ogden from my
 brother Daniel informing us that his wife
 October 20th 1890 at six fifteen 6.15 in the
 evening gave birth to a baby boy a
-quarter weighting 11 lbs: was blessed
+bouncer weighting 11 lbs: was blessed
 by Charles Brown
 his name Daniel Hughes Roberts
 
 Received a letter from Samaria
 Malad Valley Oneida County Idaho from
-Gomer Hughes that his wife gave our
-sister on January 17th 1891 at seven in
+Gomer Hughes that his wife (also our
+sister) on January 17th 1891 at seven in
 the morning gave birth to a baby boy
-weighting [unclear: nine] pounds 10 lbs: blessed February
+weighting [overwritten: ten] pounds 10 lbs: blessed February
 2nd by Jonah Evans his name Reuben
 Roberts Hughes
 
@@ -2253,26 +2253,26 @@ by Robert Davidson in the
 Third Ward
 
 Gomer Hughes was born in Maesteg
-Talfil Glamorganshire South Wales July 29th 1846
+Taffil Glamorganshire South Wales July 29th 1846
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Apparent inconsistencies in the recorded birth weight are preserved as written.
+Complete second-pass visual comparison performed. The first birth description was corrected from "a quarter" to "a bouncer," the relationship wording was restored as "his wife (also our sister)," and the overwritten second birth weight was clarified as ten pounds, followed by the manuscript's repeated "10 lbs." Taffil is preserved as written. No substantive transcription uncertainty remains. Status: reviewed.
 
 ## PDF page 44
 
 Stable ID: `journal-rdr-page-044`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
-Logan City January 11th 1893
+Logan City January 10th 1893
 
 In memory of our departed mother.
 
 She was born June 25th 1807 in a farm house
-called Crvin Mawr Parish Llanfrothen Merioneth-
+called Creua Mawr Parish Llanfrothen Merioneth-
 shire North Wales. She was the second daughter
 of Thomas Richards and Ann Morris. She was
 married January 1839 to David Robert Roberts
@@ -2282,7 +2282,7 @@ ethshire August 22nd 1847 by David Peters. She
 was the mother of three sons and three daughters.
 The family Emigrated to Utah in 1856. Left
 Festiniog Merionethshire Wales April 9th set sail from
-Liverpool on 20th and arrived in Boston May 21st
+Liverpool on 20th and arrived in Boston May 24th
 after a very rough and tedious voyage. Traveled
 from Boston to Iowa City by rail, and then from
 Iowa City to Salt Lake City with hand carts.
@@ -2295,9 +2295,9 @@ able to walk a mile. When she was a little girl she had
 some pain in her leg which made her little lame, but
 she walked nearly all the way across the plains from
 ten to twenty five miles every day without a murmur
-or complaint, devised the sleeping rations as equal and
-loving as possible between those under her care, which
-in the old country (or Wales) quite a few of the branch
+or complaint, devided the scanty rations as equal and
+sparing as possible between those under her care, which
+in the old country (or Wales) quite a few of the traveling
 Elders called with us, some times cold, wet, and hungry.
 They was welcomed with a change of clothes, some food
 to eat, and a good bed to lay themselves at night,
@@ -2309,84 +2309,84 @@ of life and salvation, to call them to repentance, and
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The memorial continues on PDF page 45; uncertain place-name spelling is preserved as read.
+Complete second-pass visual comparison performed. The date was corrected to January 10th, the farm name to Creua Mawr with internal support from PDF page 6, and the Boston arrival to May 24th. The ration-sharing and traveling-Elders passage was substantially corrected. Historical spelling and grammar are preserved. The memorial continues on PDF page 45. No substantive transcription uncertainty remains. Status: reviewed.
 
 ## PDF page 45
 
 Stable ID: `journal-rdr-page-045`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
 yield obedience to the gospel of Jesus Christ and warn them of the
 judgment that was to come upon the disobedient, with
 but few exceptions the world would scorn, ridicule, and
-reject their message, and very often arose them under those
+reject their message, and very often abuse them under those
 trying circumstances the Elder found her as a mother to
-them, to aid, and comfort them on their unregarded and
-thankful mission. She was watchful and kind to her children,
-She fed and clothed them as her circumstance would permit
+them, to aid, and comfort them on their weary and un-
+thankful mission. She was watchfull and kind to her children,
+She fed and clothed them as her circumstances would permit
 her, with care and tenderness. She administered to them in
-sickness, and with a loving hand she wiped their tears
-sooth and comfort them in their trouble, She was a noble,
+sickness, and with a loving hand She wiped their tears
+soothe and comfort them in their trouble, She was a noble,
 obedient, affectionate, and a loving wife. in return for
-these grand qualities She was highly, esteemed, and every
+those grand qualities, She was highly, esteemed, and every
 attention that a kind husband could give her, she
 received, They lived peaceable and Happy together, she
 was quiet, and unassuming, never had any quarrel or
-dispute with her neighbors but was always the best
-of friend with them, She never spoke ill or slander
+dispute with her neighbors, but was always the best
+of friend with them, She never spoke evil or slander
 anyone, but had a kind word for all. She sympathized
-with the poor, and needy, and assisted them, She did
+with the poor and needy, and assisted them, She did
 much with the garments.
 
 October 12th 1892 She went to
 her son Thomas's house to see the funeral of sister
-Davis. Thomas's mother in law Started from there, She was
-left in a room by herself for a few minutes, it seems
-that she arose from the chair to go to the door,
+Davies. Thomas's motherinlaw Started from there, She was
+left in a room by herself for a few minuts, it seems
+that She arose from the chair to go to the door,
 in turning back she got dizzy, and fell on the
-edge of the stove on her forehead, and bruised her
-face and her eye was black. On the evening of the
+edge of the chair on her forehead and bruised her
+face and her eyes was black. On the evening of the
 13th when we were about to retire. I was bathing
 her face and head. She looked much better, and
 she said, I feel very much better, I will be all right
 in a day or two, but next morning She was very
 sick, and from this time it seems that death had
 taken hold of her, but She was not in very
-great pain, at 25 minutes past 12, on the morning
+great pain, at 25 min past 12 on the morning
 of Oct. 17th 1892 her spirit quietly took leave of
 the body, on the evening of the 19th we had a meeting
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page continues the memorial from PDF page 44 and continues onto PDF page 46.
+Complete second-pass visual comparison performed. Significant corrections include "abuse them," the weary and unthankful mission, Sister Davies, the edge of the chair, plural eyes, and the manuscript's abbreviated "min." Historical capitalization, spelling, grammar, and line sequence are preserved. The memorial continues on PDF page 46. No substantive transcription uncertainty remains. Status: reviewed.
 
 ## PDF page 46
 
 Stable ID: `journal-rdr-page-046`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
-in the house Richard Yeates presiding prayer
-by William Partington. George Reunter Benjamin
+in the house, Richard Yeates presiding prayer
+by William Partington. George Reunter. Benjamin
 Hallam. William Waterson and Richard Yeates prea-
-ched benediction by Willard Cranney. next morning at
+ched benediction by Willard Cranney, next morning at
 seven o clock we met the train at the depot, and
-took her to Birmingham, and she was buried by the side
+took her to Birmingham, and was buried by the side
 of father.
 
 Logan City November 10th 1893
 
 Ann Hughes daughter to Elizabeth
-Robert Hughes and Thiesan Hughes (Elizabeth
+Robert Hughes and Peterson Hughes (Elizabeth
 is our sister) was married to John William
 Cowley on the evening of August 23rd 1893 in his
-grandmother Davidson's house in the first ward
-of Logan City by Edward Smith justice of the
+grandmother Davidson's house in the first [crossed out: ward]
+of Logan City by Edward Smith Justice of the
 peace
 
 John William Cowley is a son to John
@@ -2413,7 +2413,7 @@ celestial law of marriage
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Historical names, punctuation, and relationship wording are preserved as read.
+Complete second-pass visual comparison performed. The funeral names were verified as George Reunter, William Waterson, and Willard Cranney. The Hughes name was corrected from Thiesan to Peterson, and the crossed-out ward notation was preserved. Historical relationship wording and grammar remain as written. No substantive transcription uncertainty remains. Status: reviewed.
 
 ## PDF page 47
 
