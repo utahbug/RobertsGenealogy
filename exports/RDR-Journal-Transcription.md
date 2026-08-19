@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 71 / 119
+Pages with transcription text: 74 / 119
 
-Untranscribed PDF pages: 72-119
+Untranscribed PDF pages: 75-119
 
 ## PDF page 1
 
@@ -3685,3 +3685,162 @@ January 15th 1903 R D Roberts
 ### Editorial annotations
 
 First-pass visual transcription completed. This page contains temple ordinance and Perry-family records and ends with a dated "R D Roberts" signature. Several place, surname, and marriage-date readings are uncertain. The explicit signatures on pages 70-71 identify those entries, but do not by themselves establish a broader page-level hand transition.
+
+## PDF page 72
+
+Stable ID: `journal-rdr-page-072`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City February 4th 1903
+
+In the year 1902 David R. Roberts was solicited
+by his friends to run for a representative from
+Cache County to the fifth Legislature of the State
+of Utah on the Republican Ticket during the cam-
+paign he took an active part in advocating Repub-
+lican principles the campaign was very commen-
+dable by advocating principle rather than vili-
+fying the character of their opponents the conven-
+tion at Logan October 9th 1902 David C. [unclear: Andrew]
+Peterson was his fellow the convention David
+received 88 votes Peterson 59 at the November 4th
+Election David received 3134 his Democratic opponent
+2978 David majority 156 January 10th the Legisla-
+ture assembled for their first session
+
+March 28th 1903
+
+David R. Roberts and his wife Tryphen
+with their little son [unclear: Heradum] went on a tour
+of pleasure to California went north thro-
+ugh Oregon visit at Legrande with William
+Davies Tryphen's brother arrived home April 19th
+by the Union Pacific had a very pleasant trip
+little [unclear: Prudence] and [unclear: Heyward] staid at home
+with their grand parents Davies in the
+second ward Logan
+
+May 30th 1903
+
+Maggie wife of Hugh Roberts gave birth
+at nine fifty in the morning (9.50 A.M.) to
+a promising baby boy weight 8 lbs.
+Blessed July 5th by his uncle Jared R.
+Roberts assisted by Bishop R. Yeates counselor
+William Walters and his father Hugh Roberts
+his name Hugh Legrande Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed. Page 72 begins new election, travel, and birth records rather than continuing page 71. Several candidate and child-name readings remain uncertain.
+
+## PDF page 73
+
+Stable ID: `journal-rdr-page-073`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Aunt Mary Richards daughter to
+Edward Richards & Mary Owens born July 19th
+1821 Parish Festiniog Merionethshire North Wales
+died June 4th 1849 at Round Valley Inyo County
+California
+
+Jane Robert Hughes October 20th 1903
+was Baptised by G. T. [unclear: Dibble] confirmed by
+Thomas Morgan in Logan Temple in behalf
+of Mary Richards wife of John Roberts her
+uncle & 22nd had her endowment in her beh-
+alf and was sealed over the holy alter by
+James Quayle to John Roberts who was
+dead
+
+Tryphen Proxy Robert D. Roberts
+& Jane Roberts Hughes
+
+January 11th 1904
+
+Some years ago I received these names
+below from Lewis D. Jones who reside in
+Samaria Malad Valley of the birth of his
+sister Margaret Hughes and James Hughes
+children
+
+Margaret Hughes Died September 5th 1858
+in [unclear: Keysville] [unclear: their] County Illinois
+
+William Jones brother to Margaret
+Hughes went back from Malad Box Elder Co
+to Ill. and by the consent of James Hughes
+husband to his sister Margaret brought
+their children seven in number back to Mal-
+ad Box Elder County Utah this was some
+time in the early part of 1860's
+
+[unclear: Nonnes] Hughes the father promised to
+follow after them soon but was married
+the second time and went back to Wales
+and died there
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page contains separate death, temple/proxy, and Hughes-family migration records; the family account continues onto PDF page 74. Several officiator, county, and personal-name readings remain uncertain.
+
+## PDF page 74
+
+Stable ID: `journal-rdr-page-074`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+and as two of my sisters has married two
+of the sons namely Taliessin & Gomer and my
+brother Daniel married one of their sisters her name
+Sarah Ann this may come of some benefit
+to the family in future years
+
+Their names as follows
+
+Mariah Hughes was born September 3rd 1842
+Taliessin        "    "    July 13th 1843
+Gomar            "    "    July 28th 1846
+Mary             "    "    August 5th 1848
+Mathew           "    "    July 6th 1850
+Lewis            "    "    May 30th 1852
+Daniel           "    "    January 24th 1854
+
+The above names were born in Glamorganshire
+South Wales
+
+Sarah Ann        "    "    October 23rd 1856
+at Pottsville Pennsylvania North America
+Mary died September 15th 1850 in Glamorgan-
+shire South Wales
+
+Daniel died [illegible] in Samaria
+Malad Valley Oneida County Idaho he left
+a family a wife and five children three boys
+and two girls
+
+Daniel Jones & Mary Jones were the
+parents of Margaret Hughes
+
+Logan City January 14th 1904
+
+Tryphen wife of Gabriel R. Roberts gave
+birth at eighteen minutes past one in the mor-
+ning (1.18 A.M.) to a very nice little girl
+she looks strong and healthy weight 10 lbs.
+was blessed March 6th by her father assisted
+by Bishop Richard Yeates and his
+counselor her name Edy Gwen Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed. The Hughes-family record from page 73 concludes, followed by a separate birth-and-blessing record. One word in Daniel's death entry is illegible; historical names and dates are preserved without reconciliation.
