@@ -3330,7 +3330,7 @@ Second-pass visual review completed. The patriarchal blessing begun on PDF page 
 
 Stable ID: `journal-rdr-page-065`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3360,7 +3360,7 @@ receive the same and you will be privileged
 to lead them into the waters of baptism;
 and you shall lay hands upon those who are
 sick and they shall recover, and you shall be
-able to cast evil and have the signs proven upon
+able to cast evil spirits and have the signs promised unto
 the earth yourself, and you shall be seen by the
 people in vision and they will know you. Then
 you come to them, and you shall enjoy the blessings
@@ -3374,13 +3374,13 @@ and unspotted from the sins of the world and
 
 ### Editorial annotations
 
-First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. This page continues the missionary blessing for David Hughes from PDF page 64 and continues onto PDF page 66. The unusual wording "cast evil and have the signs proven" is preserved as it appears and needs review.
+Second-pass visual review completed from the inverted source scan using a temporary upright derivative. This page continues the missionary blessing for David Hughes from PDF page 64 and continues onto PDF page 66. The unusual phrase was resolved as "cast evil spirits and have the signs promised unto / the earth yourself."
 
 ## PDF page 66
 
 Stable ID: `journal-rdr-page-066`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3413,8 +3413,8 @@ died Catherine Williams about 11 years old born and
 died in Eglwys bach Denbighshire Wales
 March 20th 1900 they were sealed to Daniel
 R. Roberts by Thomas Morgan in Logan
-Temple witness Joseph C. [unclear: Dowley] & John W.
-[unclear: Spillman] Proxy Mrs Mary Roberts [unclear: Rockalley]
+Temple witness Joseph E. Cowley & Samuel
+Spillman Proxy Mrs Mary Roberts Roskelley
 
 February 21st 1899 David R. Roberts was set
 apart by C. D. Fjeldsted for a Secretary for
@@ -3422,7 +3422,7 @@ the 40th Corum of seventies
 
 ### Editorial annotations
 
-First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. The missionary blessing begun on PDF page 64 ends here with George E. Hill identified as reporter. Separate family and church notes follow. Several witness/proxy names are uncertain. The page refers back to pages 56-57 but does not conclusively resolve an earlier marked uncertainty. No defensible writer or hand transition is assigned.
+Second-pass visual review completed from the inverted source scan using a temporary upright derivative. The missionary blessing begun on PDF page 64 ends here with George E. Hill identified as reporter. Separate family and church notes follow. Witnesses Joseph E. Cowley and Samuel Spillman and proxy Mrs Mary Roberts Roskelley were resolved. The page refers back to pages 56-57 but does not conclusively resolve an earlier marked uncertainty. No defensible writer or hand transition is assigned.
 
 ## PDF page 67
 
@@ -3442,8 +3442,8 @@ In the year 1862 there was a call made on Cache
 Valley Stake for thirty wagons with four yoke of Oxen
 to each wagon seven wagons were required in Logan the
 teamsters names are Morgan Evans, James [unclear: D. Mingo],
-Sidney Dibb, Barnard [unclear: Hanford], William Ricks, Frederick
-[unclear: Grottum] and Robert D. Roberts about the first of April
+Sidney Dibb, Barnard Stanford, William Ricks, Frederick
+Gordum and Robert D. Roberts about the first of April
 we gathered together and camped about a mile South
 of Millville at the foot of the hill that rises to go on
 the bench as you go on the road South to Hyrum or
@@ -3460,7 +3460,7 @@ on the creek
 When we got down as far as Ogden bottom below
 north Ogden we learn that Ogden Bridge was washed
 away we had to stay here until there was a temporary
-put in the River to ferry us across the water was
+ferryboat put in the River to ferry us across the water was
 very high this year we stayed here some over a
 week it took us a month to get to Salt Lake
 City by this time we were recruited with thirty
@@ -3480,7 +3480,7 @@ First-pass visual transcription completed. This page begins a dated recollection
 
 Stable ID: `journal-rdr-page-068`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3492,9 +3492,9 @@ Hamsfork we found that we had to build a bridge
 to cross it the River was away above its banks here
 we found a company of immigrants waiting for
 some way to get across the next day I believe some
-forty some there loaded with timber to build the
+forty teams there loaded with timber to build the
 bridge we was here about two weeks working on the
-bridge we had to fled willow for some distance
+bridge we had to float willows for some distance
 to make a road to the bridge the ground was
 very soft and under water the water was very
 cold and the weather quite cold at times we
@@ -3506,10 +3506,10 @@ from this on we had no hinderance we had about
 2385 pounds of flower for our supply to come back
 we left a part of it in an over-land Station on sweet
 water the other part at a Station by the upper
-bridge below the upper crossing of the Plat River
+bridge below the upper crossing of the Platte River
 arrived at Florence about the first of August there
 was a company of four or five men and one woman
-with a wagon and a span of horses traveling nearly
+with a wagon and a band of horses traveling nearly
 all the way down they were from California going
 back East
 
@@ -3524,7 +3524,7 @@ its share of the load our cloth would be wet and
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page continues the 1862 Florence immigration journey from PDF page 67 and continues onto PDF page 69. Historical spellings and the manuscript's split "thro- / ugh" are preserved.
+Second-pass visual review completed. This page continues the 1862 Florence immigration journey from PDF page 67 and continues onto PDF page 69. Historical spellings and the manuscript's split "thro- / ugh" are preserved.
 
 ## PDF page 69
 
@@ -3543,7 +3543,7 @@ Salt Lake City October 19th the company had considerable
 sickness of which twenty eight died I took two families
 home with me Davis [unclear: Gled Jones] wife son and daughter
 staid in one of our rooms until the following spring
-when brother Jones died [unclear: Dinieth Jones] and wife staid
+when brother Jones died Timothy Jones and wife staid
 with us two weeks we was the fifth train that left
 Florence
 
@@ -3564,13 +3564,13 @@ years 2 months in the field in active service
 his health was very good with the exception
 of the last month he had a spell of la Gripp
 
-Walked 4923 miles Road 500 miles this does not include
+Walked 4923 miles Rode 500 miles this does not include
 his travel to and from his mission visited families
 2458 Revisited families 1956 bore testimony rejected
 476 Entertainment refused 139 Distributed Tracts
 4115 Distributed Dodgers 3069 Books sold 146 Books
 given away 59 Books Loaned 475 Meetings held
-690 Gospel conversations 4130 Gospel letters 60
+390 Gospel conversations 4130 Gospel letters 60
 
 ### Editorial annotations
 
@@ -3594,18 +3594,18 @@ R D Roberts
 August 21st 1902
 
 Tryphon wife of Daniel R Roberts gave birth
-at five fifteen A.M. (5.50 A.M.) to a bright little
+at five fifty A.M. (5.50 A.M.) to a bright little
 girl weight 4 lb: she has been very weak her
 Mother unable to nurse her for some cause she
 had to be nursed with the bottle nothing
 seemed to agree with her but she seemed to
 be thriving some at present October 5th she
 was blessed by her father David R. Roberts her
-name [unclear: Rhondah Juanita Roberts]
+name Hannah Juanita Roberts
 
 R D Roberts Oct. 21st
 
-January 8th [unclear: Hannah Juanita Roberts]
+January 8th Hannah Juanita Roberts
 infant daughter of David R Roberts and
 Tryphon his wife died she never was healthy
 from her birth was taken to the Third Ward
@@ -3621,7 +3621,7 @@ R. D. Roberts
 
 November 18th 1900 Daniel Robert Roberts
 was ordained to fill a vacancy in the Presiden-
-cy of the seventies quorum of seventies by Prest.
+cy of the fourth quorum of seventies by Prest.
 Christian D. Fjeldsted
 
 ### Editorial annotations
@@ -3659,14 +3659,14 @@ Missouri River from his Nationality English and
 Irish arrived in Utah September 1851
 
 Susan Zimmerman was born November 30th
-1838 in the hills of Pennsylvania or [unclear: Miquon]
+1838 in the hills of Pennsylvania or Alleghenia
 Mountains Baptized in 1852 at Lehi Utah
 County Utah she was married to John C.
-[unclear: Maff] by whom she had three children one
+Neagle by whom she had three children one
 son and two daughters the son and one daug-
 hter died one daughter of her first husband
-still lives at [unclear: Hawseus] Cache Valley Idaho as
-a section with some grown children
+still lives at Fairview Cache Valley Idaho as
+a widow with some grown children
 
 W. A. Perry and S. Zimmerman Perry was
 married June 10th 187[unclear] at Salt Lake City Utah
