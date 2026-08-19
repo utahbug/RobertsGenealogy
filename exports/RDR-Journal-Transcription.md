@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 79 / 119
+Pages with transcription text: 83 / 119
 
-Untranscribed PDF pages: 80-119
+Untranscribed PDF pages: 84-119
 
 ## PDF page 1
 
@@ -4099,3 +4099,218 @@ R. D. Roberts
 ### Editorial annotations
 
 First-pass visual transcription completed. John Neagle's funeral account ends at the top, followed by separate birth/blessing and death/burial records. Historical wording and spellings are preserved. Several officiator and pall-bearer names require review. Three explicit R. D. Roberts signatures identify these entries but do not establish a broader hand transition.
+
+## PDF page 80
+
+Stable ID: `journal-rdr-page-080`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Robert J. Roberts was ordained to the
+High Priest quorum December 28th 1904 by
+Edward Sheffield Smith assisted by Hyrum [unclear: Apffel]
+& Bishop Anthon Anderson of the second Ward
+in the second Ward meeting house Logan
+City February 5th was received with the quorum
+of the Third Ward Logan
+
+[marginal: The High Priest]
+
+Robert J. Roberts
+Feby 19th 1906
+
+Loa Wayne County Utah
+
+A Patriarchal Blessing given by Elias H Blackburn
+Patriarch upon the head of David William Roberts
+born Dec. 26th 1881 in Logan Cache Co Utah
+
+David Wm in the name of the Lord Jesus
+and in the Authority of the Holy Priesthood I
+lay my hands upon thy head and seal upon thee
+thy Patriarchal Blessing that you may be blessed
+and in as much as you will keep the laws of the
+Gospel and exercise faith in the Lord Jesus Thou
+shall be blest and have power to live and overcome
+the world thou art blest with a good lineage a descen-
+dant of Ephraim and an heir to the Priesthood thou
+art blest to come forth in this day and age of the
+world and to lay a foundation for Eternity. The powers
+of Satan has sought to destroy thy existence thy reborn
+but inasmuch as thou and thy parents will exercise faith
+in the Lord and good works observing the laws of the
+Gospel thou shalt be blest and have power to overcome
+all evil powers thy mind has been wrought up at
+many times and we say unto thee exercise faith in
+the Lord be obedient to the requirement and the spirit
+that has disturbed thy mind shall leave thee for it
+is through faith and obedience that the blessings of
+the Lord will come unto thee. Seek the Lord
+earnestly, for there is nothing impossible with the
+Lord, thou the creature does no their part the mercies
+
+### Editorial annotations
+
+First-pass visual transcription completed. An ordination note precedes a patriarchal blessing for David William Roberts, which continues onto PDF page 81. One assisting officiator surname is uncertain.
+
+## PDF page 81
+
+Stable ID: `journal-rdr-page-081`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+of the Lord endureth forever exercise faith in the Lord
+be determined for the purpose in the Lord then thy guardian
+Angel will watch over thee thy mind will become at rest
+peace of the Lord will be upon thee for thou will increase
+grow with the growth of Zion.
+
+Remembering always that this good mind to return
+thy health to return will depend on thy efforts for the
+Lord thy god is willing to heal thee and thou will become
+strong in body strong in mind. Blest in the due time
+of the Lord to receive a companion a wife in the Lord
+and in that time of the Lord thou shall have posterity
+and the blessing of the Lord will be with thee and the
+powers of Satan will be rebuked, for thou was in the
+spirit life with the father did agree to come to mortality
+fill a probation receive a body to pass through trials
+sorrows and afflictions to purify the body that thou
+may be prepared for a glorious resurrection, let
+thy body and mind especially, be calm devoid and
+so long blessing will come unto thee and mind will
+expand the understanding will increase and after
+the trials of mortality have joy and rejoicing
+in the day of the Lord Jesus. The spirit of the
+Lord is with thee to be contented in thy mind
+and be not be discouraged for the mercies of the
+Lord will endure unto the forever for the eye
+of the Lord is upon thee and for thy obedience
+and belief in the Gospel the Lord will remember
+thee in mercy through the condition named
+unto thee through will do good work for thy pro-
+genitors and become a savior upon Mount Zion.
+And the Lord in blessing thee He will bless
+and increase thee and make thee equal to all
+the requirements for there is a work for thee to
+do in mortality. Be faithful and humble before
+the Lord and all blessing and promises through
+faith will come unto thee and prolong thy joy
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page continues David William Roberts's blessing from PDF page 80 and continues onto PDF page 82. Several awkward clauses are preserved as written and require review.
+
+## PDF page 82
+
+Stable ID: `journal-rdr-page-082`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+will be full and the way will be open before
+thee seek earnestly to control thy mind and
+thou shalt be blest peace will reign within
+thy soul thou shalt be blest in the Lord shalt gain
+to do a work for thy progenitors there, thou
+shall be blest in mortality with a temporal
+salvation good and remain for thou will lack
+and in the due time of the Lord He will make
+thee a forebearer of righteousness and after
+thou has finished thy earthly pilgrimage thou
+will continue for a time in the spirit life
+receive a glorious resurrection with thy poster-
+ity. I seal upon thee these blessing through thy
+continuance in the truth by virtue of the Priest-
+hood and in the name of the Lord Jesus Christ
+Amen
+
+Recorded Loa Wayne County Utah
+In book 10 Page 190 No 200 by
+E. H. Blackburn Patriarch
+Sept. 15th 1906
+
+January 9th 1906 at 3.15 P.M. after noon Tryphen
+Roberts wife of David R Roberts gave birth to a
+Promising baby girl weight 8 lbs. she looks strong
+and healthy Sweet and Gentle was blessed April 29th
+1906 by her grandfather Robert D Roberts her
+name Hannah Maria Roberts
+
+Sept 15th 1906
+
+David Llewelyn Roberts was Baptized in Logan
+Temple by Lewis Miller Confirmed by Joseph M Smith
+September 11th 1906 Son of David R. & Tryphen Davies Roberts
+
+Oct 21st 1906
+
+September 12th 1906 at ten minuts to six in the
+evening (5.50 P.M.) Margaret Roberts wife of Hugh Roberts
+gave birth to a very nice little baby girl weighing
+eight pounds (8 lbs) was blessed October 5th by her father
+
+### Editorial annotations
+
+First-pass visual transcription completed. David William Roberts's blessing ends near the top with recording information. Separate birth, baptism, and birth/blessing records follow; the last record continues onto PDF page 83.
+
+## PDF page 83
+
+Stable ID: `journal-rdr-page-083`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Hugh Roberts it seems that she sprained her right ankle at
+her birth but is all right at present her Name Hannah
+
+Logan City Cache Co. Utah Jan 26th
+1904
+
+A blessing given by John Smith Patriarch upon the head
+of Eliza Roberts daughter of John & Agnes Neagle Born near Belfast
+County Down Ireland September 12th 1858
+
+Sister Eliza Roberts thou art of the house of Ismael and
+although born in a foreign land. Thou art numbered among the
+daughters of Zion and thy pathway is marked out and thy
+duty shall often be made known unto thee from time to time as
+thou shall need through prophetic vision for at an early day
+thou didst yield obedience to the gospel with an honest heart
+and forsook home kindred and friends for the sake of salvation
+And as a reward for thy labor thy guardian angel has
+charge concerning thee and will direct thy course through
+the whispering of the Spirit give thee strength in time of
+trial and power over evil and unclean Spirits and enable
+thee to hold the adversary at bay that health and peace
+shall reign in thy dwelling. And thy name shall live in
+the memory of the Saints. Thou art of Ephraim and in
+common with thy companion thou shalt receive thy blessing
+with thine inheritance and among those who have fought
+the good fight kept the faith finished their course and
+won the prize. It is therefore necessary that you be buoyant
+in spirit that you look always upon the bright side and
+be cheerful for cheerfulness begets happiness cheerfulness
+turns aside anger and restore peace and gains
+friends and influence among the people. Be prudent
+and thou shall not lack for the comforts of life but shall
+impart unto others and for thy kindness thou shalt be rem-
+embered in after years therefore look forward to the future
+with pleasure for better days await thee.
+
+This blessing I seal upon thee in the name of Jesus
+Christ and I seal thee up unto eternal life to come
+forth in the morning of the first resurrection a savior
+among thy Kindred Even so amen
+
+R D Roberts Jan. 24th 1907
+
+### Editorial annotations
+
+First-pass visual transcription completed. The birth record from page 82 ends at the top. A complete repeated record of Eliza Roberts's blessing follows and ends with an explicit R D Roberts dated notation. The repetition corroborates the blessing text on pages 75-76 but does not conclusively resolve their uncertain setting-apart name or establish a broader hand transition.
