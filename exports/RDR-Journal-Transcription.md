@@ -4944,7 +4944,7 @@ Second-pass visual comparison completed. The first name in Robert Roberts's bapt
 
 Stable ID: `journal-rdr-page-096`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4984,7 +4984,7 @@ ch about the years or between the years 1769 and the 1779
 Baptized for in Salt Lake City Endowment House
 Oct. 13th 1875
 
-[Marginal note: born Parish [unclear: Rhiw?] Caernarvonshire]
+[Marginal note: born Parish Rhiw Caernarvonshire]
 
 Grandfather Robert Roberts born Jan: 15th 1775
 married Feb 3rd 1805 grandmother Elizabeth Edwards Roberts
@@ -4996,7 +4996,7 @@ Edward Roberts [marginal note: April 1807 died Feb. 10th 1877]
 
 Robert Roberts 2nd [marginal note: April 1809]
 
-Elinor Roberts [unclear: Humphries] [marginal note: born 1811 died Aug 14th 1879]
+Elinor Roberts Humphries [marginal note: born 1811 died Aug 14th 1879]
 
 David R Roberts born Sept 8th 1814 died May 1838
 
@@ -5008,7 +5008,7 @@ John Roberts [marginal note: Dec 6th 1822 Nov 15th 1856]
 
 ### Editorial annotations
 
-First-pass visual transcription. The Richards genealogy continued from PDF page 95 ends on this page, followed by Morris and Roberts genealogical entries. The marginal locality beside Robert Roberts's entry and one word associated with Elinor Roberts require review.
+Second-pass visual transcription reviewed. The marginal locality was resolved as Parish Rhiw, Caernarvonshire, and Elinor Roberts's associated surname was confirmed as Humphries. The Richards genealogy continued from PDF page 95 ends on this page, followed by Morris and Roberts genealogical entries.
 
 ## PDF page 97
 
@@ -5045,19 +5045,19 @@ arrive here July 5th at about 15 minutes after 2 noon
 with the intention of returning to Washington sometime
 in October next
 
-Jan 29th 1911
+Jan 27th 1911
 
-To Hugh & Margai[t?] Parry Roberts nice
+To Hugh & [unclear: Margai] Parry Roberts nice
 baby girl was born August 8th 1910 Logan Third
 Ward Cache Co Utah [interlined: she was blessed] September 4th 1910 at a fast
 meeting by Elder R D Roberts her Grandfather assisted
-by Bishop Wm Evans and his Counselors John [Quayle?]
+by Bishop Wm Evans and his Counselors John Quayle
 and John Everton she weighed 7 1/2 lbs seems to do
 well so far her name Catherine Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription. The opening completes the Roberts genealogy begun on PDF page 96. Several compact names and an interlined phrase in the Catherine Roberts entry require review.
+Second-pass visual comparison completed. The 1911 heading was corrected to Jan 27th, and John Quayle was resolved. The compact given-name form before Parry remains uncertain, so the page remains needs-review. The opening completes the Roberts genealogy begun on PDF page 96.
 
 ## PDF page 98
 
@@ -5073,7 +5073,7 @@ Thomas Roberts son of Robert David Roberts and
 his wife Eliza Neagle Roberts was ordained to the
 Office of a Deacon under the hands of the Bishopric
 of the Third Ward Logan Cache Co Utah William Evans
-John Quayle John Everton John [unclear: Quayle] being present
+John Quayle John Everton John Quayle being present
 in a Priesthood meeting in the Third Ward meeting
 house
 
@@ -5083,9 +5083,9 @@ July 13th 1911
 
 I had the privilege of going to the Logan
 Temple to receive my second Endowment Sister
-Mary [unclear: Bow?] Kaley was with me in behalf of my wife
+Mary [unclear: RosKaley] was with me in behalf of my wife
 Hannah Roberts her sister and my wife Eliza Neagle
-President [unclear: Sergeants?] Thomas Morgan and Samuel Roskelley
+Presidents Budge Thomas Morgan and Samuel Roskelley
 officiating it is a glorious blessing
 
 R D Roberts
@@ -5094,29 +5094,29 @@ March 31st 1912
 
 In a Priesthood meeting in the Third Ward Logan David
 Llewelyn Roberts was Ordained to the Office of a Deacon in
-the Aaronic Priesthood by Bp William Evans John Quayle Everton
-Jacobson his Counselors John Quayle being mouth
+the Aaronic Priesthood by Bp William Evans John Quile Christian
+Jacobson his Counselors John Quile been mouth
 
 R D Roberts
 
 Jan 20th 1913
 
 In a Priesthood meeting in the Third Ward Logan
-Robert Meredith Roberts was Ordained to the Office of
+Robert [unclear: Meridyn] Roberts was Ordained to the Office of
 a Deacon in the Aaronic Priesthood by Bp William Evans as
-Counselor John Quayle assisted by counselor Christian Jacobson
+counselor John Quile assisted by counselor Christian Jacobson
 
 R D Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription. Several officiator names and compact phrases require review. Four explicit R D Roberts signatures identify the entries they accompany; they are not generalized into a broader page-range attribution.
+Second-pass visual comparison completed. The repeated John Quayle, Presidents Budge, and the third and fourth ordinance officiator wording were corrected. Mary RosKaley and Robert Meridyn remain uncertain, so the page remains needs-review. Four explicit R D Roberts signatures identify only the entries they accompany and are not generalized into a broader page-range attribution.
 
 ## PDF page 99
 
 Stable ID: `journal-rdr-page-099`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5141,7 +5141,7 @@ in the month of December
 part in the deliberations of
 this committee were State
 Engineer Caleb Tanner, Salt
-Lake County engineer Joe T.
+Lake County engineer Joe B.
 Swenson, Judge O. W. Powers,
 Judge Ellis, Orson H. Hewlett,
 James C. Jennings, and D.
@@ -5160,7 +5160,7 @@ unanimously adopted by the
 
 ### Editorial annotations
 
-First-pass visual transcription. This page begins a political/legal narrative in a clearly different hand from page 98. The handwriting change is confirmed, but the new scribe's identity remains unassigned.
+Second-pass visual transcription reviewed. County engineer Joe B. Swenson's middle initial was corrected. This page begins a political/legal narrative in a clearly different hand from page 98. The handwriting change is confirmed, but the new scribe's identity remains unassigned; third-person references to D. R. Roberts do not identify the scribe.
 
 ## PDF page 100
 
