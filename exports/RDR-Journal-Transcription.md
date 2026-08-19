@@ -3704,7 +3704,7 @@ lican principles the campaign was very commen-
 dable by advocating principle rather than vili-
 fying the character of their opponents the conven-
 tion at Logan October 9th 1902 David C. [unclear: Andrew]
-Peterson was his fellow the convention David
+Peterson was put before the convention David
 received 88 votes Peterson 59 at the November 4th
 Election David received 3134 his Democratic opponent
 2978 David majority 156 January 10th the Legisla-
@@ -3718,7 +3718,7 @@ of pleasure to California went north thro-
 ugh Oregon visit at Legrande with William
 Davies Tryphen's brother arrived home April 19th
 by the Union Pacific had a very pleasant trip
-little [unclear: Prudence] and [unclear: Heyward] staid at home
+little Prudence and [unclear: Llewelyn] staid at home
 with their grand parents Davies in the
 second ward Logan
 
@@ -3747,11 +3747,11 @@ Transcription status: `needs-review`
 Aunt Mary Richards daughter to
 Edward Richards & Mary Owens born July 19th
 1821 Parish Festiniog Merionethshire North Wales
-died June 4th 1849 at Round Valley Inyo County
+died June 9th 1849 at Round Valley Inyo County
 California
 
 Jane Robert Hughes October 20th 1903
-was Baptised by G. T. [unclear: Dibble] confirmed by
+was Baptised by G. T. Dibble confirmed by
 Thomas Morgan in Logan Temple in behalf
 of Mary Richards wife of John Roberts her
 uncle & 22nd had her endowment in her beh-
@@ -3759,7 +3759,7 @@ alf and was sealed over the holy alter by
 James Quayle to John Roberts who was
 dead
 
-Tryphen Proxy Robert D. Roberts
+Their Proxy Robert D. Roberts
 & Jane Roberts Hughes
 
 January 11th 1904
@@ -3781,7 +3781,7 @@ their children seven in number back to Mal-
 ad Box Elder County Utah this was some
 time in the early part of 1860's
 
-[unclear: Nonnes] Hughes the father promised to
+James Hughes the father promised to
 follow after them soon but was married
 the second time and went back to Wales
 and died there
@@ -3794,7 +3794,7 @@ First-pass visual transcription completed. This page contains separate death, te
 
 Stable ID: `journal-rdr-page-074`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3822,7 +3822,7 @@ at Pottsville Pennsylvania North America
 Mary died September 15th 1850 in Glamorgan-
 shire South Wales
 
-Daniel died [illegible] in Samaria
+Daniel died [date not recorded] in Samaria
 Malad Valley Oneida County Idaho he left
 a family a wife and five children three boys
 and two girls
@@ -3832,7 +3832,7 @@ parents of Margaret Hughes
 
 Logan City January 14th 1904
 
-Tryphen wife of Gabriel R. Roberts gave
+Tryphen wife of David R. Roberts gave
 birth at eighteen minutes past one in the mor-
 ning (1.18 A.M.) to a very nice little girl
 she looks strong and healthy weight 10 lbs.
@@ -3842,13 +3842,13 @@ counselor her name Edy Gwen Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The Hughes-family record from page 73 concludes, followed by a separate birth-and-blessing record. One word in Daniel's death entry is illegible; historical names and dates are preserved without reconciliation.
+Second-pass visual review completed. The Hughes-family record from page 73 concludes, followed by a separate birth-and-blessing record. The blank space in Daniel's death entry is recorded as an omitted date rather than an illegible word; historical names and dates are preserved without reconciliation.
 
 ## PDF page 75
 
 Stable ID: `journal-rdr-page-075`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3856,7 +3856,7 @@ December 5th 1903 It was announce in the
 Priesthood meeting that David R. Roberts was chosen
 as one of home missionaries the Providence Ward was
 assign to him for his field of labours on the 6th he
-was set apart by the Presidency of the Stake [unclear: Richard]
+was set apart by the Presidency of the Stake Milard
 W. Maughan being mouth
 
 December 30th finish his labours in Providence
@@ -3872,7 +3872,7 @@ John and Agnes Neagle born near Belfast
 County Down Ireland September 12th 1858
 
 Sister Eliza Roberts thou art of the house
-of Ismail and although born in a foreign land.
+of Israel and although born in a foreign land.
 Thou art numbered among the daughters of zion
 and thy pathway is marked out and thy duty
 shall often be made known unto thee from
@@ -3895,13 +3895,13 @@ with thine inheritance, and among those who
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Two home-missionary notes precede Eliza Roberts's patriarchal blessing, which continues onto PDF page 76. One setting-apart name is uncertain.
+Second-pass visual review completed. Two home-missionary notes precede Eliza Roberts's patriarchal blessing, which continues onto PDF page 76. The setting-apart name was resolved as Milard W. Maughan.
 
 ## PDF page 76
 
 Stable ID: `journal-rdr-page-076`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3925,7 +3925,7 @@ first resurrection a saviour among thy kindred
 
 Logan City February 5th 1904
 
-A blessing given by Patriarch S. N. [unclear: Liljenquist]
+A blessing given by Patriarch S. N. Liljenquist
 upon the head of Cathrine Hughes daugh-
 ter of Gomer and Jane R. Hughes Born March
 31st 1859 at Samaria Oneida County Idaho.
@@ -3933,26 +3933,26 @@ ter of Gomer and Jane R. Hughes Born March
 Sister Cathrine, in the name of the Lord
 Jesus Christ and by virtue of the Holy
 Priesthood, I place my hands upon your head,
-and seal upon you your Fathers an Patriarchal
+and seal upon you your Fathers and Patriarchal
 blessing, with the blessing pertaining to the New
 and Everlasting Covenant, with health and
 strength of mind and body that you may live
 to the honor and glory of God receive all blessings
 in the holy Temples do a great work for the
 redemption of the dead and stand as a savior
-unto many of your kindred be a joy unto
+unto many of your kindred be a joy with
 your parents and to your kindred both
 living and dead.
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Eliza Roberts's blessing ends near the top. A blessing for Cathrine Hughes then begins and continues onto PDF page 77; the patriarch's surname is uncertain.
+Second-pass visual review completed. Eliza Roberts's blessing ends near the top. A blessing for Cathrine Hughes then begins and continues onto PDF page 77; the patriarch's surname was resolved as Liljenquist.
 
 ## PDF page 77
 
 Stable ID: `journal-rdr-page-077`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3981,7 +3981,7 @@ serve your life and keep you from evil and
 give you power to serve the Lord as long as you
 are determined to be on the Lord's side, then you
 shall gain the victory over the world with all
-its pride and [blotted] and drink deep from the
+its pride and folly and drink deep from the
 fountain of Eternal life, and you shall with a
 worthy companion share in all the blessings of
 the Holy Priesthood enjoy the blessings of heaven
@@ -3998,7 +3998,7 @@ and those that mourn, you shall be as an
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page continues Cathrine Hughes's blessing from PDF page 76 and continues onto PDF page 78. One word after "pride" is obscured by a blot.
+Second-pass visual review completed. This page continues Cathrine Hughes's blessing from PDF page 76 and continues onto PDF page 78. The blotted word after "pride" was resolved as "folly."
 
 ## PDF page 78
 
@@ -4043,7 +4043,7 @@ and were dismissed to return home everyone seem
 to share their feeling of love and respect both
 for the living and the departed many brin-
 ging their beautiful boquets of flowers untill
-the [illegible] was entirely covered with profusion
+the grave was entirely covered with profusion
 
 ### Editorial annotations
 
