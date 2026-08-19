@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 106 / 119
+Pages with transcription text: 110 / 119
 
-Untranscribed PDF pages: 107-119
+Untranscribed PDF pages: 111-119
 
 ## PDF page 1
 
@@ -5518,3 +5518,202 @@ good Latterday Saint full of faith in the priesthood
 ### Editorial annotations
 
 First-pass visual transcription. The political/legal and family narrative beginning on page 99 concludes at the top of this page. Later entries use additional hands and include two explicit R D Roberts signatures. The funeral entry continues on PDF page 107; several officiator names and compact phrases require review.
+
+## PDF page 107
+
+Stable ID: `journal-rdr-page-107`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+she died with a glorious hope of a noble reward from
+the throne above she was the mother of six children one had
+preceded her she left one son four daughters to mourn their
+great loss if you want any more of her genealogy turn
+to page 71 of this book
+
+R D Roberts
+
+[Unclear heading and date: March [illegible] 1914]
+
+Feb. 23 1914 Our [unclear: William] Anderson died at
+half past nine in the evening
+On the first Sunday he was not
+feeling [unclear: Monday] morning was
+examined for [illegible, approximately 3 words]
+[illegible, approximately 5 words] he had been
+[illegible, approximately 4 words] Our last night his funeral
+was held at two oclock in
+the Logan Tabernacle Nathaniel
+[unclear: Mitchell] presiding over
+a large audience to hear excellent [unclear: sermons]
+[illegible, approximately 3 words] first speaker
+[unclear: Thos. Maughan] [illegible, approximately 4 words]
+of the town they lived in [unclear: our]
+[illegible, approximately 4 words] with higher state
+[illegible, approximately 5 words] which times
+[unclear: Bishop] [unclear: Bountiful] [illegible, approximately 3 words]
+[unclear: Mary] [illegible, approximately 6 words]
+of the night and [unclear: W. W. McKay]
+[unclear: Choir] [unclear: recd] benediction [unclear: And Anderson]
+grave dedicated by [unclear: W. Worsley] [illegible]
+[illegible, approximately 8 words]
+[illegible, approximately 10 words]
+[illegible, approximately 8 words]
+[illegible, approximately 8 words]
+[illegible, approximately 7 words]
+[illegible, approximately 7 words]
+[illegible, approximately 7 words]
+[illegible, approximately 6 words]
+[illegible, approximately 8 words]
+
+[Marginal notes: [illegible, approximately 12 words]]
+
+### Editorial annotations
+
+First-pass visual transcription. The page-106 funeral record ends near the top of this page with an explicit R D Roberts signature. A separate memorial/funeral record follows in a different, very faint hand with extensive overwriting, interlining, marginal writing, and an ink blot; substantial uncertain text is accounted for line by line rather than guessed.
+
+## PDF page 108
+
+Stable ID: `journal-rdr-page-108`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+a patriarchal blessing given May
+21, 1913 by Isaac Smith, patriarch of
+the Church of Jesus Christ of Latter
+Day Saints, upon the head of Brother
+Hugh Roberts born May 22, 1876 at
+Logan, Utah, son of Robert David
+Roberts and Hannah Roberts
+
+It is in the name of the Lord
+Jesus Christ, and, in the authority
+of the Holy Priesthood that I lay
+my hands upon your head and
+bestow upon a patriarchal bless-
+ing even as the Lord may man-
+ifest unto me, his servant; by
+his holy spirit. Brother Roberts
+I say unto you, let your heart re-
+joice and be exceeding glad, for
+the Lord loveth you and hath
+many blessings in store for you
+inasmuch as you are faithful
+before Him for the Lord loveth
+those who love Him and delight-
+eth in blessing them and there
+are many blessings in store for
+you, even more than you can
+imagine. You have been blest
+in the past with faith in God
+and in the Holy Priesthood and
+have received many blessings at the
+hands of the servants of the Lord.
+All these blessings shall attend
+you in the name of the Lord
+Jesus Christ inasmuch as you
+are faithful in keeping the
+commandments of the Lord.
+
+### Editorial annotations
+
+First-pass visual transcription. This page begins Hugh Roberts's patriarchal blessing, which continues through PDF page 110.
+
+## PDF page 109
+
+Stable ID: `journal-rdr-page-109`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+And I say unto you, dear brother,
+that there are many blessings which
+it will be your privilege to enjoy
+and which will be given unto
+you inasmuch as you humble
+yourself before the Lord and re-
+member secret prayers before the
+Lord. Be prayerful, prayer con-
+tinually unto the Lord and He will
+direct you aright and you shall
+be led by His spirit and in
+due time the Lord will lead
+you to a companion who will
+indeed be a companion to you
+and a mother to your children.
+But I say unto you do not re-
+sist the pleadings of the spirit
+for fear of the censure of wicked
+tongues for they will wag and
+the evil one will exercise his
+evil influence and you shall
+not be free from the power of
+the evil one. But you will feel
+the effect of the talking and the
+back-biting of those who are
+wicked. But, I say unto
+you, brother, let not your
+heart be sad before the Lord for
+peace shall come unto you
+even the joy that cometh from
+right living. Shun evil, for evil
+to a man's woman is like
+a blight on a tree. Evil will
+destroy the brightest intellect; it
+will destroy the most manly
+man and the most womanly
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of Hugh Roberts's patriarchal blessing from PDF page 108. The unusual phrase concerning evil and "a man's woman" is preserved as written and requires review.
+
+## PDF page 110
+
+Stable ID: `journal-rdr-page-110`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+woman; therefore strive even by
+fasting and by faith that your
+life may be pure, that you may
+see clearly what is right and
+have power given you to do the
+same. I say unto you that by
+humility, and prayer and faith,
+you shall have this power, Thou
+art of the seed of Abraham through
+the gospel of Christ. Thou art of
+the lineage of Ephriam. Thou
+art entitled to all the blessings
+of the new and everlasting cov-
+enant. You shall come forth in
+the morning of the first resurrection
+This is your privilege and I seal
+this blessing with all other bless-
+ings that you may desire in
+righteousness and ask of the
+Lord for the Lord has said he
+will grant every righteous desire
+of your heart. It shall be your
+privilege to enjoy every blessing
+that shall be for your good and
+that you shall ask of the Father
+in faith. These blessings I
+seal upon you inasmuch as
+you are faithful, in the name
+of the Lord Jesus Christ. Amen.
+
+January 7, 1914
+
+Agnes Roberts.
+
+### Editorial annotations
+
+First-pass visual transcription. Hugh Roberts's patriarchal blessing ends on this page. The closing date and Agnes Roberts notation may identify a recorder or copyist, but do not alone establish content authorship or the broader scribal transition.
