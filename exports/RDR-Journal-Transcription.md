@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 98 / 119
+Pages with transcription text: 106 / 119
 
-Untranscribed PDF pages: 99-119
+Untranscribed PDF pages: 107-119
 
 ## PDF page 1
 
@@ -5112,3 +5112,409 @@ R D Roberts
 ### Editorial annotations
 
 First-pass visual transcription. Several officiator names and compact phrases require review. Four explicit R D Roberts signatures identify the entries they accompany; they are not generalized into a broader page-range attribution.
+
+## PDF page 99
+
+Stable ID: `journal-rdr-page-099`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+March 1, 1913.
+
+After several years of effort
+to change the legislation of the
+state relative to the roads
+system, D R Roberts in the
+year of 1908, had eight Good
+Roads bills ready for the
+eighth session of the legislature
+He was called upon to discuss
+the subject before the Commer-
+cial clubs of the state in the
+month of November. He was
+appointed by Governor John C
+Cutler as one of a committee
+to draft Good Roads legislation
+in the month of December
+1908. Those taking active
+part in the deliberations of
+this committee were State
+Engineer Caleb Tanner, Salt
+Lake County engineer Joe T.
+Swenson, Judge O. W. Powers,
+Judge Ellis, Orson H. Hewlett,
+James C. Jennings, and D.
+R. R. The latter being
+appointed chairman of the
+committee. There were three
+plans to be proposed; the D.
+R. Roberts plan, the Salt Lake
+Automobile Association plan,
+and the Logan Utah Page &
+Bowen of Good Roads Washing-
+ton D. C plan. The D R
+Roberts plan was called for
+first and explained and
+unanimously adopted by the
+
+### Editorial annotations
+
+First-pass visual transcription. This page begins a political/legal narrative in a clearly different hand from page 98. The handwriting change is confirmed, but the new scribe's identity remains unassigned.
+
+## PDF page 100
+
+Stable ID: `journal-rdr-page-100`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+committee and a sub-committee
+consisting of Roberts, Tanner and
+Hewlett were appointed to go over
+the matter more thoroughly and
+report to the committee which
+was done and the report
+accepted. Roberts and Hewlett
+were then appointed to report the
+matter to the legislature. Gov
+Cutler called a convention of
+the leading citizens of the state
+to convene in the Armory Hall
+Salt Lake City early in January
+1909 and together with the mem-
+bers of the legislature, hear the
+report of the committee on roads
+legislation and their recommend-
+ations. At this convention D R
+Roberts presented his plan which
+had been adopted by the committee
+remaining nearly an entire day.
+The plan was adopted by the con-
+vention with two slight amend-
+ments and Roberts and Hewlett
+were appointed to present it be-
+fore the legislature and soon
+after the bills were presented to
+the committee on highways and
+bridges of the House which comm-
+ittee directed Representative John
+M. Henrie to introduce them.
+The final result after much labor
+and discussion, was that one
+maintenance measure was kil-
+led in the House; one mainten-
+ance measure was killed by the
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
+
+## PDF page 101
+
+Stable ID: `journal-rdr-page-101`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Senate; one revenue measure
+was vetoed by the Governor
+Wm Spry, and the other five
+measures consisting of the
+administrative system were
+passed and became the road
+law of the state. During this
+Good Roads campaign D R Roberts
+was obtaining endorsement and
+making an effort to obtain the
+United States Marshalship for Utah
+After the close of the legislature,
+Senator Reed Smoot addressed a
+letter to him offering a position
+in Washington D C with an
+opportunity to study law,
+evidently in view of the
+marshalship.
+
+After some three weeks de-
+liberations the position was
+accepted in answer to a telegram
+from Senator Smoot urging the
+same. During the period of
+several months prior to this,
+being without business or in-
+come, the financial strain be-
+came rather severe and strain-
+ed, to the last dollar of credit;
+but, as other matters had
+been successfully accomplished
+so came the finishing of fin-
+ancial distress by a fairly
+successful sale of some land
+in the Curlew Valley, Boxelder
+County, to the raising of the
+funds to meet all obligations
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned. Superscript-like marks near the opening require review.
+
+## PDF page 102
+
+Stable ID: `journal-rdr-page-102`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+and some to spare. In Sept 1909
+after storing our furniture and
+renting their home, D. R. Roberts
+and his family left Logan for
+Washington D. C. on Oct. 1, 1909
+and reported to Charles M Smith,
+Senator Smoot's private secretary,
+for duty at the Capitol. He was
+assigned to the disbursing room
+of the office of the secretary of
+the Senate, which position was
+held until May 3, 1910 when he
+was assigned to the position of
+Document clerk in the main
+office. The duties in the dis-
+bursing room were partly clerical
+and partly messenger, handling
+confidential messages between the
+Senate and the executive offices
+and the outside financial
+business between the Senate and
+the United States Treasury and
+various trust companies. The
+duties as document clerk were,
+preparing titles to all documents
+and simple and concurrent re-
+solutions introduced in the Senate,
+recording such titles and send-
+ing them to the government
+printing office with orders to
+print and keeping the records
+thereto in the office of the
+Secretary of the Senate. Upon
+entering employment as above
+stated, he also entered the
+George Washington University
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
+
+## PDF page 103
+
+Stable ID: `journal-rdr-page-103`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Law School which he attended,
+for one year, but owing to the
+early lecture hours, commencing
+at 4:50 P.M, conflicting with
+work at the office (and he lost
+many of the lectures and re-
+citations) he was compelled to
+change his school. No great
+progress had been made; it
+was very discouraging and
+the outlook was far from be-
+ing bright but there was only
+one thing to do and that was
+to try again, work and win
+out, so he attended the National
+University Law School the
+following two years, being ad-
+mitted to second year work
+conditioned on review of first
+year work. The second school
+year was very successful.
+After carrying practically two
+years work in one, in June,
+1911 he obtained the degree of
+Bachelor of Laws - L.L.B.
+The third year was also very
+successful having carried
+two years work in one and,
+in the month of June, 1912, he
+was given the degree of Master
+of Patent Law - M.P.L. In
+the month of December, 1911, he
+was elected President of the post
+graduate class consisting of eighty-
+two in which position he was
+successful and gave general
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
+
+## PDF page 104
+
+Stable ID: `journal-rdr-page-104`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+satisfaction. The class prepared
+and issued an official class book
+in May 1912 entitled "Stare Decisis"
+On June 13, 14, 15, 1912 he took the
+bar examinations of the District
+of Columbia and was successful
+in passing and on October 24,
+was admitted to the bar of the
+Supreme court and to the bar
+of the Court of Appeals.
+
+During the first year in
+Washington, Prudence, Churchill
+and Margalyn attended the Buch-
+anon school and during the
+second and third years Brown
+in Washington; Prudence, Churchill,
+Margalyn and Florence, attended
+the Monroe school and were all
+successful in their school work.
+When the family first arrived
+in Washington City located in
+the Logan flat at Columbia 7/12
+15 St. S. E. which place they
+occupied until June 26, 1910.
+While domiciled at this place
+an important event transpired
+on January 19, 1910. It was the
+birth of William Reed Washington
+Roberts. On June 26, the family
+stored their household goods with
+the Union Storage Company and
+returned to their home in Utah,
+arriving in Logan on July 6 and
+remaining until October when they
+again left for Washington reaching
+there in October and located in
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned. The school name, street notation, and several child names require review.
+
+## PDF page 105
+
+Stable ID: `journal-rdr-page-105`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+the house number 735 Columbia
+Road, N. W. which place they
+occupied until July 23, 1912 and
+while domiciled here Laura
+Delano Roberts was born on
+June 13, 1912.
+
+In the month of September
+1911, the family went on a visit
+to the home of Evan N. Roberts,
+Bangor Penn. spending some time
+very pleasantly, after which they
+went to Delano Penn. and spent
+one joyous day in the home
+where Mother of Prudence Davis
+Roberts was born. The family
+visited every historical place
+in and around Washington
+while living there. Obtaining
+leave of absence from duty, on
+July 23, D R Roberts and family
+left Washington for their moun-
+tain home in Utah. They visit-
+ed relatives in Indianapolis
+several days and went to Bell-
+ville, Illinois to a further visit
+with relatives, but there received
+news of the dangerous illness
+of grandpa Roberts in Logan
+and they hurried home, John
+and Sally Erwin accompanying
+them and were pleased to find
+grandpa improving.
+
+In the month of October, D R
+Roberts made a hurried trip to
+Washington to be admitted to
+the bar, calling by Belleville Ill.
+
+### Editorial annotations
+
+First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned. Several place and family names require review.
+
+## PDF page 106
+
+Stable ID: `journal-rdr-page-106`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+he brought grandma Sally Erwin
+who had been visiting there
+since September, to her home in
+Logan.
+
+Agnes A Roberts
+
+D. R. Roberts left for Washington Dec. 29th 1912
+arrived there on Jan. 1st 1913 on March 18th 1913 he returned
+to Logan Utah his home and family.
+
+R D Roberts
+
+May 19th 1913
+
+June 19th 1912 Prudence wife of D R Roberts gave
+birth to a sweet little girl while living in Washington
+D C in a house Number 538 Columbia Road N W
+She was blessed July 18th 1912 in the Senate District
+Committee Room at the Capitol of the United States
+by Congressman Joseph Howell her name Laura
+Delano Roberts
+
+R D Roberts
+
+Logan City May 19th 1913
+
+Feb. 21st 1913 Maggie May Parry Roberts beloved wife
+of Hugh Roberts died at one o clock noon after a
+lingering sickness of the leakage of the heart or
+[deleted: something] for some time she was buried Feb. 23rd
+meeting held in the Third Ward meeting house Logan
+large congregation more than the house could hold the
+speakers were Richard Ellis David Charles Bitters
+solo by Mrs Alma Waterson next speaker Moses
+Thatcher solo by C. [unclear: Armstrong] hymn next speaker Joseph
+Cardon and coun; [illegible] and Bp William Evans
+opening prayer singing by the quire benediction by
+James Linford dedication of the grave by coun; John
+Quayle the spirit of the Lord seem to rest in rich
+abundance both on the congregation speakers and all
+talk she was a good wife good mother good neighbor
+good Latterday Saint full of faith in the priesthood
+
+[Marginal note: by Anton Anderson]
+
+### Editorial annotations
+
+First-pass visual transcription. The political/legal and family narrative beginning on page 99 concludes at the top of this page. Later entries use additional hands and include two explicit R D Roberts signatures. The funeral entry continues on PDF page 107; several officiator names and compact phrases require review.
