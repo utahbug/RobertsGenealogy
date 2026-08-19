@@ -726,12 +726,12 @@ October 4th 1875
 
 Mother and Ann Hopkin our sister was baptized to
 the United Order by Joseph White. mother was confirmed by
-Charles O Card. Ann, by Henry Ballard.
+Charles C Card. Ann, by Henry Ballard.
 
 On the eight 8th of October Ann Hopkin our sister
 started to Salt Lake City mother and myself started on the
 9th arrive in the City on the 10th I was in two meetings of conference
-on the 11th I received my citizen paper on the 13th he was baptized
+on the 11th I received my citizen paper on the 13th we was baptized
 by Samuel H Smith in the house of the Lord for several
 of our relatives that has gon behind the veil I do not
 know the name of the man that confirmed us
@@ -740,7 +740,7 @@ The names of those that I was baptized for are
 
 Robert Roberts Grandfather
 
-[unclear: Salemon] Roberts old uncle
+Salemon [illegible crossed out] Roberts old uncle
 
 William Roberts old uncle
 
@@ -789,7 +789,7 @@ Ann Parry second Grandmother
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The overwritten Salemon Roberts entry remains uncertain.
+Complete second-pass visual comparison performed. The confirmation initial and plural baptism wording were corrected. The manuscript visibly writes Salemon, while page 25 has Salmon Roberts; the forms are not silently reconciled. An intervening crossed-out word remains illegible, so the page remains needs-review.
 
 ## PDF page 16 - manuscript page 16
 
@@ -861,13 +861,13 @@ or put his name with those that was married and sealed was a mistake
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The element written before Richard appears to read "Ych" and remains uncertain; the writer's own John Thomas uncertainty is preserved verbatim.
+Complete second-pass visual comparison performed. The element written before Richard still appears to read "Ych" but remains materially uncertain; the writer's own John Thomas uncertainty is preserved verbatim. The page remains needs-review.
 
 ## PDF page 17 - manuscript page 17
 
 Stable ID: `journal-rdr-page-017`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -897,7 +897,7 @@ Jones, her name Cathreine Roberts
 
 December 29th 1876.
 
-Jane Hughes our sister wife of [Conhar?] Hughes
+Jane Hughes our sister wife of Conar Hughes
 gave birth to a little boy, at fifteen minute past nine
 9.15 a.m. in the morning, he was blessed, by Owen
 Thomas February 11th 1877, his name James Hughes
@@ -914,7 +914,7 @@ Idaho Territory, weigh, 8 1/2 lbs: she was blessed February
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Conhar Hughes remains an uncertain reading; contradictory time notation is preserved.
+Complete second-pass visual verification performed. Conar Hughes is resolved through the manuscript and repeated occurrences on pages 13, 14, and 20. The contradictory time notation is preserved as written.
 
 ## PDF page 18 - manuscript page 18
 

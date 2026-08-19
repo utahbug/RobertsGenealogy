@@ -373,7 +373,7 @@
       "manuscriptPageNumber": "17",
       "image": "assets/journals/rdr/journal-rdr-page-017.jpg",
       "transcriptionFile": "data/journals/rdr/pages/017.md",
-      "transcriptionStatus": "needs-review",
+      "transcriptionStatus": "reviewed",
       "hand": null,
       "contentAuthor": null,
       "contentAuthorId": null,
