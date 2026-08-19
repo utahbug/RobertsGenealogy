@@ -234,7 +234,7 @@ Transcription status: `needs-review`
 this we expect to emigrate to America Utah between this
 and first of March next I was born to the faith of the
 gospel by Robert Evans, Glan Conwy and was Baptise by
-him in the river [unclear: Sandy] near Gelli Cwmstradlyd on the 24th
+him in the river [unclear: Pandy] near Gelli Cwmstradlyd on the 24th
 day of May in the year 1846 and was confirm by Abel
 Evans and soon received the Holy Priesthood it was put on
 my shoulders the great responsible position of Preaching the
@@ -246,7 +246,7 @@ Christ and aid them in clothing food and money to build
 up the Kingdom of Jesus Christ our Lord.
 
 Catherine my wife was Baptise by David Peters
-near Festiniog [unclear: Rhydyd...] January 28th 1846.
+near Festiniog [unclear: Rhydfudr] dwelling August 22th 1846.
 
 Our children was baptised by me Thomas was Baptise
 September 30th 1849.
@@ -278,7 +278,7 @@ the name of her father Rowland Morris her mother's name
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 6. Historical spelling is retained. The river/baptism location and final Welsh property name require later visual review.
+Complete second-pass visual comparison performed. Historical spelling is retained. Catherine's baptism date and adjacent wording were corrected, but the river name, baptism location, and final Welsh property name remain materially uncertain; the page therefore remains needs-review.
 
 ## PDF page 7 - manuscript page 7
 
@@ -295,12 +295,12 @@ The names of my father and mother are Robert Roberts
 and Elizabeth Edwards they was married in Beddgelert the
 third day of February the year eighteen hundred and six (3rd 1806)
 my father was born in Cae Glas Clynog Carnarvonshire January [unclear]
-his parents had nine children their names are [unclear: Salmon],
+his parents had nine children their names are Salmon,
 Margaret, Robert (my father) Catherine, Jane, Ann, Elinor, Elizabeth
 and William Roberts my grandfather was born in [unclear] Clynog.
 
 Now I shall write a little. Robert D. Roberts.
-Logan City January [unclear] 1861.
+Logan City January 2nd 1861.
 
 I shall give little of our history from the old country
 untill the present time as correct as my memory will serve me.
@@ -331,7 +331,7 @@ Capt. Evans who was married to my uncle Daniel's widowed
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 7. The page visibly marks a transition into Robert D. Roberts's own narrative. One paternal birth date, one sibling name, one birthplace, and the Logan date require later visual review.
+Complete second-pass visual comparison performed. The page visibly marks a transition into Robert D. Roberts's own narrative. The Logan date was resolved visually as January 2nd 1861, and page 25 internally corroborates the sibling name Salmon Roberts. The paternal birth date and grandfather's birthplace remain materially uncertain; the page therefore remains needs-review.
 
 ## PDF page 8 - manuscript page 8
 
@@ -346,10 +346,10 @@ of 1857 the United States Army was coming to destroy
 the Saints my father went out with the first company
 to prepare for their coming and watch their movements
 and was out until the last and froze his feet because
-his boots was too small this summer he did not earn
+his boots was to small this summer he did not earn
 but very little.
 
-Thomas was working with James [unclear: Martindale] and
+Thomas was working with [unclear: James Lathad] and
 received 10 bus. of wheat for his work and some clothing.
 
 Daniel was with Lot Smith and received a
@@ -359,7 +359,7 @@ Ann & Elizabeth was working out and Jane
 was at home.
 
 In the year 1858 we moved South as far as
-[unclear: Spanish Valley Clover Creek] with the Saints father borrowed
+Spanish Valley Clover Creek with the Saints father borrowed
 of William Richard food for our journey which was
 payed him in the year 1859 we was in the South about
 two months and return back and we seen little wheat
@@ -370,21 +370,21 @@ at home to wait on them and I went to Camp
 Floyd where the Army was to seek employment
 but I did not prosper and I return back but my mother
 and brother was no better they commence to mend in a
-week and father took [illegible] place and Daniel and
-Ann and Jane [unclear] it and we went Elizabeth this
+week and father took Stephens place and Daniel and
+Ann and Jane but it did not touch Elizabeth this
 decease give an end to our father's life on this earth we
 buryed him in the graveyard at Farmington he
 died November 9th 1858 I was sick and after we came
 home from his funeral I went to bed and layed there
 for three months and was not able to get up without
 help the following spring in the month of April I
-started for the gold mines Denver Colorado Six [unclear]
+started for the gold mines Denver Colorado Six Feet
 with the expectation of earn some money to pay our debt
 but I did not go there I stayed in Fort Bridger to
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 8. Historical spelling and grammar are retained. A workplace name, the southern settlement location, and several words in the illness passage require later visual review.
+Complete second-pass visual comparison performed. Historical spelling and grammar are retained. The southern settlement wording, illness passage, and "Six Feet" were resolved; the employer/workplace name remains materially uncertain, so the page remains needs-review.
 
 ## PDF page 9 - manuscript page 9
 
