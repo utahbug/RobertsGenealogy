@@ -3087,11 +3087,11 @@ sealed to our parents by M. W. Merrill unknown M. B.
 [unclear: Hawerouts] & Wm H. [unclear: Bud] from [unclear: Monmouthshire] Wales
 
 Robert David Roberts       21st Sep. 1839 [unclear: Hampstead]
-Thomas Daniel Roberts      16th July 1840
+Thomas David Roberts       6th July 1840
 Daniel Roberts             8th Sep. 1842
-John Robert Hopkins        19th Dec. 1844
-Elizabeth Roberts Hughes   13th Mar. 1846 Festiniog
-Jane Roberts Hughes        11th June 1858
+Ann Roberts Hopkins        19th Dec. 1844
+Elizabeth Roberts Hughes   13th Nov. 1846 Festiniog
+Jane Roberts Hughes        11th Jan. 1858
 
 Parents
 
@@ -3100,8 +3100,8 @@ Catherine Thomas Roberts   25th June 1809 [unclear: Harlech]
 
 Proxy
 
-Ann Hughes [unclear: Cowley]  8th Feb. 1891 [unclear: Jamaica Lake]
-David Robert Roberts         30th May 1891 Logan Utah
+Ann Hughes Cowley          8th Feb. 1891 Samaria Idaho
+David Robert Roberts       30th Mar. 1891 Logan Utah
 
 Samuel Roskelley Recorder
 
@@ -3117,9 +3117,9 @@ Ward meeting by Bishop Robert Davidson which
 went over in his favor on the sixth his recom-
 mend to the 12th quorum of Seventies met in
 the Third Ward meeting house at 2.30 ordained an
-Elder under the hands of President William [unclear: Morley]
-assisted by his councilors Lars [unclear: Jacobson] and
-J. [unclear: Hagans B. Holman]. William [unclear: Morley] was ordained
+Elder under the hands of President William Morley
+assisted by his councilors Lars Jacobson and
+Ingram B. Holman. William Morley was ordained
 
 ### Editorial annotations
 
@@ -3138,7 +3138,7 @@ was ordained an High Priest by John Taylor John
 Taylor was ordained an Apostle under the hands of
 Joseph Smith Brigham Young Heber C. Kimball &c
 he went to the Temple and received his endowments
-the morning of 9th The Ward gave a sociable for his
+the morning of 8th The Ward gave a sociable for his
 benefit which resulted in gathering for him $50.15
 April the 11th he bid us farewell and boarded the
 train for Salt Lake City 12th he received his Blessing
@@ -3147,11 +3147,11 @@ States on the evening of the 13th in company with 19
 others he boarded the train at Salt Lake City for
 Chattanooga arrived at Chattanooga on the morning
 of the 19th on the 19th he was appointed to labor in
-West Kentucky conference arrived on the 20th at his
+East Kentucky conference arrived on the 20th at his
 field of labor and received his appointment to
-labor with Elder Frank Bradley President Bradley
+labor with Elder Frank Budge President Budge
 son from Bear Lake Stake in London Laurel
-County Kentucky Bro. C. [unclear: Rich] President of the
+County Kentucky Ben E. Rich President of the
 Southern Mission R. L. [unclear: Meardonhall] President of
 East Kentucky branch
 
@@ -3161,14 +3161,15 @@ Pronounced upon the head of Elder Hugh Roberts
 in the Salt Lake Temple Annex, April 12, 1899, by
 Apostle Matthias Cowley:
 
-Brother Hugh Roberts, in ordaining you a
+Brother Hugh Roberts, we ordain you a
 Seventy in the Church of Jesus Christ of Latter-
-day Saints, and in setting you apart as a missionary
-to labor in the Mississippi Priesthood, and
-to say unto you, seek to understand the duties
+day Saints, and we seal upon you the authority,
+prerogatives, powers and gifts which belong to this
+high calling in the Melchisedec Priesthood, and
+we say unto you, seek to understand the duties
 of this calling and the Spirit and power of God
 shall attend you in the exercise of this ministry.
-Be also set you apart to perform a mission
+We also set you apart to perform a mission
 
 ### Editorial annotations
 
@@ -3184,7 +3185,7 @@ Transcription status: `needs-review`
 
 in the Southern States to which you have been called
 by the inspiration of the Lord through the proper
-authority. Be blest you that you may have power to
+authority. We bless you that you may have power to
 go in peace, without harm or accident coming unto
 you, and, when you accomplish your mission in honor,
 that you may return in safety to your home; and
@@ -3229,7 +3230,7 @@ First-pass visual transcription completed. The missionary blessing begun on PDF 
 
 Stable ID: `journal-rdr-page-063`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3265,20 +3266,20 @@ gifts of the priesthood. Therefore I say unto
 thee seek to know the will of the Lord while
 thou art in thy youth that his spirit may
 always be with thee, and no evil power shall
-prevail against thee; [unclear: in due season] thou shall have
+prevail against thee; in due season thou shall have
 a companion who will be a help mate unto thee
 and to suit thy condition; thou have houses
 and lands and a numerous posterity, thy
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page continues the patriarchal blessing for David Hughes from PDF page 62 and continues onto PDF page 64. The phrase before "thou shall have a companion" remains uncertain.
+Second-pass visual review completed. This page continues the patriarchal blessing for David Hughes from PDF page 62 and continues onto PDF page 64. The formerly uncertain phrase was resolved as "in due season."
 
 ## PDF page 64
 
 Stable ID: `journal-rdr-page-064`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3323,7 +3324,7 @@ Melchisedec Priesthood; and we say unto you,
 
 ### Editorial annotations
 
-First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. The patriarchal blessing begun on PDF page 62 ends on this page. A missionary blessing for David Hughes then begins and continues onto PDF page 65. The manuscript visibly repeats "have" in "Thou shall have have the gift."
+Second-pass visual review completed. The patriarchal blessing begun on PDF page 62 ends on this page. A missionary blessing for David Hughes then begins and continues onto PDF page 65. The inverted source scan was read upright using a temporary derivative; the manuscript visibly repeats "have" in "Thou shall have have the gift."
 
 ## PDF page 65
 
