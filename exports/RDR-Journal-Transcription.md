@@ -2463,13 +2463,13 @@ the at all times, and we say you shall be blest of the Lord
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The blessing continues onto PDF page 48. The page contains an explicit signature, "Robert D Roberts," for the preceding mission entry only.
+Complete second-pass visual comparison performed. Substantive difficult wording remains, so the page remains needs review. Status: needs review.
 
 ## PDF page 48
 
 Stable ID: `journal-rdr-page-048`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -2503,18 +2503,18 @@ December 15th 1893
 
 David Robert Roberts was ordained to the Office
 of a Seventy by George Reynolds assisted by B. H.
-Roberts and J. M. Smith in Salt Lake City as he was
+Roberts and J. F. Smith in Salt Lake City as he was
 going on his mission
 
 December 18th 1893
 
 Hugh Roberts was ordained to the Office of a
 Priest by Richard Yeates assisted by Bishop Robert Dav-
-idson and Loric C. Larsen.
+idson and Lorenzo C. Larsen.
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The page completes the blessing begun on PDF page 47 and records two ordinations.
+Complete second-pass visual comparison performed. The blessing conclusion and both ordination entries were checked line by line; J. F. Smith and Lorenzo C. Larsen were corrected. No substantive transcription uncertainty remains. Status: reviewed.
 
 ## PDF page 49
 
@@ -2571,7 +2571,7 @@ New York on the 17th arrived in Liverpool 26th. [unclear: David]
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Overwritten officiator text and apparent date/place inconsistencies are preserved with uncertainty notation. The final mission entry continues onto PDF page 50.
+Complete second-pass visual comparison performed. Substantive difficult wording remains, so the page remains needs review. Status: needs review.
 
 ## PDF page 50
 
@@ -2622,7 +2622,7 @@ of the dreadful disease diphtheria he had come down from Kamas Montana to attend
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page contains faint and difficult mission-remembrance wording and apparent date inconsistencies; the death entry continues onto PDF page 51.
+Complete second-pass visual comparison performed. Substantive difficult wording remains, so the page remains needs review. Status: needs review.
 
 ## PDF page 51
 
@@ -2632,14 +2632,14 @@ Transcription status: `needs-review`
 
 ### English transcription
 
-of her which was a pupil in the preparatory department
+school and was a pupil in the preparatory department
 of the Brigham Young College He was of a noble
 spirit kind and affectionate to all and loved by his
 parents and all his acquaintances was born May 26th 1879
-buried January 13th in Logan Cemetery a short sensible
-sermon held at the grave that Elder [unclear: John] who had prayer
-over by Benjamin M. Lewis Apostle Moses Thatcher
-dedicated the ground was dedicated by Newell W. Kimball
+buried January 13th in Logan Cemetery a short service
+was held at the grave the Boston Glee club sung pra-
+yer by Benjamin Maroni Lewis Apostle Moses Thatcher
+preached the ground was dedicated by Newell M. Kimball
 
 Logan City July 21st 1895
 
@@ -2672,7 +2672,7 @@ to Robert Fraser and lives in Salt Lake County Utah
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page continues the William John Hopkins death entry from PDF page 50. One name in the burial passage and several Irish names and places remain uncertain.
+Complete second-pass visual comparison performed. The school continuation and funeral service were substantially corrected, including the Boston Glee club, Benjamin Maroni Lewis, and Moses Thatcher preaching. Several Irish names and places in the marriage/family account remain materially uncertain, so the page remains needs review. Status: needs review.
 
 ## PDF page 52
 
@@ -2687,8 +2687,8 @@ October 8th 1895
 At six minutes past one afternoon (1-6 P.M.)
 my wife Eliza gave birth to a little girl she is
 only eight month a baby very small but looks
-healthy did not weigh but I was in mind at
-the time our having a name for David Hughes
+healthy did not weigh her I was in Malad at
+the time working on a house for David Hughes
 She was blessed December 8th by Bishop Robert
 Davidson her name Agnes Alister Roberts she
 is growing very nice she weigh six lbs when a
@@ -2696,9 +2696,9 @@ month old born at Logan city
 
 July 19th 1895
 
-David Hughes son to [unclear: new sister Jane]
-and Agnes Hughes from Llanaris Cardigan
-County Wales was married in the Logan
+David Hughes son to our sister Jane
+and Gomer Hughes from Samaria Oneida
+County Idaho was married in the Logan
 Temple by M. W. Merrill to Miss Eliza Ann
 Thomas of the same place first born of Charles
 Thomas and Eliza Mathews his wife
@@ -2723,13 +2723,13 @@ the Northern States mission he was clerk of the
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The opening birth entry contains awkward or overwritten wording, and one relationship/place phrase in the David Hughes entry remains uncertain. The mission entry continues onto PDF page 53.
+Complete second-pass visual comparison performed. The opening birth wording was corrected to record the writer working in Malad, and the David Hughes relationship/place passage was clarified as Jane and Gomer Hughes of Samaria, Oneida County, Idaho. Difficult wording remains in the mission account, so the page remains needs review. The mission entry continues onto PDF page 53. Status: needs review.
 
 ## PDF page 53
 
 Stable ID: `journal-rdr-page-053`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -2738,7 +2738,7 @@ Indiana Conference and traveled in several fields
 July 8th 1896
 
 Received from David Hughes of Indiana by
-Jonas Hughes for the glad news that on
+Gomer Hughes for the glad news that on
 July 3rd 1896 his wife Eliza A. Hughes gave
 birth to a nice little daughter her name
 Eliza Hughes was blessed by Thomas Thorpe August 6th
@@ -2746,8 +2746,8 @@ Eliza Hughes was blessed by Thomas Thorpe August 6th
 
 December 15th 1896 William Thomas Hopkins was
 Baptized in the Logan Temple for
-Rev Hopkins his father
-Evan Hopkins brother
+Rees Hopkins his father
+John Hopkins brother
 William Hopkins Grandfather
 William Thomas Grandfather
 He received endowments for the above names on the
@@ -2755,18 +2755,18 @@ following order
 16th John Hopkins confirmed by
 17 William Hopkins
 18 William Thomas
-23 Rev Hopkins             James J. Lorman
+23 Rees Hopkins             James J. Lorman
 24 William John Hopkins    Sanford Porter
 
 December 23rd 1896 Mrs Hopkins and Sarah Thomas
 Hopkins were sealed and married in the Logan
-Temple by M. W. Merrill William T. Hopkins &
+Temple by M. C. Merrill William T. Hopkins &
 Ann Roberts Hopkins their proxy they are
 William T Hopkins parents
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The page includes a small ink blot and compact proxy-ordinance notation; names and order are preserved as visually read.
+Complete second-pass visual comparison performed. Gomer Hughes, Rees Hopkins, John Hopkins, and M. C. Merrill were corrected. The ink blot and compact ordinance/proxy layout were checked in manuscript order, and no substantive transcription uncertainty remains. Status: reviewed.
 
 ## PDF page 54
 
@@ -2811,13 +2811,13 @@ gave birth to a baby boy same to be strong
 weight healthy about 11 in the morning
 weight 6 1/2 lbs blessed September 30th by his
 grandfather Robert D. Roberts assisted by counse-
-lor William Wilkinson James Larson Joseph [unclear: Welling]
+lor William Wilkinson James Larson Joseph Cowley
 high Priest his name Robert Meredith Roberts
 born at Logan city
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The April 1897 child's name appears overwritten or internally inconsistent, and two officiator names in the July 1900 entry remain uncertain.
+Complete second-pass visual comparison performed. Joseph Cowley was clarified in the July 1900 entry. The April 1897 blessing/name passage remains materially overwritten and internally difficult, so the page remains needs review. Status: needs review.
 
 ## PDF page 55
 
@@ -2854,20 +2854,20 @@ seal thee up against the power of Darkness and
 the Destroyer that Satan and pestilence may have
 no power over thee for thou art of the seed of Israel
 of the Blood of Joseph of the Lineage of Ephraim
-a lawful heir in Our Lady I seal these blessings
+a lawful heir an elect Lady I seal these blessings
 and I seal thee up to Eternal life to a holy Resur-
 rection in name of Jesus Christ Amen
 
 William J Smith
 
-Tryphena Bronwen Roberts daughter of David
+Tryphena Prudence Roberts daughter of David
 R. and Tryphena Davies Roberts was baptized in the
-Logan Temple December 15th 1921 by William J Raymond
-confirmed by Joseph C. Bentley
+Logan Temple December 13th 1904 by William D Seamons
+confirmed by Joseph E Cowley
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The patriarchal blessing is preserved with its original grammar and unusual wording; the phrase transcribed as "a lawful heir in Our Lady" is especially uncertain in context.
+First-pass visual transcription completed. The patriarchal blessing is preserved with its original grammar and unusual wording; the phrase transcribed as "a lawful heir an elect Lady" is especially uncertain in context.
 
 ## PDF page 56
 
