@@ -944,7 +944,7 @@ weather rather unpleasant we arrive in Samaria few minuts
 after ten in looking at her husband and her little children
 the house and the surrounding where she has been moveing
 with joy and aiming to make her little family comfortable
-and happy how her bosom is could her loving silent her lips
+and happy [interlined: but now] her bosom is could her loving silent her lips
 eyes and ears are closed in death her appearance has change
 the spirit has had to flee, Now there is nothing to look at
 but could earth or that mortal coile the Tabernacle where
@@ -962,13 +962,13 @@ well This was wrote June 3rd 1877
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The storm stopping place remains uncertain; historical wording such as "could" and "coile" is preserved.
+Complete second-pass visual review performed. The interlined words "but now" were restored. The storm stopping place remains materially uncertain, so this page remains needs-review; historical wording such as "could" and "coile" is preserved.
 
 ## PDF page 19 - manuscript page 19
 
 Stable ID: `journal-rdr-page-019`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1010,24 +1010,24 @@ February 21st 1878
 
 Sarah Ann wife of Daniel Roberts our brother gave
 birth to a little girl at half past six in the evening 6.30
-p.m., June 6th she was blessed by Thomas McNeil her name Margaret
+a.m., June 6th she was blessed by Thomas McNeil her name Margaret
 Roberts she seems to be a nice fat and will be a handsome one yet
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Historical grammar and the manuscript's nonchronological entry order are preserved.
+Complete second-pass visual review performed. The manuscript's contradictory "in the evening 6.30 a.m." notation, historical grammar, and nonchronological entry order are preserved.
 
 ## PDF page 20 - manuscript page 20
 
 Stable ID: `journal-rdr-page-020`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
 December 29th 1878
 
-Jane our sister wife of [Conar?] Hughes they live in
+Jane our sister wife of Conar Hughes they live in
 Samaria gave birth to a little boy at five minut to eight in
 the morning he looks well and strong his name Conar Hughes
 
@@ -1068,7 +1068,7 @@ blessed by Thomas McNeil her name Ida Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Conar Hughes remains an uncertain reading; contradictory time notation is preserved.
+Complete second-pass visual review performed. Conar Hughes is clear in the manuscript and is corroborated by pages 13, 14, and 17; contradictory time notation is preserved.
 
 ## PDF page 21
 
