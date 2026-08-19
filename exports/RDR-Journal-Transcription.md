@@ -2880,22 +2880,22 @@ Transcription status: `needs-review`
 Home mission
 
 The conference of November 1 & 2 1896 on the 2nd
-Horton Collet was called to labor at Bear Lake Valley
+Thirteen Elder was called to labor at Bear Lake Valley
 Utah I was one of them we were notify to meet the
 Presidency of the Stake in the council Room in the
-Tabernacle office on the 7th after the Priesthood meeting in
+Tithing office on the 7th after the Priesthood meeting in
 the Tabernacle President Orson Smith and his two
 councilors Sandon Molen and Isaac Smith were there to
 set us apart and give us instruction for the mission
 Samuel Roskelley was there to assist them Samuel
-Roskelley pronounce the blessing on my head then
-Orson was called to proceed with the mission we were
+Roskelley pronounce the blessing on my head John
+Benson was called to preside over the mission we were
 to start on the 20th I received a notification that
 Nephi Miller of Providence would be my companion
-we were to commence at Swan we traveled together there
+we were to commence at Hyrum we traveled together there
 on the 22nd Bro William Johnson was guide there as to
 the people there to commence our work we visited
-Aron Paradise College Ward Right hand Logan Second
+Avon Paradise College Ward River Heights Logan Second
 Ward and fifth district of the third ward and work
 at home missionary I M. Roskelley are neither
 
@@ -2934,19 +2934,19 @@ way to Salt Lake City started from Wales April 9th 1856
 arrived in Salt Lake City October 2nd 1856 after a very hard
 journey on sea and land crossed the plains with handcarts
 when he was about (19) nineteen years of age he was work-
-ing in the present State quarry Parish Mormon he was
+ing in the Penrhyn Slate quarry Parish Llanllechid he was
 preparing a blast when it went off and hurt him very
 bad his right hand was mangled very much one eye
 was entirely out the other was injured he was not able
 to see but very little I came with him as a guide to
 helped him and the family there and three children he paid
-my passage to Salt Lake City the reasons that we joined
+my passage to Salt Lake City The rations that we received
 and not half enough to support our bodies several died
 because the hardships of the journey he died November 15th 1856
 was buried in Salt Lake City Cemetery This family came to
 Farmington 18 miles north of Salt Lake City and lived with
 father and family all winter In the year 1859 she
-married John C. Jones in 1861 they joined the Mormon
+married John C. Jones in 1861 they joined the Morrisites
 They had a camp on Weber River about a mile below the
 mouth of the Canyon in the year 1862 they broke up
 camp and was scattered around the county John C Jones
@@ -2965,8 +2965,8 @@ William Daniel Roberts was born February 15th 1852
 Eliza M. Roberts was born March 12th 1854 died 6th of the
 same month
 
-Robert Edward Roberts was born January 20th 1896
-Received a letter from Mrs Jones McBride from Round
+Robert Edward Roberts was born January 21st 1856
+Received a letter from Mrs Jennie McBride from Round
 Valley Inyo County California that her grandmother was dead
 died June 9th 1899 after an illness of 22 month Mary Roberts
 
@@ -2987,8 +2987,8 @@ Logan City December 5th 1899
 Some time ago I received a letter
 from my sister Ann Roberts Hopkins from
 Lima Montana in regard to the birth and
-death of her grandmother her son David is
-unknown
+death of her grandchildren her son David's
+children
 
 Born at Lima Montana on September
 1st at 6 P.M. 1895 a son to David Roberts Hopkins
@@ -3001,7 +3001,7 @@ December 19th 1896 a son was born
 to the above parents and blessed by his grand-
 father William Thomas Hopkins and George T.
 Young given the name of William Baker Hopkins
-The latter promises the blessing he was born
+The letter promises the blessing he was born
 at South Butte Montana baptized in Logan Temple
 Dec 19th 1904 by Wm H. Seamons confirmed by Joseph C. Bentley
 
@@ -3015,11 +3015,11 @@ Roberts born in Logan Cache County U.T.
 December 26th 1884
 
 David William Roberts Notwithstanding
-thy youth thou art encumbered with the seeds
-of life and an heir to all the promises of the
+thy youth thou art numbered with the sons
+of Zion and an heir to all the promises of the
 Lord privileges of the new and everlasting coven-
 ants and by the authority of the priesthood
-I have I bless thee with a fathers blessing
+I bear I bless thee with a fathers blessing
 which is also patriarchal and I ask God
 the Eternal Father to give thine Angel
 special charge concerning thee, to watch
@@ -3032,7 +3032,7 @@ First-pass visual transcription completed. The opening family note and several o
 
 Stable ID: `journal-rdr-page-059`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3052,8 +3052,8 @@ thou shall prophesy at an early day, and
 thou shall prevail among thy brethren, and
 many shall seek thee for counsel and rejoic-
 ing thy teachings Therefore be prudent and all
-shall be well with thee, Thou shall have thy
-in thy labors spiritual and temporal, shall
+shall be well with thee, Thou shall have joy
+in thy labors spiritual and temporal, It shall
 be thy lot to feed the hungry and to provide
 for the fatherless and as a father in Israel
 thou shall be known far and near among
@@ -3072,7 +3072,7 @@ Recorded in Book K
 
 ### Editorial annotations
 
-First-pass visual transcription completed. One sentence near "Thou shall have thy" appears incomplete or omitted in the manuscript and is preserved without conjectural repair. The blessing ends on this page.
+Second-pass visual review completed. The first-pass incomplete reading was resolved as "Thou shall have joy / in thy labors spiritual and temporal, It shall." The blessing ends on this page.
 
 ## PDF page 60
 
