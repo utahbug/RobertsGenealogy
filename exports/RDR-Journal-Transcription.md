@@ -567,16 +567,16 @@ Transcription status: `needs-review`
 
 Logan City July 12th 1870.
 
-June [1st?] 1870 start to Smithfield after Hannah Roberts
+June 1st 1870 start to Smithfield after Hannah Roberts
 and came back to Logan the same day next day start to Salt
 Lake City arrive there on the 4th on the 6th go to the house of
 the Lord and was married and sealed by Joseph F. Smith one of
 the twelve Apostle son of Hyrum Smith the Patriarch
 
 Hugh & Mary Roberts are the parents of Hannah
-she was born in Wales Pembrokeshire [unclear: Eglwes bach] March 27th
+she was born in Wales Pembrokeshire Eglwys bach March 27th
 1847, at present they live in Smithfield Cache County
-Utah Territory They emigrated from [unclear: Eglwesback] Pembrokeshire
+Utah Territory They emigrated from Eglwys bach Pembrokeshire
 North Wales to Salt Lake City in the year 1864. and lived
 there for a short time.
 
@@ -590,13 +590,13 @@ January 4th 1871.
 Ann our sister wife of William Hopkin at nine
 thirtyfive (9.35) in the morning gave birth to a handsome
 little son weight ten pounds 10 lbs; his name David
-Roberts Hopkins he was blessed by [unclear: Benjamin Monson
-Lewis] May 4th 1871.
+Roberts Hopkins he was blessed by [unclear: Benjamin M. Lewis]
+May 4th 1871.
 
 February 8th 1871.
 
 Elizabeth our sister wife of Talisien Hughes
-gave birth [unclear inserted place] to a pair of twins two little girls their names
+gave birth [interlined, unclear: in Farmington Utah Cache County] to a pair of twins two little girls their names
 are Ann & Margaret. Ann was born at nine forty (9.40)
 in the evening Margaret at ten thirty (10.30) Ann weight
 five pounds three quarter, 5 3/4 lbs; Margaret five pounds one quarter,
@@ -607,13 +607,13 @@ February 9th 1871.
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The June travel date, Pembrokeshire place, inserted Utah place, and blessing name require later visual review.
+Complete second-pass visual comparison performed. The June travel date and Eglwys bach were resolved, with the latter corroborated by page 66. Page 51 supports Benjamin M. Lewis, but the page 12 blessing handwriting and interlined Utah location remain materially uncertain; the page therefore remains needs-review.
 
 ## PDF page 13 - manuscript page 13
 
 Stable ID: `journal-rdr-page-013`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -630,8 +630,8 @@ February 26th 1872
 Alexander Lewis came from Samaria Oneida County
 Idaho Territory and brought us the bad news of the death
 of Margaret one of Elizabeth our sister and Talisien Hughes's
-twins. On the 28th I received a latter bringing the same [unclear inserted
-correction: misfortune] the little one had a bad could but look like if she was
+twins. On the 28th I received a latter bringing the same [interlined: misfortune]
+the little one had a bad could but look like if she was
 geting better she had a fit and departed this life February 23rd
 1872. the other twin is sick of the same complaint but we
 do not know how she is at present she was born February 8th
@@ -639,7 +639,7 @@ do not know how she is at present she was born February 8th
 
 March 6th 1872.
 
-Jane our sister with [Conar?] Hughes start to Salt
+Jane our sister with Conar Hughes start to Salt
 Lake City to be married they arrived in the City on the ninth
 9th on the eleventh, 11th, they went to the endowment house
 where they was washed and anointed and married by Daniel
@@ -651,19 +651,19 @@ they purpose to make their home.
 March 24th 1873.
 
 At onefifty 1.50 in the afternoon, Jane our sister
-wife of [Conar?] Hughes, gave birth to a little boy, weigh nine
-pounds, 9 lbs; his name David Hughes he was blessed by [unclear:
-Owen Thomas J Lewis] May 4th 1873.
+wife of Conar Hughes, gave birth to a little boy, weigh nine
+pounds, 9 lbs; his name David Hughes he was blessed by Owen
+Thomas I belive. May 4th 1873.
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. The corrected death-notice word, Conar Hughes, and blessing name remain uncertain.
+Complete second-pass visual verification performed. The interlined death-notice word, Conar Hughes, and the closing blessing phrase were resolved from the manuscript; the repeated Conar Hughes form is also supported on pages 14 and 20.
 
 ## PDF page 14 - manuscript page 14
 
 Stable ID: `journal-rdr-page-014`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -672,13 +672,13 @@ March 6th 1874
 Elizabeth our sister wife of Talisien Hughes gave birth
 to a pair of twins David Talisien Hughes was born in the morning
 at eight fifty 8.50 Thomas Hughes was born nine five 9.5
-in the morning they was blessed by [unclear: David David] and their
+in the morning they was blessed by David Jones and their
 father March 6th mother brought these lines from Samaria
 March 24th 1874.
 
 January 12th 1875
 
-Jane our sister with her husband [Conar?] Hughes and
+Jane our sister with her husband Conar Hughes and
 their little boy David came to our mother's house in Logan
 on the twentysecond 22nd, at tenfortyseven 10.47, in the morning
 I believe that the time is slow less or fifteen minit, she gave
@@ -712,7 +712,7 @@ by Joseph White, confirmed by Robert Davieson.
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Conar Hughes and the twins' blessing name remain uncertain.
+Complete second-pass visual verification performed. Conar Hughes and the twins' blessing by David Jones and their father were resolved from the manuscript; historical wording and chronology are retained.
 
 ## PDF page 15 - manuscript page 15
 
