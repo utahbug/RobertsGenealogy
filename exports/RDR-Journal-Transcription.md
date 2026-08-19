@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 66 / 119
+Pages with transcription text: 71 / 119
 
-Untranscribed PDF pages: 67-119
+Untranscribed PDF pages: 72-119
 
 ## PDF page 1
 
@@ -3424,3 +3424,264 @@ the 40th Corum of seventies
 ### Editorial annotations
 
 First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. The missionary blessing begun on PDF page 64 ends here with George E. Hill identified as reporter. Separate family and church notes follow. Several witness/proxy names are uncertain. The page refers back to pages 56-57 but does not conclusively resolve an earlier marked uncertainty. No defensible writer or hand transition is assigned.
+
+## PDF page 67
+
+Stable ID: `journal-rdr-page-067`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City February 15th 1901
+
+In perusing over my record book I find that I
+omited recording the time that I went to Florence to
+meet the immigration.
+
+In the year 1862 there was a call made on Cache
+Valley Stake for thirty wagons with four yoke of Oxen
+to each wagon seven wagons were required in Logan the
+teamsters names are Morgan Evans, James [unclear: D. Mingo],
+Sidney Dibb, Barnard [unclear: Hanford], William Ricks, Frederick
+[unclear: Grottum] and Robert D. Roberts about the first of April
+we gathered together and camped about a mile South
+of Millville at the foot of the hill that rises to go on
+the bench as you go on the road South to Hyrum or
+Paradise we staid here some over a week to recruit the
+teams as there was good feed and to find that we had
+every thing necessary for the journey and wait for
+the mud to dry as it was quite muddy, the snow
+was not all off where it had drifted in the road
+we were loaded with tithing wheat at Millville for
+to take to Brigham Young's Mill which was South
+East of Salt Lake City little above the Penitentiary
+on the creek
+
+When we got down as far as Ogden bottom below
+north Ogden we learn that Ogden Bridge was washed
+away we had to stay here until there was a temporary
+put in the River to ferry us across the water was
+very high this year we stayed here some over a
+week it took us a month to get to Salt Lake
+City by this time we were recruited with thirty
+teams from Weber County and Henry S. Miller from
+Farmington Davis County for our Captain we now
+numbered sixty wagons we took our march through
+Parly's Canyon through Parly's Park and down a
+Canyon to Weber River we swum our Cattle across
+and ferried our Wagons it was about ten miles above
+the mouth of Echo Canyon we followed the River
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page begins a dated recollection of the 1862 journey to Florence to meet an immigration company and continues onto PDF page 68. Several teamster surnames remain uncertain. This is a new record rather than a continuation of the family-history/church-office notes on PDF page 66.
+
+## PDF page 68
+
+Stable ID: `journal-rdr-page-068`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+down to the mouth of Echo Canyon we had to
+wade through snow water most every day it was
+quite difficult to cross some of the streams Bear River
+we ferryed and swum the cattle across on arriving at
+Hamsfork we found that we had to build a bridge
+to cross it the River was away above its banks here
+we found a company of immigrants waiting for
+some way to get across the next day I believe some
+forty some there loaded with timber to build the
+bridge we was here about two weeks working on the
+bridge we had to fled willow for some distance
+to make a road to the bridge the ground was
+very soft and under water the water was very
+cold and the weather quite cold at times we
+arrived at Green River ferryed our wagons and swum
+our cattle here one Ox was drowned belonging to
+Seth M. Blair we was one month comeing from Salt
+Lake City to this place one hundred & sixty miles
+from this on we had no hinderance we had about
+2385 pounds of flower for our supply to come back
+we left a part of it in an over-land Station on sweet
+water the other part at a Station by the upper
+bridge below the upper crossing of the Plat River
+arrived at Florence about the first of August there
+was a company of four or five men and one woman
+with a wagon and a span of horses traveling nearly
+all the way down they were from California going
+back East
+
+On the 8th of August we start on our return
+homeward loaded with six hundred and sixty five
+immigrants with there supply of provision for the
+journey some of us was loaded with flower I was
+loaded with flower others with Pork and groceries we
+were very heavily loaded we had to wade thro-
+ugh every creek and River to get every Ox to pull
+its share of the load our cloth would be wet and
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page continues the 1862 Florence immigration journey from PDF page 67 and continues onto PDF page 69. Historical spellings and the manuscript's split "thro- / ugh" are preserved.
+
+## PDF page 69
+
+Stable ID: `journal-rdr-page-069`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+get dry on us some times as soon as our cloth would
+get dry we would have to wade through another creek
+with the work we had to do on our way down in working
+through snow water some of us had to suffer in bed with
+Rheumatism all winter I was one of them we arrived in
+Salt Lake City October 19th the company had considerable
+sickness of which twenty eight died I took two families
+home with me Davis [unclear: Gled Jones] wife son and daughter
+staid in one of our rooms until the following spring
+when brother Jones died [unclear: Dinieth Jones] and wife staid
+with us two weeks we was the fifth train that left
+Florence
+
+Logan City July 30th 1901
+
+Hugh Roberts arrived home July 3rd
+after an absence of two years two months & eighteen
+days on a mission to the Southern States he was
+asked to labor in the State of Kentucky labor
+all of his time there he had the honor of
+Baptising four confirmed one companions Baptised
+five enjoyed his labors very much making
+many friends and the seed of righteousness
+are sown to come forth in the due time of
+the Lord Released from his mission labors to
+returne home on the 19th June making 2
+years 2 months in the field in active service
+his health was very good with the exception
+of the last month he had a spell of la Gripp
+
+Walked 4923 miles Road 500 miles this does not include
+his travel to and from his mission visited families
+2458 Revisited families 1956 bore testimony rejected
+476 Entertainment refused 139 Distributed Tracts
+4115 Distributed Dodgers 3069 Books sold 146 Books
+given away 59 Books Loaned 475 Meetings held
+690 Gospel conversations 4130 Gospel letters 60
+
+### Editorial annotations
+
+First-pass visual transcription completed. The 1862 Florence immigration account ends near the top. A dated record of Hugh Roberts's return from his Southern States mission then begins and continues onto PDF page 70. Two immigrant-family names and some compact mission-statistic wording remain uncertain.
+
+## PDF page 70
+
+Stable ID: `journal-rdr-page-070`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+children blessed 4 Received his release from
+President Ben E Rich with high honor and
+good word of his faithfulness in the perform-
+ance of his labors while in the mission field
+
+R D Roberts
+
+August 21st 1902
+
+Tryphon wife of Daniel R Roberts gave birth
+at five fifteen A.M. (5.50 A.M.) to a bright little
+girl weight 4 lb: she has been very weak her
+Mother unable to nurse her for some cause she
+had to be nursed with the bottle nothing
+seemed to agree with her but she seemed to
+be thriving some at present October 5th she
+was blessed by her father David R. Roberts her
+name [unclear: Rhondah Juanita Roberts]
+
+R D Roberts Oct. 21st
+
+January 8th [unclear: Hannah Juanita Roberts]
+infant daughter of David R Roberts and
+Tryphon his wife died she never was healthy
+from her birth was taken to the Third Ward
+meeting house for services James [unclear: Swen]
+[unclear: John Thomas Tarbuck] G Spencer Orson Smith
+and Bishop Richard Yeates William Walters
+closing prayer was buried on the 10th dedica-
+tory prayer at the grave by Joseph E.
+Cowley very consoling and instructive remarks
+were given
+
+R. D. Roberts
+
+November 18th 1900 Daniel Robert Roberts
+was ordained to fill a vacancy in the Presiden-
+cy of the seventies quorum of seventies by Prest.
+Christian D. Fjeldsted
+
+### Editorial annotations
+
+First-pass visual transcription completed. Hugh Roberts's mission-return record ends at the top with an explicit "R D Roberts" signature. Separate birth, blessing, death, burial, and church-office notes follow; several personal names and an overwritten ordination line remain uncertain. Apparent discrepancies in the infant's time of birth and name are preserved rather than reconciled.
+
+## PDF page 71
+
+Stable ID: `journal-rdr-page-071`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Logan City June 25th 1902
+
+Hugh Roberts and Maggie May Perry went
+to Logan Temple to get their Endowment and anoint-
+ing also sealed over the holy Alter by the power
+and the authority of the Holy Priesthood in the
+bonds of wedlock by Thomas Morgan
+
+Maggie May Perry was born April 1st 1881
+at Lewiston Cache County Utah Baptized April 1st
+1889 at Richmond Cache Co. by Joseph Davenport
+confirmed by her father W. A. Perry
+
+William Anderson Perry and Susan Zimmer-
+man Perry are the parents of Maggie May Perry
+Roberts
+
+W. A. Perry was born November 7th 1842 at
+Peoria Illinois Baptized November 9th 1850 in the
+Missouri River from his Nationality English and
+Irish arrived in Utah September 1851
+
+Susan Zimmerman was born November 30th
+1838 in the hills of Pennsylvania or [unclear: Miquon]
+Mountains Baptized in 1852 at Lehi Utah
+County Utah she was married to John C.
+[unclear: Maff] by whom she had three children one
+son and two daughters the son and one daug-
+hter died one daughter of her first husband
+still lives at [unclear: Hawseus] Cache Valley Idaho as
+a section with some grown children
+
+W. A. Perry and S. Zimmerman Perry was
+married June 10th 187[unclear] at Salt Lake City Utah
+they had eight children Maggie was the fifth
+child two brother and two sister older one
+sister and two brother younger one brother
+died when a babe
+
+Hugh and Maggie lives in a rented
+house at present in the Third ward of
+Logan City
+
+January 15th 1903 R D Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page contains temple ordinance and Perry-family records and ends with a dated "R D Roberts" signature. Several place, surname, and marriage-date readings are uncertain. The explicit signatures on pages 70-71 identify those entries, but do not by themselves establish a broader page-level hand transition.
