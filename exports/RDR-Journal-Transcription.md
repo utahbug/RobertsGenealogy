@@ -4587,9 +4587,9 @@ was Cancer and Tumors on the bowels was the cause of her
 trouble she suffered very much for about five weeks she
 died at twenty minutes to three in the afternoon April 10th
 1907 was buried on the 15th at one o clock we took her rem-
-ains to 3 ward meeting house Bishops Williams Evans
+ains to 3 ward meeting house Bishop William Evans
 presiding singing was conducted by Alexander Lewis
-prayer by Peter A. Elliason the first speaker were Joseph
+prayer by Peter H. Elliason the first speaker were Joseph
 C. Cowley Richard Yeates William Waterson singing parting
 all earthly honor President Isaac Smith spoke for a
 while singing on 286 Home sweet home Benediction by
@@ -4604,7 +4604,7 @@ Oct. 7th 1907
 
 At five o clock in the morning Hannah
 little daughter of Hugh and Margaret Parry Roberts
-died after a severe sickness of three weeks with [unclear: quinsey]
+died after a severe sickness of three weeks with quinsee
 she was very sweet little baby of thirteen months
 old was interred on the 8th taken to the Third Ward
 meeting house at two o clock John Quayle condu-
@@ -4613,7 +4613,7 @@ the following address by Richard Yeates [unclear: Suell]
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The Eliza Neagle Roberts biography begun on PDF page 88 continues through the first funeral account and ends on PDF page 90 with an R. D. Roberts signature. A death and funeral record for Hannah Roberts begins near the bottom and continues onto page 90. Several officiator surnames and the childhood illness require review. This page does not repeat the uncertain page 88 birthplace.
+Second-pass visual inspection completed. The Eliza Neagle Roberts biography begun on PDF page 88 continues through the first funeral account and ends on PDF page 90 with an R. D. Roberts signature. A death and funeral record for Hannah Roberts begins near the bottom and continues onto page 90. One speaker surname remains uncertain; the childhood illness was resolved as "quinsee." This page does not repeat the uncertain page 88 birthplace.
 
 ## PDF page 90
 
@@ -4627,7 +4627,7 @@ Lam from Hyde Park William Anderson from
 Petersboro and Joseph C Cowley Benediction by
 Richard Yeates Jun. Singing conducted by John
 Richard the grave was dedicated by Thomas D.
-Roberts every nice funeral the casket was cover
+Roberts very nice funeral the casket was cover
 with flowers the people showing their sympathy
 love and respect for the family
 
@@ -4665,7 +4665,7 @@ ting point for that work
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Hannah Roberts's funeral record ends with an explicit R. D. Roberts signature, identifying that entry only. A family sketch begins and continues through PDF page 95. The hand-drawn descendant table is represented in manuscript column order; crowded headings, totals, and alignment require review.
+Second-pass visual inspection completed. Hannah Roberts's funeral record ends with an explicit R. D. Roberts signature, identifying that entry only. A family sketch begins and continues through PDF page 95. The hand-drawn descendant table remains in manuscript column order; crowded headings, totals, and alignment still require focused review.
 
 ## PDF page 91
 
