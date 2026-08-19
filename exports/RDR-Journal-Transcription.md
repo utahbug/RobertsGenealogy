@@ -4374,11 +4374,11 @@ Transcription status: `needs-review`
 ### English transcription
 
 forever for in the due time of the Lord He will give unto
-thee a hand in the Temples and gathering up the dead
+thee a helping hand in the dead
 the authority thousands of thy own will call thee blest and
 none of them will be lost for through thy faith thou shall stand
 and overcome every obstacle and the day will come when thy oppor-
-tune and talent will be given unto the Church of Christ
+tunity and talent will be given unto the Church of Christ
 for by one degree to another will thy course be onward and
 upward to the Celestial world. I bless thee with the gift of
 faith which through thy gift thou will do much good for thou
@@ -4394,12 +4394,12 @@ angel charge concerning thee prepare every needful thing for
 mighty changes await thee for in thy glorious pilgrimage, mis-
 sion on the Earth many will seek counsel at thy hands and
 thou art blest this day to become equal to all and be
-many requirements that the Lord thy God will make of
+the many requirements that the Lord thy God will make of
 thee for verily thy life will be a busy one and thou will
 grow and increase and become great as great as thou can
 desire and the blessing of the Lord will be upon thee
 and upon thy posterity forever. and thou art blest to
-have power to become the worth and exerting be number-
+have power to overcome the world and exerting be number-
 ed with the sanctified. In due time thou shall be blest
 in the Lords Holy House and become a savior upon mount
 Zion Blest to receive the keys and powers to waft unto
@@ -4470,7 +4470,7 @@ First-pass visual transcription completed. Jane Roberts's blessing ends near the
 
 Stable ID: `journal-rdr-page-087`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4484,7 +4484,7 @@ counsel at thy hands for thou was born to become a leader am-
 ongst thy sisters seek this earnestly and few will excel thee.
 and thou shall be blest to lay this eternal foundation. and
 thou will honor that great name of wife and mother for it
-is thy knowledge to become a chosen vessel of the Lord. and
+is thy privilege to become a chosen vessel of the Lord. and
 thou will do much good in thy day and time for thou was
 so appointed in the heavens blest shall be thy soul and
 blest shall be thy body and the present afflictions of thy body
@@ -4492,7 +4492,7 @@ through thy continuance in faith on the Lord Jesus will leave
 thee and thou shall become strong in body and soul. for thy
 name is written in the Lambs book of life to come to earth to
 fill this glorious mission to lay an eternal foundation and
-thou will have joy and rejoicing in day of the Lord Jesus
+thou will have joy and rejoicing in the day of the Lord Jesus
 therefore do thy whole duty and the powers of satan shall not
 have dominion over thee thy posterity will be endless and none of
 them will be lost therefore let thy heart be comforted for thy
@@ -4513,7 +4513,7 @@ have dreams and visions presentments, revelations pert-
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Continuation of Eliza Neagle Roberts's patriarchal blessing from PDF page 86; it continues onto PDF page 88. The duplicated "thou" near the top is preserved as written.
+Second-pass visual review completed. Continuation of Eliza Neagle Roberts's patriarchal blessing from PDF page 86; it continues onto PDF page 88. The duplicated "thou" near the top is confirmed and preserved as written.
 
 ## PDF page 88
 
@@ -4530,7 +4530,7 @@ faith and the visions of eternity will these things be re-
 vealed unto thee thou shall be blest in this life with
 food and with raiment and riches for thou shall not
 lack all sufficient to carry on thy work on the earth on
-ending thy joy will be full and no good thing will be
+earth thy joy will be full and no good thing will be
 withheld from thee. and with joy and rejoicing behold
 the face of thy Redeemer and have joy and rejoicing
 in the day of the Lord Jesus and after thou hast fin-
@@ -4549,7 +4549,7 @@ Patriarch
 Logan City May 4th 1907
 
 My wife Eliza Neagle Roberts was born Septem-
-ber 12th 1858 in Limoe County Down Ireland Baptized
+ber 12th 1858 in [unclear: Lisnoe] County Down Ireland Baptized
 January 5th 1890 by Elder Edward Perkins confirmed by
 Elder Alma Hale her parents are John Neagle and
 Agnes Aister Neagle she emigrated to Utah started
@@ -4563,7 +4563,7 @@ his birth Thomas and Jane Roberts in 1901 she begin
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Eliza Neagle Roberts's blessing ends with a recording notation by E. H. Blackburn. A biographical record for the writer's wife, Eliza Neagle Roberts, begins below and continues onto PDF page 89. The place written before "County Down Ireland" is uncertain and transcribed as "Limoe" pending review; compact chronology and unusual syntax are preserved.
+Second-pass visual inspection completed. Eliza Neagle Roberts's blessing ends with a recording notation by E. H. Blackburn. A biographical record for the writer's wife, Eliza Neagle Roberts, begins below and continues onto PDF page 89. The place before "County Down Ireland" is improved from "Limoe" to `[unclear: Lisnoe]` but remains materially uncertain; compact chronology and unusual syntax are preserved.
 
 ## PDF page 89
 
