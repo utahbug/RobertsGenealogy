@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 74 / 119
+Pages with transcription text: 79 / 119
 
-Untranscribed PDF pages: 75-119
+Untranscribed PDF pages: 80-119
 
 ## PDF page 1
 
@@ -3844,3 +3844,258 @@ counselor her name Edy Gwen Roberts
 ### Editorial annotations
 
 First-pass visual transcription completed. The Hughes-family record from page 73 concludes, followed by a separate birth-and-blessing record. One word in Daniel's death entry is illegible; historical names and dates are preserved without reconciliation.
+
+## PDF page 75
+
+Stable ID: `journal-rdr-page-075`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+December 5th 1903 It was announce in the
+Priesthood meeting that David R. Roberts was chosen
+as one of home missionaries the Providence Ward was
+assign to him for his field of labours on the 6th he
+was set apart by the Presidency of the Stake [unclear: Richard]
+W. Maughan being mouth
+
+December 30th finish his labours in Providence
+Ward as a home missionary he enjoyed his work
+very much
+
+Logan City Cache County Utah
+January 26th 1904
+
+A blessing given by John Smith Patriarch
+upon the head of Eliza Roberts daughter of
+John and Agnes Neagle born near Belfast
+County Down Ireland September 12th 1858
+
+Sister Eliza Roberts thou art of the house
+of Ismail and although born in a foreign land.
+Thou art numbered among the daughters of zion
+and thy pathway is marked out and thy duty
+shall often be made known unto thee from
+time to time as thou shall need. Through pro-
+phetic vision for at an early day thou didst
+yield obedience to the Gospel with an honest
+heart and forsook home kindred and friends
+for the sake of salvation. And as a reward for
+thy labor thy guardian angel has charge
+concerning thee, and will direct thy course thro-
+ugh the whisperings of the Spirit, give thee
+strength in time of trial and power over evil
+and unclean spirits, and enable thee to hold
+the Adversary at bay, that health and peace
+shall reign in thy dwelling. And thy name
+shall live in the memory of the Saints Thou
+art of Ephraim and in common with thy
+companion thou shalt receive thy blessings
+with thine inheritance, and among those who
+
+### Editorial annotations
+
+First-pass visual transcription completed. Two home-missionary notes precede Eliza Roberts's patriarchal blessing, which continues onto PDF page 76. One setting-apart name is uncertain.
+
+## PDF page 76
+
+Stable ID: `journal-rdr-page-076`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+have fought the good fight kept the faith,
+finished their course and won the prize. It is there-
+fore necessary that you be buoyant in spirit
+that you look always upon the bright side and
+be cheerful for cheerfulness begets happiness turns
+aside anger and restore peace and gains friends
+and influence among the people. Be prudent and
+thou shall not lack for the comforts of life but
+shall impart unto others and for thy kindness
+thou shalt be remembered in after years therefore
+look forward to the future with pleasure for better
+days await thee.
+
+This blessing I seal upon thee in the name
+of Jesus Christ and I seal thee up unto etern-
+al life to come forth in the morning of the
+first resurrection a saviour among thy kindred
+
+Logan City February 5th 1904
+
+A blessing given by Patriarch S. N. [unclear: Liljenquist]
+upon the head of Cathrine Hughes daugh-
+ter of Gomer and Jane R. Hughes Born March
+31st 1859 at Samaria Oneida County Idaho.
+
+Sister Cathrine, in the name of the Lord
+Jesus Christ and by virtue of the Holy
+Priesthood, I place my hands upon your head,
+and seal upon you your Fathers an Patriarchal
+blessing, with the blessing pertaining to the New
+and Everlasting Covenant, with health and
+strength of mind and body that you may live
+to the honor and glory of God receive all blessings
+in the holy Temples do a great work for the
+redemption of the dead and stand as a savior
+unto many of your kindred be a joy unto
+your parents and to your kindred both
+living and dead.
+
+### Editorial annotations
+
+First-pass visual transcription completed. Eliza Roberts's blessing ends near the top. A blessing for Cathrine Hughes then begins and continues onto PDF page 77; the patriarch's surname is uncertain.
+
+## PDF page 77
+
+Stable ID: `journal-rdr-page-077`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Listen to the still small voice within and to your
+mother, and to the servants of the Lord, when you
+young, learn and keep his commandments, and you
+shall be happy and blessed all the days of your life
+you shall grow in faith, hope and charity, and, in
+the love of God enjoy the spirit of the Lord with
+revelations from on high be kept pure and holy be a
+teacher of righteousness among the youth of Zion a
+joy to all your associates a blessing unto many
+Souls, both living and dead.
+
+The Lord loves you because you are pure and
+innocent. He has given his angels charge over you,
+and you shall enjoy their company by and by,
+and associate with them face to face. Be therefore
+meek and lowly of heart.
+
+Thou art of Ephraim of a noble spirit
+and one of God's elect, your name is written
+in the Lamb's book of life, and the Holy Ange-
+ls rejoice over you this day, and they will pre-
+serve your life and keep you from evil and
+give you power to serve the Lord as long as you
+are determined to be on the Lord's side, then you
+shall gain the victory over the world with all
+its pride and [blotted] and drink deep from the
+fountain of Eternal life, and you shall with a
+worthy companion share in all the blessings of
+the Holy Priesthood enjoy the blessings of heaven
+and of the earth with crowns and kingdoms
+a part in the Holy Resurrection and be a worthy
+guest at the wedding supper of the Lamb of
+God. you shall then be full;
+
+The Lord bless you and keep you as it
+were in the hollow of his hands untill
+your mission is completed, and, you shall
+be a blessing to the poor the sick and afflicted
+and those that mourn, you shall be as an
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page continues Cathrine Hughes's blessing from PDF page 76 and continues onto PDF page 78. One word after "pride" is obscured by a blot.
+
+## PDF page 78
+
+Stable ID: `journal-rdr-page-078`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Angel unto many, and they shall bless you in
+the morning of the resurrection for your loving
+kindness, you shall enjoy the smiles and appro-
+bations of God and He will never forget you,
+and you shall enjoy all the righteous desires
+of your heart I seal you up unto eternal life
+through your faithfulness in the name
+of Jesus Christ our Redeemer. Amen.
+
+September 8th 1904
+
+Grandfather John Neagle who resided in the
+fourth Ward Logan died on August 17th 1904 at
+fifteen minutes past two in the afternoon he had
+been ailing for a year or more with indigestion
+and Kidney trouble was buried on the 7th the
+funeral services were held in the fourth Ward
+meeting house the Choir sang O my father very
+nice prayer by John Ormond Nearer my God to
+thee was sung by the Choir the speakers were
+Steward [unclear: jun.] Anderson Burton Thomas Morgan
+H. J. Nelson John Hendricksen and Bishop Thomas
+R. Smith their remarks were very encouraging
+and comforting a solo was sung by William H.
+Hansen Some time we will understand benedi-
+ction by Abraham Jorgensen the hymn As the Sun
+Shine in your heart was sung very feelingly
+at the grave as the body was lowered to its
+last resting place the ground was dedicated by
+George [unclear: Simquist] W. H. Hansen in behalf of the
+family thanked those present for their kindness
+and were dismissed to return home everyone seem
+to share their feeling of love and respect both
+for the living and the departed many brin-
+ging their beautiful boquets of flowers untill
+the [illegible] was entirely covered with profusion
+
+### Editorial annotations
+
+First-pass visual transcription completed. Cathrine Hughes's blessing ends at the top. John Neagle's funeral account begins and continues onto PDF page 79. Several names and one noun near the bottom remain uncertain or illegible.
+
+## PDF page 79
+
+Stable ID: `journal-rdr-page-079`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+of the choicest flowers
+
+To find more in regard to Grandfather
+Neagle turn to page 51 of this book
+
+R. D. Roberts
+
+Margaret wife of Hugh Roberts gave birth
+to a nice little baby girl October 27th 1904 at ten
+minutes to ten in the evening she was weight on
+the 30th she weight 6 lbs. was Blessed December 4th by
+her grandfather Robert D. Roberts assisted by Bishop
+Richard Yeates and his counselors William Walters
+& James Larson her name Susan Gladwen Roberts
+
+R D Roberts
+
+Edy Gwen Roberts daughter of David R.
+& Tryphen Davies Roberts died of namonia after
+one week of sickness January 1st 1905 at fifteen
+minut past twelve (12.15) at noon she was a
+very beautifull baby strong and healthy was
+buried on the 4th the services commence in the third
+Ward meeting house at one o clock the quire
+was lead by Alexander Lewis prayer by Lars
+Larson the first speaker Andrew Peter Eliason
+Bishop Cardon of the first Ward Russell Bullon
+Willard W. Maughan & William Walters Benedic-
+tion by James Larson Bishop Yeates was not able
+to be present on account of been sick the remarks
+were affection consoling and instructive the grave
+was dedicated by her Grandfather Robert D. Roberts
+Pall bearers were little girls Agnes Alister Roberts
+her Aunt Margaret Edy Davies Ines Sorensen &
+Florence Thomas her cousins
+
+R. D. Roberts
+
+### Editorial annotations
+
+First-pass visual transcription completed. John Neagle's funeral account ends at the top, followed by separate birth/blessing and death/burial records. Historical wording and spellings are preserved. Several officiator and pall-bearer names require review. Three explicit R. D. Roberts signatures identify these entries but do not establish a broader hand transition.
