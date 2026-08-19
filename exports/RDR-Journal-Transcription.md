@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 61 / 119
+Pages with transcription text: 66 / 119
 
-Untranscribed PDF pages: 62-119
+Untranscribed PDF pages: 67-119
 
 ## PDF page 1
 
@@ -3175,3 +3175,252 @@ Be also set you apart to perform a mission
 ### Editorial annotations
 
 First-pass visual transcription completed. Several leader names and the conference/mission wording remain uncertain. A missionary blessing begins near the bottom and continues onto PDF page 62.
+
+## PDF page 62
+
+Stable ID: `journal-rdr-page-062`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+in the Southern States to which you have been called
+by the inspiration of the Lord through the proper
+authority. Be blest you that you may have power to
+go in peace, without harm or accident coming unto
+you, and, when you accomplish your mission in honor,
+that you may return in safety to your home; and
+we bless you that in the discharge of your duties
+as a missionary you may be successful in securing
+the hearts of the honest, in bringing them to a
+knowledge of the Truth and in warning the people
+in such a manner, by the gift and power of the
+Holy Ghost, that they shall be left without excuse
+if they reject the Gospel.
+
+Be thou humble and prayerful and chaste
+in every thought and be clean and pure in your
+body, and the Lord will bless you with every
+needed blessing and return you in safety after
+you have accomplished a good and glorious work,
+and the blessing and power to do all this we seal
+upon you in the authority of the holy Priesthood
+and in the name of Jesus Christ, Amen.
+
+Martin J. Lindsay,
+Reporter.
+
+Samaria Oneida County Idaho [unclear: Novem]
+
+[unclear date notation: 30th 1874]
+
+A Blessing given by John Smith
+Patriarch upon the head of David Hughes
+son of Gomer and Jane Hughes born in
+Samaria Oneida County Idaho March 24th
+1873
+
+David Hughes by virtue of the Holy
+Priesthood I lay my hands upon thy head
+
+### Editorial annotations
+
+First-pass visual transcription completed. The missionary blessing begun on PDF page 61 ends on this page with Martin J. Lindsay identified as reporter. A patriarchal blessing for David Hughes then begins and continues onto PDF page 63. The word following the Samaria heading and the nearby date notation are uncertain.
+
+## PDF page 63
+
+Stable ID: `journal-rdr-page-063`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+and bless thee with a father's blessing which is
+also patriarchal and I say unto thee honor and
+obey thy parents, grow up in grace and in the
+knowledge of the truth, seek wisdom knowledge and
+understanding while thou art in thy youth, for thou
+art numbered with the sons of Zion of whom much
+is expected Thou hast many years to live in
+order to fill up the measure of creation and fulfill
+thy mission upon the Earth. Thou shall be called
+at an early day to labor in the ministry, and if
+thou will be faithful thou shall become a mighty
+man in Israel and bear great tidings to the
+nations of the Earth. thy tongue shall be loosed
+and be as the pen of a ready writer, thou shall
+speak fluently the words of life and salvation in
+the tongue of the natives among whom thou
+shall sojourn, thou shall find friends among
+strangers and shall confound the wisdom of the
+wicked and set at naught the counsels of the
+unjust many shall seek thee for counsel and
+wonder at thy wisdom, thou shall also be
+prospered in thy journeyings at home and abro-
+ad and if necessary thou shall command the
+elements and the waves of the sea shall obey thy
+voice. Thou shall preside over a stake in Zion
+and officiate in the house of the Lord, thou art
+of the lineage of Ephraim and an heir to the
+blessing of Abraham Isaac and Jacob with the
+gifts of the priesthood. Therefore I say unto
+thee seek to know the will of the Lord while
+thou art in thy youth that his spirit may
+always be with thee, and no evil power shall
+prevail against thee; [unclear: in due season] thou shall have
+a companion who will be a help mate unto thee
+and to suit thy condition; thou have houses
+and lands and a numerous posterity, thy
+
+### Editorial annotations
+
+First-pass visual transcription completed. This page continues the patriarchal blessing for David Hughes from PDF page 62 and continues onto PDF page 64. The phrase before "thou shall have a companion" remains uncertain.
+
+## PDF page 64
+
+Stable ID: `journal-rdr-page-064`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+sons shall be mighty in the priesthood and bear thy
+name in honorable remembrance from generation
+to generation, thou shall be a father among the
+people a wise counsellor among thy brethren,
+and valiant in time of trouble. Thou shall see
+many changes and witness trying events, thou
+shall see the arm of the Lord made bare in
+behalf of his people. Therefore I say unto thee be
+prudent and listen to the whisperings of the
+still small voice of the comforter and thy guar-
+dian angel will converse with thee as with a
+familiar friend warn thee of danger and give
+thee counsel in time of need. Thou shall have
+have the gift of discernment and shall not be
+deceived by evil designing persons, This blessing
+I seal upon thy head in the name of Jesus of
+Nazareth and I seal thee up unto eternal life
+to come forth in the morning of the first
+resurrection with all thy father's house even
+so Amen
+
+Recorded in Book J
+
+A Missionary blessing
+
+Given upon the head of David Hughes in
+the Salt Lake Temple Annex, May 5th 1899,
+by Apostle George Teasdale, and presidents
+Christian D. Fjeldsted and Rulon S. Wells,
+brother Fjeldsted being mouth.
+
+Brother David Hughes, we lay our hands
+upon your head and ordain you a Seventy in
+the Church of Jesus Christ of Latter-day
+Saints, and we seal and confer upon you all the
+Keys, powers, authority, gifts and blessings belo-
+nging to this high and holy calling in the
+Melchisedec Priesthood; and we say unto you,
+
+### Editorial annotations
+
+First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. The patriarchal blessing begun on PDF page 62 ends on this page. A missionary blessing for David Hughes then begins and continues onto PDF page 65. The manuscript visibly repeats "have" in "Thou shall have have the gift."
+
+## PDF page 65
+
+Stable ID: `journal-rdr-page-065`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+dear brother, that from this time forth you are
+called to preach the gospel of life and salvation,
+and we bless and pray our Heavenly father to
+help you magnify this authority and priesthood
+now conferred upon you.
+
+And inasmuch as you have been called by the
+servants of the Lord to fulfill a mission to the
+Southern States to preach the gospel, we bless
+you and set you apart for this important work,
+and we promise you that if you will keep the
+commandments of the Lord and have an eye
+single to the building up of the kingdom of God
+on the earth, and labor diligently for the bene-
+fit of your fellow man, you shall walk and
+not be weary, and run and not faint; and we
+bless you with every blessing necessary to perform
+this mission in a satisfactory and pleasing way
+before God and also yourself; we bless you with
+power of speech, and you shall be able to lay
+before your fellow man the principles of the
+gospel in a convincing manner, and they shall
+receive the same and you will be privileged
+to lead them into the waters of baptism;
+and you shall lay hands upon those who are
+sick and they shall recover, and you shall be
+able to cast evil and have the signs proven upon
+the earth yourself, and you shall be seen by the
+people in vision and they will know you. Then
+you come to them, and you shall enjoy the blessings
+of the Lord by day and by night, and you shall
+go in safety and return in peace, and you will
+be blessed in having great joy and satisfaction
+in this labor. Read the scriptures, become acquainted
+with the principles of the gospel, and seek for
+knowledge, wisdom and faith; keep yourself free
+and unspotted from the sins of the world and
+
+### Editorial annotations
+
+First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. This page continues the missionary blessing for David Hughes from PDF page 64 and continues onto PDF page 66. The unusual wording "cast evil and have the signs proven" is preserved as it appears and needs review.
+
+## PDF page 66
+
+Stable ID: `journal-rdr-page-066`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+devote your time and talents to this work
+whereunto God has called you, and inasmuch
+as you do this, the Lord will bless you with
+every qualification and necessary blessing you
+may need to perform the work now before
+you. we ordain you to this calling in the
+Melchisedec Priesthood, set you apart for this
+mission, dedicate you to the service of the Lord
+and bless you; we seal all these blessings
+upon you, and recall all former blessings that
+have been promised unto you, and we do it
+by virtue of the holy priesthood we hold, and
+in the name of Jesus Christ, Amen
+
+George E. Hill
+Reporter.
+
+On pages 56 & 57 I have wrote an account
+of my uncle John Roberts but I omitted to
+record the place of their birth my uncle and
+the children were born in Merionethshire North
+Wales David Humphrey my aunt was born
+July 19th 1821 in Merionethshire Parish Ffestiniog
+
+Mary Williams about 14 years of age when she
+died Catherine Williams about 11 years old born and
+died in Eglwys bach Denbighshire Wales
+March 20th 1900 they were sealed to Daniel
+R. Roberts by Thomas Morgan in Logan
+Temple witness Joseph C. [unclear: Dowley] & John W.
+[unclear: Spillman] Proxy Mrs Mary Roberts [unclear: Rockalley]
+
+February 21st 1899 David R. Roberts was set
+apart by C. D. Fjeldsted for a Secretary for
+the 40th Corum of seventies
+
+### Editorial annotations
+
+First-pass visual transcription completed from an inverted source scan using a temporary upright derivative. The missionary blessing begun on PDF page 64 ends here with George E. Hill identified as reporter. Separate family and church notes follow. Several witness/proxy names are uncertain. The page refers back to pages 56-57 but does not conclusively resolve an earlier marked uncertainty. No defensible writer or hand transition is assigned.
