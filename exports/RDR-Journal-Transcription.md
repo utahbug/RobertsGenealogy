@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 88 / 119
+Pages with transcription text: 95 / 119
 
-Untranscribed PDF pages: 89-119
+Untranscribed PDF pages: 96-119
 
 ## PDF page 1
 
@@ -4565,3 +4565,378 @@ his birth Thomas and Jane Roberts in 1901 she begin
 ### Editorial annotations
 
 First-pass visual transcription completed. Eliza Neagle Roberts's blessing ends with a recording notation by E. H. Blackburn. A biographical record for the writer's wife, Eliza Neagle Roberts, begins below and continues onto PDF page 89. The place written before "County Down Ireland" is uncertain and transcribed as "Limoe" pending review; compact chronology and unusual syntax are preserved.
+
+## PDF page 89
+
+Stable ID: `journal-rdr-page-089`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+to complain of soreness in her breast but did not think
+much of it at that time it continue to annoy and pain her
+very much in 1905 she commence to seek for medical aide
+from one source or another and on July 20th 1906 she was taken
+to Budge's Hospital on the 21st was operated on as she was
+filling with water about 30 lbs. of water or pus was taken
+from her that was on the bowels it is not the dropsy she
+came home to her mother August 3rd October 10th she came
+to her own home she was tapped 21 times and about seven or
+eight quarts of pus or water taken from her each time it
+was Cancer and Tumors on the bowels was the cause of her
+trouble she suffered very much for about five weeks she
+died at twenty minutes to three in the afternoon April 10th
+1907 was buried on the 15th at one o clock we took her rem-
+ains to 3 ward meeting house Bishops Williams Evans
+presiding singing was conducted by Alexander Lewis
+prayer by Peter A. Elliason the first speaker were Joseph
+C. Cowley Richard Yeates William Waterson singing parting
+all earthly honor President Isaac Smith spoke for a
+while singing on 286 Home sweet home Benediction by
+James G. Steward we had good encouraging word
+from the brethren she was very devoted to her relig-
+ion attend to her prayers and teach her children to pray
+kind mother clean in her house work straight and hon-
+est in all her delings with every one we hope to meet
+again Joseph C. Cowley dedicated the grave
+
+Oct. 7th 1907
+
+At five o clock in the morning Hannah
+little daughter of Hugh and Margaret Parry Roberts
+died after a severe sickness of three weeks with [unclear: quinsey]
+she was very sweet little baby of thirteen months
+old was interred on the 8th taken to the Third Ward
+meeting house at two o clock John Quayle condu-
+cting the meeting prayer by Peter A. Elliason
+the following address by Richard Yeates [unclear: Suell]
+
+### Editorial annotations
+
+First-pass visual transcription completed. The Eliza Neagle Roberts biography begun on PDF page 88 continues through the first funeral account and ends on PDF page 90 with an R. D. Roberts signature. A death and funeral record for Hannah Roberts begins near the bottom and continues onto page 90. Several officiator surnames and the childhood illness require review. This page does not repeat the uncertain page 88 birthplace.
+
+## PDF page 90
+
+Stable ID: `journal-rdr-page-090`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Lam from Hyde Park William Anderson from
+Petersboro and Joseph C Cowley Benediction by
+Richard Yeates Jun. Singing conducted by John
+Richard the grave was dedicated by Thomas D.
+Roberts every nice funeral the casket was cover
+with flowers the people showing their sympathy
+love and respect for the family
+
+R. D. Roberts
+
+Logan City Oct 22nd 1906
+
+Sketch of David Roberts & Catherine Roberts
+with their family who emigrated to Utah from
+Meirionethshire North Wales started from Festiniog
+April 9th 1856 arrived in Salt Lake City Oct. 2nd
+
+And as we have been in Utah fifty years
+Oct. 2nd 1906 I thought that I would like to review
+our progress and see what increase there was made
+in the family I imagine that some one will take
+the task to find the increase at the end of
+another fifty years which will take considera-
+ble more labor than now it will be more diffi-
+cult to trace them up but this will be star-
+ting point for that work
+
+| children | boys | girls | departed | grand dead | grand children | boys | girls | dead | boys | girls |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Robert | 6 | 4 | 2 | 1 | 0 | 9 | 3 | 6 | 2 | 0 | 2 |
+| Thomas | 1 | 1 |  |  |  |  |  |  |  |  |  |
+| Daniel | 7 | 1 | 6 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | 1 |
+| Ann | 3 | 2 | 1 | 1 | 0 | 11 | 4 | 7 | 1 | 1 | 0 |
+| Elizabeth | 7 | 3 | 4 | 3 | 2 | 7 | 3 | 4 | 2 | 1 | 1 |
+| John | 9 | 7 | 2 | 1 | 0 | 16 | 4 | 12 | 3 | 1 | 2 |
+| David R. & Catherine Roberts grandchildren | 33 | 18 | 15 | 6 | 3 |  |  |  |  |  |  |
+| great grand children | 44 |  |  | 4 | 4 | 4 | 4 |  |  |  |
+| children bearing the name of Roberts | 11 | 5 | 7 | 1 | 1 |  |  |  |  |  |  |
+| Roberts great grand children | 9 | 3 | 6 |  | 2 |  |  |  |  |  |  |
+
+### Editorial annotations
+
+First-pass visual transcription completed. Hannah Roberts's funeral record ends with an explicit R. D. Roberts signature, identifying that entry only. A family sketch begins and continues through PDF page 95. The hand-drawn descendant table is represented in manuscript column order; crowded headings, totals, and alignment require review.
+
+## PDF page 91
+
+Stable ID: `journal-rdr-page-091`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+We had 20 marriages seventy seven births twenty deaths
+add the old stock in. that is father and mother and
+us their children which makes 85 with them we had
+twenty three death there are at present of us among
+the living on this earth 68 of the grand children 12
+boys 12 girls of great grand children 10 boys 28 girls
+at present 20 grand and great grand children bearing
+the name of Roberts
+
+Ann Roberts Hopkins was married Dec. 13th 1866
+to William Thomas Hopkins son of Rees Hopkins &
+Sarah Thomas natives of Wales they had 8 children
+Their names are Sarah, Catherine, David Roberts, & William
+John Hopkins, Sarah was married Dec. 17th 1890
+to Moses Thatcher son of Moses Thatcher & Celestia Ann
+Farr; boath American born
+
+Their children are Lettie Ann, Leora, Helen,
+Martha, Selo & Moses Thatcher
+
+David R. Hopkins was married June 28th 1894
+to Lillian Baker her parents name are Alfred
+Baker & Ann Baker they were American born
+
+David & Lillian's children names are Alfred,
+William Baker, Sarah, Blackburn, & David Rees Hopkins
+William John Hopkins died January 12th 1895
+
+Elizabeth Roberts Hughes was married Jun 13th
+1867 to Watcwm Hughes son of James Hughes &
+Margaret Jones they were both in Glamorganshire
+Wales Elizabeth & [unclear: Taliesin] had seven children
+she died May 16th 1877 five of the children died
+Their names are James, Catherine, Ann, Margaret,
+David, Taliesin, [unclear: Hegmon] & Margaret Hughes
+
+Ann Hughes Cowley was married August 23rd
+1893 to John William Cowley son of John [unclear: Hiner] Cowley
+and Janet Davidson John was the son of Charles
+Cowley & Ann Killips they were natives of Isle of
+Man Janet Davidson Cowley was the daughter
+of Thomas Davidson & Ann Davidson natives of
+
+### Editorial annotations
+
+First-pass visual transcription completed. Continuation of the family sketch from PDF page 90. Dense family names, one Hughes given name, and one Cowley parent name require review. The sketch continues onto PDF page 92.
+
+## PDF page 92
+
+Stable ID: `journal-rdr-page-092`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Fifeshire Scotland John & Ann Hughes Cowley's
+children are Jessie, Elizabeth, John William &
+May Cowley.
+
+Marlah Hughes was married December 16th 1896
+to Thomas Williams son of Menach Williams & Elizabeth
+Lewis Williams natives of South Wales Thomas & Marlah
+Hughes Williams's children are Elmar, Elizabeth, &
+Charles Williams.
+
+Robert David Roberts was married June 6th 1891
+to Hannah Roberts daughter of Hugh Roberts & Mary
+Owens Roberts Hugh & Mary Owens Roberts were
+natives of Eglures Bach Denbighshire North Wales
+Robert & Hannah Roberts had two sons David
+Robert, & Hugh Roberts
+
+David R. Roberts son of R. D. & Hannah Roberts
+was married Dec. 6th 1893 to Tryphen Davies dau-
+ghter of David T. Davies & Cely Davies they are na-
+tives of Glamorganshire South Wales David &
+Tryphen Davies Roberts's children are Tryphen
+Rhodome, David Llewelyn, Robert Meredun,
+Hannah Junita, Cely Gwen, & Florence Anita
+Roberts.
+
+Hugh Roberts son of R. D. & Hannah Roberts
+was married June 25th 1902 to Margaret May
+Parry she is the daughter of William Anderson
+Parry & Susan Zinnherson Parry American born
+Hugh & Margaret Parry Roberts had three children
+their names are Hugh Eugen, Susan Gladwen, &
+Hannah Roberts.
+
+Hannah Roberts wife of R. D. Roberts died
+April 10th 1878 at Logan Cache County
+
+R. D. Roberts was married Feb. 6th 1895 to
+Eliza Neagle daughter of John Neagle & Agnes
+Aister they were natives of County Down Ireland
+she was born near Belfast we had four children
+their names are Agnes Aister, John Neagle, Thomas
+
+### Editorial annotations
+
+First-pass visual transcription completed. Continuation of the family sketch through Roberts descendants. Several Welsh and family given names require review. This clearer statement gives Eliza Neagle's birthplace only as near Belfast, County Down, Ireland and does not conclusively resolve the page 88 word currently read as "Limoe." The sketch continues onto page 93.
+
+## PDF page 93
+
+Stable ID: `journal-rdr-page-093`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+& Jane Roberts
+
+Jane Roberts was married March 6th 1902 to
+Gomer Hughes son of James Hughes & Margaret Jones
+they were natives of Glamorganshire Wales Gomer
+& Jane Roberts Hughes had nine children their
+names are David, Daniel, James, Margaret, Gomer,
+Robert Richard, Thomas William, Catherine & Rowland
+Hughes.
+
+David Hughes was married July 17th 1894 to
+Elizabeth Ann Thomas daughter of Charles Thomas
+& Elizabeth Walton she was the daughter of Emeline
+Walton American born Charles Thomas was the son
+of James Thomas & Elizabeth Thomas they were
+native of Wales David & Elizabeth Walton Hughes
+'s children are Elizabeth, John, Unice, Chester &
+Thomas R Hughes
+
+Daniel Hughes was married
+to Emily Jones daughter of Margaret Jones
+they are natives of Wales
+Daniel & Emily Jones Hughes's children's names
+are Jane, Daniel, Margaret, Llewelyn & Catherine
+Hughes
+
+James Hughes was married October 9th 1900
+to Elizabeth Jenkins daughter of David & Emma
+Jenkins natives of Wales James & Elizabeth Jenkins
+Hughes's children's names are Melga, Emily, & Jane
+Hughes
+
+Margaret Hughes was married December 16th
+1896 to John R. Williams son of Menach Williams &
+Elizabeth Lewis natives of Wales John R & Margaret
+Hughes Williams's children are Melvin & Olga
+Williams
+
+Gomer Hughes was married December 21st 1904
+to Mary Bolingbrook daughter of Harry Bolingbrook
+& Mary Lusk Harry Bolingbrook was born in London
+England Mary Lusk was Born
+
+### Editorial annotations
+
+First-pass visual transcription completed. Continuation of the family sketch, listing Jane Roberts Hughes's family and marriages. Several given names and the surname Bolingbrook require review. The record continues onto PDF page 94.
+
+## PDF page 94
+
+Stable ID: `journal-rdr-page-094`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Gomer & Mary Bolingbrook Hughes's childrens name
+are Edith Hughes
+
+Daniel Roberts was married March 20th 1875
+to Sarah Ann Hughes daughter to James Hughes &
+Margaret Jones Margaret & James Hughes were born
+in Glamorganshire Wales Daniel & Sarah Ann Hughes
+Roberts's children names are Catherine, Margaret, Sarah
+Ann, Mary Mariah, Irene, & Daniel Hughes Roberts
+
+Margaret Roberts daughter of Daniel & Sarah Ann
+Roberts was married to Ashley Bell
+They had one child her name Margaret Bell
+Margaret Roberts Bell died [blank] the baby died
+
+Thomas David Roberts was married Feb. 25th 1881
+to Margaret Goodman Davies daughter of Robert Davies
+& Ann Davies they are natives of Rhuthun Denbigh-
+shire Wales Thomas & Margaret Goodman Davies Roberts
+had one son his name David William Roberts
+
+Jared W Roberts was married [blank] to
+Venella K. Johnson daughter of [blank]
+
+We are increasing but very slow one thing is
+very gratifying I dont think that there is very bad
+character among them so far this is very pleasing to
+meditate upon that they are to a certain extent have
+respect for the laws of God and the country we live in
+Our inches per year has been little over 1 1/2 that dont
+show that we have been very thrifty we ought to have
+been able to four times that we see that there are 20 of
+grand & great grand children bearing the name of Roberts
+add the three sons and the daughters in law and grand
+daughters in law which are 6 one is dead this will swell
+the number to be 29 28 at present living 11 male 17
+female any one wishing to copy this can improve on the
+form that it is put in I can see where it can be impro-
+ved very much I have hunt up the names of all the fami-
+ly boath dead and living as well as I could and the
+marriages and who they related to as much as I
+
+### Editorial annotations
+
+First-pass visual transcription completed. Continuation of the family sketch. Blank spaces after Margaret Bell's death and in Jared W. Roberts's marriage entry are preserved as manuscript blanks. One statistical phrase appears to read "Our inches per year" and requires review. The concluding reflection continues onto PDF page 95.
+
+## PDF page 95
+
+Stable ID: `journal-rdr-page-095`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+could hoping that this will be acceptable with those whom it
+will be presented to we have made a start of a record let it be
+kept up and I am confident that it will be interesting to
+the unborn who will come in the future and trace back
+their ancestors for more than one hundred years
+
+Tryphen Davies Roberts wife of D. R. Roberts gave
+birth on April 11th 1908 at 5-30 A.M. at Logan 3rd Ward
+Cache Co. to a sweet strong and healthy little girl July
+5th she was blessed by her father aided by the Bish-
+oprick her name Albion Geneva Roberts
+
+July 28th 1908 Robert Meredith Roberts was
+Baptized in Logan Temple by Jacob Miller confir-
+med by Thomas Morgan
+
+Logan City Feb 22nd 1909
+
+To Hugh & Margaret May Roberts was born
+a sweet baby girl on July 26th 1908 at ten minutes to ten
+in the morning weight 9 lbs. blessed Sep. 6th by her grand-
+father R. D. Roberts assisted by the Bishop and his Counsel
+her name Leda May Roberts
+
+Logan City March 31st 1909
+
+On March 5th we went to Logan Temple to do work
+of sealing for our dead grandparents in three family
+relation there present William Waterson Robert David
+Ann Roberts Hopkins Jane Roberts Hughes
+Thomas Morgan doing the sealing Joseph C Cowley
+
+[marginal: James and Richard Thomas died in Wales was Baptized for in Logan Temple Jan. 29th 1885]
+
+Grandfather and Grandmother Richards and their
+children are as follows
+Thomas Richards and Morris Richard were born about
+the year 1780 their children are
+Jane Thomas Isaac born about 1805 died
+Catherine Thomas Roberts born June 25th 1807 died [unclear: Nov. 17th 1892]
+Richard Thomas born about 1809 died about May 16th 1877
+
+### Editorial annotations
+
+First-pass visual transcription completed. The family sketch begun on PDF page 90 ends in the opening paragraph. Subsequent records concern births, blessings, baptism, temple sealings, and the beginning of a Richards genealogy that continues onto PDF page 96. Marginal temple-work dates and several names/dates require review.
