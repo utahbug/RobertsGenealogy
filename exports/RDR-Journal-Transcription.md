@@ -390,7 +390,7 @@ Complete second-pass visual comparison performed. Historical spelling and gramma
 
 Stable ID: `journal-rdr-page-009`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -404,7 +404,7 @@ to look for some land that was not occupied that we
 mite be able to cultivated and raise our own wheat and
 potatos I arrived in Cache Valley this Valley was newly and
 thinly settled I stayed in Logan and got some land
-here I hired tent with [unclear] for a little while my brother
+here I hired and work out for a little while my brother
 Thomas came after me he made an agreement with a
 man by the name of Shephard to drive a team for
 him back to Farmington and again back to Cache
@@ -435,7 +435,7 @@ January 9th 1861.
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 9. Historical spelling, grammar, crop quantities, and the author's abbreviated bushel notation are retained. One phrase concerning the tent requires later visual review.
+Complete second-pass visual verification performed. Historical spelling, grammar, crop quantities, abbreviated bushel notation, and the effects of the ink blots are retained. The previously uncertain work phrase was resolved from the manuscript.
 
 ## PDF page 10 - manuscript page 10
 
@@ -452,8 +452,8 @@ mother Thomas and myself started for Salt Lake City
 to receive our Endowment in the house of the Lord we
 arrived in the City on the tenth (10th) on the thirteenth
 (13th) we went throught the house and was ordained to
-an office [unclear: an Elder Thomas by Peter Maughan myself
-by Peter ... a Highpriest] a birth mother throught the father
+an office of an Elder Thomas by Peter Maughan myself
+by [crossed out: Peter Sprague; interlined: James L Sprague] a High priest mother throught the house
 she was sealed to our father by Wilford Woodruff.
 
 On the morrow we started for home arrived on
@@ -480,24 +480,24 @@ and contented.
 Logan City February 4th 1867.
 
 January 15th 1867 in mothers house Elizabeth our
-second sister was married by Thomas [unclear] our Bishop to a
+second sister was married by Thomas [unclear: Borthill] our Bishop to a
 young man by the name of Taliesin Hughes his mother lives in
 Illinois State his father lives there at present and is
 married to another woman the children Taliesin and his
-brother and two sisters was emigrated by Brigham [unclear]
-William Jones brother to the same mother from after coming to
+brother and two sisters was emigrated by [unclear: their] uncle
+William Jones brother to the same mother him after coming to
 Utah Box Elder County Willard City in about a year he went
 back to Illinois and Emigrated his sisters & children seven in
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 10. The overwritten priesthood-office sentence, the officiating bishop's surname, one emigration-agent name, and several written dates require later visual review. No genealogical wording has been normalized.
+Complete second-pass visual comparison performed. The overwritten priesthood-office sentence is represented with its deletion and interline. The officiating bishop's surname and the wording before uncle William Jones remain materially uncertain; the page therefore remains needs-review. No genealogical wording has been normalized.
 
 ## PDF page 11 - manuscript page 11
 
 Stable ID: `journal-rdr-page-011`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -522,7 +522,7 @@ hand had put the early record of his children
 
 David Robert Roberts was born April 5th 1814
 
-Cathrina his wife [unclear: June overwritten by July] 25th 1828
+Cathrina his wife [June crossed out] July 25th 1828
 
 Their children are born
 
@@ -551,11 +551,11 @@ their names are James and Cathreina
 
 They make arrangement to go to Salt Lake City
 November 22nd 1869. to receive their endowment in the house of
-the Lord they live in [unclear: Meadow Valley, Piute County] Utah Territory
+the Lord they live in Meadow Valley Sevier County Utah Territory
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Bracketed readings require later visual review.
+Complete second-pass visual verification performed. The overwritten month and the closing residence were resolved directly from the manuscript; historical spelling and wording are retained.
 
 ## PDF page 12 - manuscript page 12
 
