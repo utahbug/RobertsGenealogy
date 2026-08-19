@@ -1400,7 +1400,7 @@ Feb 11th Catherine Thomas Roberts in behalf of Ann Parry
 
 12 in behalf of Ann Morris
 
-13 Catherine [unclear: Uch] Richards
+13 Catherine Uch Richards
 
 25 Margaret Owens
 
@@ -1420,7 +1420,7 @@ Mar 11 Ann Roberts Hopkins in behalf of [unclear: Eliz Griffith Catharine]
 
 27 Lewis Roberts
 
-Mar 11 Margaret Goodman Davies Roberts in behalf of [unclear: David Evans]
+Mar 11 Margaret Goodman Davies Roberts in behalf of David Evans
 
 12 in behalf of Laura Parry
 
@@ -1432,13 +1432,13 @@ March 26 Ann Roberts Hughes in behalf of Elinor Morris
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several proxy names remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, and enlargement. Catherine Uch Richards and David Evans were resolved. The unusual faint proxy-name sequence currently rendered "Eliz Griffith Catharine" remains materially uncertain, so the page remains needs-review.
 
 ## PDF page 28
 
 Stable ID: `journal-rdr-page-028`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1475,13 +1475,13 @@ Gwen Williams Roberts Aunt inlaw
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan. Historical spelling and the manuscript's list order are preserved. Several entries rely on ditto-style continuation from the preceding heading and require second-reader review. Status: needs review.
+Complete second-pass visual verification performed. The ditto-style dates and implied "in behalf of" continuations were checked against their preceding headings. Historical spelling and manuscript list order are preserved.
 
 ## PDF page 29
 
 Stable ID: `journal-rdr-page-029`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1502,12 +1502,12 @@ Their proxy Robert Jared Roberts and Catherine Thomas
 Roberts
 
 Linet Jones and Jane Richards
-Ann [unclear: Roberts] to Robert Parry
+Ann Roberts to Robert Parry
 
 Ann Parry to Edward Griffith
 
 Their proxy Robert David Roberts
-and [unclear: Ann] Roberts Hopkins
+and Ann Roberts Hopkins
 
 March 12th 1886 Jane Thomas to Morris Isaac
 
@@ -1523,13 +1523,13 @@ David Roberts and Margret Goodman Davies Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. The officiator's name was resolved as A. C. Tellefsen from the clearer repeated form on page 32; several proxy names remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual verification performed with temporary grayscale, contrast, sharpening, and enlargement. Ann Roberts and Ann Roberts Hopkins were resolved directly from the page. The officiator reads A. C. Tellefsen here and is independently corroborated by the clearer repeated form on page 32.
 
 ## PDF page 30
 
 Stable ID: `journal-rdr-page-030`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1568,7 +1568,7 @@ and died there
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Historical spelling and manuscript order are preserved. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual verification performed. All entries, proxy relationships, dates, and officiator names were checked against the manuscript; historical spelling and manuscript order are preserved.
 
 ## PDF page 31
 
@@ -1595,7 +1595,7 @@ Robert Williams grandmothers cousin
 
 Richard Thomas mothers brother
 
-Morris Isaac [unclear: her cousin]
+Morris Isaac her brother inlaw
 
 Robert Roberts
 
@@ -1641,7 +1641,7 @@ Gwen Williams wife to her father's cousin
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several relationship notes remain faint and require second-reader review. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, and enlargement. Morris Isaac's relationship was corrected to "her brother inlaw." The wording in the opening baptism line and relationship notes associated with William Jones and Henry Jones remain materially uncertain, so the page remains needs-review.
 
 ## PDF page 32
 
@@ -1652,7 +1652,7 @@ Transcription status: `needs-review`
 ### English transcription
 
 February 2nd 1885 Ann Roberts Hopkins
-was Baptised on behalf of by [unclear: Robert Brian]
+was Baptised on behalf of by Robert Brown
 confirmed by A. C. Tellefsen
 
 Jane Roberts her father's sister
@@ -1663,20 +1663,20 @@ Laura Parry cousin to her mother
 
 Margaret Jones wife to her grandfather
 
-Margaret [unclear: ...] cousin
+Margaret Evans cousin
 
 March 2nd 1885 Ann Roberts Hopkins was Baptised
-by H C [unclear: Smart] confirmed by Thomas A Smith
+by H C Smart confirmed by Thomas A Smith
 on behalf of
 
 Elinor Griffith her father's sister in law
 
-[unclear: Ann Richards]
+Ann Richards
 
 Margaret Richards her mother's cousin
 
 June 13th 1899 Ann Roberts Hopkins
-was Baptised by female [unclear: Spellsman] in Logan
+was Baptised by female [unclear: Spillman] in Logan
 Temple confirmed by James Quayle & Lawrence
 Peterson in behalf of
 
@@ -1687,17 +1687,17 @@ Margret Roberts Aunt inlaw
 March 2nd 1909 Benjamin Coleman was Baptized
 for in behalf of William Roberts cousin of R. D. Roberts
 son of Robert Roberts, Joseph M. Smith in Logan Temple
-confirmed by Thomas Morgan witnessed [unclear: H. Heber Coleman]
-& J. [unclear: R. Richards]
+confirmed by Thomas Morgan witnessed H. Heber Coleman
+& J. [unclear: C. Rookelley]
 
 March 3rd R. D. Roberts received Endowments
 for and in behalf of William Roberts cousin
-William Roberts was born in [unclear: Harlech] North
-Wales Meirionethshire died [unclear: Brithdir] Meirionethshire
+William Roberts was born in Harlech North
+Wales Meirionethshire died Brithdir Meirionethshire
 
 ### Editorial annotations
 
-First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, and enlargement used only as reading aids. Several names, the female officiator notation, and the final birth/death places remain uncertain. The preserved source image was not altered. Status: needs review.
+Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, and enlargement. Robert Brown, Margaret Evans, H C Smart, Ann Richards, H. Heber Coleman, Harlech, and Brithdir were resolved. The female officiator surname and second witness remain materially uncertain, currently rendered "Spillman" and "C. Rookelley," so the page remains needs-review. The page clearly repeats A. C. Tellefsen, corroborating page 29.
 
 ## PDF page 33
 
