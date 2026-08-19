@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 110 / 119
+Pages with transcription text: 119 / 119
 
-Untranscribed PDF pages: 111-119
+Untranscribed PDF pages: None
 
 ## PDF page 1
 
@@ -5717,3 +5717,431 @@ Agnes Roberts.
 ### Editorial annotations
 
 First-pass visual transcription. Hugh Roberts's patriarchal blessing ends on this page. The closing date and Agnes Roberts notation may identify a recorder or copyist, but do not alone establish content authorship or the broader scribal transition.
+
+## PDF page 111
+
+Stable ID: `journal-rdr-page-111`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+[Unclear heading: [illegible] March 10-14]
+
+Feb. 23 1914 Our [unclear: beloved Alma Anderson] died at
+half past nine in the evening
+On the first Sunday he was not
+feeling [unclear: Monday] morning was
+examined for a bad [unclear: throat] but some
+felt [unclear: sick] and had been [illegible]
+[illegible, approximately 5 words] the night his funeral
+was held at 2 oclock in the Logan
+Tabernacle Nathaniel [unclear: Mitchell]
+presiding over a large audience to hear good
+[illegible, approximately 4 words] singing [unclear: Choir] church
+[unclear: Rich] [illegible, approximately 4 words] first speaker
+[unclear: Thos Maughan] [illegible, approximately 5 words]
+of the town they lived in [illegible]
+[illegible, approximately 7 words]
+[unclear: Bishop Bountiful] [illegible, approximately 5 words]
+[unclear: Mary] [illegible, approximately 5 words]
+of the night and W. W. McKay
+[unclear: Choir] [unclear: recd] benediction [unclear: And Anderson]
+grave dedicated by [unclear: W. Worsley] his
+[illegible, approximately 4 words] born [unclear: May 18 1852]
+[illegible, approximately 8 words]
+[illegible, approximately 6 words]
+[illegible, approximately 8 words]
+[illegible, approximately 8 words]
+[illegible, approximately 8 words]
+[illegible, approximately 7 words]
+[illegible, approximately 8 words]
+[illegible, approximately 7 words]
+[illegible, approximately 8 words]
+[illegible, approximately 7 words]
+
+[Marginal and interlined notes: [illegible, approximately 15 words]]
+
+### Editorial annotations
+
+First-pass visual transcription. A faint, heavily corrected family/funeral narrative begins here and continues onto PDF page 112. The page contains extensive overwriting, interlining, marginal additions, and uncertain names; unreadable lines are accounted for rather than silently omitted.
+
+## PDF page 112
+
+Stable ID: `journal-rdr-page-112`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+[Unclear name: [illegible] Walters] for Utah carried the
+funeral in splendid [unclear: swell] leaving
+the Logan for [unclear: Manti] where two
+[unclear: days] [illegible, approximately 3 words] arrived in
+Salt Lake March 20th arrived in
+Salt Lake Oct. 10th [unclear: burial] the
+[illegible, approximately 5 words] of my
+[illegible, approximately 5 words] that in
+[unclear: Bountiful] Davis County found
+[illegible, approximately 5 words] after moved to Provo where
+[unclear: little Martha] in the [unclear: rough] went to
+the [unclear: mountains] in the year of
+1860 and for [unclear: Morgan] Cache Valley
+he went south to [unclear: Fillmore] in 1864
+after the government acted as counselor
+[unclear: first] of the town and as [unclear: mayor]
+presided over the [unclear: municipal] the
+[unclear: first] [illegible] in 1856
+in 1896 was called to act as
+Presiding Elder over the [unclear: small]
+branch which was organized
+at that time in 1903 returned
+to [unclear: the] Northern R R he was a
+[unclear: regulator] he stood 20 years
+service as Oregon [unclear: both line]
+
+April 5 1821 Hugh Roberts
+
+[Marginal notes: you will find [illegible] on page 107 of this book]
+
+March 10-1914
+
+On March 3-1914 began work for
+my old friend Lewis [unclear: Murdock] in
+[unclear: the] small [unclear: house] was baptized for his
+father [unclear: Mills Murdock] in the Logan
+on the 4th China [unclear: Jackson] and [unclear: Morris Anderson]
+[unclear: came] and [unclear: each] my wife got new
+endowment for them.
+
+### Editorial annotations
+
+First-pass visual transcription. The difficult family/funeral narrative from page 111 ends on this page with an April 5 1821 / Hugh Roberts notation. A separate March 1914 temple-work entry follows. Names, chronology, marginal notes, and several phrases require review.
+
+## PDF page 113
+
+Stable ID: `journal-rdr-page-113`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Having the father and mother
+sealed to one another and him to his
+parents Lewis Murdock was born
+Aug 22nd 1824 at Mothers home Logan
+[unclear: Herring] Lewis [unclear: descendant] died Dec 31
+1872 at Logan Cache Valley was baptized
+about the year 1864 emigrated about
+the year 1860 was a shoemaker
+in his native country before he
+emigrated his fathers name Lewis
+Murdock was born in 1780 April
+died No 9 at [unclear: Roseguard] [unclear: Cardigan] Wales died
+1859 at Morgan Utah John was
+my fathers [unclear: Brother] Daniel was born
+the year 1772 Older born - [unclear: Sally]
+is Dead.
+
+Logan Utah, May 12th 1908.
+
+I was Baptized this day in
+the Logan Temple by Elder Jacob
+Miller confirmed by Elder
+Thomas Morgan.
+
+Written Feb. 22, 1915
+
+Jane Roberts
+
+Logan Utah, May 21, 1915
+
+A fine baby boy was born May
+9, 1915 at 10:35 P M to Stephens, wife
+of D R Roberts at Ogden, Utah and
+died the same day. The body
+was brought to Logan May 11th
+for burial.
+
+Agnes Roberts
+
+### Editorial annotations
+
+First-pass visual transcription. This page contains the conclusion of genealogical/temple notes, a baptism entry signed Jane Roberts, and a birth/death entry signed Agnes Roberts. Several Welsh family names and dates require review.
+
+## PDF page 114
+
+Stable ID: `journal-rdr-page-114`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+July 21, 1915
+
+Eugene Roberts was ordained to
+the office of a Deacon in the
+aronic Priesthood July 4, 1915 by his
+grandfather R D Roberts assisted by
+Chris Jacobson and John Quayle
+
+Thos Roberts
+
+[Above heading: Date Recalled]
+
+Logan Jan 2 1917
+
+Born at Ogden July 28 1916
+to Margarett D R Roberts a fine baby
+girl at 7 week premature after she
+being [unclear: the weight] (6:12) weighing 7 lbs.
+Blessed September 3-1916 at Logan
+by Ernest [unclear: my Daniel] R D Roberts
+her name Dora [unclear: Kell].
+
+[Above heading: date Recorded]
+
+Logan Jan 2 1917
+
+On Oct 11 1916 [unclear: Priest] gave a little
+Brother of 1937 Hugh Roberts night
+in [unclear: Hyrum] while [unclear: Cali] [illegible] and
+my [unclear: wife] [illegible] John [unclear: Quayle] the
+the funeral of this [unclear: child] Arthur Ry
+[unclear: Olson] together she was born
+[unclear: ah.]
+
+Logan Feb 12-1917
+
+Eglor Mac Roberts was baptized in
+Logan Temple by Elder Jacob Miller
+and confirmed by Thos Morgan
+on Feb 13-1917.
+
+### Editorial annotations
+
+First-pass visual transcription. Several short ordination, birth/blessing, funeral, and baptism entries appear in different hands. The middle entries contain overwritten dates, difficult names, and compact wording requiring review.
+
+## PDF page 115
+
+Stable ID: `journal-rdr-page-115`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Feb. 14, 1917
+
+Thos Roberts was ordained to the
+office of Priest by Chris Jacobson assisted
+by Wm Evans and John Quayle Feb 14, 1917.
+
+Logan, Utah.
+
+Mar. 17, 1917.
+
+Agnes Alliston Roberts and
+Rhees Leslie Mountrone were
+married January 11th 1917
+in the Salt Lake Temple.
+R L Mountrone born July 8th
+1891 at Logan Utah. He is
+a son of [unclear: John] Mountrone
+and [unclear: Emmaline] Mountrone.
+[unclear: R L Mountrone] is a German
+descent born in Cache Utah.
+His ancestry settled in Early
+Utah. His [unclear: grand] ancestry
+from Europe.
+
+R L Mountrone baptized
+July 1st 1910. [unclear: passed] [unclear: ordinance]
+from Nov. 8, 1910 to Feb. 10, 1913.
+After being married R L
+Mountrone and Agnes Mountrone
+[unclear: moved] [unclear: home] owned
+by B. D. [unclear: Mitchellson] at 485
+East Center St Logan Utah.
+Both have worked at the
+West Knitting Bench for the
+past three years and are
+still so employed.
+
+### Editorial annotations
+
+First-pass visual transcription from a temporary upright derivative; the preserved source scan remains inverted. The marriage/family entry contains uncertain surnames, ancestry wording, employment details, and overwritten text.
+
+## PDF page 116
+
+Stable ID: `journal-rdr-page-116`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Thomas Roberts son of Robert D and
+Eliza Neagle Roberts was baptized in
+the Logan Temple Apl. 26th 1906 by Joseph
+H. Smith and was confirmed by
+John H. Anderson. (see R Rec 34)
+
+### Editorial annotations
+
+First-pass visual transcription. This page is mostly blank but contains one baptism and confirmation entry near the top; it is therefore a content page, not a blank/non-content leaf.
+
+## PDF page 117
+
+Stable ID: `journal-rdr-page-117`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+April 16, 1917
+
+Lela Ray Roberts was blessed twice
+the first time in Logan recorded on
+page 114 of this book the second blessing
+given by Elder Datus H. Ensign at Ogden
+Utah Feb. 4, 1917 in fast meeting
+
+April 16, 1917
+
+Alonzo Geneva Roberts was baptized by
+Leo Monck Mar 17, 1917 and was Confirmed
+the same day by Wm Lingen.
+
+April 16, 1917
+
+David L Roberts was ordained to the office of
+a Priest by John Lingen who holds the office
+of a H P on Mar. 18, 1917 at Ogden Utah.
+
+Ogden Uth. Feb. 10-1918.
+
+Robert Merddyn Roberts was ordained
+to the office of a Teacher by John Lingen
+who holds the office of a High Priest
+on the above named date at the First
+Ward Ogden, Utah.
+
+Ogden Uth. March 7-1918
+
+William Reed Washington Roberts son of
+David R and Tryphena Roberts was
+was baptized by Wm H. Ellis on the
+above date in the Baptismal font
+at the First Ward Meeting House
+Ogden, Utah; and was confirmed the
+same date at the First Ward Meeting
+House by Bishop David H Ensign.
+
+### Editorial annotations
+
+First-pass visual transcription. This page contains blessing, baptism, confirmation, and ordination entries. Several officiator surnames and the spelling of Merddyn require review.
+
+## PDF page 118
+
+Stable ID: `journal-rdr-page-118`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Oct. 6 - 1917
+
+Angelia Bordley Roberts wife of
+Hugh Roberts gave birth to
+a son (about 1 oclock A.M. mother
+& child doing well.
+
+Nov. 4 - 1917
+
+The son born to Hugh R & Angelia
+Roberts was blessed his name
+James Bordley Roberts blessed by
+his Grandfather Robert D. Roberts.
+
+A Short History of James Bordley
+James Bordley son of Robert & Jane
+Pittman who emigrated from England
+to Cape Colony Africa.
+James Bordley son of Robert &
+Jane Pittman Bordley was born at
+Cape town South Africa [unclear: April]
+[unclear: 14] [unclear: 1840]. Africa with my parents
+moved to Port Elizabeth from
+there to [unclear: Bushmans River].
+I then [unclear: lived] in the [unclear: interior]
+embraced the Gospel of Jesus Christ
+and at the age of ten (10) in
+the year 1860 [unclear: returned]
+with my parents started for
+America [unclear: sailing] [unclear: vessel]
+Noble [unclear: City] Oct 3 1860 arrived
+in New York [unclear: twenty]
+and in Johnson 1861 father
+bought a [unclear: farm] in [unclear: Norridgeville]
+Illinois Co [unclear: stayed] with my
+parents until I was married
+on Dec 15 1869 to Mary [unclear: Davies]
+by D. J. [unclear: Mills] 1870 moved
+to Cache Valley where I have
+made my home have since
+
+### Editorial annotations
+
+First-pass visual transcription. A birth/blessing entry is followed by a first-person family history of James Bordley that continues onto PDF page 119. Names, dates, African and American place names, and several migration phrases require review.
+
+## PDF page 119
+
+Stable ID: `journal-rdr-page-119`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+To our this union there was borne 11
+children six Boys & 5 Girls.
+
+July 5 1886 I married Mary Caroline
+Stephenson 5 Girls born to this union in
+1896 Mary C. Died.
+
+I have filled numerous positions of trust
+in the church at present I hold Branch
+Presidency Priest Quorum in the Andes
+Stake I have held positions of trust
+in the county of Oneida I was Justice
+of the Peace for 14 years County Com-
+missioner three terms as Probate Judge
+in Bingham Co. State of Idaho.
+
+Ogden Utah Feb 17-1920
+
+Robert W. Roberts son of David
+R and Tryphena Davis Roberts was
+called in January 1920 to go on a
+mission to the Northern States
+to leave Salt Lake City Feb. 18-1920.
+He was ordained an Elder by
+Bp. D. H. Ensign on Feb 8-1920.
+He received his Endowments in
+the Salt Lake Temple Feb. 13-1920.
+He was ordained a Seventy Feb. 17 1920
+by Seymour B. Young of the First
+Council of Seventy and was set
+apart to be a missionary of
+the Church of Jesus Christ of
+Latter Day Saints to labor in
+the Northern States by Apostle
+Stephen L. Richards on Feb. 17-1920
+at the Church Headquarters
+Salt Lake City, Utah. His mother
+accompanied him to Salt Lake City.
+He was released to return home by
+Pres. Heber J. Grant Nov. 18-1921
+
+### Editorial annotations
+
+First-pass visual transcription. The page completes James Bordley's family history, then records Robert W. Roberts's Northern States mission and release. This is the final content page of the physical PDF; no blank or non-content terminal page follows. Several place, office, and family-name readings require review.
