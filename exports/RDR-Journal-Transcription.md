@@ -9,9 +9,9 @@ PDF pages: 119
 
 > The opening portion is an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material.
 
-Pages with transcription text: 83 / 119
+Pages with transcription text: 88 / 119
 
-Untranscribed PDF pages: 84-119
+Untranscribed PDF pages: 89-119
 
 ## PDF page 1
 
@@ -4314,3 +4314,254 @@ R D Roberts Jan. 24th 1907
 ### Editorial annotations
 
 First-pass visual transcription completed. The birth record from page 82 ends at the top. A complete repeated record of Eliza Roberts's blessing follows and ends with an explicit R D Roberts dated notation. The repetition corroborates the blessing text on pages 75-76 but does not conclusively resolve their uncertain setting-apart name or establish a broader hand transition.
+
+## PDF page 84
+
+Stable ID: `journal-rdr-page-084`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+Loa Wayne County Utah Feb 2nd 1906
+
+A Patriarch Blessing given by Elias H Blackburn
+Patriarch upon the head of Jane Roberts born May 16th 1906
+in Logan Utah
+
+Jane Roberts In the name of the Lord Jesus
+and in the authority of the Priesthood I lay my hands
+upon thy head and seal upon thee thy Patriarchal
+Blessing that thou mayest be blest and not be over-
+come by temptation Thou art a child of promise blest of
+the Lord Blest shall be thy body and soul Blest to
+expand in body and soul to grow until womanhood
+Blest to become great and mighty. blest against the
+powers of the destroyer to grow and develop temporally
+and spiritually and become great in the Lord for thou
+art greatly blest let thy parents point thee properly
+forwardly great things await thee. Blest to live for
+thy mind shall be opened before thee temporally and
+spiritually for thou was born to become great and mighty
+and thy guardian angel will watch over thee preserve
+thee to fill thy mission for thy lineage of the promised
+seed a descendant of Ephriam and thereby thou art
+entitled to the blessing of the daughter of Zion and
+belong of the mothers in Israel. Blest in thy childhood
+in thy womanhood for verily great things await thee
+for thou art destined to take an active part in Israel
+and thou will be blest to labor much amongst thy
+sisters thy mind will expand thy understanding will
+increase and as a preacher of righteousness amongst
+thy sister few will excel thee for thou will be called and
+will be chosen to bear the glad tidings of great joy unto
+many. Thou shall be blest in thy probation for thou
+did agree in the spirit life to come to Earth and be
+valiant for the testimony of Jesus. I seal upon thee
+thy former appointments educate thyself for thou will
+become mighty and strong in the Lord, for the blessings
+of the Lord will be upon thee and upon thy posterity
+
+### Editorial annotations
+
+First-pass visual transcription completed. The patriarchal blessing for Jane Roberts continues onto PDF page 85. The heading appears to date the blessing February 2, 1906, while the introduction appears to give Jane's birth as May 16, 1906; the apparent chronological contradiction is preserved as written.
+
+## PDF page 85
+
+Stable ID: `journal-rdr-page-085`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+forever for in the due time of the Lord He will give unto
+thee a hand in the Temples and gathering up the dead
+the authority thousands of thy own will call thee blest and
+none of them will be lost for through thy faith thou shall stand
+and overcome every obstacle and the day will come when thy oppor-
+tune and talent will be given unto the Church of Christ
+for by one degree to another will thy course be onward and
+upward to the Celestial world. I bless thee with the gift of
+faith which through thy gift thou will do much good for thou
+was born to become a leader for it was to preach the
+gospel to preside direct many of thy sisters was thou born
+into the world for thou shall be blest in thy journey of life
+and the temptations and the trials thou shall have power to
+overcome them for the angel of thy presence will watch over
+thee. The light of revelation shall guide thee for thou
+shall be warned by the Holy spirit of dangers that may
+await thee, for the Lord thy god will give thy guardian
+angel charge concerning thee prepare every needful thing for
+mighty changes await thee for in thy glorious pilgrimage, mis-
+sion on the Earth many will seek counsel at thy hands and
+thou art blest this day to become equal to all and be
+many requirements that the Lord thy God will make of
+thee for verily thy life will be a busy one and thou will
+grow and increase and become great as great as thou can
+desire and the blessing of the Lord will be upon thee
+and upon thy posterity forever. and thou art blest to
+have power to become the worth and exerting be number-
+ed with the sanctified. In due time thou shall be blest
+in the Lords Holy House and become a savior upon mount
+Zion Blest to receive the keys and powers to waft unto
+thee a passage to the Celestial world. Thou shall be blest
+in thy life with the good things of the Earth yea thou
+will be blest with a temporal salvation and thou shall
+be blest with faith with wisdom with Knowledge thy life
+concerns the living the dead and the unborn and the
+Lord will be with thee through all thy life long therefore
+be not discouraged for the Lord will be with thee. His
+
+### Editorial annotations
+
+First-pass visual transcription completed. Continuation of Jane Roberts's blessing from PDF page 84; it continues onto PDF page 86. The phrase concerning temple work includes a short interlined addition, transcribed in reading order. Several grammatically irregular clauses are preserved as written and require review.
+
+## PDF page 86
+
+Stable ID: `journal-rdr-page-086`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+spirit inspire thee and after thou has finished a long
+life in mortality thou will continue in the spirit life
+and finally receive a glorious resurrection with husbands
+a great posterity crown of eternal life exaltation in
+the Eternal world. I seal upon thee these blessing
+through thy continuance in the name of the Lord
+Jesus Christ thy Redeemer Amen.
+
+Recorded in Loa Wayne County Utah in
+Book 10 page 183 No 2017 by E. H. Blackburn
+Patriarch
+
+Loa Wayne County Utah
+Feb 12th 1906
+
+A Patriarch Blessing given by Elias H. Blackburn
+Patriarch upon the head of Eliza Neagle Roberts born
+Sept. 12th 1858 in Ireland
+
+Sister Eliza
+In the name of the Lord Jesus and in the author-
+ity of the Holy Priesthood I lay my hands upon thy
+head and seal upon thee thy Patriarchal blessing that
+thou mayest be blest and not overcome by temptation.
+Thou art greatly blest of the Lord a spirit well inured
+to come forth in this the last dispensation to lay
+an eternal foundation for the living and the dead for
+thy life concerns the living and the dead and unborn.
+Thou art greatly blest of the Lord to come forth in this
+day and time and thou art blest with a good lineage
+of the seed of Joseph and a descendant of Ephraim
+and thereby thou art entitled to the blessing of the dau-
+ghter and mothers in Israel thou art blest to believe
+the Gospel blest in coming to this earth for thou did
+agree in the spirit life to come to earth to labor and
+do a great work in the last dispensation for thou did
+keep thy first estate and thou art blest on the second
+and a great and a mighty work lies before thee in this
+
+### Editorial annotations
+
+First-pass visual transcription completed. Jane Roberts's blessing ends near the top with a recording notation by E. H. Blackburn. A patriarchal blessing for Eliza Neagle Roberts begins below and continues onto PDF page 87. One corrected/overwritten word in the second blessing is transcribed by its apparent final reading, "for."
+
+## PDF page 87
+
+Stable ID: `journal-rdr-page-087`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+life. thou will work for the living and the dead thy soul shall
+be inspired by the Holy spirit thy life will be a busy one for
+thou will surely become a great preacher of righteousness for thou
+thou be blest with speech blest with language and have much
+influence amongst thy sisters. and the day will come that thou
+shall stand before thousands in this capacity many will seek
+counsel at thy hands for thou was born to become a leader am-
+ongst thy sisters seek this earnestly and few will excel thee.
+and thou shall be blest to lay this eternal foundation. and
+thou will honor that great name of wife and mother for it
+is thy knowledge to become a chosen vessel of the Lord. and
+thou will do much good in thy day and time for thou was
+so appointed in the heavens blest shall be thy soul and
+blest shall be thy body and the present afflictions of thy body
+through thy continuance in faith on the Lord Jesus will leave
+thee and thou shall become strong in body and soul. for thy
+name is written in the Lambs book of life to come to earth to
+fill this glorious mission to lay an eternal foundation and
+thou will have joy and rejoicing in day of the Lord Jesus
+therefore do thy whole duty and the powers of satan shall not
+have dominion over thee thy posterity will be endless and none of
+them will be lost therefore let thy heart be comforted for thy
+course will be onward and upward to the Celestial world. thy
+life will be a busy one in mortality for thou will be called
+to labor much amongst thy sisters will hold important sta-
+tions amongst them seek it earnestly and thou shall have
+the gift of faith. and thou shall heal the sick comfort
+the afflicted and thou will be called a comforter for verily
+thy life will be a busy one for thou art called of the Lord to
+lift up thy warning voice and show thyself approved before
+the Lord for thou hast a mission a calling a duty to perform
+for the living and the dead. and thou art blest this day
+to become equal to all the requirements in the Lord Blest
+in the Lords Holy House with keys and powers to waft
+thee a passage to the Celestial world. and thou shall
+have dreams and visions presentments, revelations pert-
+
+### Editorial annotations
+
+First-pass visual transcription completed. Continuation of Eliza Neagle Roberts's patriarchal blessing from PDF page 86; it continues onto PDF page 88. The duplicated "thou" near the top is preserved as written.
+
+## PDF page 88
+
+Stable ID: `journal-rdr-page-088`
+
+Transcription status: `needs-review`
+
+### English transcription
+
+aining to thy departed progenitors and thou will bec-
+ome a savior upon mount Zion for many spirits are
+watching over thee at this time through prayer and
+faith and the visions of eternity will these things be re-
+vealed unto thee thou shall be blest in this life with
+food and with raiment and riches for thou shall not
+lack all sufficient to carry on thy work on the earth on
+ending thy joy will be full and no good thing will be
+withheld from thee. and with joy and rejoicing behold
+the face of thy Redeemer and have joy and rejoicing
+in the day of the Lord Jesus and after thou hast fin-
+ished a long and a glorious pilgrimage on the Earth
+thou shall be blest in thy departure to the spirit life
+and blest to receive a glorious resurrection with husb-
+and and great posterity an exaltation in the Celestial
+world through thy continuance. I seal upon thee these
+blessing by the authority of the Holy Priesthood in
+the name of the Lord Jesus Christ Amen.
+
+Recorded In Loa Wayne County Utah
+In Book 10 Page 181 No 2016 By E. H. Blackburn
+Patriarch
+
+Logan City May 4th 1907
+
+My wife Eliza Neagle Roberts was born Septem-
+ber 12th 1858 in Limoe County Down Ireland Baptized
+January 5th 1890 by Elder Edward Perkins confirmed by
+Elder Alma Hale her parents are John Neagle and
+Agnes Aister Neagle she emigrated to Utah started
+September 4th 1890 arrived in Franklin Idaho September
+26th 1890 August 1891 moved to Richmond Utah from
+her moved to Logan April 1892 February 4th 1895
+she was married to Robert David Roberts there born
+to us four children 2 boys & 2 girls Their names are
+Agnes Aister, John Neagle who died the next day after
+his birth Thomas and Jane Roberts in 1901 she begin
+
+### Editorial annotations
+
+First-pass visual transcription completed. Eliza Neagle Roberts's blessing ends with a recording notation by E. H. Blackburn. A biographical record for the writer's wife, Eliza Neagle Roberts, begins below and continues onto PDF page 89. The place written before "County Down Ireland" is uncertain and transcribed as "Limoe" pending review; compact chronology and unusual syntax are preserved.
