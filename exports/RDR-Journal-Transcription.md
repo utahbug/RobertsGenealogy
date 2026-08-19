@@ -4703,13 +4703,13 @@ David & Lillian's children names are Alfred,
 William Baker, Sarah, Blackburn, & David Rees Hopkins
 William John Hopkins died January 12th 1895
 
-Elizabeth Roberts Hughes was married Jun 13th
-1867 to Watcwm Hughes son of James Hughes &
+Elizabeth Roberts Hughes was married Jan. 19th
+1867 to Taliessin Hughes son of James Hughes &
 Margaret Jones they were both in Glamorganshire
-Wales Elizabeth & [unclear: Taliesin] had seven children
+Wales Elizabeth & Taliessin had seven children
 she died May 16th 1877 five of the children died
 Their names are James, Catherine, Ann, Margaret,
-David, Taliesin, [unclear: Hegmon] & Margaret Hughes
+David, Taliessin, [unclear: Hymenn] & Mariah Hughes
 
 Ann Hughes Cowley was married August 23rd
 1893 to John William Cowley son of John [unclear: Hiner] Cowley
@@ -4720,7 +4720,7 @@ of Thomas Davidson & Ann Davidson natives of
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Continuation of the family sketch from PDF page 90. Dense family names, one Hughes given name, and one Cowley parent name require review. The sketch continues onto PDF page 92.
+Second-pass visual comparison completed. The Hughes marriage date, Taliessin readings, and omitted Mariah were corrected. One Hughes given name and one Cowley parent name remain uncertain, so the page remains needs-review. The sketch continues onto PDF page 92.
 
 ## PDF page 92
 
@@ -4734,8 +4734,8 @@ Fifeshire Scotland John & Ann Hughes Cowley's
 children are Jessie, Elizabeth, John William &
 May Cowley.
 
-Marlah Hughes was married December 16th 1896
-to Thomas Williams son of Menach Williams & Elizabeth
+Mariah Hughes was married December 16th 1896
+to Thomas Williams son of Mesach Williams & Elizabeth
 Lewis Williams natives of South Wales Thomas & Marlah
 Hughes Williams's children are Elmar, Elizabeth, &
 Charles Williams.
@@ -4743,7 +4743,7 @@ Charles Williams.
 Robert David Roberts was married June 6th 1891
 to Hannah Roberts daughter of Hugh Roberts & Mary
 Owens Roberts Hugh & Mary Owens Roberts were
-natives of Eglures Bach Denbighshire North Wales
+natives of Eglwys Bach Denbighshire North Wales
 Robert & Hannah Roberts had two sons David
 Robert, & Hugh Roberts
 
@@ -4752,8 +4752,8 @@ was married Dec. 6th 1893 to Tryphen Davies dau-
 ghter of David T. Davies & Cely Davies they are na-
 tives of Glamorganshire South Wales David &
 Tryphen Davies Roberts's children are Tryphen
-Rhodome, David Llewelyn, Robert Meredun,
-Hannah Junita, Cely Gwen, & Florence Anita
+[unclear: Rhodone], David Llewelyn, [unclear: Robert Meredion],
+[unclear: Hannah Junata], Cely Gwen, & [unclear: Florence Anieta]
 Roberts.
 
 Hugh Roberts son of R. D. & Hannah Roberts
@@ -4775,7 +4775,7 @@ their names are Agnes Aister, John Neagle, Thomas
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Continuation of the family sketch through Roberts descendants. Several Welsh and family given names require review. This clearer statement gives Eliza Neagle's birthplace only as near Belfast, County Down, Ireland and does not conclusively resolve the page 88 word currently read as "Limoe." The sketch continues onto page 93.
+Second-pass visual comparison completed. Mariah, Mesach, and Eglwys Bach were corrected. Several descendants' given names remain uncertain, so the page remains needs-review. This statement gives Eliza Neagle's birthplace only as near Belfast, County Down, Ireland and does not conclusively resolve the page 88 birthplace. The sketch continues onto page 93.
 
 ## PDF page 93
 
@@ -4808,7 +4808,7 @@ Daniel Hughes was married
 to Emily Jones daughter of Margaret Jones
 they are natives of Wales
 Daniel & Emily Jones Hughes's children's names
-are Jane, Daniel, Margaret, Llewelyn & Catherine
+are Jane, Daniel, Margaret, Llewlyn & Catherine
 Hughes
 
 James Hughes was married October 9th 1900
@@ -4818,7 +4818,7 @@ Hughes's children's names are Melga, Emily, & Jane
 Hughes
 
 Margaret Hughes was married December 16th
-1896 to John R. Williams son of Menach Williams &
+1896 to John R. Williams son of Mesach Williams &
 Elizabeth Lewis natives of Wales John R & Margaret
 Hughes Williams's children are Melvin & Olga
 Williams
@@ -4830,13 +4830,13 @@ England Mary Lusk was Born
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Continuation of the family sketch, listing Jane Roberts Hughes's family and marriages. Several given names and the surname Bolingbrook require review. The record continues onto PDF page 94.
+Second-pass visual comparison completed. Llewlyn and Mesach were corrected. Several family names remain review-sensitive, so the page remains needs-review. The record continues onto PDF page 94.
 
 ## PDF page 94
 
 Stable ID: `journal-rdr-page-094`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4855,7 +4855,7 @@ Roberts was married to Ashley Bell
 They had one child her name Margaret Bell
 Margaret Roberts Bell died [blank] the baby died
 
-Thomas David Roberts was married Feb. 25th 1881
+Thomas David Roberts was married Feb. 24th 1881
 to Margaret Goodman Davies daughter of Robert Davies
 & Ann Davies they are natives of Rhuthun Denbigh-
 shire Wales Thomas & Margaret Goodman Davies Roberts
@@ -4869,7 +4869,7 @@ very gratifying I dont think that there is very bad
 character among them so far this is very pleasing to
 meditate upon that they are to a certain extent have
 respect for the laws of God and the country we live in
-Our inches per year has been little over 1 1/2 that dont
+Our increase per year has been little over 1 1/2 that dont
 show that we have been very thrifty we ought to have
 been able to four times that we see that there are 20 of
 grand & great grand children bearing the name of Roberts
@@ -4884,7 +4884,7 @@ marriages and who they related to as much as I
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Continuation of the family sketch. Blank spaces after Margaret Bell's death and in Jared W. Roberts's marriage entry are preserved as manuscript blanks. One statistical phrase appears to read "Our inches per year" and requires review. The concluding reflection continues onto PDF page 95.
+Second-pass visual transcription reviewed. The marriage date was corrected to Feb. 24th 1881, and the statistical phrase was resolved as "Our increase per year." Blank spaces after Margaret Bell's death and in Jared W. Roberts's marriage entry are preserved as manuscript blanks. The concluding reflection continues onto PDF page 95.
 
 ## PDF page 95
 
@@ -4906,7 +4906,7 @@ Cache Co. to a sweet strong and healthy little girl July
 5th she was blessed by her father aided by the Bish-
 oprick her name Albion Geneva Roberts
 
-July 28th 1908 Robert Meredith Roberts was
+July 28th 1908 Robert [unclear: Meridyan] Roberts was
 Baptized in Logan Temple by Jacob Miller confir-
 med by Thomas Morgan
 
@@ -4922,7 +4922,7 @@ Logan City March 31st 1909
 
 On March 5th we went to Logan Temple to do work
 of sealing for our dead grandparents in three family
-relation there present William Waterson Robert David
+relation Their present William Waterson Robert David
 Ann Roberts Hopkins Jane Roberts Hughes
 Thomas Morgan doing the sealing Joseph C Cowley
 
@@ -4933,12 +4933,12 @@ children are as follows
 Thomas Richards and Morris Richard were born about
 the year 1780 their children are
 Jane Thomas Isaac born about 1805 died
-Catherine Thomas Roberts born June 25th 1807 died [unclear: Nov. 17th 1892]
+Catherine Thomas Roberts born June 25th 1807 died Nov. 17th 1892 at Logan
 Richard Thomas born about 1809 died about May 16th 1877
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The family sketch begun on PDF page 90 ends in the opening paragraph. Subsequent records concern births, blessings, baptism, temple sealings, and the beginning of a Richards genealogy that continues onto PDF page 96. Marginal temple-work dates and several names/dates require review.
+Second-pass visual comparison completed. The first name in Robert Roberts's baptism entry is now explicitly marked uncertain; "Their present" and Catherine Roberts's death date/place were corrected. That uncertain given name and several genealogy names remain review-sensitive, so the page remains needs-review. The family sketch begun on PDF page 90 ends in the opening paragraph; the Richards genealogy continues onto PDF page 96.
 
 ## PDF page 96
 
