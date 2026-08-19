@@ -73,7 +73,7 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/rdr/journal-rdr-page-001.jpg",
       "transcriptionFile": "data/journals/rdr/pages/001.md",
-      "transcriptionStatus": "needs-review",
+      "transcriptionStatus": "reviewed",
       "hand": null,
       "contentAuthor": null,
       "contentAuthorId": null,
@@ -82,7 +82,7 @@
       "editor": null,
       "editorId": null,
       "attributionStatus": "unassigned",
-      "attributionBasis": "Page-level authorship has not yet been established from handwriting, date, signature, explicit statement, or contextual evidence; no attribution is inferred from PDF position.",
+      "attributionBasis": "The front cover contains only a catalog label and provides no authorship evidence.",
       "relatedJournalPassages": []
     },
     {

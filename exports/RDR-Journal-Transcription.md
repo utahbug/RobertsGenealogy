@@ -17,20 +17,18 @@ Untranscribed PDF pages: None
 
 Stable ID: `journal-rdr-page-001`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
-[unclear cover label:]
-
 Ms
-4
+d
 1726
-Ea 2
+fd 2
 
 ### Editorial annotations
 
-Front cover. No manuscript page number has been identified. The cover label requires visual review.
+Front cover. No manuscript page number has been identified. Complete second-pass visual review performed; the four-line catalog label is legible.
 
 ## PDF page 2 - manuscript page 2
 
@@ -52,14 +50,14 @@ FAMILY AND OTHER IMPORTANT MATTERS.
 WRITTEN AND COMPILED BY ROBERT D.
 ROBERTS OF LOGAN, UTAH.
 
-[unclear handwritten signature]
+[unclear: S. R. Roberts]
 Ogden Utah
 Aug 1948
 Chairman
 
 ### Editorial annotations
 
-Inside-cover source label. The typed label is legible; the later handwritten signature or attribution needs visual review and may be in another hand.
+Inside-cover source label. Complete second-pass visual comparison performed, but the later handwritten signature remains uncertain and may be in another hand; the page therefore remains needs-review.
 
 ## PDF page 3 - manuscript page 3
 
@@ -72,13 +70,13 @@ Transcription status: `needs-review`
 Genealogy of David Robert Roberts
 which he wrote January 6, 1854, in the Welsh language
 and translated to the English by Robert David Roberts,
-and [unclear: commenced to copy it into this book] January 14, 1886.
+and commence to copyed to this book January 14, 1886.
 
 Behold, what follows is a few of my ancestry, as
 I could get them.
 
-I was born on the year 1814. April 14 in [unclear: Llwyniant]
-then Parish of Festiniog in a house called Rhos then on the
+I was born on the year 1814. April 14 in Merioneth
+shire Parish of Festiniog in a house called Rhos then on the
 old estate of the renowned Lord Dudley Nanney the
 place is located present with Beddygelert in Carnarvonshire.
 My parents gave birth to eight children their names
@@ -115,7 +113,7 @@ Lloyd and Catherine Jones Cae-[unclear] Llanfrothen they
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 3. The opening identifies this as an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material. Uncertain Welsh place and property names remain explicitly marked for later visual review.
+Second-pass visual comparison corrected the opening copy statement and the birthplace county. The opening identifies this as an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material. Several Welsh place and property names remain too uncertain for reviewed status.
 
 ## PDF page 4 - manuscript page 4
 
