@@ -4053,7 +4053,7 @@ First-pass visual transcription completed. Cathrine Hughes's blessing ends at th
 
 Stable ID: `journal-rdr-page-079`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4083,8 +4083,8 @@ buried on the 4th the services commence in the third
 Ward meeting house at one o clock the quire
 was lead by Alexander Lewis prayer by Lars
 Larson the first speaker Andrew Peter Eliason
-Bishop Cardon of the first Ward Russell Bullon
-Willard W. Maughan & William Walters Benedic-
+Bishop Cardon of the first Ward Russell Bullen
+Willard M. Maughan & William Walters Benedic-
 tion by James Larson Bishop Yeates was not able
 to be present on account of been sick the remarks
 were affection consoling and instructive the grave
@@ -4097,7 +4097,7 @@ R. D. Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed. John Neagle's funeral account ends at the top, followed by separate birth/blessing and death/burial records. Historical wording and spellings are preserved. Several officiator and pall-bearer names require review. Three explicit R. D. Roberts signatures identify these entries but do not establish a broader hand transition.
+Second-pass visual review completed. John Neagle's funeral account ends at the top, followed by separate birth/blessing and death/burial records. Historical wording and spellings are preserved. Three explicit R. D. Roberts signatures identify these entries but do not establish a broader hand transition.
 
 ## PDF page 80
 
@@ -4137,7 +4137,7 @@ the world thou art blest with a good lineage a descen-
 dant of Ephraim and an heir to the Priesthood thou
 art blest to come forth in this day and age of the
 world and to lay a foundation for Eternity. The powers
-of Satan has sought to destroy thy existence thy reborn
+of Satan has sought to destroy thy existence thy reason
 but inasmuch as thou and thy parents will exercise faith
 in the Lord and good works observing the laws of the
 Gospel thou shalt be blest and have power to overcome
@@ -4148,7 +4148,7 @@ that has disturbed thy mind shall leave thee for it
 is through faith and obedience that the blessings of
 the Lord will come unto thee. Seek the Lord
 earnestly, for there is nothing impossible with the
-Lord, thou the creature does no their part the mercies
+Lord, when the creature does on their part the mercies
 
 ### Editorial annotations
 
@@ -4158,7 +4158,7 @@ First-pass visual transcription completed. An ordination note precedes a patriar
 
 Stable ID: `journal-rdr-page-081`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4180,50 +4180,50 @@ spirit life with the father did agree to come to mortality
 fill a probation receive a body to pass through trials
 sorrows and afflictions to purify the body that thou
 may be prepared for a glorious resurrection, let
-thy body and mind especially, be calm devoid and
-so long blessing will come unto thee and mind will
+thy body and mind especially, be calm devoted and
+all good blessing will come unto thee and mind will
 expand the understanding will increase and after
 the trials of mortality have joy and rejoicing
 in the day of the Lord Jesus. The spirit of the
 Lord is with thee to be contented in thy mind
 and be not be discouraged for the mercies of the
-Lord will endure unto the forever for the eye
+Lord will endure unto thee forever for the eye
 of the Lord is upon thee and for thy obedience
 and belief in the Gospel the Lord will remember
 thee in mercy through the condition named
-unto thee through will do good work for thy pro-
+unto thee thou will do good work for thy pro-
 genitors and become a savior upon Mount Zion.
 And the Lord in blessing thee He will bless
 and increase thee and make thee equal to all
 the requirements for there is a work for thee to
 do in mortality. Be faithful and humble before
 the Lord and all blessing and promises through
-faith will come unto thee and prolong thy joy
+faith will come unto thee and enlarge thy joy
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page continues David William Roberts's blessing from PDF page 80 and continues onto PDF page 82. Several awkward clauses are preserved as written and require review.
+Second-pass visual review completed. This page continues David William Roberts's blessing from PDF page 80 and continues onto PDF page 82. Awkward historical clauses are preserved as written.
 
 ## PDF page 82
 
 Stable ID: `journal-rdr-page-082`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
 will be full and the way will be open before
 thee seek earnestly to control thy mind and
 thou shalt be blest peace will reign within
-thy soul thou shalt be blest in the Lord shalt gain
+thy soul thou shalt be blest in the Lords House
 to do a work for thy progenitors there, thou
 shall be blest in mortality with a temporal
-salvation good and remain for thou will lack
+salvation food and raiment for thou will lack
 and in the due time of the Lord He will make
-thee a forebearer of righteousness and after
+thee a preacher of righteousness and after
 thou has finished thy earthly pilgrimage thou
 will continue for a time in the spirit life
-receive a glorious resurrection with thy poster-
+receive a glorious resurrection with wife with poster-
 ity. I seal upon thee these blessing through thy
 continuance in the truth by virtue of the Priest-
 hood and in the name of the Lord Jesus Christ
@@ -4244,7 +4244,7 @@ name Hannah Maria Roberts
 Sept 15th 1906
 
 David Llewelyn Roberts was Baptized in Logan
-Temple by Lewis Miller Confirmed by Joseph M Smith
+Temple by Lewis Miller Confirmed by Joseph E Smith
 September 11th 1906 Son of David R. & Tryphen Davies Roberts
 
 Oct 21st 1906
@@ -4256,13 +4256,13 @@ eight pounds (8 lbs) was blessed October 5th by her father
 
 ### Editorial annotations
 
-First-pass visual transcription completed. David William Roberts's blessing ends near the top with recording information. Separate birth, baptism, and birth/blessing records follow; the last record continues onto PDF page 83.
+Second-pass visual review completed. David William Roberts's blessing ends near the top with recording information. Separate birth, baptism, and birth/blessing records follow; the last record continues onto PDF page 83.
 
 ## PDF page 83
 
 Stable ID: `journal-rdr-page-083`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4276,7 +4276,7 @@ A blessing given by John Smith Patriarch upon the head
 of Eliza Roberts daughter of John & Agnes Neagle Born near Belfast
 County Down Ireland September 12th 1858
 
-Sister Eliza Roberts thou art of the house of Ismael and
+Sister Eliza Roberts thou art of the house of Israel and
 although born in a foreign land. Thou art numbered among the
 daughters of Zion and thy pathway is marked out and thy
 duty shall often be made known unto thee from time to time as
@@ -4312,7 +4312,7 @@ R D Roberts Jan. 24th 1907
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The birth record from page 82 ends at the top. A complete repeated record of Eliza Roberts's blessing follows and ends with an explicit R D Roberts dated notation. The repetition corroborates the blessing text on pages 75-76 but does not conclusively resolve their uncertain setting-apart name or establish a broader hand transition.
+Second-pass visual review completed. The birth record from page 82 ends at the top. A complete repeated record of Eliza Roberts's blessing follows and ends with an explicit R D Roberts dated notation. The repetition corroborates the blessing text on pages 75-76 and confirms "house of Israel," but does not establish a broader hand transition.
 
 ## PDF page 84
 
