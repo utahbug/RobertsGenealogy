@@ -561,7 +561,7 @@ Complete second-pass visual verification performed. The overwritten month and th
 
 Stable ID: `journal-rdr-page-012`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -596,7 +596,7 @@ May 4th 1871.
 February 8th 1871.
 
 Elizabeth our sister wife of Talisien Hughes
-gave birth [interlined, unclear: in Farmington Utah Cache County] to a pair of twins two little girls their names
+gave birth [interlined: in Farmington Utah Davis County] to a pair of twins two little girls their names
 are Ann & Margaret. Ann was born at nine forty (9.40)
 in the evening Margaret at ten thirty (10.30) Ann weight
 five pounds three quarter, 5 3/4 lbs; Margaret five pounds one quarter,
@@ -607,7 +607,7 @@ February 9th 1871.
 
 ### Editorial annotations
 
-Targeted review resolved Benjamin M. Lewis using the manuscript letterforms and the clearer repeated occurrence on page 51. The June travel date and Eglwys bach were previously resolved, with the latter corroborated by page 66. The interlined Utah location remains materially uncertain, so the page remains needs-review.
+Targeted review resolved Benjamin M. Lewis using the manuscript letterforms and the clearer repeated occurrence on page 51. The June travel date and Eglwys bach were previously resolved, with the latter corroborated by page 66. Focused visual reinspection resolved the interlined location as `in Farmington Utah Davis County`; no substantive transcription uncertainty remains.
 
 ## PDF page 13 - manuscript page 13
 
@@ -1847,6 +1847,8 @@ before came to Utah spent the most of her time as
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. Several family-history phrases, a surname, a place name, and parts of the migration chronology remain uncertain. The passage continues directly onto PDF page 36. The preserved source image was not altered. Status: needs review.
+
+Targeted external-evidence review identifies the manuscript's `Worthington landing` as the historical Worthington's Landing on the Mississippi River. Samuel Cumings's 1847 *The Western Pilot* uses `Worthington's Landing` in its written navigation directions and `Worthington Landing` on the accompanying map; the historical newspaper clipping supplied by the editor independently uses `Worthington's landing`. The manuscript form is preserved rather than normalized. The later Roberts genealogy account and Welsh Saints presentation are treated as derivative family-history evidence, not as two independent confirmations.
 
 ## PDF page 36
 
