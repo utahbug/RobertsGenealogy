@@ -3468,8 +3468,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-084.jpg",
       "transcriptionFile": "data/journals/dr/pages/084.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3477,23 +3477,68 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Logan City, Gorphenaf 12, 1870\n\nMehefin 1, 1870, yn cychwyn i Smithfield i nol Hannah Roberts, tac yn dod yn ol i Logan. Tranoeth yn cychwyn i Ddinas y Llyn Halen ac yn cyrraedd yno ar y bedwaredd, 4. Ar y chweched yn myned i Dy yr Arglwydd ac am gael ein huno am amser a thragywyddoldeb gan Joseph F. Smith, un o'r Apostolion, mab Hyrum Smith y patriarch. Hugh a Mary Roberts yw rhieni Hannah. Yn bresennol y maent yn byw yn Smithfield, Sir Cache, Territory Utah. Ymfudasant o Eglwys bach, Sir Benfro, Cymru, i Ddinas y Llyn Halen yn y flwyddyn 1864.\n\nRobert David Roberts\n\nHannah Roberts a anwyd Mawrth 27, 1847, yn Eglwys bach, Sir Benfro.\n\nR. D. Roberts\n\nIonawr 4, 1871\n\nAnn ein chwaer a roddodd enedigaeth i fab glan yn chweg [unclear: arno] yn boreu, deg pwys. Ei enw, David Roberts Hopkin. Bendithiwyd ef gan [unclear: Benjamin M. Munnon], Mai 4, 1871.\n\nMawrth 22, 1871\n\nElizabeth ein chwaer a roddodd enedigaeth i ddwy gefeilliaid, Chwefror 8fed, 1871, yn Farmington, Utah, Davis County. Enw Ann a Margaret. Ann a aned am ddeugain munud wedi naw o'r gloch yn yr hwyr (9.40); Margaret am ddeg munud ar hugain wedi deg (10.30). Ann yn pwyso pum pwys a thri chwarter (5 3/4 lbs); Margaret yn pum pwys a chwarter (5 1/4 lbs). Mi fydd [continues on PDF page 85]",
+      "translation": "Logan City, July 12, 1870\n\nOn June 1, 1870, I set out for Smithfield to fetch Hannah Roberts and returned to Logan. The next day I set out for Salt Lake City and arrived there on the fourth. On the sixth we went to the House of the Lord to be united for time and eternity by Joseph F. Smith, one of the Apostles and a son of Hyrum Smith the patriarch. Hugh and Mary Roberts are Hannah's parents. At present they live in Smithfield, Cache County, Utah Territory. They emigrated from Eglwys bach, Pembrokeshire, Wales, to Salt Lake City in the year 1864.\n\nRobert David Roberts\n\nHannah Roberts was born March 27, 1847, at Eglwys bach, Pembrokeshire.\n\nR. D. Roberts\n\nJanuary 4, 1871\n\nAnn, our sister, gave birth to a fine son at six [unclear in Welsh: in the morning], weighing ten pounds. His name was David Roberts Hopkin. He was blessed by [unclear: Benjamin M. Munnon] on May 4, 1871.\n\nMarch 22, 1871\n\nElizabeth, our sister, gave birth to twin girls on February 8, 1871, at Farmington, Utah, Davis County. Their names were Ann and Margaret. Ann was born at forty minutes past nine in the evening (9:40); Margaret at thirty minutes past ten (10:30). Ann weighed five and three-quarter pounds (5 3/4 lbs); Margaret five and one-quarter pounds (5 1/4 lbs). [Sentence continues on PDF page 85]",
+      "notes": "- Page 84 contains three dated entries. The July 1870 marriage and family-history entry and the January 1871 Hopkin birth notice are complete; the February 1871 twins account continues onto page 85.\n- The July entry has a confirmed close-paraphrase parallel on RDR PDF page 12. RDR supplies additional travel phrasing but preserves the same chronology, relationships, Eglwys bach origin, and 1864 migration year.\n- The January entry has a confirmed parallel on RDR PDF page 12. RDR reads the blessing name as `Benjamin M. Lewis`; the Welsh letterforms on this page remain uncertain and are not forced to match RDR.\n- The twins entry has a confirmed close parallel on RDR PDF page 12. The Welsh page independently writes the Farmington, Utah, Davis County location and preserves the names Ann and Margaret.\n- The handwriting remains continuous with the signed Robert D. Roberts group on page 83. The first-person marriage narrative, `Robert David Roberts` self-identification, and `R. D. Roberts` signature support confirmed content-author and scribal attribution.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "confirmed",
+      "attributionBasis": "First-person marriage narrative, Robert David Roberts self-identification, explicit R. D. Roberts signature, and handwriting continuity with page 83 confirm content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Hannah Roberts",
+        "Joseph F. Smith",
+        "Hyrum Smith",
+        "Hugh Roberts",
+        "Mary Roberts",
+        "Ann Roberts",
+        "David Roberts Hopkin",
+        "Benjamin M. Lewis",
+        "Elizabeth Roberts",
+        "Ann Hughes",
+        "Margaret Hughes"
+      ],
+      "places": [
+        "Logan City",
+        "Smithfield",
+        "Salt Lake City",
+        "Cache County",
+        "Utah Territory",
+        "Eglwys bach",
+        "Pembrokeshire",
+        "Wales",
+        "Farmington",
+        "Davis County"
+      ],
+      "dates": [
+        "June 1, 1870",
+        "July 12, 1870",
+        "March 27, 1847",
+        "January 4, 1871",
+        "May 4, 1871",
+        "February 8, 1871",
+        "February 9, 1871",
+        "March 22, 1871"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-012",
+          "pdfPageNumber": 12,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-085",
@@ -3505,8 +3550,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-085.jpg",
       "transcriptionFile": "data/journals/dr/pages/085.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3514,23 +3559,72 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 84]\n\nMargaret yn wan ac yn edrych yn debyg na fuasai fyw ond ychydig, pan y [unclear: cawsai hi], ond y mae yn cryfhau yn awr. Bendithiwyd y ddwy Chwefror 9fed, 1871, gan Thomas J. Thomas.\n\nR. D. Roberts\n\nEbrill 10, 1871\n\nMawrth 30, 1871, am ddeugain munud wedi wyth (8.40) yn yr hwyr, Hannah Roberts fy ngwraig a roddodd enedigaeth i fab cryf a bywiog. Yr oedd ei lais mor lan a'r awel y boreu; naw pwys (9 lbs). Ei enw yw David (neu Deffy) Robert Roberts. Bendithiwyd ef gan ei daid Hugh Roberts, Ebrill 15, 1871.\n\nR. D. Roberts\n\nMawrth 2, 1872\n\nChwefror 26 daeth Alizander Lewis o Samaria, Oneida County, Idaho Territory, a newydd drwg o farwolaeth Margaret, un o efeilliaid Elizabeth ein chwaer a Taliesin Hughes. Ar y 28 derbyniais lythyr yn cynnwys yr un gofid. Mae'r fechan wedi cael annwyd trwm; oedd yn edrych fel pe buasai yn gwella, gafodd ffitiau ac ymadawodd ar Chwefror 23, 1872. Mae ei chymhares yn sal o'r annwyd, ond nid ydym yn gwybod pa fodd y mae yn bresennol.\n\nR. D. Roberts\n\nEbrill 10, 1872\n\nMawrth 6, 1872. Jane ein chwaer a Conar Hughes yn cychwyn i Ddinas y Llyn Halen i briodi. Yn cyrraedd y Ddinas ar y 9fed, ac ar yr 11eg [continues on PDF page 86]",
+      "translation": "[continuation from PDF page 84]\n\nMargaret was weak and appeared unlikely to live long, when she [unclear in Welsh], but she is now growing stronger. Both were blessed on February 9, 1871, by Thomas J. Thomas.\n\nR. D. Roberts\n\nApril 10, 1871\n\nOn March 30, 1871, at forty minutes past eight (8:40) in the evening, Hannah Roberts, my wife, gave birth to a strong and lively son. His voice was as clear as the morning breeze; he weighed nine pounds. His name is David (or Deffy) Robert Roberts. He was blessed by his grandfather Hugh Roberts on April 15, 1871.\n\nR. D. Roberts\n\nMarch 2, 1872\n\nOn February 26, Alizander Lewis came from Samaria, Oneida County, Idaho Territory, with the bad news of the death of Margaret, one of the twins of Elizabeth, our sister, and Taliesin Hughes. On the 28th I received a letter containing the same sorrow. The little one had caught a severe cold; she appeared to be improving, but suffered fits and departed on February 23, 1872. Her companion is ill with the cold, but we do not know how she is at present.\n\nR. D. Roberts\n\nApril 10, 1872\n\nOn March 6, 1872, Jane, our sister, and Conar Hughes set out for Salt Lake City to be married. They arrived in the City on the ninth, and on the eleventh [continues on PDF page 86]",
+      "notes": "- The opening completes the February 1871 twins entry begun on page 84. It has a confirmed close parallel on RDR PDF page 12. RDR smooths the uncertain Welsh clause concerning Margaret's weakness.\n- The March 30, 1871 birth entry has a confirmed close parallel on RDR PDF page 13. The Welsh preserves the parenthetical name form `neu Deffy`; RDR gives only `David Robert Roberts`.\n- The February 1872 death notice has a confirmed close-paraphrase parallel on RDR PDF page 13. The Welsh source form `Alizander Lewis` is preserved rather than normalized to RDR's `Alexander Lewis`.\n- The March 1872 Jane and Conar Hughes entry has a confirmed parallel on RDR PDF page 13 and continues onto page 86. RDR supplies the later temple and Idaho details that are not yet present on page 85.\n- The page contains the same principal Robert D. Roberts hand and multiple explicit `R. D. Roberts` signatures. First-person family language supports confirmed attribution to him as both content author and scribe. No secondary hand or copied-source layer is evident.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "confirmed",
+      "attributionBasis": "Multiple explicit R. D. Roberts signatures, first-person family language, and handwriting continuity with page 84 confirm content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Margaret Hughes",
+        "Thomas J. Thomas",
+        "Hannah Roberts",
+        "David Robert Roberts",
+        "Hugh Roberts",
+        "Alizander Lewis",
+        "Elizabeth Roberts",
+        "Taliesin Hughes",
+        "Jane Roberts",
+        "Conar Hughes"
+      ],
+      "places": [
+        "Samaria",
+        "Oneida County",
+        "Idaho Territory",
+        "Salt Lake City"
+      ],
+      "dates": [
+        "February 9, 1871",
+        "March 30, 1871",
+        "April 10, 1871",
+        "April 15, 1871",
+        "February 23, 1872",
+        "February 26, 1872",
+        "March 2, 1872",
+        "March 6, 1872",
+        "April 10, 1872"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-012",
+          "pdfPageNumber": 12,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-013",
+          "pdfPageNumber": 13,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-086",

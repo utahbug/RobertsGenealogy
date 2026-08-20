@@ -2218,22 +2218,71 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-084.jpg",
       "transcriptionFile": "data/journals/dr/pages/084.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "Primarily Welsh; later additions may include English",
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
-      "relatedJournalPassages": []
+      "contentAuthor": "Robert D. Roberts",
+      "contentAuthorId": "person-robert-david-roberts",
+      "scribe": "Robert D. Roberts",
+      "scribeId": "person-robert-david-roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "translatorId": null,
+      "editor": "OpenAI Codex-assisted transcription review",
+      "editorId": null,
+      "attributionStatus": "confirmed",
+      "attributionBasis": "First-person marriage narrative, Robert David Roberts self-identification, explicit R. D. Roberts signature, and handwriting continuity with page 83 confirm content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Hannah Roberts",
+        "Joseph F. Smith",
+        "Hyrum Smith",
+        "Hugh Roberts",
+        "Mary Roberts",
+        "Ann Roberts",
+        "David Roberts Hopkin",
+        "Benjamin M. Lewis",
+        "Elizabeth Roberts",
+        "Ann Hughes",
+        "Margaret Hughes"
+      ],
+      "places": [
+        "Logan City",
+        "Smithfield",
+        "Salt Lake City",
+        "Cache County",
+        "Utah Territory",
+        "Eglwys bach",
+        "Pembrokeshire",
+        "Wales",
+        "Farmington",
+        "Davis County"
+      ],
+      "dates": [
+        "June 1, 1870",
+        "July 12, 1870",
+        "March 27, 1847",
+        "January 4, 1871",
+        "May 4, 1871",
+        "February 8, 1871",
+        "February 9, 1871",
+        "March 22, 1871"
+      ],
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-012",
+          "pdfPageNumber": 12,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-085",
@@ -2241,22 +2290,75 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-085.jpg",
       "transcriptionFile": "data/journals/dr/pages/085.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "Primarily Welsh; later additions may include English",
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
-      "relatedJournalPassages": []
+      "contentAuthor": "Robert D. Roberts",
+      "contentAuthorId": "person-robert-david-roberts",
+      "scribe": "Robert D. Roberts",
+      "scribeId": "person-robert-david-roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "translatorId": null,
+      "editor": "OpenAI Codex-assisted transcription review",
+      "editorId": null,
+      "attributionStatus": "confirmed",
+      "attributionBasis": "Multiple explicit R. D. Roberts signatures, first-person family language, and handwriting continuity with page 84 confirm content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Margaret Hughes",
+        "Thomas J. Thomas",
+        "Hannah Roberts",
+        "David Robert Roberts",
+        "Hugh Roberts",
+        "Alizander Lewis",
+        "Elizabeth Roberts",
+        "Taliesin Hughes",
+        "Jane Roberts",
+        "Conar Hughes"
+      ],
+      "places": [
+        "Samaria",
+        "Oneida County",
+        "Idaho Territory",
+        "Salt Lake City"
+      ],
+      "dates": [
+        "February 9, 1871",
+        "March 30, 1871",
+        "April 10, 1871",
+        "April 15, 1871",
+        "February 23, 1872",
+        "February 26, 1872",
+        "March 2, 1872",
+        "March 6, 1872",
+        "April 10, 1872"
+      ],
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-012",
+          "pdfPageNumber": 12,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-013",
+          "pdfPageNumber": 13,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-086",
