@@ -3225,8 +3225,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-081.jpg",
       "transcriptionFile": "data/journals/dr/pages/081.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3234,23 +3234,57 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 80]\n\nOwen Owens mab i Owen ac Elizabeth Owens, gynt o Harlech, Sir Feirioneth. Ei alwedigaeth oedd dilledydd, ond y mae yn awr yn [unclear: gymeryd gofal gwerdu] Brigham P. Young, ac yn bwriadu i gymeryd ty yn y Dinas y Llyn Halen am yr haf canlynol.\n\nR. D. Roberts\n\nLogan City, Ionawr 23, 1867\n\nAr y nawfed o Ragfyr yn y flwyddyn 1866 cychwynodd Ann, ein chwaer, i Ddinas y Llyn Halen Mawr i gael ei golchi a'i heneinio yn nhy yr Arglwydd. Priodwyd a seliwyd hi a bachgen o'r enw William Hopkin ar y 18fed Rhagfyr 1866. Cafodd ei dad a'i frawd eu lladd mewn gwaith glo yn Nghymru, ac amryw o Saint eraill [unclear: yr un pryd]. Mae ei fam ef yn byw yma yn Logan, wedi priodi un o'r enw William Davies. Mae William Hopkin ac Ann yn byw mewn ty o'i eiddo ef, ac yn edrych yn lled gytun a chysurus.\n\nR. D. Roberts\n\nLogan City, Chwefror 4, 1867\n\nAr y 15fed o Ionawr yn y flwyddyn 1867 unwyd Elisabeth, ein hail chwaer, a bachgen o'r enw Taliesin Hughes, gan yr Esgob Thomas Tarbet [continues on PDF page 82]",
+      "translation": "[continuation from PDF page 80]\n\nOwen Owens, son of Owen and Elizabeth Owens, formerly of Harlech, Merionethshire. His occupation was tailor, but he is now [unclear in Welsh: managing Brigham P. Young's store], and he intends to take a house in Salt Lake City for the following summer.\n\nR. D. Roberts\n\nLogan City, January 23, 1867\n\nOn the ninth of December in the year 1866, Ann, our sister, set out for Salt Lake City to be washed and anointed in the house of the Lord. She was married and sealed to a young man named William Hopkin on December 18, 1866. His father and brother were killed in a coal mine in Wales, together with several other Saints [unclear in Welsh: at the same time]. His mother lives here in Logan, having married a man named William Davies. William Hopkin and Ann live in a house that he owns, and appear fairly harmonious and comfortable.\n\nR. D. Roberts\n\nLogan City, February 4, 1867\n\nOn January 15 in the year 1867, Elisabeth, our second sister, was united with a young man named Taliesin Hughes by Bishop Thomas Tarbet [continues on PDF page 82]",
+      "notes": "- The opening paragraph completes the March/April 1865 marriage entry begun on PDF page 80. It identifies Ann's husband as Owen Owens, gives his parents as Owen and Elizabeth Owens of Harlech, Merionethshire, and ends with an explicit `R. D. Roberts` signature. No clear RDR English parallel has yet been located for this entry.\n- The January 23, 1867 entry has a confirmed parallel on RDR PDF page 10. RDR closely paraphrases the Welsh account of Ann's December 1866 journey, marriage and sealing to William Hopkin, the mining deaths of his father and brother, his mother's marriage to William Davies, and the couple's Logan household. RDR expands some explanatory phrasing and should not be substituted for the Welsh text.\n- The February 4, 1867 entry begins the account of Elisabeth's January 15 marriage to Taliesin Hughes and continues onto Welsh PDF page 82. Its opening has a confirmed parallel on RDR PDF page 10. The spelling `Elisabeth` is preserved from the Welsh manuscript rather than normalized to RDR's `Elizabeth`.\n- The page contains one continuous handwriting group. Two explicit `R. D. Roberts` signatures, first-person family language, and continuity with nearby signed entries support Robert D. Roberts as both scribe and content author for the completed entries. The final entry is provisionally attributed to him by handwriting and narrative continuity pending inspection of its continuation on PDF page 82.\n- Page 81 adds no context that resolves the page-79 Welsh `1859` versus RDR `1856` disagreement or the page-80 provisional January date versus RDR's January 27. Those source differences remain preserved.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Two explicit R. D. Roberts signatures, first-person family language, and handwriting continuity confirm Robert D. Roberts as scribe and content author for the completed entries; the final unsigned entry is probable pending its continuation on page 82.",
+      "people": [
+        "Robert D. Roberts",
+        "Owen Owens",
+        "Elizabeth Owens",
+        "Brigham P. Young",
+        "Ann Roberts",
+        "William Hopkin",
+        "William Davies",
+        "Elisabeth Roberts",
+        "Taliesin Hughes",
+        "Thomas Tarbet"
+      ],
+      "places": [
+        "Harlech",
+        "Merionethshire",
+        "Salt Lake City",
+        "Logan City"
+      ],
+      "dates": [
+        "December 9, 1866",
+        "December 18, 1866",
+        "January 15, 1867",
+        "January 23, 1867",
+        "February 4, 1867"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-010",
+          "pdfPageNumber": 10,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-082",
