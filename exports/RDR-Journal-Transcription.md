@@ -1647,7 +1647,7 @@ Complete second-pass visual comparison performed with temporary grayscale, contr
 
 Stable ID: `journal-rdr-page-032`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1676,7 +1676,7 @@ Ann Richards
 Margaret Richards her mother's cousin
 
 June 13th 1899 Ann Roberts Hopkins
-was Baptised by female [unclear: Spillman] in Logan
+was Baptised by Samuel Spillman in Logan
 Temple confirmed by James Quayle & Lawrence
 Peterson in behalf of
 
@@ -1688,7 +1688,7 @@ March 2nd 1909 Benjamin Coleman was Baptized
 for in behalf of William Roberts cousin of R. D. Roberts
 son of Robert Roberts, Joseph M. Smith in Logan Temple
 confirmed by Thomas Morgan witnessed H. Heber Coleman
-& J. [unclear: C. Rookelley]
+& J. G. RosKelley
 
 March 3rd R. D. Roberts received Endowments
 for and in behalf of William Roberts cousin
@@ -1697,13 +1697,13 @@ Wales Meirionethshire died Brithdir Meirionethshire
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed with temporary grayscale, contrast, sharpening, and enlargement. Robert Brown, Margaret Evans, H C Smart, Ann Richards, H. Heber Coleman, Harlech, and Brithdir were resolved. The female officiator surname and second witness remain materially uncertain, currently rendered "Spillman" and "C. Rookelley," so the page remains needs-review. The page clearly repeats A. C. Tellefsen, corroborating page 29.
+Targeted visual review corrected the officiator to Samuel Spillman, corroborated by the clear repeated name on page 66, and resolved the second witness as J. G. RosKelley, supported by repeated Roskelley forms elsewhere in the journal. Robert Brown, Margaret Evans, H C Smart, Ann Richards, H. Heber Coleman, Harlech, and Brithdir were previously resolved. The page clearly repeats A. C. Tellefsen, corroborating page 29. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 33
 
 Stable ID: `journal-rdr-page-033`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1737,7 +1737,7 @@ At seven o clock in the evening my wife Eliza
 gave premature birth to a little boy as he was
 very weak I blessed him and gave him the name
 of John Royal Roberts I anoint him Thomas my
-brother [unclear: wrote] a blessing on him for strength he died
+brother invoke a blessing on him for strength he died
 on the 19th few minuts after five (5) in the evening
 was buried on the 20th in Logan cemetery by my wife
 Hannah
@@ -1748,13 +1748,13 @@ birth to a little girl on Friday July 9th 1899 at 11.30
 
 ### Editorial annotations
 
-Second-pass visual comparison completed for the full page using temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement only as reading aids. Internal occurrences support Conar Hughes, and the baptism/confirmation names, burial date, and final-entry date were clarified. One word in the infant-care passage remains materially uncertain, so the page remains needs review. The final entry continues onto page 34. The preserved source image was not altered. Status: needs review.
+Targeted visual review resolved the infant-care wording as `brother invoke a blessing on him for strength`. Internal occurrences support Conar Hughes, and the baptism/confirmation names, burial date, and final-entry date were previously clarified. The final entry continues onto page 34. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 34
 
 Stable ID: `journal-rdr-page-034`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1779,12 +1779,12 @@ R. D. Roberts
 Oct 7th 1903
 
 Agnes Mister Roberts was Baptised by
-G. H. [unclear: Furbeth] confirmed by Milton D. Hammond
+G. H. Furbeth confirmed by Milton D. Hammond
 
 February 22nd 1905 Agnes Mister Roberts
 was kicked by a colt on the top of her forehead
 it was very severely cut Dr Budge dressed it very
-[unclear: sore] it swollen up around and a clear cut on her
+nice it swollen up around and a clear cut on her
 lip we are very thankful that it was no worse
 
 April 26th 1906 [interlined: Sept 15th 1906]
@@ -1795,7 +1795,7 @@ Joseph M Smith confirmed by J. H. Anderson
 
 ### Editorial annotations
 
-Second-pass visual comparison completed for the full page using temporary grayscale, contrast, sharpening, enlargement, and cropped enlargement only as reading aids. The burial date, Richard Gates, Agnes Mister Roberts, and most of the injury description were clarified. One officiator surname and one injury word remain materially uncertain, so the page remains needs review. The page contains an explicit "R. D. Roberts" signature. The preserved source image was not altered. Status: needs review.
+Targeted visual review resolved the officiator as G. H. Furbeth and the injury wording as `dressed it very nice it swollen up`. The burial date, Richard Gates, Agnes Mister Roberts, and the remainder of the injury description were previously clarified. The conflicting/interlined 1906 dates are preserved as manuscript content. The page contains an explicit "R. D. Roberts" signature. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 35
 
@@ -2567,11 +2567,11 @@ Salt Lake City on the 10th he was set apart and blessed
 for the mission by B. H. Roberts assisted by M. J.
 Grant on the 10th left Salt Lake City in company with
 others for Europe aboard the Steamboat Alaska at
-New York on the 17th arrived in Liverpool 26th. [unclear: David]
+New York on the 17th arrived in Liverpool 26th. leave
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. Substantive difficult wording remains, so the page remains needs review. Status: needs review.
+Targeted visual review resolved the final mission word as `leave`, continuing into page 50. The overwritten Logan Temple sealing officiator remains materially uncertain as `[unclear: H. C. McAllister]`, so the page remains needs-review.
 
 ## PDF page 50
 
@@ -2628,7 +2628,7 @@ Complete second-pass visual comparison performed. Substantive difficult wording 
 
 Stable ID: `journal-rdr-page-051`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -2652,9 +2652,9 @@ born in Ferndale Rhondda County Glamorgan September 18th
 1858 Baptized January 5th 1890 by Elder Edward
 Berkins confirmed by Elder Alma Hale her
 parents are John Hagley and Agnes Martin
-her father was born in Ballymechrett Belfast
-Down County Ireland her mother was born in Kil-
-more Down County Ireland were both baptized
+her father was born in Ballymacrett Belfast
+Down County Ireland her mother was born in Lis-
+nore Down County Ireland were both baptized
 April 13th 1890 by Elder Berkins confirmed by Elder
 Hale and James Borough the family of four
 parents and two daughters emigrated to Utah
@@ -2672,13 +2672,13 @@ to Robert Fraser and lives in Salt Lake County Utah
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The school continuation and funeral service were substantially corrected, including the Boston Glee club, Benjamin Maroni Lewis, and Moses Thatcher preaching. Several Irish names and places in the marriage/family account remain materially uncertain, so the page remains needs review. Status: needs review.
+Targeted visual review resolved the Irish places as Ballymacrett, Belfast, County Down, and Lisnore, County Down, preserving the manuscript's `Lis- / nore` line break. Eliza Ridale, John Hagley, Agnes Martin, Elder Edward Berkins, Alma Hale, and James Borough were confirmed directly from the manuscript. The school continuation and funeral service were previously corrected, including the Boston Glee club, Benjamin Maroni Lewis, and Moses Thatcher preaching. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 52
 
 Stable ID: `journal-rdr-page-052`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -2715,15 +2715,15 @@ ions baptized ten others Blessed several
 children ordained under the direction several
 to the Priesthood administered to several
 afflicted the power of God was made manifest
-Distributed many tracts and done a surprising
-many friends and enjoyed his labors very
-much came home with a good account of faithful
+Distributed many tracts and voice of warning
+made many friends and enjoyed his labors very
+much came home with a good recommend of faithful-
 labors from Elder Joshua W. Clark President of
 the Northern States mission he was clerk of the
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The opening birth wording was corrected to record the writer working in Malad, and the David Hughes relationship/place passage was clarified as Jane and Gomer Hughes of Samaria, Oneida County, Idaho. Difficult wording remains in the mission account, so the page remains needs review. The mission entry continues onto PDF page 53. Status: needs review.
+Targeted visual review resolved the difficult mission wording as `Distributed many tracts and voice of warning / made many friends` and `a good recommend of faithful- / ness`. The opening birth wording and the David Hughes relationship/place passage were previously clarified. The mission entry continues onto PDF page 53. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 53
 
@@ -2790,7 +2790,7 @@ My wife Eliza at two thirty (2 1/2) in the
 morning gave birth to a bouncing boy weigh
 9 1/2 lbs he seems to be a strong boy and well
 be a strong man he was blessed by the Bishop
-and his name Robert [unclear: G.] Roberts
+and his christ name Richard Isaac Roberts
 his blessing his name Thomas Roberts
 born at Logan city
 
@@ -2817,13 +2817,13 @@ born at Logan city
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. Joseph Cowley was clarified in the July 1900 entry. The April 1897 blessing/name passage remains materially overwritten and internally difficult, so the page remains needs review. Status: needs review.
+Targeted visual review corrected the April 1897 line to `and his christ name Richard Isaac Roberts`. The following line still gives `his blessing his name Thomas Roberts`; the overwritten and internally conflicting names cannot be reconciled from the manuscript alone, so the page remains needs-review. Joseph Cowley was previously clarified in the July 1900 entry.
 
 ## PDF page 55
 
 Stable ID: `journal-rdr-page-055`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -2867,7 +2867,7 @@ confirmed by Joseph E Cowley
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The patriarchal blessing is preserved with its original grammar and unusual wording; the phrase transcribed as "a lawful heir an elect Lady" is especially uncertain in context.
+Targeted visual review confirmed the manuscript phrase `a lawful heir an elect Lady` exactly as written. The patriarchal blessing's historical grammar and unusual wording are preserved. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 56
 
