@@ -50,14 +50,14 @@ FAMILY AND OTHER IMPORTANT MATTERS.
 WRITTEN AND COMPILED BY ROBERT D.
 ROBERTS OF LOGAN, UTAH.
 
-[unclear: S. R. Roberts]
+[unclear: S. Roberts]
 Ogden Utah
 Aug 1948
 Chairman
 
 ### Editorial annotations
 
-Inside-cover source label. Complete second-pass visual comparison performed, but the later handwritten signature remains uncertain and may be in another hand; the page therefore remains needs-review.
+Inside-cover source label. Targeted visual review narrowed the later handwritten signature from "S. R. Roberts" to `[unclear: S. Roberts]`; the letterforms do not defensibly establish a middle initial or the signer's identity. The signature may be in another hand, so the page remains needs-review.
 
 ## PDF page 3 - manuscript page 3
 
@@ -83,11 +83,11 @@ My parents gave birth to eight children their names
 are as follows, by placing the oldest first - Robert, who died
 when three months old, Edward, Robert, Elinor, David,
 William, Daniel, and John Roberts. The first five was born
-in [unclear: Tanyrallt] the next two in Brynygwyngyll the youngest
+in Tanyrallt the next two in Brynygwyngyll the youngest
 John in Llety the Parish Llanfrothen.
 
 Edward was married to Elinor Griffith daughter to
-Griffith & Catherine Williams, Bron-y-[unclear] in Llanfrothen.
+Griffith & Catherine Williams, Bron-y-forllan in Llanfrothen.
 
 Robert was married in Llanfrothen to Gwen daughter
 to William & Marry Williams Cae Glas they had twelve
@@ -104,7 +104,7 @@ the oldest Robert, Thomas, David, Ann, Elizabeth
 and Jane Roberts.
 
 William was married to Margaret daughter
-to Evan Roberts & Jane Griffith [unclear: Gair-y-rallt-bach]
+to Evan Roberts & Jane Griffith Gair-y-rallt-bach
 Festiniog, they had four children, Elizabeth, Robert,
 Evan & William Roberts, the younger died when a baby.
 
@@ -113,7 +113,7 @@ Lloyd and Catherine Jones Cae-[unclear] Llanfrothen they
 
 ### Editorial annotations
 
-Second-pass visual comparison corrected the opening copy statement and the birthplace county. The opening identifies this as an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material. Several Welsh place and property names remain too uncertain for reviewed status.
+Targeted visual review resolved Tanyrallt, Bron-y-forllan, and Gair-y-rallt-bach directly from the manuscript. The opening identifies this as an English translation/copy by Robert D. Roberts of material from David Roberts's Welsh record. Robert D. Roberts is not treated as the original author of the underlying Welsh material. The final Cae- property name remains too uncertain for reviewed status.
 
 ## PDF page 4 - manuscript page 4
 
@@ -155,7 +155,7 @@ those four lines for her
 
 [illegible, four-line Welsh verse]
 
-Daniel died in America [unclear: Ebenezer] and James Henry
+Daniel died in America Ebenezer and James Henry
 Humphrey, they are great Calvin Mathadist.
 
 Now I shall give some of my own narrative.
@@ -168,7 +168,7 @@ sufficient to buy bread for the family my employment
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 4. Several personal names, one residence name, and the four-line Welsh verse require later visual review; uncertain readings have not been silently normalized.
+Targeted visual review resolved Ebenezer directly from the manuscript. Several personal names, the Creupar residence reading, and the four-line Welsh verse remain materially uncertain, so the page remains needs-review.
 
 ## PDF page 5 - manuscript page 5
 
@@ -187,7 +187,7 @@ after I was well I went to the slate quarry with my father
 and brother Robert to Festiniog I followed that trade of working
 slate under very great disadvantage until I was about fifteen or
 sixteen years of age, at that time I went to a place by the
-name of [unclear: Cae] in the adjoining of the Valley [unclear: Cwmystradlyn] labor
+name of Cae in the adjoining of the Valley Cwmystradlyn labor
 on the farm for a man by the name of William Hugh in this
 place I staid one year and half and return to the slate quarry
 and from that time until this my labour was in one branch or
@@ -204,7 +204,7 @@ that it was a Sin.
 When a boy I wish very much to be a Poet and
 when I was about eighteen years of age I had the opportunity
 to see [unclear] ruled at this time I was lodging at the house
-of the grandmother of [unclear: Gryffyn Ystrad] the bard also he
+of the grandmother of [unclear: Gryffyn Ystradau] the bard also he
 was Poet and near of the same age and of the same
 inclination about poetry so we was little encouragement one to
 the other we got acquainted with the old bard [unclear: Gryffyn
@@ -213,7 +213,7 @@ Davy] we received some lesson from him.
 Bethania January, 18, 1856.
 
 I was from 22, to 23, when I got married and
-went to live to [unclear: Haffty-y-Moelwyn Park] Llanfrothen for the
+went to live to Haffty-y-Moelwyn Park Llanfrothen for the
 first year from there to Gelli Cwmstradlyn the same parish
 and on the same estate from the Gelli to [unclear] parish
 Festiniog from there again to Dolgarregddu in the same [unclear]
@@ -221,20 +221,20 @@ from Dolgarregddu to Bethania where we are at present and from
 
 ### Editorial annotations
 
-Complete visual first-pass transcription of PDF page 5. Historical spelling and grammar are retained. Several Welsh place names and bardic names require later visual review and remain explicitly uncertain.
+Targeted visual review resolved Cae, Cwmystradlyn, and Haffty-y-Moelwyn Park directly from the manuscript and narrowed the bardic name to `[unclear: Gryffyn Ystradau]`. Other bardic and Welsh place-name readings remain materially uncertain, so the page remains needs-review.
 
 ## PDF page 6 - manuscript page 6
 
 Stable ID: `journal-rdr-page-006`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
 this we expect to emigrate to America Utah between this
 and first of March next I was born to the faith of the
 gospel by Robert Evans, Glan Conwy and was Baptise by
-him in the river [unclear: Pandy] near Gelli Cwmstradlyd on the 24th
+him in the river Pandy near Gelli Cwmstradlyd on the 24th
 day of May in the year 1846 and was confirm by Abel
 Evans and soon received the Holy Priesthood it was put on
 my shoulders the great responsible position of Preaching the
@@ -246,7 +246,7 @@ Christ and aid them in clothing food and money to build
 up the Kingdom of Jesus Christ our Lord.
 
 Catherine my wife was Baptise by David Peters
-near Festiniog [unclear: Rhydfudr] dwelling August 22th 1846.
+near Festiniog Rhydfudr dwelling August 22th 1846.
 
 Our children was baptised by me Thomas was Baptise
 September 30th 1849.
@@ -273,12 +273,12 @@ Catherine Uch Richard names of the children of Richard
 and Elizabeth Thomas are Thomas Catherine Robert and
 Jane Richards the names of Thomas Richards & Ann Morris
 children are Jane Catherine & Richard Thomas Ann Morris
-wife of Thomas Richards was born in [unclear: Llwyn-yr-hwch] Llanfrothen
+wife of Thomas Richards was born in Llwyn-yr-hwch Llanfrothen
 the name of her father Rowland Morris her mother's name
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. Historical spelling is retained. Catherine's baptism date and adjacent wording were corrected, but the river name, baptism location, and final Welsh property name remain materially uncertain; the page therefore remains needs-review.
+Targeted visual review resolved Pandy, Rhydfudr, and Llwyn-yr-hwch directly from the manuscript. Historical spelling and grammar are retained. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 7 - manuscript page 7
 
@@ -484,14 +484,14 @@ second sister was married by Thomas [unclear: Borthill] our Bishop to a
 young man by the name of Taliesin Hughes his mother lives in
 Illinois State his father lives there at present and is
 married to another woman the children Taliesin and his
-brother and two sisters was emigrated by [unclear: their] uncle
+brother and two sisters was emigrated by their uncle
 William Jones brother to the same mother him after coming to
 Utah Box Elder County Willard City in about a year he went
 back to Illinois and Emigrated his sisters & children seven in
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The overwritten priesthood-office sentence is represented with its deletion and interline. The officiating bishop's surname and the wording before uncle William Jones remain materially uncertain; the page therefore remains needs-review. No genealogical wording has been normalized.
+Targeted visual review resolved `their uncle` directly from the manuscript. The overwritten priesthood-office sentence is represented with its deletion and interline. The officiating bishop's surname remains materially uncertain, so the page remains needs-review. No genealogical wording has been normalized.
 
 ## PDF page 11 - manuscript page 11
 
@@ -590,7 +590,7 @@ January 4th 1871.
 Ann our sister wife of William Hopkin at nine
 thirtyfive (9.35) in the morning gave birth to a handsome
 little son weight ten pounds 10 lbs; his name David
-Roberts Hopkins he was blessed by [unclear: Benjamin M. Lewis]
+Roberts Hopkins he was blessed by Benjamin M. Lewis
 May 4th 1871.
 
 February 8th 1871.
@@ -607,7 +607,7 @@ February 9th 1871.
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The June travel date and Eglwys bach were resolved, with the latter corroborated by page 66. Page 51 supports Benjamin M. Lewis, but the page 12 blessing handwriting and interlined Utah location remain materially uncertain; the page therefore remains needs-review.
+Targeted review resolved Benjamin M. Lewis using the manuscript letterforms and the clearer repeated occurrence on page 51. The June travel date and Eglwys bach were previously resolved, with the latter corroborated by page 66. The interlined Utah location remains materially uncertain, so the page remains needs-review.
 
 ## PDF page 13 - manuscript page 13
 
@@ -795,7 +795,7 @@ Complete second-pass visual comparison performed. The confirmation initial and p
 
 Stable ID: `journal-rdr-page-016`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -806,7 +806,7 @@ Ann Morris mother
 
 Elizabeth Thomas Grandmother
 
-Cathreina [unclear: Ych] Richard second Grandmother
+Cathreina Ych Richard second Grandmother
 
 Cathreina Richard aunt
 
@@ -839,7 +839,7 @@ Ann Morris to Thomas Richard
 
 Elizabeth Thomas to Richard Thomas
 
-Cathreina [unclear: Ych] Richard to Thomas Williams
+Cathreina Ych Richard to Thomas Williams
 
 Jane Parry to Rowland Morris
 
@@ -861,7 +861,7 @@ or put his name with those that was married and sealed was a mistake
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The element written before Richard still appears to read "Ych" but remains materially uncertain; the writer's own John Thomas uncertainty is preserved verbatim. The page remains needs-review.
+Targeted visual review confirmed the repeated manuscript form `Ych Richard` in both occurrences. The writer's own statement of uncertainty about John Thomas is preserved as manuscript content rather than a transcription uncertainty. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 17 - manuscript page 17
 
@@ -1131,7 +1131,7 @@ Complete second-pass visual verification performed. "Kensington family" was reso
 
 Stable ID: `journal-rdr-page-022`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1140,7 +1140,7 @@ March 22th 1881
 At six in the evening Jane Hughes our sister
 gave birth to a little girl weight 4 lbs mother and
 child are doing well She was born in Denbigh Ontario
-County [unclear: Belle Farmley] and blessed May 5th
+County Belle Farmley and blessed May 5th
 by John Firkins her name Margaret Hughes
 
 Logan City, October 22th 1881.
@@ -1168,7 +1168,7 @@ of a Deacon in the Aaronic Priesthood
 Logan City Feb 1st 1883
 
 Some time last week I received a letter
-from Denbigh Ontario County [unclear: Belle Farmley] from
+from Denbigh Ontario County Belle Farmley from
 Gomer Hughes stating that his wife Jane
 our sister gave birth to a nice son January
 17th 1883 at one twenty (1.20) in the morning
@@ -1177,7 +1177,7 @@ Robert Richard Hughes
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The repeated locality candidate was improved to "Belle Farmley," but its spelling remains materially uncertain in both occurrences; the page therefore remains needs-review. Historical spelling and ordinal forms are preserved.
+Targeted visual review confirmed the same manuscript form `Belle Farmley` in both occurrences. The historical locality spelling is preserved without external normalization. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 23
 
@@ -1276,7 +1276,7 @@ had my Endowment this day for father
 
 Jan: 21st David Robert Roberts
 
-22 Robert Roberts [crossed out: confirmed] ordained by [unclear: Fratrig Pine]
+22 Robert Roberts [crossed out: confirmed] ordained by Fratrig Pine
 
 23 Thomas Richards " by Milton D. Hammond
 
@@ -1284,13 +1284,13 @@ Jan: 21st David Robert Roberts
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. William C Partington was corrected, and the uncertain officiator candidate was improved to "Fratrig Pine." The overwritten Brigham Young-entry year and that officiator's identity remain materially uncertain, so the page remains needs-review. The manuscript's written "1895" date and crossed-out/interlined wording are preserved.
+Targeted visual review confirmed the repeated written officiator form `Fratrig Pine` using the clearer matching occurrence on page 25. The overwritten Brigham Young-entry year remains materially uncertain, so the page remains needs-review. The manuscript's written "1895" date and crossed-out/interlined wording are preserved.
 
 ## PDF page 25
 
 Stable ID: `journal-rdr-page-025`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1300,7 +1300,7 @@ Jan: 29 Richard Thomas [crossed out: confirmed] [interlined: ordained] by John J
 
 Feb. 11th Rowland Morris " by Georg Barbor
 
-12th Griffith Morris " by [unclear: Fratrig Pine]
+12th Griffith Morris " by Fratrig Pine
 
 13th John Roberts he was ordained in the old Country
 
@@ -1326,13 +1326,13 @@ April 1 Robert Richards " by Georg Barbor
 
 9 John Thomas " by Georg Barbor
 
-10 Henry Morris " by [unclear: Fratrig Thicar]
+10 Henry Morris " by Fratrig Thicar
 
-16 William Williams " by [unclear: Fratrig Thicar]
+16 William Williams " by Fratrig Thicar
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The repeated officiator candidate was improved to "Fratrig Pine." Several officiator names, including Fratrig Pine and Fratrig Thicar, remain materially uncertain, so the page remains needs-review. Ditto marks are retained as quotation marks and no normalization has been attempted.
+Targeted visual review confirmed `Fratrig Pine` and the twice-repeated `Fratrig Thicar` directly from the manuscript; page 24 provides a matching occurrence of Fratrig Pine. Ditto marks are retained as quotation marks and the unusual written names are not externally normalized. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 26
 
