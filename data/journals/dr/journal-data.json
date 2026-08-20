@@ -3636,8 +3636,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-086.jpg",
       "transcriptionFile": "data/journals/dr/pages/086.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3645,23 +3645,77 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 85]\n\nunfed ar ddeg euthant i Dy yr Arglwydd, lle y cawsant eu golchi a'u heneinio, a phriodwyd hwy gan Daniel H. Wells am amser a thragywyddoldeb. Tranoeth yn cychwyn i gartref (sef Logan) ar y 15, ac ar y 21 cychwynasant i Samaria (Oneida County, Idaho Territory, Malad Valley), lle y maent yn bwriadu cartrefu.\n\nR. D. Roberts\n\nMawrth 24, 1873\n\nMawrth 18, 1873, Jane gwraig Conar Hughes a esgorodd ar fachgen tua deg o'r gloch y boreu. Naw pwys ei bwys. Ei enw yw David Hughes. Bendithiwyd ef gan Owen Thomas, [unclear: mi a dybiaf], Mai 4, 1873.\n\nMawrth 6, 1874\n\nElizabeth ein chwaer a esgorodd ar ddau fachgen, gefeilliaid. David Taliesin Hughes a anwyd am 8.50 y boreu, a Thomas Hughes am 9.5. Bendithiwyd hwy gan David Jones a Taliesin Hughes, eu tad, Mawrth 6. Daeth mam a'r llinellau o Samaria, Mawrth 24, 1874.\n\nChwefror 8, 1875\n\nIonawr 12 daeth Jane ein chwaer a'i gwr Conar Hughes a'i bachgen bach, David, i dy fy mam, ac ar yr ail ar hugain (22) hi a esgorodd ar ei hail fab am saith munud a deugain wedi deg (10.47) y boreu. Yr oedd yn fachgen iach a dymunol, saith pwys a hanner ei bwys. Ei enw yw Daniel Hughes.",
+      "translation": "[continuation from PDF page 85]\n\nOn the eleventh they went to the House of the Lord, where they were washed and anointed, and they were married by Daniel H. Wells for time and eternity. The next day they set out for home (that is, Logan) on the fifteenth, and on the twenty-first they set out for Samaria (Oneida County, Idaho Territory, Malad Valley), where they intend to make their home.\n\nR. D. Roberts\n\nMarch 24, 1873\n\nOn March 18, 1873, Jane, the wife of Conar Hughes, gave birth to a boy at about ten o'clock in the morning. He weighed nine pounds. His name is David Hughes. He was blessed by Owen Thomas, [unclear in Welsh], on May 4, 1873.\n\nMarch 6, 1874\n\nElizabeth, our sister, gave birth to two boys, twins. David Taliesin Hughes was born at 8:50 in the morning, and Thomas Hughes at 9:05. They were blessed by David Jones and Taliesin Hughes, their father, on March 6. Mother brought the lines from Samaria on March 24, 1874.\n\nFebruary 8, 1875\n\nOn January 12, Jane, our sister, and her husband Conar Hughes and their little boy David came to my mother's house, and on the twenty-second she gave birth to her second son at forty-seven minutes past ten (10:47) in the morning. He was a healthy and pleasant boy, weighing seven and a half pounds. His name is Daniel Hughes.",
+      "notes": "- The opening completes the March 1872 marriage journey begun on page 85. It has a confirmed close-paraphrase parallel on RDR PDF page 13. RDR expands the prose but agrees on the temple marriage by Daniel H. Wells, the return to Logan, and the move to Samaria.\n- The March 1873 birth entry has a confirmed close parallel on RDR PDF page 13. The short phrase before the blessing date remains uncertain in Welsh and has not been supplied from RDR.\n- The March 1874 twins entry and January 1875 birth entry have confirmed close-paraphrase parallels on RDR PDF page 14.\n- The page is in the same Robert D. Roberts hand and contains an explicit R. D. Roberts signature. First-person family language supports confirmed attribution to him as content author and scribe. No secondary hand is evident.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "confirmed",
+      "attributionBasis": "An explicit R. D. Roberts signature, first-person family language, and handwriting continuity with page 85 confirm content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Jane Roberts",
+        "Conar Hughes",
+        "Daniel H. Wells",
+        "David Hughes",
+        "Owen Thomas",
+        "Elizabeth Roberts",
+        "David Taliesin Hughes",
+        "Thomas Hughes",
+        "David Jones",
+        "Taliesin Hughes",
+        "Daniel Hughes"
+      ],
+      "places": [
+        "Logan",
+        "Samaria",
+        "Oneida County",
+        "Idaho Territory",
+        "Malad Valley"
+      ],
+      "dates": [
+        "March 6, 1872",
+        "March 11, 1872",
+        "March 15, 1872",
+        "March 21, 1872",
+        "March 18, 1873",
+        "March 24, 1873",
+        "May 4, 1873",
+        "March 6, 1874",
+        "March 24, 1874",
+        "January 12, 1875",
+        "January 22, 1875",
+        "February 8, 1875"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-013",
+          "pdfPageNumber": 13,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-014",
+          "pdfPageNumber": 14,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-087",
@@ -3673,8 +3727,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-087.jpg",
       "transcriptionFile": "data/journals/dr/pages/087.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3682,23 +3736,80 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Ebrill 9, 1875\n\nChwefror 21. Daniel Roberts fy mrawd a gafodd ei ail fedydd gan Robert Davidson; cadarnhawyd ef gan Thomas McNeil, hen.\n\nMawrth 27. Daniel a gychwynodd i Ddinas y Llyn Halen i briodi, a chyfarfu a'i anwylyd yn Hamilton Station. Taliesin, ei brawd, a ddaeth gyda hi o Samaria, Oneida County, Idaho. Ar y 29 euthant i Dy yr Arglwydd, lle y cawsant eu golchi a'u heneinio, a chyfamodwyd hwy am amser a thragywyddoldeb gan Wilford Woodruff. Ordeiniwyd Daniel yn Elder gan Samuel J. Smith. Cymerasant dy ar rent yn Ogden, ac ar Ebrill 3 symudasant yno.\n\nGorffenaf 4, 1875\n\nHeddyw cefais fy medyddio i'r United Order gan Robert Davidson; cadarnhawyd fi gan Thomas McNeil.\n\nAr y 10fed Hannah Roberts fy ngwraig a gafodd ei bedyddio gan Joseph White; cadarnhawyd hi gan Robert Davidson.\n\nHydref 4, 1875\n\nHeddyw cafodd mam ac Ann Hopkin fy chwaer eu bedyddio i'r United Order gan Joseph White. Cadarnhawyd Ann gan Henry Ballard, a mam gan Charles C. Card.\n\nHydref 16, 1875\n\nAr yr 8fed Ann Hopkin fy chwaer a gychwynodd i Ddinas y Llyn Halen. Ar y 9fed cychwynodd mam a minnau, a chyrhaeddasom yno ar y 10fed. Buom mewn cyfarfodydd Conference. Ar yr 11eg cefais fy mhapur dinasyddiaeth. Ar y 13eg cawsom ein bedyddio yn Nhy yr Arglwydd dros nifer o berthnasau. Ni wyddom pwy a'n cadarnhaodd. Enwau'r perthnasau [continues on PDF page 88]",
+      "translation": "April 9, 1875\n\nFebruary 21. Daniel Roberts, my brother, was rebaptized by Robert Davidson; he was confirmed by Thomas McNeil, senior.\n\nMarch 27. Daniel set out for Salt Lake City to marry and met his beloved at Hamilton Station. Taliesin, her brother, came with her from Samaria, Oneida County, Idaho. On the twenty-ninth they went to the House of the Lord, where they were washed and anointed and covenanted for time and eternity by Wilford Woodruff. Daniel was ordained an Elder by Samuel J. Smith. They rented a house in Ogden, and on April 3 they moved there.\n\nJuly 4, 1875\n\nToday I was baptized into the United Order by Robert Davidson; I was confirmed by Thomas McNeil.\n\nOn the tenth, Hannah Roberts, my wife, was baptized by Joseph White; she was confirmed by Robert Davidson.\n\nOctober 4, 1875\n\nToday mother and Ann Hopkin, my sister, were baptized into the United Order by Joseph White. Ann was confirmed by Henry Ballard, and mother by Charles C. Card.\n\nOctober 16, 1875\n\nOn the eighth, Ann Hopkin, my sister, set out for Salt Lake City. On the ninth mother and I set out, and we arrived there on the tenth. We attended conference meetings. On the eleventh I received my citizenship paper. On the thirteenth we were baptized in the House of the Lord for a number of relatives. We do not know who confirmed us. The names of the relatives [continues on PDF page 88]",
+      "notes": "- The page contains five discrete dated entry groups. None continues from page 86; the October entry continues onto page 88.\n- The February and March 1875 entries have confirmed close-paraphrase parallels on RDR PDF page 14. RDR expands some travel and household detail.\n- The July and October 1875 entries have confirmed close-paraphrase parallels across RDR PDF pages 14–15.\n- The Welsh page preserves first-person citizenship and proxy-baptism wording. RDR is useful for sense and names but has not been used to replace Welsh letterforms.\n- Handwriting and first-person continuity with the explicitly signed page 86 make Robert D. Roberts the probable content author and scribe. No distinct secondary hand is visible on this page.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "First-person family language and handwriting continuity with the explicitly signed page 86 strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Daniel Roberts",
+        "Robert Davidson",
+        "Thomas McNeil",
+        "Taliesin Hughes",
+        "Wilford Woodruff",
+        "Samuel J. Smith",
+        "Hannah Roberts",
+        "Joseph White",
+        "Ann Hopkin",
+        "Henry Ballard",
+        "Charles C. Card"
+      ],
+      "places": [
+        "Salt Lake City",
+        "Hamilton Station",
+        "Samaria",
+        "Oneida County",
+        "Idaho",
+        "Ogden"
+      ],
+      "dates": [
+        "February 21, 1875",
+        "March 27, 1875",
+        "March 29, 1875",
+        "April 3, 1875",
+        "April 9, 1875",
+        "July 4, 1875",
+        "July 10, 1875",
+        "October 4, 1875",
+        "October 8, 1875",
+        "October 9, 1875",
+        "October 10, 1875",
+        "October 11, 1875",
+        "October 13, 1875",
+        "October 16, 1875"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-014",
+          "pdfPageNumber": 14,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-015",
+          "pdfPageNumber": 15,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-088",
@@ -3710,8 +3821,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-088.jpg",
       "transcriptionFile": "data/journals/dr/pages/088.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3719,23 +3830,83 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 87]\n\nyn dilynant. Yr wyf fi yn bedyddio dros nifer o berthnasau fy nhad, sef y rhai y mae'r enwau isod ar eu perthynas. Samuel Smith yn bedyddio; cadarnhawyd [unclear: canlyn] ei enwau gan Felix G. [unclear: Ambler], y rhai y cefais i eu [unclear: sefyll drostynt].\n\nRobert Roberts, fy nha(i)d; Salmon Roberts, hen ewythr; William Roberts, hen ewythr; William Roberts, gwr [unclear: Griffith] Morris; [unclear: Griffith] Morris, cefnder; [unclear: yn nhad] Thomas Richard, fy nha(i)d; Richard Thomas, ail daid; Thomas Williams, trydydd daid; Robert Richard, hen ewythr; Rowland Morris, ail daid; Rowland Morris, hen ewythr; Henry Morris, hen ewythr.\n\nAnn Hopkin a gafodd ei bedyddio tros y rhai canlyn:\n\nElizabeth Edwards, mam; Margaret Roberts, hen fodryb; Cathreine Roberts, hen fodryb; Jane Roberts, hen fodryb; Ann Roberts, hen fodryb; Elinor Roberts, hen fodryb; Elizabeth Roberts, hen fodryb; Elizabeth Roberts, cyfnither; Elinor Roberts, cyfnither; Ann Parry, ail nain.\n\nFy mam Cathreina Roberts a gafodd ei bedyddio tros y rhai a ganlyn:\n\nAnn Morris, mam; Elizabeth Thomas, nain; Cathreine Ych Richard, ail nain; Cathreine Richards, modryb; Jane Richards, modryb; Jane Parry, nain; Janet Morris, modryb; Elinor Morris, modryb; Elizabeth Morris, modryb; Cathreine Morris, modryb; Jane Thomas, chwaer.\n\nCafodd yr enwau canlynol eu priodi a'u selio a'u bendithio a bendithion yr efengyl dragwyddol [continues on PDF page 89]",
+      "translation": "[continuation from PDF page 87]\n\nfollow below. I was baptized for a number of my father's relatives, whose names and relationships appear below. Samuel Smith performed the baptisms; [unclear Welsh wording concerning the confirmations and Felix G. Ambler] for those for whom I stood.\n\nRobert Roberts, my grandfather; Salmon Roberts, great-uncle; William Roberts, great-uncle; William Roberts, husband of [unclear: Griffith] Morris; [unclear: Griffith] Morris, cousin; [unclear relationship wording] Thomas Richard, my grandfather; Richard Thomas, second grandfather; Thomas Williams, third grandfather; Robert Richard, great-uncle; Rowland Morris, second grandfather; Rowland Morris, great-uncle; Henry Morris, great-uncle.\n\nAnn Hopkin was baptized for the following:\n\nElizabeth Edwards, mother; Margaret Roberts, great-aunt; Cathreine Roberts, great-aunt; Jane Roberts, great-aunt; Ann Roberts, great-aunt; Elinor Roberts, great-aunt; Elizabeth Roberts, great-aunt; Elizabeth Roberts, cousin; Elinor Roberts, cousin; Ann Parry, second grandmother.\n\nMy mother Cathreina Roberts was baptized for the following:\n\nAnn Morris, mother; Elizabeth Thomas, grandmother; Cathreine Ych Richard, second grandmother; Cathreine Richards, aunt; Jane Richards, aunt; Jane Parry, grandmother; Janet Morris, aunt; Elinor Morris, aunt; Elizabeth Morris, aunt; Cathreine Morris, aunt; Jane Thomas, sister.\n\nThe following names were married and sealed and blessed with the blessings of the everlasting gospel [continues on PDF page 89]",
+      "notes": "- This page continues the October 1875 proxy-baptism entry from page 87 and continues onto page 89 with a sealing list.\n- The family lists have confirmed close historical parallels across RDR PDF pages 15–16. RDR clarifies the overall register structure but is not treated as authority for uncertain Welsh names or relationship words.\n- Several opening and paternal-list words remain uncertain because of dense handwriting, overwriting, and ink loss. The page therefore remains `needs-review` despite the strong RDR parallel.\n- Source forms including `Cathreine` and `Ych Richard` are preserved. RDR's English relationship labels are not silently substituted where the Welsh remains uncertain.\n- Handwriting continuity and the first-person proxy statement support probable attribution to Robert D. Roberts as both content author and scribe. No secondary hand is evident.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "First-person proxy language and handwriting continuity with the signed adjacent entries strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Samuel Smith",
+        "Felix G. Ambler",
+        "Robert Roberts",
+        "Salmon Roberts",
+        "William Roberts",
+        "Griffith Morris",
+        "Thomas Richard",
+        "Richard Thomas",
+        "Thomas Williams",
+        "Robert Richard",
+        "Rowland Morris",
+        "Henry Morris",
+        "Ann Hopkin",
+        "Elizabeth Edwards",
+        "Margaret Roberts",
+        "Cathreine Roberts",
+        "Jane Roberts",
+        "Ann Roberts",
+        "Elinor Roberts",
+        "Elizabeth Roberts",
+        "Ann Parry",
+        "Ann Morris",
+        "Elizabeth Thomas",
+        "Cathreine Ych Richard",
+        "Cathreine Richards",
+        "Jane Richards",
+        "Jane Parry",
+        "Janet Morris",
+        "Elinor Morris",
+        "Elizabeth Morris",
+        "Cathreine Morris",
+        "Jane Thomas"
+      ],
+      "places": [
+        "Salt Lake City"
+      ],
+      "dates": [
+        "October 13, 1875",
+        "October 16, 1875"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-015",
+          "pdfPageNumber": 15,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-016",
+          "pdfPageNumber": 16,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-089",
