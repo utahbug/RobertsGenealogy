@@ -2946,10 +2946,10 @@ because the hardships of the journey he died November 15th 1856
 was buried in Salt Lake City Cemetery This family came to
 Farmington 18 miles north of Salt Lake City and lived with
 father and family all winter In the year 1859 she
-married John C. Jones in 1861 they joined the Morrisites
+married John E. Jones in 1861 they joined the Morrisites
 They had a camp on Weber River about a mile below the
 mouth of the Canyon in the year 1862 they broke up
-camp and was scattered around the county John C Jones
+camp and was scattered around the county John E Jones
 moved and family went to California where they
 live at present Round Valley Inyo County the two sons
 and daughter are married
@@ -2973,6 +2973,7 @@ died June 9th 1899 after an illness of 22 month Mary Roberts
 ### Editorial annotations
 
 First-pass visual transcription completed. The family narrative contains difficult syntax, crowded dates, marginal writing, and several uncertain place/name readings; these are preserved without reconciliation.
+The manuscript clearly gives John Roberts's death date as `November 15th 1856` in two places. External evidence identifies him as John Robert Roberts (born December 8, 1822), Robert D. Roberts's uncle, who traveled with his family in the Edward Bunker handcart company and arrived in Salt Lake City on October 2, 1856. The Church History Biographical Database gives his death as October 16, 1856 (RID `PER-D4ML88N`), consistent with the Salt Lake County death-record evidence cited in Boyd D. Roberts's *The Family of John Robert Roberts and Mary Richards*. The manuscript date is preserved unchanged; October 16 is an editorial historical correction, not a transcription substitution.
 
 ## PDF page 58
 
