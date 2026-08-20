@@ -2926,8 +2926,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-077.jpg",
       "transcriptionFile": "data/journals/dr/pages/077.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -2935,23 +2935,53 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Logan City\nJanuary 2, 1861\n\nRhoddaf ychydig o ein hanes o'r\nhen wlad hyd Gymru hyd yn awr, mor\ngywir ac y mae fy nghof yn gallu.\nDarfu ni ymadael o Festiniog Bethania yn\nflwyddyn 1856, a o Ebrill 14 a chyrhaeddasom\nLiverpool ac ar y 19 o'r un mis aethom i'r\nllong S. Curling, yr hon oedd yn cychwyn ei\nthaith dros Môr yr Iwerydd, drannoeth bu y daith\nhon yn lled fawr, y môr yn codi iawn gyffelybasom\ngyfandir America, ar y 24 o Mai. [unclear: niw y lle]\ncyntaf [unclear: darfu ni] Boston. yn [unclear: rhyw] ddiwrnod\nneu ddau darfu ni gymeryd Cerbydres, i deithio\noddiyno i Iowa-City, buom yma am yn agos\ni dair wythnos o amser, ar lle hyn y cychwynom\ngymeryd ein daith dros y gwastadedd ar\nhandcart hefo y llaw trocha i Utah. Darfu ni\naros ychydig y lle hwn sef Dinas y\nLlyn Halen ar y 2 dydd o Hydref; bu y\ndaith hon yn galed iawn o herwydd nad oedd\ngennym hanner digon o fwyd a [unclear: phriodoldeb] caled i\ndynu y llaw troli. Darfu ni aros yma\nyma am rhai dyddiau, aeth fy nhad a'r [unclear: teulu]\ni le a elwir Farmington 18 milldir i'r gogledd o\nchwedyn aethum i ffwrdd i Ogden hefo Erastus\nBingham 22 [unclear: yn] mhellach a buom yno am bedwar\n[unclear: mis] ac aethum yn ol at fy nhad, fy mam, fy\n[unclear: mrodyr a'm chwiorydd].",
+      "translation": "Logan City, January 2, 1861.\n\nI will give a little of our history from the old country up to the present, as correctly as my memory allows. We left Bethania, Ffestiniog, on April 14, 1856, and reached Liverpool. On the nineteenth of the same month we went aboard the ship *S. Curling*, which began its journey across the Atlantic the following day. The voyage was very rough, with the sea rising greatly. We reached the American continent on May 24, [unclear in Welsh] Boston. After a day or two we took the railroad to Iowa City, where we remained for nearly three weeks. From there we began our journey across the plains with handcarts to Utah.\n\nWe stayed for a few days in Salt Lake City after arriving on October 2. The journey was very hard because we did not have half enough food, and pulling the handcart was hard. After several days my father and the [unclear in Welsh] went to Farmington, eighteen miles north of Salt Lake City. I then went twenty-two miles farther to Ogden with Erastus Bingham and remained there for four [unclear in Welsh], after which I returned to my father, my mother, and my [unclear in Welsh].",
+      "notes": "First direct visual transcription and modern translation completed. Several readings remain uncertain and are marked rather than supplied from the English witness.\n\nThe passage corresponds to RDR PDF page 7 with confirmed confidence. RDR is a close historical translation in overall event order, but it also paraphrases and abridges the Welsh. It supplies smoother relationship and travel wording, expands the handcart hardship, and continues the final sentence onto its next page. It was used as a concordance only, not as the base text.\n\nThe page is dated January 2, 1861, after David Roberts's death on November 4, 1858. Robert D. Roberts is the probable content author and scribe based on the first-person transition, the matching RDR passage, handwriting continuity, and explicit R. D. Roberts signatures in the continuing sequence. The date alone is not treated as proof of scribal identity.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "The entry is dated January 2, 1861, after David Roberts's death; first-person content, handwriting continuity, the matching RDR passage, and explicit R. D. Roberts signatures in the continuing sequence support Robert D. Roberts as probable content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Erastus Bingham"
+      ],
+      "places": [
+        "Bethania, Ffestiniog",
+        "Liverpool",
+        "Boston",
+        "Iowa City",
+        "Salt Lake City",
+        "Farmington",
+        "Ogden"
+      ],
+      "dates": [
+        "January 2, 1861",
+        "April 14, 1856",
+        "April 19, 1856",
+        "May 24, 1856",
+        "October 2, 1856"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-007",
+          "pdfPageNumber": 7,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "abridgment"
+          ],
+          "note": "Historical English parallel for the opening 1861 narrative and the 1856 journey from Bethania, Ffestiniog, to Utah."
+        }
+      ]
     },
     {
       "id": "journal-dr-page-078",
