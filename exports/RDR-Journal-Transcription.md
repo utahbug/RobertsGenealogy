@@ -3530,7 +3530,7 @@ Second-pass visual review completed. This page continues the 1862 Florence immig
 
 Stable ID: `journal-rdr-page-069`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3541,7 +3541,7 @@ through snow water some of us had to suffer in bed with
 Rheumatism all winter I was one of them we arrived in
 Salt Lake City October 19th the company had considerable
 sickness of which twenty eight died I took two families
-home with me Davis [unclear: Gled Jones] wife son and daughter
+home with me David Lloyd Jones wife son and daughter
 staid in one of our rooms until the following spring
 when brother Jones died Timothy Jones and wife staid
 with us two weeks we was the fifth train that left
@@ -3632,7 +3632,7 @@ First-pass visual transcription completed. Hugh Roberts's mission-return record 
 
 Stable ID: `journal-rdr-page-071`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3669,7 +3669,7 @@ still lives at Fairview Cache Valley Idaho as
 a widow with some grown children
 
 W. A. Perry and S. Zimmerman Perry was
-married June 10th 187[unclear] at Salt Lake City Utah
+married June 10th 1871 at Salt Lake City Utah
 they had eight children Maggie was the fifth
 child two brother and two sister older one
 sister and two brother younger one brother
@@ -4318,7 +4318,7 @@ Second-pass visual review completed. The birth record from page 82 ends at the t
 
 Stable ID: `journal-rdr-page-084`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4339,7 +4339,7 @@ Blest to become great and mighty. blest against the
 powers of the destroyer to grow and develop temporally
 and spiritually and become great in the Lord for thou
 art greatly blest let thy parents point thee properly
-forwardly great things await thee. Blest to live for
+for verily great things await thee. Blest to live for
 thy mind shall be opened before thee temporally and
 spiritually for thou was born to become great and mighty
 and thy guardian angel will watch over thee preserve
@@ -4369,7 +4369,7 @@ First-pass visual transcription completed. The patriarchal blessing for Jane Rob
 
 Stable ID: `journal-rdr-page-085`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4399,10 +4399,10 @@ thee for verily thy life will be a busy one and thou will
 grow and increase and become great as great as thou can
 desire and the blessing of the Lord will be upon thee
 and upon thy posterity forever. and thou art blest to
-have power to overcome the world and exerting be number-
+have power to overcome the world and eventually be number-
 ed with the sanctified. In due time thou shall be blest
 in the Lords Holy House and become a savior upon mount
-Zion Blest to receive the keys and powers to waft unto
+Zion Blest to receive the keys and powers to warrant unto
 thee a passage to the Celestial world. Thou shall be blest
 in thy life with the good things of the Earth yea thou
 will be blest with a temporal salvation and thou shall
@@ -4419,13 +4419,13 @@ First-pass visual transcription completed. Continuation of Jane Roberts's blessi
 
 Stable ID: `journal-rdr-page-086`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
 spirit inspire thee and after thou has finished a long
 life in mortality thou will continue in the spirit life
-and finally receive a glorious resurrection with husbands
+and finally receive a glorious resurrection with husband
 a great posterity crown of eternal life exaltation in
 the Eternal world. I seal upon thee these blessing
 through thy continuance in the name of the Lord
