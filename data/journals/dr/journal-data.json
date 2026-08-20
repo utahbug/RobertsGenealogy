@@ -3150,8 +3150,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-080.jpg",
       "transcriptionFile": "data/journals/dr/pages/080.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3159,23 +3159,61 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 79]\n\ndda ar flwyddyn 1859, hyd yn awr nid oedd\nyn hawdd i ni godi llawer o gnwd oherwydd\nfod [unclear: raid] i ni ffensio a chau y dir. Mae\ngyda ni dy a thair ystafell, yn awr ac\nyr ydym yn byw yn hapus.\n\nIonawr 9, 1861.\n\nR. D. Roberts\n\nLogan City Ionawr [unclear: 29] 1865\n\nAr yr wythfed o'r mis hwn (sef Ionawr)\ny darfu i fy mam a Thomas a minna\ngychwyn i Ddinas y Llyn Halen i cael\nein golchi an heneinio an bendithio yn\nnhy yr Arglwydd.\n\nDarfu ni gyrraedd y Ddinas ar y ddegfed.\nAr y trydydd ar ddeg aethom dros y Ty a\nchawsom ein horddinio yn Henuriaid;\nThomas gan Peter Maughan a minna\ngan [crossed out: Peter Sprague; interlined: James L. Sprague]. Aethum i a fy\nmam drwy y Ty a chafodd ei selio\ni fy nhad, gan Wilford Woodruff.\n\nDrannoeth y darfum droi yn ol a chyrhaedd\ngartref ar yr unfed ar bymtheg mewn\niechyd, er fod y tywydd yn\noer iawn, a chawsom pob peth yn\ndda gartref.\n\nR. D. Roberts\n\nLogan City Ebrill 2il 1865\n\nAr y ddau ar hugain o Fawrth yn y\nflwyddyn 1865 unwyd Ann un o'n chwiorydd,\nmerch i ein tad a'n mam, mewn\nbriodasol gan yr Esgob Peter Maughan\nyn y Ty hwn, sef Ty fy mam, ac\n[continues on PDF page 81]",
+      "translation": "[Continuation from PDF page 79]\n\n...well from the year 1859 until now. It was not easy for us to raise much of a crop because we had to fence and enclose the land. We now have a house with three rooms, and we live happily.\n\nJanuary 9, 1861.\n\nR. D. Roberts\n\nLogan City, January [unclear: 29], 1865\n\nOn the eighth of this month (that is, January), my mother, Thomas, and I set out for Salt Lake City to be washed, anointed, and blessed in the house of the Lord.\n\nWe reached the city on the tenth. On the thirteenth we went through the House and were ordained Elders: Thomas by Peter Maughan and I by [crossed out: Peter Sprague; interlined: James L. Sprague]. My mother and I went through the House, and she was sealed to my father by Wilford Woodruff.\n\nThe following day we turned homeward and reached home on the sixteenth in good health. Although the weather was very cold, we found everything well at home.\n\nR. D. Roberts\n\nLogan City, April 2, 1865\n\nOn March twenty-second, 1865, Ann, one of our sisters and a daughter of our father and mother, was united in marriage by Bishop Peter Maughan in this house, namely my mother's house, with...\n\n[Continues on PDF page 81.]",
+      "notes": "First direct visual transcription and modern translation completed. The page contains three distinct entries.\n\nThe opening lines complete Welsh PDF page 79 and correspond to RDR PDF page 9 with confirmed confidence. The relationship is a close translation with paraphrase. Welsh gives 1859; RDR gives 1856. The immediate context makes the Welsh 1859 reading unequivocal as written, but does not establish which historical chronology is correct.\n\nThe January 1865 temple entry corresponds to RDR PDF page 10 with confirmed confidence. It is a close translation with paraphrase and minor expansion in RDR. The Welsh heading appears to read January 29, while RDR gives January 27; the source readings remain separate. Both witnesses preserve the Peter Sprague deletion and James L. Sprague interline.\n\nThe March/April 1865 marriage-family entry has no clear RDR parallel. It continues onto Welsh PDF page 81 and is not harmonized with later RDR family chronology. Its relationship wording is transcribed conservatively and remains subject to review.\n\nThe hand, slant, spacing, line density, and signature forms are continuous across the page. Two explicit R. D. Roberts signatures confirm him as scribe and content author for the first two entries. The same hand probably records the final entry, but its content-author attribution remains uncertain because no parallel witness has yet been identified.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts for the first two entries; final entry uncertain",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting continuity and two explicit R. D. Roberts signatures confirm the hand across the opening and January 1865 entries and probably across the final entry; the final entry's content author remains uncertain because no parallel witness has been identified.",
+      "people": [
+        "Robert D. Roberts",
+        "Thomas Roberts",
+        "Peter Maughan",
+        "James L. Sprague",
+        "Wilford Woodruff",
+        "Ann Roberts"
+      ],
+      "places": [
+        "Logan City",
+        "Salt Lake City",
+        "Farmington"
+      ],
+      "dates": [
+        "January 9, 1861",
+        "January 1865",
+        "March 22, 1865",
+        "April 2, 1865"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-009",
+          "pdfPageNumber": 9,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-010",
+          "pdfPageNumber": 10,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-081",
