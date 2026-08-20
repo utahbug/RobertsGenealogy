@@ -1880,25 +1880,27 @@ October 28th. They came to see us and traveled some
 of his property he as I stood by to pen down
 I sat here he died with his mother [unclear: united]. his
 mother aged 67 when he was married by Daniel
-H. Wells in Salt Lake City to Mary [unclear: Malvin]
+H. Wells in Salt Lake City to Mary Adaline
 eldest daughter to Martin Luther Ensign and
 Merry Ensign his wife was born November 16th 1853
 in Davis County Utah her parents were [unclear: anxious]
-by both were early English descent. May 26th 1871
+by both were early English descent. May 26th 1881
 he was married in Salt Lake City by Daniel H.
-Wells to his second wife Elizabeth. John [unclear: Probst]
-daughter of [unclear: Jacob M. Probst] and Ellen [unclear: Probst] his
+Wells to his second wife Elizabeth Ann Dredge
+daughter of Jesse R. Dredge and Ellen Rheese his
 wife
 
 Her father of English descent the mother of her ancestors
 of Welsh ancestors. he resided in Malad City until
-May 8th 1884 when he started for Bear River [unclear: Dominion]
+May 8th 1884 when he started for Bear River Junction
 County Idaho Territory arrived there on the 28th of the
 same month as he is the first of grandfather's
 
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. The page continues the migration and family-history passage from PDF page 35. Several names, relationship phrases, locations, and dates remain uncertain, and the final sentence continues onto the next page. The preserved source image was not altered. Status: needs review.
+
+Controlled external-evidence review identifies the subject continuing onto page 37 as John Lloyd Roberts. His 1922 autobiography and the Church History Biographical Database corroborate Mary Adeline Ensign, the May 26, 1881 marriage to Elizabeth Ann Dredge, her parents Jesse R. and Ellen Rheese Dredge, and the family's move toward Rexburg. Reinspection supports the manuscript forms `Mary Adaline`, `Elizabeth Ann Dredge`, `Jesse R. Dredge`, `Ellen Rheese`, and `Bear River Junction`; manuscript spelling and historical discrepancies are preserved. Other wording remains uncertain.
 
 ## PDF page 37
 
@@ -1949,6 +1951,8 @@ with kind affection
 ### Editorial annotations
 
 First-pass visual transcription completed from the original scan with temporary grayscale, contrast, sharpening, enlargement, and cropped enlargements used only as reading aids. This page continues the family-history narrative from pages 35–36 and includes a legal/imprisonment account. Several relationship and legal phrases remain uncertain. The preserved source image was not altered. Status: needs review.
+
+Controlled external-evidence review identifies the imprisoned cousin as John Lloyd Roberts. His 1922 autobiography independently recounts four months in the Boise penitentiary, the $300 fine, return through Market Lake, and later evasion with his two families; the Church History Biographical Database corroborates his identity and marriages. This identification does not restore the page's damaged legal and relationship prose, which remains uncertain.
 
 ## PDF page 38
 
@@ -3087,7 +3091,7 @@ Transcription status: `needs-review`
 
 July 7th 1897 we went to Logan Temple and was
 sealed to our parents by M. W. Merrill unknown M. B.
-[unclear: Hawerouts] & Wm H. [unclear: Bud] from Merionethshire Wales
+Hammond & Wm McNeil born Merionethshire Wales
 
 Robert David Roberts       21st Sep. 1839 Llanfrothen
 Thomas David Roberts       6th July 1840
@@ -3126,7 +3130,7 @@ Ingram B. Holman. William Morley was ordained
 
 ### Editorial annotations
 
-Targeted visual review resolved Merionethshire, Robert David Roberts's birthplace as Llanfrothen, David Roberts Roberts's birthplace as Nanmor, and Catherine Thomas Roberts's birthplace as Llanfrothen. Two faint sealing-list names remain materially uncertain, so the page remains needs-review. The Hugh Roberts mission/ordination record continues onto PDF page 61.
+Targeted visual review resolved Merionethshire, Robert David Roberts's birthplace as Llanfrothen, David Roberts Roberts's birthplace as Nanmor, and Catherine Thomas Roberts's birthplace as Llanfrothen. Controlled reinspection of the sealing entry resolves the two previously misread names as `M. B. Hammond` and `Wm McNeil`; surrounding syntax remains uncertain, so the page remains needs-review. The Hugh Roberts mission/ordination record continues onto PDF page 61.
 
 ## PDF page 61
 
@@ -4755,8 +4759,8 @@ was married Dec. 6th 1893 to Tryphen Davies dau-
 ghter of David T. Davies & Cely Davies they are na-
 tives of Glamorganshire South Wales David &
 Tryphen Davies Roberts's children are Tryphen
-[unclear: Rhodone], David Llewelyn, Robert Merddyn,
-[unclear: Hannah Junata], Cely Gwen, & [unclear: Florence Anieta]
+Prudence, David Llewelyn, Robert Merddyn,
+Hannah Junata, Cely Gwen, & [unclear: Florence Anieta]
 Roberts.
 
 Hugh Roberts son of R. D. & Hannah Roberts
@@ -4779,6 +4783,8 @@ their names are Agnes Aister, John Neagle, Thomas
 ### Editorial annotations
 
 Second-pass visual comparison completed. Mariah, Mesach, and Eglwys Bach were corrected. Robert Merddyn was resolved by reinspection of the manuscript after the FamilySearch memory "History of Thomas Roberts" identified the same family member as Robert Merddyn Roberts ("Mern"). Several descendants' other given names remain uncertain, so the page remains needs-review. This statement gives Eliza Neagle's birthplace only as near Belfast, County Down, Ireland and does not conclusively resolve the page 88 birthplace. The sketch continues onto page 93.
+
+The 1919 biographical sketch of Judge David Robert Roberts in *Utah Since Statehood* identifies these children as Tryphena Prudence and Hannah Juanita. Reinspection resolves the manuscript forms as `Tryphen Prudence` and `Hannah Junata`; those historical spellings are preserved rather than normalized. Florence's second name remains uncertain.
 
 ## PDF page 93
 
