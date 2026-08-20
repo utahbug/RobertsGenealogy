@@ -4781,7 +4781,7 @@ Second-pass visual comparison completed. Mariah, Mesach, and Eglwys Bach were co
 
 Stable ID: `journal-rdr-page-093`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 

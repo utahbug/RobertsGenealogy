@@ -1741,7 +1741,7 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/rdr/journal-rdr-page-093.jpg",
       "transcriptionFile": "data/journals/rdr/pages/093.md",
-      "transcriptionStatus": "needs-review",
+      "transcriptionStatus": "reviewed",
       "hand": null,
       "contentAuthor": null,
       "contentAuthorId": null,
