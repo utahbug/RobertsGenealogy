@@ -441,7 +441,7 @@ Complete second-pass visual verification performed. Historical spelling, grammar
 
 Stable ID: `journal-rdr-page-010`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -480,7 +480,7 @@ and contented.
 Logan City February 4th 1867.
 
 January 15th 1867 in mothers house Elizabeth our
-second sister was married by Thomas [unclear: Borthill] our Bishop to a
+second sister was married by Thomas Tarbet our Bishop to a
 young man by the name of Taliesin Hughes his mother lives in
 Illinois State his father lives there at present and is
 married to another woman the children Taliesin and his
@@ -491,7 +491,7 @@ back to Illinois and Emigrated his sisters & children seven in
 
 ### Editorial annotations
 
-Targeted visual review resolved `their uncle` directly from the manuscript. The overwritten priesthood-office sentence is represented with its deletion and interline. The officiating bishop's surname remains materially uncertain, so the page remains needs-review. No genealogical wording has been normalized.
+Targeted visual review resolved `their uncle` directly from the manuscript. The overwritten priesthood-office sentence is represented with its deletion and interline. Thomas Tarbet was resolved by manuscript reinspection after the BYU Welsh Saints Project History of Taliesin Hughes identified him as the officiator, corroborated by the Church History Biographical Database's Thomas Tarbet record (RID PER-RJTY8KW) and its Logan residence. No genealogical wording has been normalized. Status: reviewed.
 
 ## PDF page 11 - manuscript page 11
 
@@ -4671,7 +4671,7 @@ Second-pass visual inspection completed. Hannah Roberts's funeral record ends wi
 
 Stable ID: `journal-rdr-page-091`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4709,10 +4709,10 @@ Margaret Jones they were both in Glamorganshire
 Wales Elizabeth & Taliessin had seven children
 she died May 16th 1877 five of the children died
 Their names are James, Catherine, Ann, Margaret,
-David, Taliessin, [unclear: Hymenn] & Mariah Hughes
+David, Taliessin, Hyrum & Mariah Hughes
 
 Ann Hughes Cowley was married August 23rd
-1893 to John William Cowley son of John [unclear: Hiner] Cowley
+1893 to John William Cowley son of John Abner Cowley
 and Janet Davidson John was the son of Charles
 Cowley & Ann Killips they were natives of Isle of
 Man Janet Davidson Cowley was the daughter
@@ -4720,7 +4720,7 @@ of Thomas Davidson & Ann Davidson natives of
 
 ### Editorial annotations
 
-Second-pass visual comparison completed. The Hughes marriage date, Taliessin readings, and omitted Mariah were corrected. One Hughes given name and one Cowley parent name remain uncertain, so the page remains needs-review. The sketch continues onto PDF page 92.
+Second-pass visual comparison completed. The Hughes marriage date, Taliessin readings, and omitted Mariah were corrected. Hyrum Hughes and John Abner Cowley were resolved by manuscript reinspection after comparison with the BYU Welsh Saints Project History of Taliesin Hughes, which preserves the same child sequence and Cowley family relationship. The sketch continues onto PDF page 92. Status: reviewed.
 
 ## PDF page 92
 
