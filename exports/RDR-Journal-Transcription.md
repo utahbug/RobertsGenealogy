@@ -5942,8 +5942,8 @@ Logan, Utah.
 
 Mar. 17, 1917.
 
-Agnes Alliston Roberts and
-Rhees Leslie Montrose were
+Agnes Allister Roberts and
+John Leslie Montrose were
 married January 11th 1917
 in the Salt Lake Temple.
 R L Montrose born July 8th
@@ -5971,7 +5971,7 @@ still so employed.
 
 ### Editorial annotations
 
-Second-pass visual comparison completed from a temporary upright derivative; the preserved source scan remains inverted. Montrose, Harriet Beasley, French descent, and Canton Utah were corrected. Other ancestry wording, employment details, and overwritten text remain uncertain, so the page remains needs-review.
+Second-pass visual comparison completed from a temporary upright derivative; the preserved source scan remains inverted. Focused external-evidence review and manuscript reinspection correct the couple's names to `Agnes Allister Roberts` and `John Leslie Montrose`. Obituaries for two of their children independently identify their parents as John Leslie Montrose and Agnes Alister Roberts; the manuscript visibly uses the spelling `Allister`, which is preserved. Montrose, Harriet Beasley, French descent, and Canton Utah were previously corrected. Other ancestry wording, employment details, and overwritten text remain uncertain, so the page remains needs-review.
 
 ## PDF page 116
 
