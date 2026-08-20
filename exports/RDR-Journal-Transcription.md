@@ -5534,7 +5534,7 @@ to page 71 of this book
 
 R D Roberts
 
-[Unclear heading and date: March [illegible] 1914]
+Mch 10 1914
 
 Feb. 23 1914 Our [unclear: William] Anderson died at
 half past nine in the evening
@@ -5545,8 +5545,8 @@ examined for [illegible, approximately 3 words]
 [illegible, approximately 4 words] Our last night his funeral
 was held at two oclock in
 the Logan Tabernacle Nathaniel
-[unclear: Mitchell] presiding over
-a large audience to hear excellent [unclear: sermons]
+Mitchell presiding over
+a large audience to hear excellent sermons
 [illegible, approximately 3 words] first speaker
 [unclear: Thos. Maughan] [illegible, approximately 4 words]
 of the town they lived in [unclear: our]
@@ -5571,13 +5571,13 @@ grave dedicated by [unclear: W. Worsley] [illegible]
 
 ### Editorial annotations
 
-First-pass visual transcription. The page-106 funeral record ends near the top of this page with an explicit R D Roberts signature. A separate memorial/funeral record follows in a different, very faint hand with extensive overwriting, interlining, marginal writing, and an ink blot; substantial uncertain text is accounted for line by line rather than guessed.
+Second-pass visual comparison completed. The heading was resolved as Mch 10 1914, and Mitchell and sermons were confirmed. The page-106 funeral record ends near the top with an explicit R D Roberts signature applying only to that record. A separate memorial/funeral record follows in a different, very faint hand with extensive overwriting, interlining, marginal writing, and an ink blot. The deceased person's name and substantial lower text remain uncertain, so the page remains needs-review.
 
 ## PDF page 108
 
 Stable ID: `journal-rdr-page-108`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5620,13 +5620,13 @@ commandments of the Lord.
 
 ### Editorial annotations
 
-First-pass visual transcription. This page begins Hugh Roberts's patriarchal blessing, which continues through PDF page 110.
+Second-pass visual transcription reviewed. This page begins Hugh Roberts's patriarchal blessing, which continues through PDF page 110. The blessing hand remains unidentified.
 
 ## PDF page 109
 
 Stable ID: `journal-rdr-page-109`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5637,7 +5637,7 @@ and which will be given unto
 you inasmuch as you humble
 yourself before the Lord and re-
 member secret prayers before the
-Lord. Be prayerful, prayer con-
+Lord. Be prayerful, pray con-
 tinually unto the Lord and He will
 direct you aright and you shall
 be led by His spirit and in
@@ -5669,13 +5669,13 @@ man and the most womanly
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of Hugh Roberts's patriarchal blessing from PDF page 108. The unusual phrase concerning evil and "a man's woman" is preserved as written and requires review.
+Second-pass visual transcription reviewed. "Prayer continually" was corrected to "pray continually." The unusual phrase concerning evil and "a man's woman" was confirmed and preserved as written.
 
 ## PDF page 110
 
 Stable ID: `journal-rdr-page-110`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5715,7 +5715,7 @@ Agnes Roberts.
 
 ### Editorial annotations
 
-First-pass visual transcription. Hugh Roberts's patriarchal blessing ends on this page. The closing date and Agnes Roberts notation may identify a recorder or copyist, but do not alone establish content authorship or the broader scribal transition.
+Second-pass visual transcription reviewed. Hugh Roberts's patriarchal blessing ends on this page. The January 7, 1914 Agnes Roberts notation supports local recorder or copyist involvement but does not alone establish content authorship, identify the blessing hand conclusively, or establish a broader scribal transition.
 
 ## PDF page 111
 
