@@ -5166,7 +5166,7 @@ Second-pass visual transcription reviewed. County engineer Joe B. Swenson's midd
 
 Stable ID: `journal-rdr-page-100`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5190,7 +5190,7 @@ legislation and their recommend-
 ations. At this convention D R
 Roberts presented his plan which
 had been adopted by the committee
-remaining nearly an entire day.
+consuming nearly an entire day.
 The plan was adopted by the con-
 vention with two slight amend-
 ments and Roberts and Hewlett
@@ -5204,22 +5204,22 @@ M. Henrie to introduce them.
 The final result after much labor
 and discussion, was that one
 maintenance measure was kil-
-led in the House; one mainten-
+led in the House [superscript-like: 2]; one mainten-
 ance measure was killed by the
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
+Second-pass visual transcription reviewed. "Remaining" was corrected to "consuming," and the superscript-like 2 after House was restored. This continues the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
 
 ## PDF page 101
 
 Stable ID: `journal-rdr-page-101`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
-Senate; one revenue measure
+Senate [superscript-like: 3]; one revenue measure
 was vetoed by the Governor
 Wm Spry, and the other five
 measures consisting of the
@@ -5259,13 +5259,13 @@ funds to meet all obligations
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned. Superscript-like marks near the opening require review.
+Second-pass visual transcription reviewed. The superscript-like 3 following Senate was restored. This continues the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
 
 ## PDF page 102
 
 Stable ID: `journal-rdr-page-102`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5308,13 +5308,13 @@ George Washington University
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
+Second-pass visual transcription reviewed. This continues the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
 
 ## PDF page 103
 
 Stable ID: `journal-rdr-page-103`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5357,13 +5357,13 @@ successful and gave general
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
+Second-pass visual transcription reviewed. This continues the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
 
 ## PDF page 104
 
 Stable ID: `journal-rdr-page-104`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5382,14 +5382,14 @@ During the first year in
 Washington, Prudence, Churchill
 and Margalyn attended the Buch-
 anon school and during the
-second and third years Brown
+second and third years spent
 in Washington; Prudence, Churchill,
 Margalyn and Florence, attended
 the Monroe school and were all
 successful in their school work.
 When the family first arrived
 in Washington City located in
-the Logan flat at Columbia 7/12
+the Logan flat at number 7 1/2
 15 St. S. E. which place they
 occupied until June 26, 1910.
 While domiciled at this place
@@ -5407,13 +5407,13 @@ there in October and located in
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned. The school name, street notation, and several child names require review.
+Second-pass visual transcription reviewed. "Brown" was corrected to "spent," and the compact address was resolved as "number 7 1/2 / 15 St. S. E." This continues the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
 
 ## PDF page 105
 
 Stable ID: `journal-rdr-page-105`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5458,7 +5458,7 @@ the bar, calling by Belleville Ill.
 
 ### Editorial annotations
 
-First-pass visual transcription. Continuation of the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned. Several place and family names require review.
+Second-pass visual transcription reviewed. The place and family names were confirmed visually. This continues the page-99 political/legal narrative in the same confirmed new hand; scribe identity remains unassigned.
 
 ## PDF page 106
 
@@ -5483,7 +5483,7 @@ R D Roberts
 
 May 19th 1913
 
-June 19th 1912 Prudence wife of D R Roberts gave
+June 19th 1912 Tryphen wife of D R Roberts gave
 birth to a sweet little girl while living in Washington
 D C in a house Number 538 Columbia Road N W
 She was blessed July 18th 1912 in the Senate District
@@ -5503,7 +5503,7 @@ meeting held in the Third Ward meeting house Logan
 large congregation more than the house could hold the
 speakers were Richard Ellis David Charles Bitters
 solo by Mrs Alma Waterson next speaker Moses
-Thatcher solo by C. [unclear: Armstrong] hymn next speaker Joseph
+Thatcher solo by C. L. Armstrong hymn next speaker Joseph
 Cardon and coun; [illegible] and Bp William Evans
 opening prayer singing by the quire benediction by
 James Linford dedication of the grave by coun; John
@@ -5516,7 +5516,7 @@ good Latterday Saint full of faith in the priesthood
 
 ### Editorial annotations
 
-First-pass visual transcription. The political/legal and family narrative beginning on page 99 concludes at the top of this page. Later entries use additional hands and include two explicit R D Roberts signatures. The funeral entry continues on PDF page 107; several officiator names and compact phrases require review.
+Second-pass visual comparison completed. Tryphen and C. L. Armstrong were corrected. The political/legal and family narrative beginning on page 99 concludes at the top of this page with "Agnes A Roberts"; this closing notation associates her with the narrative but does not conclusively distinguish content authorship from scribal or recorder involvement. Later entries use additional hands and include two explicit R D Roberts signatures applying only to their associated entries. The funeral entry continues on PDF page 107, and obscured officiator wording prevents promotion.
 
 ## PDF page 107
 
