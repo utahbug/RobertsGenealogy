@@ -5102,7 +5102,7 @@ R D Roberts
 Jan 20th 1913
 
 In a Priesthood meeting in the Third Ward Logan
-Robert [unclear: Meridyn] Roberts was Ordained to the Office of
+Robert Merddyn Roberts was Ordained to the Office of
 a Deacon in the Aaronic Priesthood by Bp William Evans as
 counselor John Quile assisted by counselor Christian Jacobson
 
@@ -5110,7 +5110,7 @@ R D Roberts
 
 ### Editorial annotations
 
-Second-pass visual comparison completed. The repeated John Quayle, Presidents Budge, and the third and fourth ordinance officiator wording were corrected. Mary RosKaley and Robert Meridyn remain uncertain, so the page remains needs-review. Four explicit R D Roberts signatures identify only the entries they accompany and are not generalized into a broader page-range attribution.
+Second-pass visual comparison completed. The repeated John Quayle, Presidents Budge, and the third and fourth ordinance officiator wording were corrected. The clear repeated form "Robert Merddyn Roberts" on PDF page 117 resolves that name through internal manuscript corroboration. Mary RosKaley remains uncertain, so the page remains needs-review. Four explicit R D Roberts signatures identify only the entries they accompany and are not generalized into a broader page-range attribution.
 
 ## PDF page 99
 
@@ -5725,7 +5725,7 @@ Transcription status: `needs-review`
 
 ### English transcription
 
-[Unclear heading: [illegible] March 10-14]
+Again Mch 10-14
 
 Feb. 23 1914 Our [unclear: beloved Alma Anderson] died at
 half past nine in the evening
@@ -5735,7 +5735,7 @@ examined for a bad [unclear: throat] but some
 felt [unclear: sick] and had been [illegible]
 [illegible, approximately 5 words] the night his funeral
 was held at 2 oclock in the Logan
-Tabernacle Nathaniel [unclear: Mitchell]
+Tabernacle Nathaniel Mitchell
 presiding over a large audience to hear good
 [illegible, approximately 4 words] singing [unclear: Choir] church
 [unclear: Rich] [illegible, approximately 4 words] first speaker
@@ -5763,7 +5763,7 @@ grave dedicated by [unclear: W. Worsley] his
 
 ### Editorial annotations
 
-First-pass visual transcription. A faint, heavily corrected family/funeral narrative begins here and continues onto PDF page 112. The page contains extensive overwriting, interlining, marginal additions, and uncertain names; unreadable lines are accounted for rather than silently omitted.
+Second-pass visual comparison completed. The heading was resolved as "Again Mch 10-14," and Nathaniel Mitchell was confirmed. This faint, heavily corrected family/funeral narrative continues onto PDF page 112. Extensive overwriting, interlining, marginal additions, and uncertain names prevent promotion; unreadable lines remain explicitly accounted for.
 
 ## PDF page 112
 
@@ -5815,7 +5815,7 @@ endowment for them.
 
 ### Editorial annotations
 
-First-pass visual transcription. The difficult family/funeral narrative from page 111 ends on this page with an April 5 1821 / Hugh Roberts notation. A separate March 1914 temple-work entry follows. Names, chronology, marginal notes, and several phrases require review.
+Second-pass visual comparison completed. The difficult family/funeral narrative from page 111 ends on this page with an April 5 1821 / Hugh Roberts notation. A separate March 1914 temple-work entry follows. Substantive uncertainty remains in names, chronology, marginal notes, and several phrases, so the page remains needs-review.
 
 ## PDF page 113
 
@@ -5856,7 +5856,7 @@ Jane Roberts
 Logan Utah, May 21, 1915
 
 A fine baby boy was born May
-9, 1915 at 10:35 P M to Stephens, wife
+9, 1915 at 10:35 P M to Tryphena, wife
 of D R Roberts at Ogden, Utah and
 died the same day. The body
 was brought to Logan May 11th
@@ -5866,7 +5866,7 @@ Agnes Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription. This page contains the conclusion of genealogical/temple notes, a baptism entry signed Jane Roberts, and a birth/death entry signed Agnes Roberts. Several Welsh family names and dates require review.
+Second-pass visual comparison completed. "Stephens" was corrected to "Tryphena." The baptism entry is signed Jane Roberts, and the birth/death entry is signed Agnes Roberts; each signature applies only to its associated entry. Several Welsh family names and dates remain uncertain, so the page remains needs-review.
 
 ## PDF page 114
 
@@ -5891,7 +5891,7 @@ Thos Roberts
 Logan Jan 2 1917
 
 Born at Ogden July 28 1916
-to Margarett D R Roberts a fine baby
+to Margaret & D R Roberts a fine baby
 girl at 7 week premature after she
 being [unclear: the weight] (6:12) weighing 7 lbs.
 Blessed September 3-1916 at Logan
@@ -5919,7 +5919,7 @@ on Feb 13-1917.
 
 ### Editorial annotations
 
-First-pass visual transcription. Several short ordination, birth/blessing, funeral, and baptism entries appear in different hands. The middle entries contain overwritten dates, difficult names, and compact wording requiring review.
+Second-pass visual comparison completed. "Margarett D R" was corrected to "Margaret & D R." Several short ordination, birth/blessing, funeral, and baptism entries appear in different hands. Overwritten dates, difficult names, and compact wording in the middle entries prevent promotion.
 
 ## PDF page 115
 
@@ -5940,24 +5940,24 @@ Logan, Utah.
 Mar. 17, 1917.
 
 Agnes Alliston Roberts and
-Rhees Leslie Mountrone were
+Rhees Leslie Montrose were
 married January 11th 1917
 in the Salt Lake Temple.
-R L Mountrone born July 8th
+R L Montrose born July 8th
 1891 at Logan Utah. He is
-a son of [unclear: John] Mountrone
-and [unclear: Emmaline] Mountrone.
-[unclear: R L Mountrone] is a German
-descent born in Cache Utah.
+a son of [unclear: John] Montrose
+and Harriet Beasley Montrose.
+John Montrose is of French
+descent born in Canton Utah.
 His ancestry settled in Early
 Utah. His [unclear: grand] ancestry
 from Europe.
 
-R L Mountrone baptized
+R L Montrose baptized
 July 1st 1910. [unclear: passed] [unclear: ordinance]
 from Nov. 8, 1910 to Feb. 10, 1913.
 After being married R L
-Mountrone and Agnes Mountrone
+Montrose and Agnes Montrose
 [unclear: moved] [unclear: home] owned
 by B. D. [unclear: Mitchellson] at 485
 East Center St Logan Utah.
@@ -5968,13 +5968,13 @@ still so employed.
 
 ### Editorial annotations
 
-First-pass visual transcription from a temporary upright derivative; the preserved source scan remains inverted. The marriage/family entry contains uncertain surnames, ancestry wording, employment details, and overwritten text.
+Second-pass visual comparison completed from a temporary upright derivative; the preserved source scan remains inverted. Montrose, Harriet Beasley, French descent, and Canton Utah were corrected. Other ancestry wording, employment details, and overwritten text remain uncertain, so the page remains needs-review.
 
 ## PDF page 116
 
 Stable ID: `journal-rdr-page-116`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5986,13 +5986,13 @@ John H. Anderson. (see R Rec 34)
 
 ### Editorial annotations
 
-First-pass visual transcription. This page is mostly blank but contains one baptism and confirmation entry near the top; it is therefore a content page, not a blank/non-content leaf.
+Second-pass visual transcription reviewed. This page is mostly blank but contains one baptism and confirmation entry near the top; it is therefore a content page, not a blank/non-content leaf.
 
 ## PDF page 117
 
 Stable ID: `journal-rdr-page-117`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -6037,7 +6037,7 @@ House by Bishop David H Ensign.
 
 ### Editorial annotations
 
-First-pass visual transcription. This page contains blessing, baptism, confirmation, and ordination entries. Several officiator surnames and the spelling of Merddyn require review.
+Second-pass visual transcription reviewed. This page contains blessing, baptism, confirmation, and ordination entries. The clearly written "Robert Merddyn Roberts" provides internal corroboration for the same uncertain name on PDF page 98.
 
 ## PDF page 118
 
@@ -6067,13 +6067,13 @@ Pittman who emigrated from England
 to Cape Colony Africa.
 James Bordley son of Robert &
 Jane Pittman Bordley was born at
-Cape town South Africa [unclear: April]
-[unclear: 14] [unclear: 1840]. Africa with my parents
+Cape town South Africa April
+14 1840. Africa with my parents
 moved to Port Elizabeth from
 there to [unclear: Bushmans River].
 I then [unclear: lived] in the [unclear: interior]
 embraced the Gospel of Jesus Christ
-and at the age of ten (10) in
+and at the age of (20) in
 the year 1860 [unclear: returned]
 with my parents started for
 America [unclear: sailing] [unclear: vessel]
@@ -6090,13 +6090,13 @@ made my home have since
 
 ### Editorial annotations
 
-First-pass visual transcription. A birth/blessing entry is followed by a first-person family history of James Bordley that continues onto PDF page 119. Names, dates, African and American place names, and several migration phrases require review.
+Second-pass visual comparison completed. James Bordley's birth date was resolved as April 14 1840, and his age was corrected to (20). The first-person family history continues onto PDF page 119. Several African and American place names and migration phrases remain uncertain, so the page remains needs-review.
 
 ## PDF page 119
 
 Stable ID: `journal-rdr-page-119`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -6143,4 +6143,4 @@ Pres. Heber J. Grant Nov. 18-1921
 
 ### Editorial annotations
 
-First-pass visual transcription. The page completes James Bordley's family history, then records Robert W. Roberts's Northern States mission and release. This is the final content page of the physical PDF; no blank or non-content terminal page follows. Several place, office, and family-name readings require review.
+Second-pass visual transcription reviewed. The page completes James Bordley's family history, then records Robert W. Roberts's Northern States mission and release. This is the final content page of the physical PDF; no blank or non-content terminal page follows.
