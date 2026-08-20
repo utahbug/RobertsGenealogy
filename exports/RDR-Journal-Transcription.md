@@ -204,7 +204,7 @@ that it was a Sin.
 When a boy I wish very much to be a Poet and
 when I was about eighteen years of age I had the opportunity
 to see [unclear] ruled at this time I was lodging at the house
-of the grandmother of [unclear: Gryffyn Ystradau] the bard also he
+of the grandmother of Gwilym Ystradau the bard also he
 was Poet and near of the same age and of the same
 inclination about poetry so we was little encouragement one to
 the other we got acquainted with the old bard [unclear: Gryffyn
@@ -221,7 +221,7 @@ from Dolgarregddu to Bethania where we are at present and from
 
 ### Editorial annotations
 
-Targeted visual review resolved Cae, Cwmystradlyn, and Haffty-y-Moelwyn Park directly from the manuscript and narrowed the bardic name to `[unclear: Gryffyn Ystradau]`. Other bardic and Welsh place-name readings remain materially uncertain, so the page remains needs-review.
+Targeted visual review resolved Cae, Cwmystradlyn, and Haffty-y-Moelwyn Park directly from the manuscript. Focused reinspection and independent Welsh biographical evidence identify the bardic name as `Gwilym Ystradau`, the name used by William Williams of the Tanygrisiau/Rhiwbryfdir area. Other bardic and Welsh place-name readings remain materially uncertain, so the page remains needs-review.
 
 ## PDF page 6 - manuscript page 6
 
@@ -284,7 +284,7 @@ Targeted visual review resolved Pandy, Rhydfudr, and Llwyn-yr-hwch directly from
 
 Stable ID: `journal-rdr-page-007`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -294,10 +294,10 @@ are Rowland, Janet, Ann, Elinor and Henry Morris.
 The names of my father and mother are Robert Roberts
 and Elizabeth Edwards they was married in Beddgelert the
 third day of February the year eighteen hundred and six (3rd 1806)
-my father was born in Cae Glas Clynog Carnarvonshire January [unclear]
+my father was born in Cae Glas Clynog Carnarvonshire January 18th 1775
 his parents had nine children their names are Salmon,
 Margaret, Robert (my father) Catherine, Jane, Ann, Elinor, Elizabeth
-and William Roberts my grandfather was born in [unclear] Clynog.
+and William Roberts my grandfather was born in Felin Faesog Clynog.
 
 Now I shall write a little. Robert D. Roberts.
 Logan City January 2nd 1861.
@@ -331,7 +331,7 @@ Capt. Evans who was married to my uncle Daniel's widowed
 
 ### Editorial annotations
 
-Complete second-pass visual comparison performed. The page visibly marks a transition into Robert D. Roberts's own narrative. The Logan date was resolved visually as January 2nd 1861, and page 25 internally corroborates the sibling name Salmon Roberts. The paternal birth date and grandfather's birthplace remain materially uncertain; the page therefore remains needs-review.
+Complete second-pass visual comparison performed. The page visibly marks a transition into Robert D. Roberts's own narrative. The Logan date was resolved visually as January 2nd 1861, and page 25 internally corroborates the sibling name Salmon Roberts. Focused manuscript reinspection resolves the paternal birth date as January 18th 1775 and the grandfather's birthplace as Felin Faesog, Clynog. A later derivative family-history account supplies the same readings but preserves Robert D. Roberts's uncertainty about the grandfather's identity; it is supporting context, not independent proof of the older Rhys pedigree. No later ancestry conclusion has been inserted into the manuscript transcription.
 
 ## PDF page 8 - manuscript page 8
 
@@ -920,7 +920,7 @@ Complete second-pass visual verification performed. Conar Hughes is resolved thr
 
 Stable ID: `journal-rdr-page-018`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -939,7 +939,7 @@ and no pain she desired her relatives to come to see her
 remains put in the earth to lay until the morning of the
 first resurrection on the 17th we started our journey their we
 had a most dreadful storm of snow and wind we was not
-able to go any further than [unclear: Square town] this day 18th the
+able to go any further than square town this day 18th the
 weather rather unpleasant we arrive in Samaria few minuts
 after ten in looking at her husband and her little children
 the house and the surrounding where she has been moveing
@@ -962,7 +962,7 @@ well This was wrote June 3rd 1877
 
 ### Editorial annotations
 
-Complete second-pass visual review performed. The interlined words "but now" were restored. The storm stopping place remains materially uncertain, so this page remains needs-review; historical wording such as "could" and "coile" is preserved.
+Complete second-pass visual review performed. The interlined words "but now" were restored. Focused manuscript reinspection resolves the storm stopping place as `square town`. Independent Box Elder historical sources identify Square Town as the early settlement later known as Plymouth; this editorial identification does not alter the manuscript's wording or capitalization. Historical wording such as "could" and "coile" is preserved.
 
 ## PDF page 19 - manuscript page 19
 
@@ -1241,7 +1241,7 @@ Complete second-pass visual verification performed. The final child's name was r
 
 Stable ID: `journal-rdr-page-024`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -1251,7 +1251,7 @@ Hugh Roberts was baptized by
 William C Partington Confirmed by John
 Johnson the same day
 
-Logan City May 16th [unclear: 1885]
+Logan City May 16th [overwritten: 1877 with 85 written above the final digits]
 
 Brigham Young and company arrived
 in Logan, on the 19th the site was selected
@@ -1284,7 +1284,7 @@ Jan: 21st David Robert Roberts
 
 ### Editorial annotations
 
-Targeted visual review confirmed the repeated written officiator form `Fratrig Pine` using the clearer matching occurrence on page 25. The overwritten Brigham Young-entry year remains materially uncertain, so the page remains needs-review. The manuscript's written "1895" date and crossed-out/interlined wording are preserved.
+Targeted visual review confirmed the repeated written officiator form `Fratrig Pine` using the clearer matching occurrence on page 25. Focused reinspection resolves the physical date layering as base year `1877` with `85` written above its final digits. Independent contemporary chronology places the Logan temple-site events described here in May 1877; the external evidence identifies the event but does not justify suppressing the later manuscript overwrite. The manuscript's written "1895" date and crossed-out/interlined wording are preserved.
 
 ## PDF page 25
 
