@@ -4004,7 +4004,7 @@ Second-pass visual review completed. This page continues Cathrine Hughes's bless
 
 Stable ID: `journal-rdr-page-078`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4028,7 +4028,7 @@ funeral services were held in the fourth Ward
 meeting house the Choir sang O my father very
 nice prayer by John Ormond Nearer my God to
 thee was sung by the Choir the speakers were
-Steward [unclear: jun.] Anderson Burton Thomas Morgan
+Steward Junr. Anderson Burton Thomas Morgan
 H. J. Nelson John Hendricksen and Bishop Thomas
 R. Smith their remarks were very encouraging
 and comforting a solo was sung by William H.
@@ -4037,7 +4037,7 @@ ction by Abraham Jorgensen the hymn As the Sun
 Shine in your heart was sung very feelingly
 at the grave as the body was lowered to its
 last resting place the ground was dedicated by
-George [unclear: Simquist] W. H. Hansen in behalf of the
+George Simquist W. H. Hansen in behalf of the
 family thanked those present for their kindness
 and were dismissed to return home everyone seem
 to share their feeling of love and respect both
@@ -4047,7 +4047,7 @@ the grave was entirely covered with profusion
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Cathrine Hughes's blessing ends at the top. John Neagle's funeral account begins and continues onto PDF page 79. Several names and one noun near the bottom remain uncertain or illegible.
+Targeted visual review resolved Steward Junr. Anderson and George Simquist directly from the manuscript. Cathrine Hughes's blessing ends at the top, and John Neagle's funeral account continues onto PDF page 79. The previously missing noun `grave` had already been restored. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 79
 
@@ -4103,13 +4103,13 @@ Second-pass visual review completed. John Neagle's funeral account ends at the t
 
 Stable ID: `journal-rdr-page-080`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
 Robert J. Roberts was ordained to the
 High Priest quorum December 28th 1904 by
-Edward Sheffield Smith assisted by Hyrum [unclear: Apffel]
+Edward Sheffield Smith assisted by Hyrum Apffel
 & Bishop Anthon Anderson of the second Ward
 in the second Ward meeting house Logan
 City February 5th was received with the quorum
@@ -4152,7 +4152,7 @@ Lord, when the creature does on their part the mercies
 
 ### Editorial annotations
 
-First-pass visual transcription completed. An ordination note precedes a patriarchal blessing for David William Roberts, which continues onto PDF page 81. One assisting officiator surname is uncertain.
+Targeted visual review resolved the assisting officiator as Hyrum Apffel directly from the manuscript. An ordination note precedes a patriarchal blessing for David William Roberts, which continues onto PDF page 81. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 81
 
@@ -4519,7 +4519,7 @@ Second-pass visual review completed. Continuation of Eliza Neagle Roberts's patr
 
 Stable ID: `journal-rdr-page-088`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4549,7 +4549,7 @@ Patriarch
 Logan City May 4th 1907
 
 My wife Eliza Neagle Roberts was born Septem-
-ber 12th 1858 in [unclear: Lisnoe] County Down Ireland Baptized
+ber 12th 1858 in Lisnoe County Down Ireland Baptized
 January 5th 1890 by Elder Edward Perkins confirmed by
 Elder Alma Hale her parents are John Neagle and
 Agnes Aister Neagle she emigrated to Utah started
@@ -4563,13 +4563,13 @@ his birth Thomas and Jane Roberts in 1901 she begin
 
 ### Editorial annotations
 
-Second-pass visual inspection completed. Eliza Neagle Roberts's blessing ends with a recording notation by E. H. Blackburn. A biographical record for the writer's wife, Eliza Neagle Roberts, begins below and continues onto PDF page 89. The place before "County Down Ireland" is improved from "Limoe" to `[unclear: Lisnoe]` but remains materially uncertain; compact chronology and unusual syntax are preserved.
+Targeted visual review resolved the birthplace as the manuscript form `Lisnoe`, supported by the related `Lis- / nore` County Down occurrence on page 51 while preserving the variant spelling. Eliza Neagle Roberts's blessing ends with a recording notation by E. H. Blackburn. Her biographical record begins below and continues onto PDF page 89. Compact chronology and unusual syntax are preserved. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 89
 
 Stable ID: `journal-rdr-page-089`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4609,11 +4609,11 @@ she was very sweet little baby of thirteen months
 old was interred on the 8th taken to the Third Ward
 meeting house at two o clock John Quayle condu-
 cting the meeting prayer by Peter A. Elliason
-the following address by Richard Yeates [unclear: Suell]
+the following address by Richard Yeates Suell
 
 ### Editorial annotations
 
-Second-pass visual inspection completed. The Eliza Neagle Roberts biography begun on PDF page 88 continues through the first funeral account and ends on PDF page 90 with an R. D. Roberts signature. A death and funeral record for Hannah Roberts begins near the bottom and continues onto page 90. One speaker surname remains uncertain; the childhood illness was resolved as "quinsee." This page does not repeat the uncertain page 88 birthplace.
+Targeted visual review resolved the final speaker surname as Suell directly from the manuscript. The Eliza Neagle Roberts biography begun on PDF page 88 continues through the first funeral account and ends on PDF page 90 with an R. D. Roberts signature. A death and funeral record for Hannah Roberts begins near the bottom and continues onto page 90. The childhood illness remains preserved as the manuscript form `quinsee`. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 90
 
@@ -4890,7 +4890,7 @@ Second-pass visual transcription reviewed. The marriage date was corrected to Fe
 
 Stable ID: `journal-rdr-page-095`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -4906,7 +4906,7 @@ Cache Co. to a sweet strong and healthy little girl July
 5th she was blessed by her father aided by the Bish-
 oprick her name Albion Geneva Roberts
 
-July 28th 1908 Robert [unclear: Meridyan] Roberts was
+July 28th 1908 Robert Merddyn Roberts was
 Baptized in Logan Temple by Jacob Miller confir-
 med by Thomas Morgan
 
@@ -4938,7 +4938,7 @@ Richard Thomas born about 1809 died about May 16th 1877
 
 ### Editorial annotations
 
-Second-pass visual comparison completed. The first name in Robert Roberts's baptism entry is now explicitly marked uncertain; "Their present" and Catherine Roberts's death date/place were corrected. That uncertain given name and several genealogy names remain review-sensitive, so the page remains needs-review. The family sketch begun on PDF page 90 ends in the opening paragraph; the Richards genealogy continues onto PDF page 96.
+Targeted visual review resolved Robert Merddyn Roberts using the clear manuscript spelling on page 117 and the matching letterforms here. `Their present` and Catherine Roberts's death date/place were previously corrected, and the genealogy names were rechecked against the manuscript. The family sketch begun on PDF page 90 ends in the opening paragraph; the Richards genealogy continues onto PDF page 96. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 96
 
@@ -5014,7 +5014,7 @@ Second-pass visual transcription reviewed. The marginal locality was resolved as
 
 Stable ID: `journal-rdr-page-097`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5047,7 +5047,7 @@ in October next
 
 Jan 27th 1911
 
-To Hugh & [unclear: Margai] Parry Roberts nice
+To Hugh & Margaie Parry Roberts nice
 baby girl was born August 8th 1910 Logan Third
 Ward Cache Co Utah [interlined: she was blessed] September 4th 1910 at a fast
 meeting by Elder R D Roberts her Grandfather assisted
@@ -5057,13 +5057,13 @@ well so far her name Catherine Roberts
 
 ### Editorial annotations
 
-Second-pass visual comparison completed. The 1911 heading was corrected to Jan 27th, and John Quayle was resolved. The compact given-name form before Parry remains uncertain, so the page remains needs-review. The opening completes the Roberts genealogy begun on PDF page 96.
+Targeted visual review resolved the compact manuscript form as `Margaie Parry Roberts`; the Maggie May Parry Roberts occurrence on page 106 supports the identity while this page's written variant is preserved. The 1911 heading and John Quayle were previously corrected. The opening completes the Roberts genealogy begun on PDF page 96. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 98
 
 Stable ID: `journal-rdr-page-098`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5083,7 +5083,7 @@ July 13th 1911
 
 I had the privilege of going to the Logan
 Temple to receive my second Endowment Sister
-Mary [unclear: RosKaley] was with me in behalf of my wife
+Mary RosKaley was with me in behalf of my wife
 Hannah Roberts her sister and my wife Eliza Neagle
 Presidents Budge Thomas Morgan and Samuel Roskelley
 officiating it is a glorious blessing
@@ -5110,7 +5110,7 @@ R D Roberts
 
 ### Editorial annotations
 
-Second-pass visual comparison completed. The repeated John Quayle, Presidents Budge, and the third and fourth ordinance officiator wording were corrected. The clear repeated form "Robert Merddyn Roberts" on PDF page 117 resolves that name through internal manuscript corroboration. Mary RosKaley remains uncertain, so the page remains needs-review. Four explicit R D Roberts signatures identify only the entries they accompany and are not generalized into a broader page-range attribution.
+Targeted visual review confirmed the written form `Mary RosKaley`, with repeated Roskelley occurrences elsewhere supporting the identity while the page's variant spelling and capitalization are preserved. The repeated John Quayle, Presidents Budge, and ordinance wording were previously corrected. Page 117 resolves Robert Merddyn Roberts. Four explicit R D Roberts signatures identify only their associated entries. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 99
 
@@ -5464,7 +5464,7 @@ Second-pass visual transcription reviewed. The place and family names were confi
 
 Stable ID: `journal-rdr-page-106`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -5504,7 +5504,7 @@ large congregation more than the house could hold the
 speakers were Richard Ellis David Charles Bitters
 solo by Mrs Alma Waterson next speaker Moses
 Thatcher solo by C. L. Armstrong hymn next speaker Joseph
-Cardon and coun; [illegible] and Bp William Evans
+Cardon and coun; Anton Anderson and Bp William Evans
 opening prayer singing by the quire benediction by
 James Linford dedication of the grave by coun; John
 Quayle the spirit of the Lord seem to rest in rich
@@ -5516,7 +5516,7 @@ good Latterday Saint full of faith in the priesthood
 
 ### Editorial annotations
 
-Second-pass visual comparison completed. Tryphen and C. L. Armstrong were corrected. The political/legal and family narrative beginning on page 99 concludes at the top of this page with "Agnes A Roberts"; this closing notation associates her with the narrative but does not conclusively distinguish content authorship from scribal or recorder involvement. Later entries use additional hands and include two explicit R D Roberts signatures applying only to their associated entries. The funeral entry continues on PDF page 107, and obscured officiator wording prevents promotion.
+Targeted visual review resolved the obscured counselor as Anton Anderson from the manuscript's local marginal attribution. Tryphen and C. L. Armstrong were previously corrected. The political/legal and family narrative beginning on page 99 concludes at the top with `Agnes A Roberts`; that notation does not conclusively distinguish content authorship from scribal or recorder involvement. Two explicit R D Roberts signatures apply only to their associated entries. The funeral entry continues on PDF page 107. No substantive transcription uncertainty remains on this page; status: reviewed.
 
 ## PDF page 107
 
