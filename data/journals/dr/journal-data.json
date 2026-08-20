@@ -3296,8 +3296,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-082.jpg",
       "transcriptionFile": "data/journals/dr/pages/082.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3305,23 +3305,77 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 81]\n\nTaliesin Hughes, bu farw ei fam yn Nhalaith Illinois, America, ac yno y mae ei Dad yn awr wedi briodi gwraig arall. Ymfudodd y plant hyn, sef Taliesin a'i frawd a'i chwiorydd, gan ei hewythr, William Jones, brawd ei mam. Ef ar ol dod i Utah Territory, Box Elder County, Willard, ym mhen amser ymadawodd, ac aeth yn ol i Illinois, ac a [unclear: ymfudodd blant ei chwaer], saith mewn rhifedi. A'i Tad a addawodd ddyfod ar ei hol, ond ni ddaeth hyd yn hyn. Mae Taliesin Hughes ac Elizabeth ein chwaer yn byw mewn ty o eiddo ef, a phob peth yn edrych yn dda.\n\nR. D. Roberts\n\nAr y bedwareddarddeg, 14eg, o Ebrill ganwyd merch i Ann ein chwaer, y flwyddyn (1868), a William Hopkin ei phriod; enw, Sarah Cathrina Hopkin.\n\nDerbyniais mewn llythyr oddiwrth fy ewythr Edward Roberts, brawd fy nhad, dyddiedig Gorphenaf [unclear: 20fed] 1854, y dydd a'r mis a'r flwyddyn y ganwyd David R. Roberts, a Cathrina ei wraig, a'u plant, a oedd wedi bod yn meddiant David R. Roberts, lle yr oedd ef (David) a'i law ei hun wedi rhoi y cofnod cyntaf o'i blant.\n\nDavid R. Roberts a anwyd Ebrill 5ed 1814\n\nCathrina, [crossed out: Mehefin] Gorphenaf 25ed 1828\n\nEu plant:\n\nRobert, Medi 21, 1839\n\nThomas, Gorphenaf 6, 1840\n\nDaniel, Medi 8, 1842\n\nAnne, Rhagfyr 19, 1844\n\nElizabeth, Tachwedd 15, 1846\n\nJane, Ionawr 11, 1850\n\nRobert D. Roberts",
+      "translation": "[continuation from PDF page 81]\n\nTaliesin Hughes's mother died in the State of Illinois, America, and his father is now there, having married another woman. These children, namely Taliesin, his brother, and his sisters, were brought out by their uncle William Jones, their mother's brother. After coming to Utah Territory, to Willard in Box Elder County, he departed after some time and went back to Illinois, and [unclear in Welsh: brought out his sister's children], seven in number. Their father promised to come after them, but he has not yet come. Taliesin Hughes and Elizabeth, our sister, live in a house of his own, and everything appears well.\n\nR. D. Roberts\n\nOn April 14, in the year 1868, a daughter was born to Ann, our sister, and her husband William Hopkin; her name was Sarah Cathrina Hopkin.\n\nI received in a letter from my uncle Edward Roberts, my father's brother, dated July [unclear: 20], 1854, the day, month, and year when David R. Roberts, Cathrina his wife, and their children were born. It had been in the possession of David R. Roberts, where he (David), with his own hand, had entered the first record of his children.\n\nDavid R. Roberts was born April 5, 1814.\n\nCathrina, [crossed out: June] July 25, 1828.\n\nTheir children:\n\nRobert, September 21, 1839\n\nThomas, July 6, 1840\n\nDaniel, September 8, 1842\n\nAnne, December 19, 1844\n\nElizabeth, November 15, 1846\n\nJane, January 11, 1850\n\nRobert D. Roberts",
+      "notes": "- The opening completes the February 4, 1867 entry begun on PDF page 81 and ends with an explicit `R. D. Roberts` signature. It has a confirmed parallel across RDR PDF pages 10-11. RDR closely paraphrases and expands the migration account.\n- The Welsh appears to state that Taliesin Hughes's mother died in Illinois. RDR page 10 instead says that his mother lived in Illinois. Both readings are preserved as a material textual disagreement; RDR has not been used to override the Welsh.\n- The April 14, 1868 birth notice has a confirmed close parallel on RDR PDF page 11. The Welsh source form `Sarah Cathrina Hopkin` is preserved.\n- The family register has a confirmed close parallel on RDR PDF page 11. The page identifies Edward Roberts's July 1854 letter as the immediate source and says that David R. Roberts had entered the children's record in his own hand. Robert D. Roberts is the present page's scribe; David R. Roberts is the content author of the underlying Bible register.\n- The letter's July day is not fully secure from the Welsh letterforms and remains `[unclear: 20fed]`; RDR supplies July 20 but is not treated as decisive. The overwritten month for Cathrina is represented as written rather than silently normalized.\n- The handwriting remains continuous with the signed Robert D. Roberts hand on page 81. Explicit signatures after the migration account and at the bottom of the page support confirmed scribal attribution.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts; copied family Bible record by David R. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "confirmed",
+      "attributionBasis": "Handwriting continuity with page 81 and explicit R. D. Roberts signatures after the migration account and at the bottom of the page confirm the scribe; the page explicitly identifies David R. Roberts as author of the copied family Bible register.",
+      "people": [
+        "Robert D. Roberts",
+        "David R. Roberts",
+        "Taliesin Hughes",
+        "Elizabeth Roberts",
+        "William Jones",
+        "Ann Roberts",
+        "William Hopkin",
+        "Sarah Cathrina Hopkin",
+        "Edward Roberts",
+        "Cathrina Roberts",
+        "Robert Roberts",
+        "Thomas Roberts",
+        "Daniel Roberts",
+        "Anne Roberts",
+        "Jane Roberts"
+      ],
+      "places": [
+        "Illinois",
+        "Willard",
+        "Box Elder County",
+        "Utah Territory"
+      ],
+      "dates": [
+        "April 14, 1868",
+        "July 1854",
+        "April 5, 1814",
+        "July 25, 1828",
+        "September 21, 1839",
+        "July 6, 1840",
+        "September 8, 1842",
+        "December 19, 1844",
+        "November 15, 1846",
+        "January 11, 1850"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-010",
+          "pdfPageNumber": 10,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-011",
+          "pdfPageNumber": 11,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-083",
