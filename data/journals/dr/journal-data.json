@@ -3918,8 +3918,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-089.jpg",
       "transcriptionFile": "data/journals/dr/pages/089.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3927,23 +3927,82 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 88]\n\na rhan yn yr adgyfodiad cyntaf gan Joseph F. Smith.\n\nRobert Roberts i Elizabeth Edwards.\n\nGriffith Morris i Elizabeth Roberts.\n\nDirprwywyr: Robert David Roberts ac Ann Roberts Hopkin.\n\nThomas Richards i Ann Morris.\n\nRichard Thomas i Elizabeth Thomas.\n\nThomas Williams i Cathreine Ych Richards.\n\nRowland Morris i Jane Parry.\n\nJohn Thomas i Elinor Morris.\n\nRobert Richards i Elizabeth Morris.\n\nHenry Morris i Cathreine Morris.\n\nDirprwywyr: Robert David Roberts a Cathreine Thomas Roberts.\n\nMai 22, 1876\n\nHanah Roberts fy ngwraig, am bum munud wedi deuddeg canol dydd (5 wedi 12), a roddodd enedigaeth i fachgian bach yn pwyso bedwar pwys (4 lbs). Mae yn edrych yn eitha iach, ond y mae yn lled wan. Wrth edrych arno mi a dybiaf, yn cael ei feithrin, y daw yn fachgian doeth a dysgedig. Bendithiwyd ef gan Georg Painter yr un dydd; ei enw Hugh Roberts.\n\nMehefin 1, 1876\n\nSarah Cathreina Hopkin fu fedyddiwyd gan Charles Olson; cadarnhawyd hi dan Christian L. Larson.\n\nGorffenaf 10, 1876\n\nSarah Ann, gwraig Daniel Roberts yn Ogden, am haner awr wedi saith yn y bore, a [continues on PDF page 90]",
+      "translation": "[continuation from PDF page 88]\n\nand a part in the first resurrection, by Joseph F. Smith.\n\nRobert Roberts to Elizabeth Edwards.\n\nGriffith Morris to Elizabeth Roberts.\n\nProxies: Robert David Roberts and Ann Roberts Hopkin.\n\nThomas Richards to Ann Morris.\n\nRichard Thomas to Elizabeth Thomas.\n\nThomas Williams to Cathreine Ych Richards.\n\nRowland Morris to Jane Parry.\n\nJohn Thomas to Elinor Morris.\n\nRobert Richards to Elizabeth Morris.\n\nHenry Morris to Cathreine Morris.\n\nProxies: Robert David Roberts and Cathreine Thomas Roberts.\n\nMay 22, 1876\n\nAt five minutes past twelve noon, Hanah Roberts, my wife, gave birth to a little boy weighing four pounds. He looks quite healthy, but he is rather weak. Looking at him, I think that, if he is nurtured, he will become a wise and educated boy. He was blessed by Georg Painter that same day; his name is Hugh Roberts.\n\nJune 1, 1876\n\nSarah Cathreina Hopkin was baptized by Charles Olson; she was confirmed under Christian L. Larson.\n\nJuly 10, 1876\n\nAt half past seven in the morning, Sarah Ann, the wife of Daniel Roberts in Ogden, [continues on PDF page 90]",
+      "notes": "- The opening completes the sealing list begun on page 88. It has a confirmed close parallel on RDR PDF page 16. The Welsh order, name forms, and proxy grouping are preserved independently.\n- The May and June 1876 entries have confirmed close-paraphrase parallels on RDR PDF page 17. RDR normalizes `Hanah` to `Hannah` and `Georg` to `George`; the Welsh source forms remain unchanged here.\n- The July 1876 entry continues onto page 90 and has a confirmed close parallel on RDR PDF page 17.\n- Handwriting continuity and first-person family language support probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears on this page.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "First-person family language and handwriting continuity with the signed adjacent entries strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Joseph F. Smith",
+        "Robert Roberts",
+        "Elizabeth Edwards",
+        "Griffith Morris",
+        "Elizabeth Roberts",
+        "Ann Roberts Hopkin",
+        "Thomas Richards",
+        "Ann Morris",
+        "Richard Thomas",
+        "Elizabeth Thomas",
+        "Thomas Williams",
+        "Cathreine Ych Richards",
+        "Rowland Morris",
+        "Jane Parry",
+        "John Thomas",
+        "Elinor Morris",
+        "Robert Richards",
+        "Elizabeth Morris",
+        "Henry Morris",
+        "Cathreine Morris",
+        "Cathreine Thomas Roberts",
+        "Hanah Roberts",
+        "Georg Painter",
+        "Hugh Roberts",
+        "Sarah Cathreina Hopkin",
+        "Charles Olson",
+        "Christian L. Larson",
+        "Sarah Ann Roberts",
+        "Daniel Roberts"
+      ],
+      "places": [
+        "Ogden"
+      ],
+      "dates": [
+        "May 22, 1876",
+        "June 1, 1876",
+        "July 10, 1876"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-016",
+          "pdfPageNumber": 16,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "normalized"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-017",
+          "pdfPageNumber": 17,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-090",
@@ -3955,8 +4014,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-090.jpg",
       "transcriptionFile": "data/journals/dr/pages/090.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -3964,23 +4023,74 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 89]\n\nrhod enedigaeth i eneth yn edrych a chyfansoddiad cryf, yn pwyso naw pwys (9 pwys). Hydref 5 bendithiwyd hi yn Logan gan Thomas Jones; ei henw yw Cathreina Roberts.\n\nRhagfyr 29, 1876\n\nJane Hughes ein chwaer a rhodd enedigaeth i fachgan am bymtheg munud wedi naw (9.15) yn y bore yn Samaria, Sir Oneida, Tiriogaeth Idaho. Bendithiwyd ef Chwefror 11, 1877, gan Owen Thomas; ei enw James Hughes. Pwysiwyd ef yn fis oed, 11 lbs.\n\nIonawr 23, 1877\n\nAm bum munud ar hugain wedi un ar ddeg (11.25) yn y bore, Elizabeth Hughes ein chwaer, gwraig Taliesin Hughes, a rhodd enedigaeth i eneth yn Samaria, Sir Oneida, Tiriogaeth Idaho. Bendithiwyd hi Chwefror 18 gan Owen Thomas; ei henw Maria Hughes.\n\nMai 16, 1877\n\nDaniel yn Ogden y bore hediw a dderbyniodd y newydd truanus o farwolaeth ein hanwyl chwaer Elizabeth gyda'r telegram o Ddyffryn Mallad, Samaria. Ef yn arwain ar y cerbyd a ddygodd Brigham Young a'i gyfeillion i Logan rhwng deuddeg ac un o'r gloch; fe a ddaeth a'r newydd calarus i'r teulu yn y rhan hon o'r wlad. Bu ein hanwyl chwaer i ymadael a'r fuchedd hon am chwech o'r gloch yn y bore yn esmwyth a thawel. Mi roedd yn dymuno ar i'w theulu i ddod i rhoi ei gweddillion i orwedd yn y ddaear hyd fore yr adgyfodiad. Ar y 17eg cychwynasom ein taith tuag yno; cawsom dymhestl [continues on PDF page 91]",
+      "translation": "[continuation from PDF page 89]\n\ngave birth to a girl who appeared to have a strong constitution, weighing nine pounds. On October 5 she was blessed in Logan by Thomas Jones; her name is Cathreina Roberts.\n\nDecember 29, 1876\n\nJane Hughes, our sister, gave birth to a boy at fifteen minutes past nine (9:15) in the morning in Samaria, Oneida County, Idaho Territory. He was blessed on February 11, 1877, by Owen Thomas; his name is James Hughes. At one month old he weighed eleven pounds.\n\nJanuary 23, 1877\n\nAt twenty-five minutes past eleven (11:25) in the morning, Elizabeth Hughes, our sister and the wife of Taliesin Hughes, gave birth to a girl in Samaria, Oneida County, Idaho Territory. She was blessed on February 18 by Owen Thomas; her name is Maria Hughes.\n\nMay 16, 1877\n\nDaniel, in Ogden this morning, received by telegram from Malad Valley, Samaria, the sorrowful news of the death of our beloved sister Elizabeth. He was conducting the carriage that brought Brigham Young and his companions to Logan; between twelve and one o'clock he brought the grievous news to the family in this part of the country. Our beloved sister departed this life at six o'clock in the morning, peacefully and quietly. She desired her family to come and lay her remains in the earth until the morning of the resurrection. On the seventeenth we began our journey there; we encountered a storm [continues on PDF page 91]",
+      "notes": "- The opening completes Sarah Ann Roberts's July 1876 birth entry from page 89. The December 1876 and January 1877 entries are separate family notices. All have confirmed close-paraphrase parallels on RDR PDF page 17.\n- The May 1877 Elizabeth Hughes death narrative is a separate entry and continues onto page 91. It has a confirmed close historical parallel on RDR PDF page 18.\n- RDR expands punctuation and some travel context. The Welsh manuscript remains the authority for its wording and chronology.\n- Handwriting and first-person narrative continuity support probable attribution to Robert D. Roberts as content author and scribe. No secondary hand or signature appears.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "First-person family narrative and handwriting continuity with the signed adjacent entries strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Sarah Ann Roberts",
+        "Daniel Roberts",
+        "Thomas Jones",
+        "Cathreina Roberts",
+        "Jane Hughes",
+        "Owen Thomas",
+        "James Hughes",
+        "Elizabeth Hughes",
+        "Taliesin Hughes",
+        "Maria Hughes",
+        "Brigham Young"
+      ],
+      "places": [
+        "Ogden",
+        "Logan",
+        "Samaria",
+        "Oneida County",
+        "Idaho Territory",
+        "Malad Valley"
+      ],
+      "dates": [
+        "July 10, 1876",
+        "October 5, 1876",
+        "December 29, 1876",
+        "January 23, 1877",
+        "February 11, 1877",
+        "February 18, 1877",
+        "May 16, 1877",
+        "May 17, 1877"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-017",
+          "pdfPageNumber": 17,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-018",
+          "pdfPageNumber": 18,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-091",
@@ -3992,8 +4102,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-091.jpg",
       "transcriptionFile": "data/journals/dr/pages/091.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -4001,23 +4111,67 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[continuation from PDF page 90]\n\na iawn a gwynt oer, ac ni fuom yn alluog i fyned dim pellach na Square Town y dydd hwn. Y 18fed, y tywydd yn lled anhyfryd, a chyrhaeddasom Samaria am ychydig o funudau wedi deg. Wrth edrych ar ei phriod a'i phlant bach, y ty a'r amgylchoedd lle yr oedd wedi bod yn rhodio ac yn amcanu i wneuthur ei hun a'i phriod a'i phlant yn gyffurus, ei mynwes yn oer, y tafod yn fud a'r wefusau yn nghlo, y wedd a'r olwg wedi pellhau, yr yspryd wedi cyfodi ffo ymaith, a dim ond rhyw bridd gwael ac oer oedd i edrych arno, ac yn amser ei roi i orwedd cyn iddo falurio. Am ddau o'r gloch cludwyd ei gweddillion i'r old Hall, lle y cawsom bregeth dda yn Gymraeg gan Owen Thomas, a'r olwg ddiweddaf ar ei gweddillion. Hi a roddodd enedigaeth i saith o blant, tri o fechgyn a thair phâr o efeilliaid; mae pedwar yn fyw yn bresennol, dau fachgen a dwy ferch. Ar yr ugeinfed (20) cychwynasom dros adref; [unclear: ar un dydd cyrhaeddasom trwy storm i fachgen Conar i dori ei fraich] ychydig uwchlaw ei benelin. Ar yr un dydd, sef 16, a daeth ein chwaer Elizabeth i ymadael a'r fuchedd hon. Mae yn gwella yn dda. Hwn wedi ei ysgrifenu ar y Mehefin 3, 1877.\n\nMedi 4, 1877\n\nTaliesin Hughes a'i chwaer Maria Roberts, a'r eneth ieuanc Elizabeth ein chwaer, a merch ifanc o'r enw Jane Mason, tua deunaw mlwydd ei hoed, a briodwyd hwy gan William B. Preston yn ei dy. Dychwelodd a chyrhaeddasant hyd mor bell a Hamilton Station i dy Ann ein chwaer, lle yr oedd Jane ein chwaer.",
+      "translation": "[continuation from PDF page 90]\n\nof severe cold and wind, and we were unable to go any farther than Square Town that day. On the eighteenth the weather was rather unpleasant, and we reached Samaria a few minutes after ten. Looking at her husband and her little children, the house and surroundings where she had moved about and sought to make herself, her husband, and her children comfortable, her breast was cold, her tongue silent and her lips closed, her appearance and expression gone, the spirit having risen and fled away, leaving only poor, cold earth to look upon, and it was time to lay it to rest before it crumbled. At about two o'clock her remains were carried to the old Hall, where we heard a good sermon in Welsh by Owen Thomas and took our last look at her remains. She gave birth to seven children, including three pairs of twins; four are now living, two boys and two girls. On the twentieth we set out for home. [Uncertain Welsh wording concerning the return journey and Conar's boy breaking his arm a little above the elbow.] On that same day, the sixteenth, our sister Elizabeth departed this life. The boy is recovering well. This was written on June 3, 1877.\n\nSeptember 4, 1877\n\nTaliesin Hughes and his sister Maria Roberts, with the young daughter of our sister Elizabeth, and a young woman named Jane Mason, about eighteen years old, were married by William B. Preston in his house. They returned as far as Hamilton Station, to the house of Ann, our sister, where Jane, our sister, was staying.",
+      "notes": "- The opening completes Elizabeth Hughes's death, funeral, and return-journey narrative from page 90. It has a confirmed close-paraphrase parallel on RDR PDF page 18.\n- The manuscript clearly preserves `Square Town`; RDR uses lowercase `square town`. The existing RDR annotation identifies this historically with the early settlement later known as Plymouth, but that identification is not inserted into the Welsh transcription.\n- The sentence concerning the return journey, Conar Hughes's boy, and the broken arm is syntactically dense and remains partly uncertain. RDR clarifies the event but cannot determine every Welsh letterform or clause boundary.\n- The September 1877 marriage entry is separate and has a confirmed close-paraphrase parallel on RDR PDF page 19. RDR supplies smoother relationship wording but does not replace the Welsh source.\n- Handwriting and first-person family continuity support probable attribution to Robert D. Roberts as content author and scribe. No signature or new hand appears.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "First-person family narrative and handwriting continuity with the signed adjacent entries strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Robert D. Roberts",
+        "Elizabeth Hughes",
+        "Taliesin Hughes",
+        "Owen Thomas",
+        "Conar Hughes",
+        "Maria Roberts",
+        "Jane Mason",
+        "William B. Preston",
+        "Ann Roberts",
+        "Jane Roberts"
+      ],
+      "places": [
+        "Square Town",
+        "Samaria",
+        "Hamilton Station"
+      ],
+      "dates": [
+        "May 16, 1877",
+        "May 17, 1877",
+        "May 18, 1877",
+        "May 20, 1877",
+        "June 3, 1877",
+        "September 4, 1877"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-018",
+          "pdfPageNumber": 18,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-019",
+          "pdfPageNumber": 19,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-092",
