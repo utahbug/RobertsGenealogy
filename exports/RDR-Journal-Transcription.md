@@ -3084,9 +3084,9 @@ Transcription status: `needs-review`
 
 July 7th 1897 we went to Logan Temple and was
 sealed to our parents by M. W. Merrill unknown M. B.
-[unclear: Hawerouts] & Wm H. [unclear: Bud] from [unclear: Monmouthshire] Wales
+[unclear: Hawerouts] & Wm H. [unclear: Bud] from Merionethshire Wales
 
-Robert David Roberts       21st Sep. 1839 [unclear: Hampstead]
+Robert David Roberts       21st Sep. 1839 Llanfrothen
 Thomas David Roberts       6th July 1840
 Daniel Roberts             8th Sep. 1842
 Ann Roberts Hopkins        19th Dec. 1844
@@ -3095,8 +3095,8 @@ Jane Roberts Hughes        11th Jan. 1858
 
 Parents
 
-David Roberts Roberts      8th Apr. 1814 [unclear: Mynamor]
-Catherine Thomas Roberts   25th June 1809 [unclear: Harlech]
+David Roberts Roberts      8th Apr. 1814 Nanmor
+Catherine Thomas Roberts   25th June 1809 Llanfrothen
 
 Proxy
 
@@ -3123,13 +3123,13 @@ Ingram B. Holman. William Morley was ordained
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The family sealing list contains several faint or uncertain names, places, and dates. The Hugh Roberts mission/ordination record continues onto PDF page 61.
+Targeted visual review resolved Merionethshire, Robert David Roberts's birthplace as Llanfrothen, David Roberts Roberts's birthplace as Nanmor, and Catherine Thomas Roberts's birthplace as Llanfrothen. Two faint sealing-list names remain materially uncertain, so the page remains needs-review. The Hugh Roberts mission/ordination record continues onto PDF page 61.
 
 ## PDF page 61
 
 Stable ID: `journal-rdr-page-061`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3152,7 +3152,7 @@ field of labor and received his appointment to
 labor with Elder Frank Budge President Budge
 son from Bear Lake Stake in London Laurel
 County Kentucky Ben E. Rich President of the
-Southern Mission R. L. [unclear: Meardonhall] President of
+Southern Mission R. L. Meadenhall President of
 East Kentucky branch
 
 A Missionary blessing
@@ -3173,13 +3173,13 @@ We also set you apart to perform a mission
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Several leader names and the conference/mission wording remain uncertain. A missionary blessing begins near the bottom and continues onto PDF page 62.
+Targeted visual review resolved the East Kentucky branch president as R. L. Meadenhall and confirmed the conference and mission-leader wording directly from the manuscript. A missionary blessing begins near the bottom and continues onto PDF page 62. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 62
 
 Stable ID: `journal-rdr-page-062`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3209,9 +3209,9 @@ and in the name of Jesus Christ, Amen.
 Martin J. Lindsay,
 Reporter.
 
-Samaria Oneida County Idaho [unclear: Novem]
+Samaria Oneida County Idaho Novem
 
-[unclear date notation: 30th 1874]
+30th 1874
 
 A Blessing given by John Smith
 Patriarch upon the head of David Hughes
@@ -3224,7 +3224,7 @@ Priesthood I lay my hands upon thy head
 
 ### Editorial annotations
 
-First-pass visual transcription completed. The missionary blessing begun on PDF page 61 ends on this page with Martin J. Lindsay identified as reporter. A patriarchal blessing for David Hughes then begins and continues onto PDF page 63. The word following the Samaria heading and the nearby date notation are uncertain.
+Targeted visual review confirmed the manuscript heading/date notation as `Samaria Oneida County Idaho Novem / 30th 1874`. The missionary blessing begun on PDF page 61 ends with Martin J. Lindsay as reporter, and a patriarchal blessing for David Hughes begins and continues onto PDF page 63. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 63
 
@@ -3428,7 +3428,7 @@ Second-pass visual review completed from the inverted source scan using a tempor
 
 Stable ID: `journal-rdr-page-067`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3441,7 +3441,7 @@ meet the immigration.
 In the year 1862 there was a call made on Cache
 Valley Stake for thirty wagons with four yoke of Oxen
 to each wagon seven wagons were required in Logan the
-teamsters names are Morgan Evans, James [unclear: D. Mingo],
+teamsters names are Morgan Evans, James Mingo,
 Sidney Dibb, Barnard Stanford, William Ricks, Frederick
 Gordum and Robert D. Roberts about the first of April
 we gathered together and camped about a mile South
@@ -3474,7 +3474,7 @@ the mouth of Echo Canyon we followed the River
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page begins a dated recollection of the 1862 journey to Florence to meet an immigration company and continues onto PDF page 68. Several teamster surnames remain uncertain. This is a new record rather than a continuation of the family-history/church-office notes on PDF page 66.
+Targeted visual review resolved James Mingo and confirmed the remaining teamster names directly from the manuscript. This page begins a dated recollection of the 1862 journey to Florence and continues onto PDF page 68. It is a new record rather than a continuation of page 66. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 68
 
@@ -3689,7 +3689,7 @@ First-pass visual transcription completed. This page contains temple ordinance a
 
 Stable ID: `journal-rdr-page-072`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3703,7 +3703,7 @@ paign he took an active part in advocating Repub-
 lican principles the campaign was very commen-
 dable by advocating principle rather than vili-
 fying the character of their opponents the conven-
-tion at Logan October 9th 1902 David C. [unclear: Andrew]
+tion at Logan October 9th 1902 David & Andrew
 Peterson was put before the convention David
 received 88 votes Peterson 59 at the November 4th
 Election David received 3134 his Democratic opponent
@@ -3713,12 +3713,12 @@ ture assembled for their first session
 March 28th 1903
 
 David R. Roberts and his wife Tryphen
-with their little son [unclear: Heradum] went on a tour
+with their little son Merddyn went on a tour
 of pleasure to California went north thro-
 ugh Oregon visit at Legrande with William
 Davies Tryphen's brother arrived home April 19th
 by the Union Pacific had a very pleasant trip
-little Prudence and [unclear: Llewelyn] staid at home
+little Prudence and Llewelyn staid at home
 with their grand parents Davies in the
 second ward Logan
 
@@ -3734,13 +3734,13 @@ his name Hugh Legrande Roberts
 
 ### Editorial annotations
 
-First-pass visual transcription completed. Page 72 begins new election, travel, and birth records rather than continuing page 71. Several candidate and child-name readings remain uncertain.
+Targeted visual review resolved the convention wording as `David & Andrew / Peterson`, the traveling son as Merddyn, and the child at home as Llewelyn. Pages 54, 82, 98, and 117 provide internal support for the child names while this page's letterforms remain authoritative. Page 72 begins new election, travel, and birth records rather than continuing page 71. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 73
 
 Stable ID: `journal-rdr-page-073`
 
-Transcription status: `needs-review`
+Transcription status: `reviewed`
 
 ### English transcription
 
@@ -3771,7 +3771,7 @@ sister Margaret Hughes and James Hughes
 children
 
 Margaret Hughes Died September 5th 1858
-in [unclear: Keysville] [unclear: their] County Illinois
+in Keysville Clair County Illinois
 
 William Jones brother to Margaret
 Hughes went back from Malad Box Elder Co
@@ -3788,7 +3788,7 @@ and died there
 
 ### Editorial annotations
 
-First-pass visual transcription completed. This page contains separate death, temple/proxy, and Hughes-family migration records; the family account continues onto PDF page 74. Several officiator, county, and personal-name readings remain uncertain.
+Targeted visual review resolved the locality as `Keysville Clair County Illinois` and confirmed the officiator and personal names directly from the manuscript. This page contains separate death, temple/proxy, and Hughes-family migration records; the family account continues onto PDF page 74. No substantive transcription uncertainty remains; status: reviewed.
 
 ## PDF page 74
 
