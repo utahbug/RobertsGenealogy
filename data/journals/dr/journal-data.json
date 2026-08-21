@@ -5452,8 +5452,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-108.jpg",
       "transcriptionFile": "data/journals/dr/pages/108.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -5461,23 +5461,65 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Mawrth 10fed 1886 — Margaret Goodman Davies Roberts — dros [unclear sequence: Ann / Laura Richards]\n\n11 — [ditto] — Linet Morris\n\n12 — [ditto] — Mrs Cathreine Jones\n\nMawrth 10fed 1886 — Thomas D. Roberts — dros Griffith Jones; [unclear ordinance wording] gan M. D. Merrill\n\n11 — dros William Jones; cadarnhawyd gan James A. Leishman\n\n12 — Henry Jones — [ditto] gan Edwin Curtis",
+      "translation": "March 10, 1886 — Margaret Goodman Davies Roberts — for [unclear sequence: Ann / Laura Richards]\n\n11 — [ditto] — Linet Morris\n\n12 — [ditto] — Mrs. Cathreine Jones\n\nMarch 10, 1886 — Thomas D. Roberts — for Griffith Jones; [unclear ordinance wording] by M. D. Merrill\n\n11 — for William Jones; confirmed by James A. Leishman\n\n12 — Henry Jones — [ditto] by Edwin Curtis",
+      "notes": "- Page 108 contains two sparse March 1886 ordinance groups. It does not continue page 107's dense kinship lists, and no explicit family relationships are written here.\n- The first group names Margaret Goodman Davies Roberts as proxy/participant and then lists represented women using ditto structure. The opening represented-name sequence remains uncertain.\n- The second group names Thomas D. Roberts and three represented men. Confirmation is explicit on the William Jones line; the repeated ordinance context and the Griffith Jones wording remain partly uncertain.\n- RDR PDF page 28 is a confirmed close-paraphrase/normalized parallel for the first group. RDR PDF page 26 is a probable reordered parallel for the second group, but differs in date grouping, Henry Jones/Lewis, and the Merrill initials. The Welsh has not been conformed to RDR.\n- Source forms `Linet Morris`, `Cathreine Jones`, and `M. D. Merrill` remain as written.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting and ordinance-list continuity with signed Robert D. Roberts entries support attribution.",
+      "people": [
+        "Margaret Goodman Davies Roberts",
+        "Ann",
+        "Laura Richards",
+        "Linet Morris",
+        "Cathreine Jones",
+        "Thomas D. Roberts",
+        "Griffith Jones",
+        "M. D. Merrill",
+        "William Jones",
+        "James A. Leishman",
+        "Henry Jones",
+        "Edwin Curtis"
+      ],
+      "places": [
+        "Logan Temple"
+      ],
+      "dates": [
+        "March 10, 1886",
+        "March 11, 1886",
+        "March 12, 1886"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-028",
+          "pdfPageNumber": 28,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-026",
+          "pdfPageNumber": 26,
+          "confidence": "probable",
+          "relationship": [
+            "paraphrase",
+            "reordered",
+            "normalized"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-109",
@@ -5489,8 +5531,8 @@
       "manuscriptPageNumber": "46",
       "image": "assets/journals/dr/journal-dr-page-109.jpg",
       "transcriptionFile": "data/journals/dr/pages/109.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -5498,26 +5540,56 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Logan City Ionawr 5ed 1895\n\nWilliam John Hopkins a fedyddiwyd gan Charles Limberg; cadarnhawyd ef gan John Talley.\n\nLogan City Ebrill 9ed 1888\n\nDerbyniais lythyr o Samaria oddiwrth Conar Hughes yn ein hysbysu i fod Jane ein chwaer, ei wraig, wedi rhoi genedigaeth i ferch fach yn pwyso deg pwys Mawrth 31ain am bymtheg munud wedi deuddeg yn y bore (12.15 midnight).\n\nNodwn o Samaria ddyddiedig Mai 3ydd 1888 yn ein hysbysu fod y ferch fach a anwyd Ebrill 1888 i Conar a Jane Hughes ein chwaer wedi cael ei bendithio gan Jonah Evans yr esgob Mai 3ydd 1888; ei henw Cathrine Roberts Hughes.\n\nLogan City Hydref 17eg 1897\n\nThomas D. Roberts yn cychwyn ar ei daith i Gymru, o'i [unclear: cenhadaeth hyd yn cychwyn o'r Ddinas y Llyn Halen ar y Sulfaol].",
+      "translation": "Logan City, January 5, 1895\n\nWilliam John Hopkins was baptized by Charles Limberg and confirmed by John Talley.\n\nLogan City, April 9, 1888\n\nI received a letter from Samaria from Conar Hughes informing us that Jane, our sister and his wife, had given birth to a little girl weighing ten pounds on March 31 at fifteen minutes past twelve in the morning (12:15 midnight).\n\nWe note a communication from Samaria dated May 3, 1888, informing us that the little girl born in April 1888 to Conar and our sister Jane Hughes had been blessed by Bishop Jonah Evans on May 3, 1888; her name was Cathrine Roberts Hughes.\n\nLogan City, October 17, 1897\n\nThomas D. Roberts set out on his journey to Wales, from his [unclear Welsh travel/mission wording concerning departure from Salt Lake City].",
+      "notes": "- Page 109 contains three independent, chronologically reordered records: a January 1895 baptism, an April/May 1888 Hughes-family letter summary, and an October 1897 Thomas D. Roberts journey/mission note.\n- RDR PDF page 33 is a confirmed close-paraphrase/expansion parallel for the first two records. RDR supplies fuller county/place context and normalizes some names, but those additions are not inserted into the Welsh transcription.\n- The Welsh writes `Charles Limberg` and `Cathrine Roberts Hughes`; RDR writes Charles Learnberg and Catherine Roberts Hughes.\n- The final October 1897 entry has no secure RDR parallel from the targeted search. Its closing travel/mission wording remains materially uncertain and has not been associated with RDR's distinct 1891 European mission account.\n- The handwriting remains continuous with the preceding Robert D. Roberts section, supporting probable content-author/scribe attribution. No signature or secondary hand appears.\n- PDF page 110 is solely the physical back cover. Page 109 therefore ends the substantive family-history/journal section without textual continuation.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "Visible entries are dated 1888 and 1889, after David Roberts's death on November 4, 1858; the later contributor has not been identified.",
-      "people": [],
-      "places": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting and first-person family-record continuity with the signed Robert D. Roberts section support attribution; no secondary hand appears at the journal ending.",
+      "people": [
+        "William John Hopkins",
+        "Charles Limberg",
+        "John Talley",
+        "Conar Hughes",
+        "Jane Hughes",
+        "Jonah Evans",
+        "Cathrine Roberts Hughes",
+        "Thomas D. Roberts"
+      ],
+      "places": [
+        "Logan City",
+        "Samaria",
+        "Wales",
+        "Salt Lake City"
+      ],
       "dates": [
-        "1888",
-        "1889"
+        "January 5, 1895",
+        "April 9, 1888",
+        "March 31, 1888",
+        "May 3, 1888",
+        "October 17, 1897"
       ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-033",
+          "pdfPageNumber": 33,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion",
+            "normalized"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-110",
