@@ -267,50 +267,133 @@ Status: reserved for generation after the narrative sections are rebuilt.
 Status: reserved for generation after the narrative sections are rebuilt.
 
 
-# Section A Pilot: The Compiler Introduces the Earliest Record
+# Section A: The Beginning in Wales (Source PDF Pages 9-12)
 
-*Original source: Book of Remembrance, PDF page 9 (internal page A-1). This pilot ends before the compiler's historical English translation begins.*
+*The historical text below preserves the Book of Remembrance wording and translation choices. It is not the project's modern English translation from the Welsh manuscript.*
 
-## Original compiler narrative
+## Original compiler introduction
 
 > It is most appropriate that this record should begin with a recital of the earliest writings known in the family, namely, the writings of Grandfather, David Roberts. His record book is in my possession, it having been given into my care by my father, Robert D. Roberts. It is written in the Welsh language and bears the marks of time. The record consists, in the most part, of poetry, as Grandfather was a poet. There are, however, a few pages of historical and genealogical data which have been translated from the Welsh into the English. The first translation was made by my father many years ago and recently I secured another translation by my friend, Mr. John Thomas of Ogden, Utah. I acted as scribe. I have compared the translations and they agree throughout. I am sure that the translation is very accurate, giving not only the letter and meaning but also the spirit of the original. The notes in brackets are inserted by me, by way of explanation. I have also inserted the headings.
-> *(The translation is as follows.)*
+> (The translation is as follows:)
 
-## Editor's clarification
+## Historical English layer: "My Line of Descent"
 
-The compiler's English text is retained as a valuable historical translation and family witness. It is not the same layer as the project's modern English translation made directly from the Welsh manuscript. Welsh transcription, modern translation, and Robert D. Roberts historical English remain separate so agreements, normalizations, expansions, and conflicts can be evaluated openly.
+**"January 9, 1854." - David Roberts**
 
-## Evidence note
+> "Following is a record of some of my family as I have been able to get them. I was born in the year 1814, on April 6th, in Meirionethshire, in Nanmor, in a house called Fron Wen (White Hillside) on the estate of the celebrated bard, David Nanmor. The place is now taxed with Beddgelert (Gelert's grave) in Carnarvonshire.
+> "There were born to my parents eight children. Their names are as follows, placing the oldest first: Robert (who died when three months old), Edward, Robert, Elinor, David (himself), William, Daniel and John. The first five were born in Fron Wen, the next two in Bryn-y-sgybor (Hill with the barn), and the last, namely, John, in Lletty, (all) in Llanfrothan Parish.
+> "Edward was married to Elinor Griffith, daughter of Griffith and Catherine Williams of Bron-y-berllon (Hill orchard) in Llanfrothan. Robert was married in Llanfrothan to Gwen, daughter of William and Mary Williams Cae-Glas (Green Field), Llanfrothan. To him were born twelve children.
+> "Elinor was married to John, son of William Humphreys and Catherine James of the parish of Festiniog. There were born to them nine children. They immigrated to America.
+> "I, David, was married in Llanfrothan to Catherine, daughter of Thomas Richard and Ann Morris of Creua Mawr (Large Crag) Llanfrothan. There were born to us six children. The oldest, Robert, Thomas, Daniel, Ann, Elizabeth and Jane Roberts.
+> "William was married in Festiniog to Margaret, daughter of Evan Roberts and Jane Griffith, Glan-y-Pwll-Bach (near the small pool). There were four children born to them, namely, Elizabeth, Robert, Evan and William Roberts, the youngest, who died as a babe.
+> "Daniel was married in Llanfrothan to Gwen, daughter of John Lloyd and Catherine Jones of Caer Llwynog (Box Castle or Den) Llanfrothan. There were born to them four children as follows: Catherine, Elizabeth, William and John Roberts.
+> "John, the youngest of us, married Mary, daughter of Edward Richards, a slater (one who made slates) of Festiniog, and Mary Owens, Festiniog. The present number of their children is three. I presume the number will soon be changed. Their names are as follows: Elizabeth, Sydney and William Daniel Roberts." (Later a son named Robert Edward Roberts was born).
+> "My oldest brother, Robert, (infant) was buried in Beddgelert (Grave of Gelert) (Carnarvonshire) cemetery.
+> "Edward is a shoemaker by trade and is now living in Gelli Cornwydydd (Place of Carbuncles) in Llanfrothan and my father lives with him. He does not belong to any religious sect or belief but he and his wife are listeners in the Baptist Church (Scotch).
+> "Robert (Second) lives in Erw-Fawr (large acre Farm) Llanfrothan. He is the third son of my father. He has buried four of his children. (The names of their children are here inserted in my father's translation as follows: "Rhys, Mary, Elinor, Elizabeth, Ellis, Myric, William, Samuel, Daniel and Gwen Roberts." He is a slate quarryman. He is a member of the Calvinistic Methodist Church and is bringing up his children carefully in the same faith.
+> "Elinor is now in America, I presume in the State of Vermont. The names of her children are as follows: Robert, Catherine, William, John, David and Sydney (Humphreys), who (Sydney) died and was buried in Festiniog. She was very beautiful and lovely and I composed the following epitaph to her:
+> "Beautiful Rose of the garden eternal,
+> Cut at dawn by death.
+> "Ebenezer and James Henry Humphreys were born in America, and I am not sure whether or not they also belong to the Calvinistic-Methodists.
+> "Daniel died in America. (He was buried at Worthings Landing in Kentucky, U.S.A., in 1850 while migrating to Zion.)
+> "Now I will give a little of my own history."
 
-The manuscript pages containing the early family narrative are now identified as David Roberts's own hand through comparison with directly signed 1858 samples elsewhere in the shared journal. This supports the compiler's central statement while allowing the wording and dates of the Welsh source to be checked independently.
+### Early life, education, and poetry
 
-## Editorial categories used in the edition
+> "I was brought up in the midst of great poverty. The wages of the common laborer was my father's wage, which, for many years was from one shilling to one shilling and six pence in a day and board himself which, usually was not enough to get bread for the family. My tasks, until I was eleven years old, were to collect kindling wood, also to gather moss from rocks for dyeing purposes, also to peel oak bark and cut it into pieces about six inches long and similar tasks - everything in its season.
+> "I was very sick with fever when I was ten or eleven years old and soon after getting well I went to the quarry at Festiniog with my father and brother Robert to work. I followed the job of working slates under many disadvantages until I was fifteen or sixteen years old. At this time I went to a place named Caeunest (Field Nest) at the head of the Valley of Ardydwy to serve on the farm of a man by the name of William Pugh where I remained about a year and a half. Then I returned to the quarry and from then until now, I have followed one or the other of the occupations at the quarry.
+> "No one thought, that I know of, that I needed any public schooling, at least I did not receive any. My parents sent me to Sunday School at the Calvinistic-Methodists where I started reading Welsh. My mind was inclined toward the Baptists, consequently it was hard to make me go to the Methodists, but the Baptists did not have a Sunday School. They considered that a sin.
+> "When I was a boy I greatly wished to become a Bard (poet) and when I was about eighteen years old I studied the rules of poetry. At this time I was lodging at the home of the grandmother of Gwylym Ystradau, (later) the Bard. He also was about of the same age as I and of about the same inclination toward poetry - so we were some encouragement to each other. We became acquainted with old Gwylym Twrog, the Bard, and received some lessons from him."
 
-- **Editor's correction:** stronger surviving evidence supports a specific correction.
-- **Editor's clarification:** wording or source identity can be made more precise without rejecting the compiler's account.
-- **Evidence note:** identifies the basis for a claim or explains a source relationship.
-- **Unresolved question:** records a genuine conflict without choosing unsupported certainty.
+### Marriage, conversion, and family
 
-[IMAGE PLACEHOLDER - David Roberts Welsh journal manuscript]
+**"Bethania, January 18, 1856."**
 
-- **Intended caption:** Early Welsh family-history pages in the shared Roberts journal, attributed to David Roberts through signed-sample handwriting comparison.
-- **Suggested source/provenance:** original manuscript image and PDF page reference; custody and reproduction credit to be supplied.
-- **Editorial placement:** after the compiler's introduction, before the historical English translation.
+> "I was between twenty-two and twenty-three years old when I got married. I went to live in Lofft-y-Ty-Liaeth (Loft of the Milk House) park, Llanfrothan for the first year. From there we went to Gelli Cornwydydd (Place of Carbuncles) in the same Parish and on the same estate; from Gelli to Llwyn-y-Gell, Parish of Festiniog; from Llwyn-y-Gell to Ddol-y-Garreg Ddu (Black Rock Meadow) in the same Parish; from Ddol-y-Garreg-Ddu to Bethania where I am now. From this place I intend immigrating to America between now and the first of next March.
+> "I was converted to the faith of the Gospel by Robert Evans, Glan Conway (On Banks of the Conway) and was baptized by him in the River Pandy near Gelli Cornwydydd on the 24th day of May in the year of 1846 and I was confirmed by Able Evans and soon received the Holy Priesthood. On my shoulders was placed the responsible duty of preaching the everlasting Gospel in the fullness of its blessings. A branch of the Church of Jesus Christ, called the Festiniog Branch was entrusted to my care. I had the privilege of lodging in my house many of the servants of Jesus Christ as well as helping them with food and clothing and money to build up the Kingdom of Jesus Christ my Lord.
+> "Catherine, my wife, was baptized by David Peters, near Rhyd-y-Sarn Factory (Ford of the Waste) Festiniog, August 22, 1847. I baptized our own children. Thomas was baptized Sept. 30, 1849, Daniel Sept. 17, 1850, when he was eight years old; Ann Dec. 28th, 1852 when she was eight years old, and Elizabeth April 9th 1855. Robert has not been baptized altho he believes in the Gospel, and Jane has not been baptized because she is not of responsible age."
 
-## Primary-evidence update before continuing Section A
+### His wife's ancestry and his ancestry
 
-### Editor's clarification: the Cae Glas will
+> "My wife was born in Creua Mawr, Llanfrothan. The name of her father as stated above was Thomas Richard. Her mother's name was Ann Morris. Her father, (Thomas Richard) was raised by his grandfather and grandmother in the Creua. His father's name was Richard (Thomas) and his mother's name was Elizabeth. His grandfather's and grandmother's names were Thomas Williams and Catherine uch Richard. The names of the children of Richard and Elizabeth Thomas are as follows: Thomas Richard, Catherine Richard, Robert Richard, and Jane Richard. The names of the children of Thomas Richard and Ann Morris are as follows: Jane, Catherine (his wife) and Richard Thomas.
+> "Ann Morris, the wife of Thomas Richard was born in Llwyn yr Hwch (Bush of the Sow) Nanmor. Her father's name was Rowland Morris. Her mother's name was Jane Parry. Rowland (Morris) and Jane Parry's children's names are as follows: Rowland, Janet, Ann (her mother) Elinor and Henry Morris.
+> "My father's and mother's names are Robert Roberts and Elizabeth Edwards. They were married at Beddgelert on the 3rd day of February in the year 1805. My father was born in Cae Glas (Blue Field) Clynog in Carnarvonshire in the year 1775 on the 18th day of January. Nine children were born to his parents, (Robert Roberts' parents) three sons and six daughters. Their names are as follows: Salmon, Marged, Robert, (his father), Catherine, Jane, Ann, Elinor, Elizabeth and William. My grandfather (Rhys Roberts) was born in Felin Faesog, (Landed Mill) Clynog." (D. Rec.)
 
-A primary will written on 10 February 1823 identifies its testator as **Robert Roberts of Cae Glas, parish of Clynnog, county of Caernarfon, farmer**. It names or provides for Margaret, Anne, Jane, Robert, William, Elizabeth, Eleanor, and Solomon Roberts. Seven names align directly with the first nine-child list later printed beside the tentative statement, “I think grandfather's name was Rhys Roberts”; Solomon strongly corresponds to that list's Salmon, while Catherine is not named in the will.
+*(This ends the translation of the record of Grandfather David Roberts.)*
 
-The historical quotation and its tentative Rhys wording remain unchanged. The will nevertheless provides strong primary evidence that the first child list represents the family of Robert Roberts of Cae Glas rather than a securely identified Rhys Roberts. It does not name Robert's parents or wife, does not explicitly label Solomon's relationship in the visible clause, and does not establish that every child was included. David Roberts's own journal independently names his father as Robert Roberts but leaves his paternal grandfather unnamed. No conclusion about Robert Price is supplied by the will.
+## April 1814 conflict
 
-### Evidence note
+- **David Roberts Welsh manuscript:** April 5, 1814. Primary autobiographical manuscript.
+- **Book of Remembrance, page 9:** April 6, 1814. Historical family translation.
+- **RDR historical English:** April 14, 1814. Later historical witness.
+- **Achau, page 241:** April 6, 1814. High-quality secondary synthesis; source code (B) is visible but its legend is unavailable.
 
-The will was proved on 25 June 1830 under the reference `B/1830/172`. Its Cae Glas place-name is preserved without choosing either the compiler's “Green Field” or “Blue Field” gloss. A complete FamilySearch collection, film, image, and archive citation remains to be added.
+No reading is harmonized.
+
+## Cae Glas
+
+The book uses "Green Field" on page 9 and "Blue Field" on page 11. This edition preserves **Cae Glas**; historical Welsh *glas* may not map neatly to one modern English color term.
+
+[IMAGE PLACEHOLDER - Cae Glas, modern photograph, 2019]
+
+[IMAGE PLACEHOLDER - historic Cae Glas photograph from original genealogy book]
+
+# Page 12: Rhys Tradition and Later Evidence
+
+## Original family tradition
+
+> "The family of Roberts' were living in the Parish of Clynog, Carnarvonshire, Wales. There were three families of Roberts near each other, likely three brothers. They were by occupation farmers, millers and mill-wrights and highly respected people. They were physically large and well built. Those three farms were named Coch Big, Cae Glas and Felin Faesog." (R.MS.)
+> "Rhys Roberts and wife, to whom we trace our origin, had nine children. Their names are: Salmon, Margaret, Robert, Catherine, Jane, Ann, Elinor, Elizabeth and William Roberts. Robert, the third child of the family, was the father of David Roberts who was my father."
+> "I think grandfather's name was Rhys Roberts. He had a family of nine children, viz: Salmon, Margaret, Robert (his grandfather), Catherine, Jane, Ann, Elinor, Elizabeth and William Roberts."
+
+The original compilation preserved the family tradition then available. The phrase "I think" is retained as an important expression of uncertainty.
+
+## Will, journal, and Achau comparison
+
+The 1823 will of farmer **Robert Roberts of Cae Glas** names or provides for Margaret, Anne, Jane, Robert, William, Elizabeth, Eleanor, and Solomon. David Roberts journal page 72 gives the same paternal sibling group but leaves the grandfather unnamed. Achau page 241 identifies **Robert Price**, miller of **Melin Faesog**, and Catherine as parents of Robert Roberts of Cae Glas, with Ellin Williams as Robert's wife. It places Rhys Roberts on a separate branch.
+
+- **Salmon / Solomon:** Will: Solomon, one shilling, relationship unstated. Achau: Solomon. Strong name-form correspondence; probable identity.
+- **Margaret:** Will: daughter, £2. Achau: Margaret. Agreement.
+- **Robert:** Will: son, £2. Achau: Robert; an earlier Robert also appears to have died young. Agreement with added context.
+- **Catherine:** Not named in the will; present in Achau. Absence from a will does not disprove relationship.
+- **Jane:** Will: daughter, £2. Achau: Jane. Agreement.
+- **Ann / Anne:** Will: daughter Anne, £2. Achau: Ann. Agreement.
+- **Elinor / Eleanor / Ellin:** Will: daughter Eleanor, residue and executrix. Achau: Ellin. Agreement by ordinary name-form variation.
+- **Elizabeth:** Will: daughter, £2. Achau: Elizabeth. Agreement.
+- **William:** Will: son, £2. Achau: William. Agreement.
+
+Solomon's one-shilling bequest is noteworthy, but the will gives no reason and none is inferred.
 
 [IMAGE PLACEHOLDER - Will of Robert Roberts of Cae Glas]
 
-- **Suggested role:** primary-source evidence for family relationships and residence.
-- **Suggested caption:** “Will of Robert Roberts of Cae Glas, parish of Clynnog, Caernarfonshire. FamilySearch image; full archival citation to be completed.”
-- **Editorial placement:** beside the future Section A treatment of the Rhys/Robert child-list question.
+- **Caption:** "Will of Robert Roberts of Cae Glas, parish of Clynnog, Caernarfonshire. FamilySearch image; full archival citation to be completed."
+
+[IMAGE PLACEHOLDER - gravestone relevant to Robert Roberts / earlier ancestry]
+
+## Current editorial conclusion
+
+- The first nine-name group is strongly supported as the family of Robert Roberts of Cae Glas and Ellin Williams.
+- The will is primary evidence for residence and explicit relationships.
+- The journal is primary evidence for David's father and the sibling group, but leaves the grandfather unnamed.
+- Achau provides strong secondary support that Robert Roberts was a son of Robert Price and Catherine.
+- The tentative Rhys tradition is contradicted as the best placement for the first child list.
+- The original records behind Achau must still be inspected before treating Robert Price as primary-source proven.
+
+## Remaining historical text on source page 12
+
+### The Slate Quarries
+
+> "My father, David Roberts, was born April 6th, 1814. When he was eleven years old he was very sick with a fever. When he recovered he went to work with his older brother, Robert, in the slate quarry at Festiniog. When he was about fifteen years old he hired to work on a farm where he remained about a year and a half and then went back to the slate quarries of Festiniog. In the spring of 1844 the family moved to Festiniog parish to a place called Llwyn-y-Gell, which was about six miles from the old home. This was near the slate quarries where father worked, as slater and inspector, so that father could be at home daily after his work was done. At this place Thomas attended school, in the winter for a short time, and helped in the quarries, when old enough, during the other portions of the year. From this place the family moved to a place in the same Parish called Ddol-y-gareg-ddu where they lived for some time then moved to Bethania, from which place they moved to America, to Salt Lake City, Utah."
+
+### The Eisdeddfod - A Story
+
+> (Some years ago I requested my father, Robert D. Roberts, to write some facts which he had told me about grandfather that had not been recorded. In a manuscript he writes of the wonderful Welsh custom of the Eisdeddfod of the town, city district and national Eisdeddfodau. They were great events in the lives of the people - great public competitions in literary productions, in music and oratory, and in all other lines of human activity, for amusement, entertainment and educational purposes. He mentions also the periodical competitions and exhibitions (fairs) in agriculture, horticulture, animal industry and in mechanical and other productions representing the ingenuity and mind of man) "to show our ability to improve in all worthy enterprises". (R.MS.)
+> "These competitions or Eisteddfodau were held for various periods of time from one evening or day to several days. It was a custom that at the first session of an [continues on source PDF page 13]."
+
+## Edition scope and reserved compiler biography
+
+The shared edition covers Welsh ancestry, David and Chathreina/Catherine Roberts, migration, Robert D. Roberts, major family context, and a concise future biography of David D. Roberts. A later immediate-family extension will cover Thomas Roberts, Wendell Roberts, later descendants, and sibling-focused photographs/documents without duplicating this core.
+
+### David D. Roberts - Compiler of the Book of Remembrance
+
+Reserved research topics include his role as compiler, family-history work, public service, Utah legislative service, "Good Roads Roberts", the state-archives article, and why record keeping mattered to him. No unsupported dates or details are supplied here.

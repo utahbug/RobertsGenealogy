@@ -99,4 +99,44 @@ The will independently anchors **Cae Glas** without an English color gloss. It d
 
 ## Pilot boundary
 
-The pilot rebuild is the compiler's introductory passage on source PDF page 9. It ends before the historical English translation begins, providing a clean test of the original/compiler/editorial voice model without prematurely rewriting the genealogy.
+The completed opening block now covers source PDF pages 9-12: the compiler's introduction, the historical English translation of David Roberts's early record, the earliest-home/Rhys tradition, and the first page of the related RDR recollections. It stops at the source-page boundary before page 13 continues the Eisteddfod narrative.
+
+## Achau Genealogy comparison
+
+The available Achau evidence is a high-quality image of **Achau page 241**, headed `Coch y big, Melin Faesog a Caeglas, Clynnog; Caeglas, Llanfrothen.` The complete `Achau Genealogy.pdf` was not present in the repository or attachment directory during this run, so conclusions are limited to this page image.
+
+Achau is treated as a carefully researched secondary synthesis. Parent-child lines and names carry substantial weight, while its abbreviated source codes `(CG)`, `(B)`, and `(RB)` are preserved without assigning meanings because the legend is not available in the extract.
+
+| Achau claim (p.241) | Will comparison | David journal p.72 | Book p.12 | Assessment |
+| --- | --- | --- | --- | --- |
+| Robert Price, miller of Melin Faesog, and Catherine are shown as parents of Robert Roberts of Cae Glas. | Will does not name the testator's parents. | Journal leaves the paternal grandfather unnamed. | Later tradition supplies tentative Rhys instead. | **Strongly supported secondary hypothesis**, not yet primary proof. |
+| Robert Roberts is placed at Cae Glas, Clynnog, with Ellin Williams as wife. | Strong agreement on name, Cae Glas residence, Clynnog, and 1830 death/probate period; will does not name wife. | Journal says David's father was born at Cae Glas to the listed sibling group. | Book associates the early family with Cae Glas. | **Strong agreement**, with spouse identification secondary. |
+| Visible child group includes two Roberts (one dying young), Margaret, Ann, Ellin, Jane, William, Solomon, Elizabeth, and Catherine. | Will names Margaret, Anne, Jane, Robert, William, Elizabeth, Eleanor, and Solomon; Catherine is absent. | Journal lists Salmon, Margred, Robert, Catherine, Jane, Ann, Elinor, Elizabeth, William. | First list gives the same nine surviving-name forms. | **Strong reconciliation** of will and journal; Achau also appears to preserve an earlier Robert who died young. |
+| David Roberts is shown with birth date 6 April 1814. | No bearing. | Welsh manuscript reads 5 April 1814. | Historical translation reads 6 April 1814; RDR reads 14 April. | **Secondary support for April 6**, but conflict remains unresolved. |
+| Rhys Roberts appears on a separate branch of the chart, not as the displayed father of Robert Roberts of Cae Glas. | Will supplies no Rhys relationship. | Journal names no Rhys grandfather. | Later RDR wording tentatively calls the grandfather Rhys. | **Conflicts with the later tentative pedigree placement.** |
+
+### Will / journal / Achau child comparison
+
+| Genealogy-book and journal form | Will form | Relationship explicit in will? | Provision | Achau p.241 | Notes |
+| --- | --- | --- | ---: | --- | --- |
+| Salmon | Solomon Roberts | No | 1 shilling | Solomon | Strong name-form correspondence; probable identity, not absolute proof. |
+| Margaret / Margred | Margaret Roberts | Daughter | £2 | Margaret | Agreement. |
+| Robert | Robert Roberts | Son | £2 | Robert | Agreement; Achau also appears to show an earlier Robert who died young. |
+| Catherine | Not named | No | None stated | Catherine | Absence from a will does not prove she was not a child. |
+| Jane | Jane Roberts | Daughter | £2 | Jane | Agreement; will identifies Samuel Griffiths as husband. |
+| Ann | Anne Roberts | Daughter | £2 | Ann | Agreement; will identifies Robert Parry as husband. |
+| Elinor | Eleanor Roberts | Daughter | Residue; sole executrix | Ellin | Agreement by ordinary name-form variation. Probate endorsement uses Ellin. |
+| Elizabeth | Elizabeth Roberts | Daughter | £2 | Elizabeth | Agreement; will identifies Robert Hughes as husband. |
+| William | William Roberts | Son | £2 | William | Agreement. |
+
+The one-shilling bequest to Solomon is substantially smaller than the other fixed bequests and is noteworthy. The will gives no reason, so none is proposed.
+
+## Current paternal-grandfather conclusion
+
+The combined evidence strongly supports the following editorial interpretation:
+
+1. The first nine-name sibling list belongs to the family of Robert Roberts of Cae Glas and Ellin Williams, not securely to a Rhys Roberts.
+2. The will is primary evidence for Robert's residence and the relationships it explicitly states.
+3. Achau page 241 independently places Robert Roberts of Cae Glas as a son of Robert Price of Melin Faesog and Catherine. This makes the Robert Price link **strongly supported as a secondary conclusion**, but not yet proved by an original record inspected in this project.
+4. David Roberts's journal remains primary evidence that David's father was Robert Roberts and that the paternal sibling group had the listed nine names; it leaves David's paternal grandfather unnamed.
+5. The original compilation preserved the tentative Rhys family tradition then available. Later primary evidence permits a more precise child-list interpretation, and subsequent Welsh research supplies a serious Robert Price hypothesis.
