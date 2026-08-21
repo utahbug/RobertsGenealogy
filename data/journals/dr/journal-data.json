@@ -2755,8 +2755,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-070.jpg",
       "transcriptionFile": "data/journals/dr/pages/070.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -2764,23 +2764,58 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "a Daniel. Daniel a fu farw yn America. [unclear: Ebenezer a'r olaf a anwyd yn America ac nid oedd yn byw yno]; [unclear: y maent hwythau yn perthyn i'r Methodistiaid Calfinaidd].\n\nYn awr meddyliaf ychydig am hanes fy hun.\n\nMyfi a gefais fy magu yng nghanol tylodi mawr. Cyflog y llafurwr cyffredin fyddai cyflog fy Nhad, yr hyn am lawer o flynyddoedd oedd o swllt i swllt a chwecheiniog yn y dydd, ac i fwyd ei hun, yr hyn yn fynych fyddai yn rhy brin i gael bara i'r teulu. Fy ngorchwylion hyd nes oeddwn tua unarddeg oeddynt [unclear: cardota fel gyrru], hel cen, crafu rhisgl derw a [unclear: gorcio] cyffelyb; pob peth yn ei dymor.\n\nBum yn glaf iawn o gryd [unclear: pan oeddwn o ddeg i unarddeg], ac yn fuan wedi gwella aethum i'r chwarel gyda fy Nhad a'm brawd Robert i Festiniog. Dilynais y gorchwyl o drin llechau dan lawer o anfanteision hyd nes oeddwn [unclear: bymtheg oed, neu un ar bymtheg]. Aethum y pryd hwn i le o'r enw Cae, nesaf at ddyffryn Cwmstradlyn, i wasanaethu gwr o'r enw William Hughes. Yno y bum [unclear: tua blwyddyn a hanner], yna y dychwelais i'r chwarel; ac o hynny hyd yn awr, dilynais y naill gangen neu'r llall o orchwylion y chwareli.\n\nNi feddyliodd neb am [unclear: angen ysgol ddyddiol arnaf], ac ni chefais fawr o hynny. Byddai fy Rhieni yn fy anfon i ysgol Sul y Methodistiaid Calfinaidd, lle y dechreuais ddarllen Cymraeg. Tueddai fy meddwl at y Bedyddwyr, ac o ganlyniad byddwn [unclear: yn wrthwynebus] wrth fynd i'w hysgolion; ac ni fyddai y Bedyddwyr [unclear: yn cynnal] ysgol, gan eu bod hwy yn meddwl mai pechod [unclear: oedd dysgu].\n\nPan yn fachgen oedd arnaf awydd mawr i fod yn fardd. [unclear: Pan oeddwn oddeutu deunaw oed] cefais gyfleustra i weled [unclear: mesur barddoniaeth]. Yr oeddwn ar y pryd hwn yn lletya yn [continues on PDF page 71].",
+      "translation": "and Daniel. Daniel died in America. [Unclear: Ebenezer and the youngest was born in America and did not live there]; [unclear: they also belong to the Calvinistic Methodists].\n\nNow I shall think a little about my own history.\n\nI was raised amid great poverty. The ordinary laborer's wage was my father's wage, which for many years was from one shilling to one shilling and sixpence a day, while also feeding himself; this was often too little to obtain bread for the family. My tasks until I was about eleven were [unclear: begging or driving], gathering lichen, scraping oak bark, and [unclear occupational term], and similar things, each in its season.\n\nI was very ill with ague [unclear: when I was between ten and eleven], and soon after recovering I went to the quarry with my father and my brother Robert at Festiniog. I continued the work of dressing slate under many disadvantages until I was [unclear: fifteen or sixteen]. At that time I went to a place called Cae, next to the Cwmstradlyn valley, to work for a man named William Hughes. I remained there [unclear: about a year and a half], then returned to the quarry; and from then until now I have followed one branch or another of quarry work.\n\nNo one considered [unclear: that I needed day school], and I received very little of it. My parents sent me to the Calvinistic Methodist Sunday school, where I began to read Welsh. My inclination was toward the Baptists, and consequently I was [unclear: resistant] to attending their schools; and the Baptists did not [unclear: maintain] a school, because they considered [unclear: teaching] a sin.\n\nAs a boy I greatly desired to be a poet. [Unclear: when I was about eighteen] I had an opportunity to see [unclear: poetic meter]. At that time I was lodging at [continues on PDF page 71].",
+      "notes": "Page 70 continues the closing Roberts/Humphrey family notice from page 69. The explicit sentence `Yn awr meddyliaf ychydig am hanes fy hun` marks the transition from compiled family notices to David Roberts's first-person autobiographical narrative. The autobiography then treats childhood poverty, seasonal work, illness, slate quarrying, limited schooling, Calvinistic Methodist Sunday school, Baptist sympathies, and an early desire to become a poet.\n\nRDR PDF page 4 is a confirmed close translation/paraphrase of the family notice and autobiographical transition. RDR PDF page 5 is a confirmed close translation/paraphrase with expansion and normalization of the childhood labor, illness, quarry work, schooling, religious inclination, and poetic-interest passages. RDR clarifies narrative structure and supplies smoother English, but uncertain Welsh occupational, schooling, and poetic terms have not been reconstructed from it.\n\nThe page contains direct first-person self-reference and continues the same compact Welsh hand and ink used on pages 68-69. These features support David Roberts as probable content author and probable scribe, but no signature or independently attributable handwriting sample makes either role confirmed.\n\nNo new heading, signature, verse, quotation, or copied-source marker occurs on page 70. The references to Calvinistic Methodist Sunday school, Baptist sympathies, Festiniog, and quarry work are candidates for later corroboration against independent Welsh branch and local records. The page mentions a desire to become a poet but does not identify a hymn, publication, or the 1852 `D. R.` hymn.\n\nThe final sentence continues directly onto page 71, where the lodging and Gwilym Ystradau context is completed. Page 71 then introduces the separately dated heading `Bethania Ionawr 18 1856`; it was inspected only to establish the boundary and was not transcribed in this pass.",
       "notesLabel": "Editorial annotations",
-      "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
+      "contentContext": "Continuation of the January 6, 1854 family history, followed by an explicit transition into David Roberts's first-person autobiography; the final sentence continues onto PDF page 71.",
+      "contentAuthor": "David Roberts",
+      "scribe": "David Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "The page explicitly shifts into first-person personal history and continues the same compact Welsh hand and ink used in the dated Fy Hanes entry on pages 68-69. This supports David Roberts as probable content author and scribe, but no signature or independently attributable handwriting sample confirms the physical hand.",
+      "people": [
+        "David Roberts",
+        "Daniel Roberts",
+        "Robert Roberts",
+        "William Hughes"
+      ],
+      "places": [
+        "America",
+        "Festiniog",
+        "Cae",
+        "Cwmstradlyn"
+      ],
       "dates": [],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-004",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the closing family notice, explicit transition to personal narrative, and opening account of poverty and childhood labor."
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-005",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the childhood occupations, illness, Festiniog quarry work, Cae and Cwmstradlyn episode, schooling, religious inclination, and poetic ambition in the same sequence."
+        }
+      ]
     },
     {
       "id": "journal-dr-page-071",
