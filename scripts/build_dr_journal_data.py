@@ -76,7 +76,7 @@ def build_reader_data(journal: dict) -> list[dict]:
                 "pageLanguage": page.get("pageLanguage"),
                 "sourceTranscriptionLabel": page.get("sourceTranscriptionLabel") or "Welsh transcription",
                 "translationLabel": "Modern English translation",
-                "searchLayer": "Welsh transcription",
+                "searchLayer": page.get("searchLayer") or "Welsh transcription",
                 "welshTranscription": sections["welshTranscription"],
                 "translation": sections["translation"],
                 "notes": sections["notes"],

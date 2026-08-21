@@ -2009,11 +2009,13 @@
       "image": "assets/journals/dr/journal-dr-page-073.jpg",
       "transcriptionFile": "data/journals/dr/pages/073.md",
       "transcriptionStatus": "needs-review",
-      "translationStatus": "needs-review",
+      "translationStatus": "not-applicable",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "English",
+      "sourceTranscriptionLabel": "English source transcription",
+      "searchLayer": "English source transcription",
       "contentAuthor": "Robert D. Roberts; David R. Roberts",
       "scribe": "Robert D. Roberts; David R. Roberts",
       "translator": null,
@@ -2070,6 +2072,8 @@
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "English and Welsh",
+      "sourceTranscriptionLabel": "English and Welsh source transcription",
+      "searchLayer": "English and Welsh source transcription",
       "contentAuthor": "David R Roberts; unidentified Roberts-family hand",
       "scribe": "David R Roberts; unidentified Roberts-family hand",
       "translator": null,
@@ -2104,7 +2108,18 @@
         "April 20, 1865",
         "April 22, 1865"
       ],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-023",
+          "relationship": [
+            "same event",
+            "paraphrase"
+          ],
+          "confidence": "confirmed",
+          "basis": "RDR page 23 independently records Robert D Roberts's April 4, 1858 baptism at Farmington by his father David R Roberts and confirmation at the water's edge. It is an entry-specific parallel for the second English genealogy block, not for Jane D Roberts's record or the planting register."
+        }
+      ]
     },
     {
       "id": "journal-dr-page-075",
@@ -2145,6 +2160,8 @@
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "English and Welsh",
+      "sourceTranscriptionLabel": "English and Welsh source transcription",
+      "searchLayer": "English and Welsh source transcription",
       "contentAuthor": "David R Roberts; Robert D Roberts",
       "scribe": "David R Roberts; Robert D Roberts",
       "translator": null,
@@ -2172,7 +2189,18 @@
         "October 2, 1856",
         "January 2, 1861"
       ],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-007",
+          "relationship": [
+            "close translation",
+            "later retelling"
+          ],
+          "confidence": "confirmed",
+          "basis": "RDR page 7 follows the lower Welsh block's sequence of October 2 arrival, handcart hardship, Farmington, Ogden with Erastus Bingham, and Fort Elder. It is a parallel only for the Welsh migration block, not for the two signed English account entries."
+        }
+      ]
     },
     {
       "id": "journal-dr-page-077",
