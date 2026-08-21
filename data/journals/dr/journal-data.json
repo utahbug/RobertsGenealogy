@@ -4493,8 +4493,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-096.jpg",
       "transcriptionFile": "data/journals/dr/pages/096.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -4502,23 +4502,60 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Mawrth 22ain 1881\n\nAm chwech yn yr hwyr Jane Hughes ein chwaer a rodd enedigaeth i ferch fechan yn pwyso 4 pwys. Mae y fam a'r ferch yn cymeryd yn dda. Ganwyd hi yn Denbigh, Ontario County, Belle Farmley.\n\nLogan City Hydref 21ain 1881\n\nSarah Ann Roberts, gwraig Daniel Roberts, am bymtheg munud wedi tri yn y bore (3.15 a.m.) a rodd enedigaeth i ferch lan yn pwyso deg pwys a haner (10 1/2 lbs). Bendithiwyd hi Rhagfyr 5ed gan Christian L. Larson, ei henw Ann Roberts.\n\nLogan City Rhagfyr 26ain 1881\n\nMargaret Goodman, gwraig i Thomas J. Roberts, am bum munud a phumdeg wedi saith yn y bore, a rodd enedigaeth i fab glan yn pwyso naw pwys. Bendithiwyd ef gan Thomas McNeil Mawrth 2ail 1882, ei enw David William Roberts.\n\nLogan City Tachwedd 13eg 1882\n\nYn y Trydydd Ward ordeiniwyd David Robert Roberts gan Robert Davidson i swydd o Ddiacon yn yr Offeiriadaeth Aaron.",
+      "translation": "March 22, 1881\n\nAt six in the evening, our sister Jane Hughes gave birth to a little girl weighing four pounds. The mother and daughter are doing well. She was born in Denbigh, Ontario County, Belle Farmley.\n\nLogan City, October 21, 1881\n\nAt fifteen minutes past three in the morning (3:15 a.m.), Sarah Ann Roberts, wife of Daniel Roberts, gave birth to a fine daughter weighing ten and a half pounds. She was blessed on December 5 by Christian L. Larson and named Ann Roberts.\n\nLogan City, December 26, 1881\n\nAt fifty-five minutes past seven in the morning, Margaret Goodman, wife of Thomas J. Roberts, gave birth to a fine son weighing nine pounds. He was blessed by Thomas McNeil on March 2, 1882, and named David William Roberts.\n\nLogan City, November 13, 1882\n\nIn the Third Ward, David Robert Roberts was ordained by Robert Davidson to the office of deacon in the Aaronic Priesthood.",
+      "notes": "- This page begins a new series of dated family and church entries and does not continue the Margaret Goodman Davies biography on page 95.\n- RDR PDF page 22 is a confirmed close-paraphrase parallel. RDR adds Margaret Hughes's later blessing and name after the March 1881 birth, information not present in this Welsh entry.\n- The Welsh October heading appears to read `Hydref 21ain 1881`; RDR gives October 22, 1881. The sources have not been harmonized.\n- The Welsh writes `Robert Davidson`; RDR writes `Robert Davieson`.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting continuity and continuation of the first-person family record strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Jane Hughes",
+        "Daniel Roberts",
+        "Sarah Ann Roberts",
+        "Ann Roberts",
+        "Christian L. Larson",
+        "Margaret Goodman",
+        "Thomas J. Roberts",
+        "Thomas McNeil",
+        "David William Roberts",
+        "David Robert Roberts",
+        "Robert Davidson"
+      ],
+      "places": [
+        "Denbigh",
+        "Ontario County",
+        "Belle Farmley",
+        "Logan City",
+        "Third Ward"
+      ],
+      "dates": [
+        "March 22, 1881",
+        "October 21, 1881",
+        "December 5, 1881",
+        "December 26, 1881",
+        "March 2, 1882",
+        "November 13, 1882"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-022",
+          "pdfPageNumber": 22,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expansion"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-097",
@@ -4530,8 +4567,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-097.jpg",
       "transcriptionFile": "data/journals/dr/pages/097.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -4539,23 +4576,71 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Logan City Chwefror 1af 1883\n\nMi anfonodd lythyr at [unclear: deulu ni] Conar Hughes yn ein hysbysu fod ei wraig Jane, ein chwaer, wedi rhoi genedigaeth i fachgen ar Ionawr 17eg 1883 am ugain munud wedi un (20.1) yn y bore. Bendithiwyd ef gan David R. Bowen Mawrth 1af, ei enw Robert Richard Hughes.\n\nLogan City Ionawr 4ydd 1884\n\nEr cofawdriaeth am Robert Davies a aned yn Rhuthun, Sir Ddinbych, Cymru, Chwefror 25ain 1819. Bedyddiwyd ef yn Rhuthun gan John Parry yn y flwyddyn 1853. Bu farw yn Logan City Ionawr 2ail 1884 am ddeng munud wedi un yn y bore (1.10). Claddwyd ef ar y 3ydd. Agorwyd y cwrdd gan yr Esgob Henry Ballard, cyhoeddwyd gan Georg Painter, bregethwyd gan yr Esgob Ballard. Ei gynghorwyr Christian L. Larson mewn modd dymunol a chymerth amrywiaeth o ganiadau gan Georg Morrison, diweddiwyd gan John Thomas. Gwasanaenwyd y te gan Christian L. Larson.\n\nRobert Davies yw dad ynghyfraith Thomas J. Roberts.",
+      "translation": "Logan City, February 1, 1883\n\nConar Hughes sent a letter to [unclear in Welsh], informing us that his wife Jane, our sister, had given birth to a boy on January 17, 1883, at twenty minutes past one in the morning. He was blessed by David R. Bowen on March 1 and named Robert Richard Hughes.\n\nLogan City, January 4, 1884\n\nIn memory of Robert Davies, who was born in Ruthin, Denbighshire, Wales, on February 25, 1819. He was baptized in Ruthin by John Parry in 1853. He died in Logan City on January 2, 1884, at ten minutes past one in the morning. He was buried on the third. The meeting was opened by Bishop Henry Ballard; [unclear in Welsh] by Georg Painter; Bishop Ballard preached. His counselor Christian L. Larson [spoke] in a pleasing manner, and a variety of songs were provided by Georg Morrison. John Thomas closed the meeting. Tea was served by Christian L. Larson.\n\nRobert Davies is the father-in-law of Thomas J. Roberts.",
+      "notes": "- The first entry is a self-contained February 1883 record rather than a continuation from page 96. RDR PDF page 22 is a confirmed close-paraphrase parallel.\n- The Robert Davies memorial has a confirmed parallel on RDR PDF page 23. RDR clarifies the broad funeral sequence but cannot safely resolve every Welsh verb or phrase; those uncertainties remain explicit.\n- The manuscript writes `Georg Painter` and `Georg Morrison`. These source forms have not been normalized.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting continuity and continuation of the first-person family record strongly support Robert D. Roberts as content author and scribe.",
+      "people": [
+        "Conar Hughes",
+        "Jane Hughes",
+        "David R. Bowen",
+        "Robert Richard Hughes",
+        "Robert Davies",
+        "John Parry",
+        "Henry Ballard",
+        "Georg Painter",
+        "Christian L. Larson",
+        "Georg Morrison",
+        "John Thomas",
+        "Thomas J. Roberts"
+      ],
+      "places": [
+        "Logan City",
+        "Ruthin",
+        "Denbighshire",
+        "Wales"
+      ],
+      "dates": [
+        "February 1, 1883",
+        "January 17, 1883",
+        "March 1, 1883",
+        "January 4, 1884",
+        "February 25, 1819",
+        "1853",
+        "January 2, 1884",
+        "January 3, 1884"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-022",
+          "pdfPageNumber": 22,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-023",
+          "pdfPageNumber": 23,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-098",
@@ -4567,8 +4652,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-098.jpg",
       "transcriptionFile": "data/journals/dr/pages/098.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -4576,23 +4661,69 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Ionawr 19ain 1884\n\nRobert D. Roberts a fedyddiwyd yn Farmington, Sw. Davies, Utah, Ebrill 4ydd 1858 gan fy nhad David R. Roberts. Cadarnhawyd fi gan yr un ar lan y dwr.\n\nIonawr 6ed 1884\n\nOrdeiniwyd fi [unclear: ddeugainfed] er mwyn swydd (gwrwm) o'r deg a thrigain gan Silvester Low.\n\nR. D. Roberts\n\nLogan City Ionawr 6ed 1884\n\nOrdeiniwyd Thomas J. Roberts i'r [unclear: ddeugainfed] cwrdd (gwrwm) o'r deg a thrigain gan Aaron Thatcher.\n\nRhagfyr 19eg 1883\n\nSarah Ann, gwraig Daniel Roberts, a rodd enedigaeth i ferch am dri chwarter wedi wyth (8.45) yn yr hwyr yn pwyso 12 lbs. Bendithiwyd hi gan Christian L. Larson yn Logan Mawrth 16eg 1884.\n\nLogan City Mehefin 3ydd 1884\n\nHugh Roberts a fedyddiwyd gan William C. Partington, cadarnhawyd ef gan John Johnson yr un dydd.",
+      "translation": "January 19, 1884\n\nRobert D. Roberts was baptized in Farmington, Davis County, Utah, on April 4, 1858, by my father, David R. Roberts. I was confirmed by the same person at the water's edge.\n\nJanuary 6, 1884\n\nI was ordained [unclear technical quorum wording in Welsh] to an office in the Seventy by Silvester Low.\n\nR. D. Roberts\n\nLogan City, January 6, 1884\n\nThomas J. Roberts was ordained to the [unclear technical quorum wording in Welsh] quorum of the Seventy by Aaron Thatcher.\n\nDecember 19, 1883\n\nAt a quarter to nine in the evening (8:45), Sarah Ann, wife of Daniel Roberts, gave birth to a daughter weighing twelve pounds. She was blessed by Christian L. Larson in Logan on March 16, 1884.\n\nLogan City, June 3, 1884\n\nHugh Roberts was baptized by William C. Partington and confirmed by John Johnson on the same day.",
+      "notes": "- The page contains five separate entries and does not continue the Robert Davies memorial on page 97.\n- RDR PDFs 23–24 are confirmed close-paraphrase parallels. RDR identifies the January 6 ordinations with the Fourth Quorum of Seventy, but the specialized Welsh quorum wording remains uncertain and has not been forced from the English witness.\n- The explicit `R. D. Roberts` signature confirms Robert D. Roberts as scribe and content author for the signed first-person entry. Strong handwriting continuity supports probable attribution for the other entries.\n- The June 1884 entry ends on this page. PDF page 99 begins a distinct May 1877 historical narrative and then changes to January 1885 temple records.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "confirmed",
+      "attributionBasis": "The explicit R. D. Roberts signature confirms the signed first-person entry; handwriting continuity supports the surrounding entries in the same hand.",
+      "people": [
+        "Robert D. Roberts",
+        "David R. Roberts",
+        "Silvester Low",
+        "Thomas J. Roberts",
+        "Aaron Thatcher",
+        "Sarah Ann Roberts",
+        "Daniel Roberts",
+        "Christian L. Larson",
+        "Hugh Roberts",
+        "William C. Partington",
+        "John Johnson"
+      ],
+      "places": [
+        "Farmington",
+        "Davis County",
+        "Utah",
+        "Logan City",
+        "Logan"
+      ],
+      "dates": [
+        "January 19, 1884",
+        "April 4, 1858",
+        "January 6, 1884",
+        "December 19, 1883",
+        "March 16, 1884",
+        "June 3, 1884"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-023",
+          "pdfPageNumber": 23,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-024",
+          "pdfPageNumber": 24,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-099",
