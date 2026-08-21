@@ -5149,8 +5149,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-104.jpg",
       "transcriptionFile": "data/journals/dr/pages/104.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -5158,23 +5158,63 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Dinas Logan Chwefror [unclear: 21ain] 1885\n\nYr enwau canlynol a briodwyd ac a seliwyd i'r Cyfamod tragwyddol ac a bendithion yr Efengyl gan A. C. Tellefsen:\n\nLaura Parry a Cathreina Richards i David Robert Roberts\n\nDirprwywyr: Robert D. Roberts a Cathreina Thomas Roberts\n\nLinet Jones a Jane Richards i John Roberts\n\nAnn Roberts i Robert Parry\n\nAnn Parry i Edward Griffith\n\nDirprwywyr: [unclear: Robert D. Roberts] ac Ann Roberts Hopkins\n\nMargaret Owens i Richard Thomas\n\nDirprwywyr: Robert D. Roberts a Cathreina Thomas Roberts\n\nMawrth 12fed 1886 — Jane Thomas i Morris Isaac\n\nMargaret Jones i William Hughes\n\nDirprwywyr: Robert David Roberts a Cathreina Thomas Roberts",
+      "translation": "Logan City, February [unclear: 21], 1885\n\nThe following names were married and sealed in the everlasting covenant and to the blessings of the Gospel by A. C. Tellefsen:\n\nLaura Parry and Cathreina Richards to David Robert Roberts\n\nProxies: Robert D. Roberts and Cathreina Thomas Roberts\n\nLinet Jones and Jane Richards to John Roberts\n\nAnn Roberts to Robert Parry\n\nAnn Parry to Edward Griffith\n\nProxies: [unclear: Robert D. Roberts] and Ann Roberts Hopkins\n\nMargaret Owens to Richard Thomas\n\nProxies: Robert D. Roberts and Cathreina Thomas Roberts\n\nMarch 12, 1886 — Jane Thomas to Morris Isaac\n\nMargaret Jones to William Hughes\n\nProxies: Robert David Roberts and Cathreina Thomas Roberts",
+      "notes": "- The heading uses `briodwyd ac a seliwyd` (“were married and sealed”) and `Cyfamod tragwyddol` (“everlasting covenant”). The manuscript then groups named sealing subjects with explicit `Dirprwywyr` (“proxies”) lines.\n- The page is not a simple two-column husband/wife register. Several groups contain more than two subject names before the proxy line; their exact relationship has not been inferred.\n- RDR PDF page 29 is a confirmed close-paraphrase/normalized parallel. RDR reorganizes the opening names and supplies clearer modern ordinance prose, but that arrangement has not replaced the Welsh manuscript order.\n- The heading date remains uncertain in the Welsh image; RDR gives February 21, 1885.\n- Source forms including `Laura Parry`, `Cathreina Richards`, `Linet Jones`, and `Cathreina Thomas Roberts` remain unnormalized.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting and sealing-list continuity with signed Robert D. Roberts entries support attribution.",
+      "people": [
+        "A. C. Tellefsen",
+        "Laura Parry",
+        "Cathreina Richards",
+        "David Robert Roberts",
+        "Robert D. Roberts",
+        "Cathreina Thomas Roberts",
+        "Linet Jones",
+        "Jane Richards",
+        "John Roberts",
+        "Ann Roberts",
+        "Robert Parry",
+        "Ann Parry",
+        "Edward Griffith",
+        "Ann Roberts Hopkins",
+        "Margaret Owens",
+        "Richard Thomas",
+        "Jane Thomas",
+        "Morris Isaac",
+        "Margaret Jones",
+        "William Hughes"
+      ],
+      "places": [
+        "Logan City",
+        "Logan Temple"
+      ],
+      "dates": [
+        "February 21, 1885",
+        "March 12, 1886"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-029",
+          "pdfPageNumber": 29,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized",
+            "reordered"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-105",
@@ -5186,8 +5226,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-105.jpg",
       "transcriptionFile": "data/journals/dr/pages/105.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -5195,23 +5235,49 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Mawrth 17eg 1886 — Elinor Griffith i Edward Roberts\n\nDirprwywyr: Robert David Roberts ac Ann Roberts Hopkins\n\nMawrth 22ain 1886 — Mrs Cathreine Jones i Henry Jones\n\nDirprwywyr: Thomas David Roberts a Margaret Goodman Davies Roberts",
+      "translation": "March 17, 1886 — Elinor Griffith to Edward Roberts\n\nProxies: Robert David Roberts and Ann Roberts Hopkins\n\nMarch 22, 1886 — Mrs. Cathreine Jones to Henry Jones\n\nProxies: Thomas David Roberts and Margaret Goodman Davies Roberts",
+      "notes": "- This page completes two blank-separated sealing groups continued from page 104. Each subject pair is followed by an explicit `Dirprwywyr` proxy pair.\n- RDR PDF page 29 is a confirmed close-paraphrase parallel. The Welsh spelling `Cathreine` is preserved rather than normalized to RDR's Catherine.\n- No spouse, parent, child, or other relationship has been inferred beyond the manuscript's `i` construction and explicit proxy labels.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- Substantial blank space follows the March 22 group. PDF page 106 begins a different, dense family-line record structure.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting and sealing-list continuity with signed Robert D. Roberts entries support attribution.",
+      "people": [
+        "Elinor Griffith",
+        "Edward Roberts",
+        "Robert David Roberts",
+        "Ann Roberts Hopkins",
+        "Cathreine Jones",
+        "Henry Jones",
+        "Thomas David Roberts",
+        "Margaret Goodman Davies Roberts"
+      ],
+      "places": [
+        "Logan Temple"
+      ],
+      "dates": [
+        "March 17, 1886",
+        "March 22, 1886"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-029",
+          "pdfPageNumber": 29,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-106",
