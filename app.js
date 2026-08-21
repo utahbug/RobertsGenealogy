@@ -305,8 +305,8 @@ function renderJournal(journal, data) {
   const alias = journalAlias(journal.id);
   const card = el('article', { className: 'journal-catalog-entry' });
   const summary = alias === 'rdr'
-    ? 'English family record and journal'
-    : 'Welsh family history, journal, poetry, and later Roberts-family additions';
+    ? 'Original English manuscript with typed transcription'
+    : 'Shared Welsh manuscript with modern English translation';
   const started = pages.filter(journalPageIsStarted).length;
   const reviewed = pages.filter((page) => page.transcriptionStatus === 'reviewed').length;
 
@@ -328,11 +328,11 @@ function renderJournal(journal, data) {
     }));
   } else {
     card.appendChild(el('p', {
-      text: 'A separate Welsh-language source volume. Poetry and other writings precede the family-history and journal section beginning at PDF page 68.',
+      text: 'One physical source begun by David Roberts and continued by later Roberts-family contributors. Pages 68-72 are confirmed David Roberts handwriting; pages 73-76 contain mixed source layers; lower page 76 onward moves into Robert D. Roberts material.',
     }));
     card.appendChild(el('p', {
       className: 'journal-progress',
-      text: 'Family-history section transcription in progress; Welsh transcription and modern English translation remain incomplete.',
+      text: 'Family-history pages 68-109 have complete first-pass source text and modern English where applicable. Needs review identifies documented scholarly uncertainty, not missing transcription.',
     }));
   }
 
@@ -340,7 +340,7 @@ function renderJournal(journal, data) {
   actions.appendChild(el('a', {
     className: 'catalog-action catalog-action-primary',
     href: journalViewerUrl(journal),
-    text: alias === 'rdr' ? 'Read transcription' : 'Read Welsh / English',
+    text: alias === 'rdr' ? 'Read original / transcription' : 'Read manuscript / translation',
   }));
   if (journal.sourceFile) {
     actions.appendChild(el('a', {

@@ -91,6 +91,31 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   font-family: var(--sans);
   font-size: .86rem;
 }
+.reader-methodology {
+  max-width: 58rem;
+  margin-top: .7rem;
+  color: #d8e0e3;
+  font-family: var(--sans);
+  font-size: .84rem;
+}
+.reader-methodology summary {
+  width: fit-content;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 700;
+}
+.reader-methodology summary:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 3px;
+}
+.reader-methodology-body {
+  margin-top: .65rem;
+  padding: .75rem .9rem;
+  border-left: 3px solid #8fa0a8;
+  background: rgba(255, 255, 255, .08);
+}
+.reader-methodology-body p { margin: 0; }
+.reader-methodology-body p + p { margin-top: .55rem; }
 .demo-badge {
   margin-top: .2rem;
   padding: .2rem .4rem;
