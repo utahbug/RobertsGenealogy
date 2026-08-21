@@ -17,8 +17,8 @@ Labels used below are **supported**, **corrected**, **clarified**, **unresolved*
 | 10 | Childhood poverty, labor, quarry work, farm service, schooling, and poetic study. | Welsh journal pp.70-71; RDR pp.4-5 | **Supported with specialist questions.** Ages and chronology are supported; occupational, educational, and bardic terms retain documented review issues. |
 | 11 | Marriage, residences, conversion, baptism, priesthood, branch care, and children's baptisms. | Welsh journal p.71; RDR p.5; Ffestiniog register lead | **Supported / clarified.** Journal independently records baptism by Robert Evans on May 24, 1846 and care of the Festiniog Branch. External register evidence remains a separate layer. |
 | 11 | Catherine Richards's ancestry and David's immediate paternal family. | Welsh journal p.72; RDR pp.6-7 | **Supported.** Page 72 names David's father as Robert Roberts and leaves his paternal grandfather unnamed. |
-| 11-12 | Compiler identifies Rhys Roberts as the earlier ancestor. | Compiler prose; RDR quotation on p.12; journal p.72 | **Unresolved / derivative.** RDR's wording is tentative: `I think grandfather's name was Rhys Roberts.` David's journal does not name that grandfather. |
-| 12 | Nine-child list after the Rhys statement. | Exact syntax of RDR quotation; journal p.72 | **Clarified, ancestry unresolved.** `He had a family of nine children` grammatically assigns the list to the tentatively named Rhys. The next eight-child list belongs to Robert Roberts and Elizabeth Edwards. The syntax does not independently prove Rhys's identity. |
+| 11-12 | Compiler identifies Rhys Roberts as the earlier ancestor. | Compiler prose; RDR quotation on p.12; journal p.72; 1823 will of Robert Roberts of Cae Glas | **Corrected / ancestry unresolved.** RDR's wording is tentative: `I think grandfather's name was Rhys Roberts.` The primary will closely matches the first child list but names the testator as Robert Roberts. David's journal does not name the paternal grandfather. |
+| 12 | Nine-child list after the Rhys statement. | Exact RDR syntax; journal p.72; primary will `B/1830/172` | **Primary evidence changes the interpretation.** The later quotation grammatically attaches the list to tentative Rhys, but the will of Robert Roberts of Cae Glas names Margaret, Anne, Jane, Robert, William, Elizabeth, Eleanor, and Solomon. Seven align directly with the nine-child list; Solomon strongly corresponds to Salmon, while Catherine is absent. The will strongly supports Robert Roberts as the parent represented by the list, without proving his parentage. |
 | 12-16 | Rhys story, slate quarries, Eisteddfod, poetry, and religious recollections. | Quoted RDR manuscripts; Welsh journal pp.69-71 | **Derivative / clarified.** Distinguish later recollection from David's manuscript. Do not identify the damaged p.69 verse as the 1852 hymn. |
 | 17-18 | Photographs and place identifications. | Original captions; current place metadata | **Needs provenance verification.** Retain placeholders until each image and caption is checked. |
 | 19-25 | Emigration preparation and S. Curling voyage. | Family records; journal/RDR sequence; compiler's published citations | **Supported / derivative.** Separate manuscript testimony, contemporary reports, and compiler linking prose. |
@@ -48,9 +48,17 @@ Project journal and correspondence data contain further unglossed occurrences. T
 - **Wording:** `I think grandfather's name was Rhys Roberts. He had a family of nine children...`
 - **Nine children:** syntax attaches this list to the tentatively identified Rhys.
 - **Eight children:** `My grandfather was married to Elizabeth Edwards... They had eight children...`; this list belongs to Robert Roberts and Elizabeth Edwards.
-- **Limit:** grammar clarifies the two lists but does not prove Rhys's identity. David's confirmed journal p.72 names his father as Robert Roberts, leaves his paternal grandfather unnamed, and names neither Robert Price nor Rhys Roberts in that role.
+- **Primary-will update:** the 1823 will of farmer Robert Roberts of Cae Glas names Margaret, Anne, Jane, Robert, William, Elizabeth, Eleanor, and Solomon. This closely matches eight names/forms in the first nine-child list; Catherine is not named.
+- **Revised conclusion:** the later quotation's grammar explains how the list became attached to tentative Rhys, but the primary will strongly supports Robert Roberts of Cae Glas as the parent represented by that list. David's confirmed journal p.72 names his father as Robert Roberts, leaves his paternal grandfather unnamed, and names neither Robert Price nor Rhys Roberts in that role.
+- **Remaining limit:** the will does not state the testator's parentage or wife, does not explicitly call Solomon a son in the visible clause, and cannot establish that every child was named.
 
 The original compilation reflected family tradition and the evidence then available. Later manuscript evidence permits a more precise statement of what is known, believed, and unresolved.
+
+## Primary will evidence
+
+The FamilySearch probate packet bearing reference `B/1830/172` identifies **Robert Roberts of Cae Glas in the parish of Clynnog, county of Caernarfon, farmer**. His will was written 10 February 1823 and proved 25 June 1830. This is primary evidence for his residence and the relationships explicitly stated in the instrument. See `ROBERT_ROBERTS_CAE_GLAS_WILL.md` for the transcription, abstract, beneficiary table, and evidentiary limits.
+
+The will independently anchors **Cae Glas** without an English color gloss. It does not identify Robert Price, Rhys Roberts, the testator's father, or the testator's wife.
 
 ## Proposed image placeholders
 
@@ -81,6 +89,13 @@ The original compilation reflected family tradition and the evidence then availa
 - Placement: beside the relevant evidence note.
 - Caption draft: exact verified inscription.
 - Provenance needed: cemetery, grave identity, photograph source/date, and transcription check.
+
+`[IMAGE PLACEHOLDER - Will of Robert Roberts of Cae Glas]`
+
+- Role: primary-source evidence for family relationships and residence.
+- Placement: beside the first Section A discussion of the disputed Rhys/Robert child list.
+- Caption draft: `Will of Robert Roberts of Cae Glas, parish of Clynnog, Caernarfonshire. FamilySearch image; full archival citation to be completed.`
+- Provenance needed: FamilySearch collection, film/DGS number, image number, archive/court, and stable URL.
 
 ## Pilot boundary
 

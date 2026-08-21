@@ -296,3 +296,21 @@ The manuscript pages containing the early family narrative are now identified as
 - **Intended caption:** Early Welsh family-history pages in the shared Roberts journal, attributed to David Roberts through signed-sample handwriting comparison.
 - **Suggested source/provenance:** original manuscript image and PDF page reference; custody and reproduction credit to be supplied.
 - **Editorial placement:** after the compiler's introduction, before the historical English translation.
+
+## Primary-evidence update before continuing Section A
+
+### Editor's clarification: the Cae Glas will
+
+A primary will written on 10 February 1823 identifies its testator as **Robert Roberts of Cae Glas, parish of Clynnog, county of Caernarfon, farmer**. It names or provides for Margaret, Anne, Jane, Robert, William, Elizabeth, Eleanor, and Solomon Roberts. Seven names align directly with the first nine-child list later printed beside the tentative statement, “I think grandfather's name was Rhys Roberts”; Solomon strongly corresponds to that list's Salmon, while Catherine is not named in the will.
+
+The historical quotation and its tentative Rhys wording remain unchanged. The will nevertheless provides strong primary evidence that the first child list represents the family of Robert Roberts of Cae Glas rather than a securely identified Rhys Roberts. It does not name Robert's parents or wife, does not explicitly label Solomon's relationship in the visible clause, and does not establish that every child was included. David Roberts's own journal independently names his father as Robert Roberts but leaves his paternal grandfather unnamed. No conclusion about Robert Price is supplied by the will.
+
+### Evidence note
+
+The will was proved on 25 June 1830 under the reference `B/1830/172`. Its Cae Glas place-name is preserved without choosing either the compiler's “Green Field” or “Blue Field” gloss. A complete FamilySearch collection, film, image, and archive citation remains to be added.
+
+[IMAGE PLACEHOLDER - Will of Robert Roberts of Cae Glas]
+
+- **Suggested role:** primary-source evidence for family relationships and residence.
+- **Suggested caption:** “Will of Robert Roberts of Cae Glas, parish of Clynnog, Caernarfonshire. FamilySearch image; full archival citation to be completed.”
+- **Editorial placement:** beside the future Section A treatment of the Rhys/Robert child-list question.
