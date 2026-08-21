@@ -1647,25 +1647,67 @@
       "pageLanguage": "Primarily Welsh; later additions may include English",
       "contentAuthor": "David Roberts",
       "scribe": "David Roberts",
-      "translator": null,
-      "editor": null,
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
       "attributionStatus": "probable",
-      "attributionBasis": "The visible page heading reads Ionawr 6 1854 and David Roberts; handwriting comparison across the volume remains pending.",
-      "people": [],
-      "places": [],
+      "attributionBasis": "The page is dated January 6, 1854, names David Roberts beside the heading Fy Hanes, and uses first-person family and marriage statements. These features support David Roberts as probable content author and scribe, but no separate signature or independently attributable handwriting sample confirms the physical hand.",
+      "people": [
+        "David Roberts",
+        "Edward Roberts",
+        "Robert Roberts",
+        "Elinor Roberts",
+        "William Roberts",
+        "Daniel Roberts",
+        "John Roberts",
+        "Elinor Griffith",
+        "Griffith Williams",
+        "Chatherine Williams",
+        "Gwen Williams",
+        "Mary Williams",
+        "John Humphrey",
+        "William Humphrey",
+        "Chatherine James",
+        "Chathreina Richards",
+        "Thomas Richards",
+        "Ann Morris",
+        "Margred Roberts",
+        "Evan Roberts",
+        "Jane Griffith",
+        "John Lloyd"
+      ],
+      "places": [
+        "Merionethshire",
+        "Rhos",
+        "Beddgelert",
+        "Caernarfonshire",
+        "Tanyrallt",
+        "Brynygwyngyll",
+        "Llety",
+        "Llanfrothen",
+        "Bronyforllan",
+        "Cae Glas",
+        "Festiniog",
+        "Creua Mawr",
+        "Gair y Rallt bach"
+      ],
       "dates": [
+        "1814-04-05",
         "1854-01-06"
       ],
       "relatedJournalPassages": [
         {
           "journalId": "journal-rdr-001",
           "pageId": "journal-rdr-page-003",
-          "relationship": "historical-translation-in",
-          "confidence": "probable",
-          "basis": "Both openings identify David Roberts and January 6, 1854; full passage alignment awaits transcription."
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the January 6, 1854 heading, first-person ancestry structure, names, marriages, residences, children, and sequence."
         }
       ],
-      "contentContext": "Opening Welsh family-history page dated January 6, 1854. Only the heading has received an initial visual transcription and modern English translation."
+      "contentContext": "Opening first-person Welsh ancestry and family-history entry dated January 6, 1854; it continues onto PDF page 69 and has a confirmed historical-English parallel on RDR PDF page 3."
     },
     {
       "id": "journal-dr-page-069",
