@@ -2827,8 +2827,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-071.jpg",
       "transcriptionFile": "data/journals/dr/pages/071.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -2836,23 +2836,75 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "[unclear: Mam-gu] Gwilym Ystradau y Bardd, lle yr oedd yntau'n lletya, yn agos yr un oed ac o'r un dueddiad am Farddoniaeth; felly buom yn ychydig o gefnogaeth i'n gilydd. Daethom i gydnabyddiaeth a'r hen Fardd [unclear: Gryffyn Davy]; cawsom rai gwersi ganddo ef.\n\nBethania Ionawr 18 - 1856\n\nYr oeddwn i dair ar hugain oed [unclear: oeddwn] pan briodais Catherine. I fyw i [unclear: Haffty y Ty Mawr] Park, Llanfrothen, am y flwyddyn gyntaf. Aethom oddyno i Gelli Cwmstradlyn, yn yr un plwyf ac ar yr un etifeddiaeth. O'r Gelli i [unclear: Sewynfyll], plwyf Festiniog; o [unclear: Sewynfyll] i Ddol y Garreg Ddu yn yr un plwyf; o Ddol y Garreg Ddu i Bethania, lle yr ydym yn awr. Ac yr ydym yn bwriadu ymfudo i America (neu Utah) o hyn i ddechrau Mawrth nesaf.\n\nMyfi a genhedlwyd i ffydd yr Efengyl gan Robert Evans, Glan Conwy, ac a fedyddiwyd ganddo yn afon y Pandy gerllaw Gelli Cwmstradlyn, ar y 24 dydd o Fis Mai yn y flwyddyn 1846. Ac a gadarnhawyd gan Abel Evans. Ac yn fuan derbyniais yr Offeiriadaeth Santaidd. Gosodwyd ar fy ysgwyddau y ddyledswydd bwysig o bregethu yr Efengyl dragwyddol yng nghyflawnder ei bendithion. Ac ymddiriedwyd yn fy ngofal Gangen o Eglwys Iesu Grist a elwir Cangen Festiniog. Cefais y fraint i letya yn fy nhy lawer o weision Crist, a'u cynorthwyo gyda dillad ac arian i adeiladu Teyrnas Iesu Grist fy Arglwydd.\n\nChathreina fy ngwraig a fedyddiwyd gan David Peters ger y Rhydfudr, Festiniog, Awst 22 - 1846.\n\nEin plant a fedyddiwyd gennyf. Thomas, Medi 30 - 1849. Daniel a fedyddiwyd Medi 17 - 1850 yn ei wyth mlwydd oed. Ann a fedyddiwyd Rhagfyr 28 - 1852 yn ei hawyth mlwydd oed. [Continues on PDF page 72.]",
+      "translation": "[Unclear: the grandmother] of Gwilym Ystradau the Bard, where he too was lodging. He was nearly the same age and had the same inclination toward poetry; therefore we were of some encouragement to one another. We became acquainted with the old bard [unclear: Gryffyn Davy] and received some lessons from him.\n\nBethania, January 18, 1856\n\nI was twenty-three years old [unclear wording] when I married Catherine. We went to live at [unclear: Haffty y Ty Mawr] Park, Llanfrothen, for the first year. From there we moved to Gelli Cwmstradlyn, in the same parish and on the same estate; from Gelli to [unclear place], parish of Festiniog; from [that place] to Dol y Garreg Ddu in the same parish; and from Dol y Garreg Ddu to Bethania, where we are now. We intend to emigrate to America (or Utah) between now and the beginning of next March.\n\nI was brought to faith in the Gospel by Robert Evans of Glan Conwy and was baptized by him in the River Pandy near Gelli Cwmstradlyn on May 24, 1846. I was confirmed by Abel Evans, and soon received the Holy Priesthood. The important duty of preaching the everlasting Gospel in the fulness of its blessings was placed upon my shoulders. A branch of the Church of Jesus Christ called the Festiniog Branch was entrusted to my care. I had the privilege of lodging many servants of Christ in my house and assisting them with clothing and money to build the Kingdom of Jesus Christ my Lord.\n\nMy wife Chathreina was baptized by David Peters near Rhydfudr, Festiniog, on August 22, 1846.\n\nOur children were baptized by me: Thomas, September 30, 1849; Daniel was baptized September 17, 1850, at eight years old; and Ann was baptized December 28, 1852, at eight years old. [Continues on PDF page 72.]",
+      "notes": "The opening paragraph completes the sentence begun on page 70. David was lodging with the probable grandmother of `Gwilym Ystradau y Bardd`; the two young men shared an inclination toward poetry, encouraged one another, and received lessons from an older bard whose name remains uncertain. This is evidence of bardic instruction, but it does not identify a hymn, publication, or connection to the 1852 hymn attributed to `D. R.`.\n\nThe heading `Bethania Ionawr 18 - 1856` begins a distinct dated autobiographical entry. In this manuscript it functions as a residence/place-and-date heading: David says that he and his household are then living at Bethania and plan to emigrate to America or Utah. The manuscript does not independently establish whether `Bethania` denotes a house, chapel, meetinghouse, or broader locality, so no narrower identification is imposed.\n\nThe dated entry records household moves, conversion and baptism, confirmation, receipt of priesthood, preaching responsibility, care of the Festiniog Branch, support for traveling church servants, and family baptisms. It supplies direct first-person evidence for David's leadership of the Festiniog Branch. The baptism date of May 24, 1846 is present in the Welsh manuscript itself and is therefore transcribed independently of the external Ffestiniog membership-register lead.\n\nRDR PDF page 5 is a confirmed close translation/paraphrase with normalization of the poetic continuation, marriage age, and residence sequence. RDR PDF page 6 is a confirmed close translation/paraphrase with expansion and normalization of the emigration plan, conversion, baptism, priesthood, branch leadership, hospitality, and family-baptism sequence. RDR helped establish syntax and event order, but the uncertain bard name and two residence forms were not forced from its English.\n\nThe same compact Welsh hand and ink continue from pages 68-70. First-person self-reference, the contemporaneous 1856 heading, and autobiographical continuity support David Roberts as probable content author and probable scribe. There is no signature or independently attributable handwriting sample to justify confirmed attribution.\n\nPage 71 continues directly onto page 72 with the children's baptism list. Page 72 then develops into a dense multigenerational family register in the same hand. It was inspected for structure but left untranscribed for a separate focused pass.",
       "notesLabel": "Editorial annotations",
-      "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentContext": "Completion of the page-70 bardic passage followed by a distinct Bethania entry dated January 18, 1856, recording residence moves, planned Utah emigration, conversion, baptism, priesthood, Festiniog Branch leadership, and family baptisms; the list continues onto PDF page 72.",
+      "contentAuthor": "David Roberts",
+      "scribe": "David Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "The page continues the first-person autobiography in the same compact Welsh hand and ink as pages 68-70 and begins a contemporaneously dated Bethania entry. These features support David Roberts as probable content author and scribe, but no signature or independently attributable handwriting sample confirms the physical hand.",
+      "people": [
+        "David Roberts",
+        "Chathreina Richards",
+        "Gwilym Ystradau",
+        "Robert Evans",
+        "Abel Evans",
+        "David Peters",
+        "Thomas Roberts",
+        "Daniel Roberts",
+        "Ann Roberts"
+      ],
+      "places": [
+        "Bethania",
+        "Llanfrothen",
+        "Gelli Cwmstradlyn",
+        "Festiniog",
+        "Dol y Garreg Ddu",
+        "America",
+        "Utah",
+        "Glan Conwy",
+        "Pandy",
+        "Rhydfudr"
+      ],
+      "dates": [
+        "1846-05-24",
+        "1846-08-22",
+        "1849-09-30",
+        "1850-09-17",
+        "1852-12-28",
+        "1856-01-18"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-005",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the Gwilym Ystradau poetic-instruction sequence, marriage age, and household moves in the same order."
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-006",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the planned Utah emigration, conversion and baptism, confirmation, priesthood, Festiniog Branch leadership, hospitality, and family-baptism sequence."
+        }
+      ]
     },
     {
       "id": "journal-dr-page-072",

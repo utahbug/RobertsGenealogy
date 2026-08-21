@@ -1844,22 +1844,75 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-071.jpg",
       "transcriptionFile": "data/journals/dr/pages/071.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "Primarily Welsh; later additions may include English",
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
-      "relatedJournalPassages": []
+      "contentAuthor": "David Roberts",
+      "scribe": "David Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "The page continues the first-person autobiography in the same compact Welsh hand and ink as pages 68-70 and begins a contemporaneously dated Bethania entry. These features support David Roberts as probable content author and scribe, but no signature or independently attributable handwriting sample confirms the physical hand.",
+      "people": [
+        "David Roberts",
+        "Chathreina Richards",
+        "Gwilym Ystradau",
+        "Robert Evans",
+        "Abel Evans",
+        "David Peters",
+        "Thomas Roberts",
+        "Daniel Roberts",
+        "Ann Roberts"
+      ],
+      "places": [
+        "Bethania",
+        "Llanfrothen",
+        "Gelli Cwmstradlyn",
+        "Festiniog",
+        "Dol y Garreg Ddu",
+        "America",
+        "Utah",
+        "Glan Conwy",
+        "Pandy",
+        "Rhydfudr"
+      ],
+      "dates": [
+        "1846-05-24",
+        "1846-08-22",
+        "1849-09-30",
+        "1850-09-17",
+        "1852-12-28",
+        "1856-01-18"
+      ],
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-005",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the Gwilym Ystradau poetic-instruction sequence, marriage age, and household moves in the same order."
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-006",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the planned Utah emigration, conversion and baptism, confirmation, priesthood, Festiniog Branch leadership, hospitality, and family-baptism sequence."
+        }
+      ],
+      "contentContext": "Completion of the page-70 bardic passage followed by a distinct Bethania entry dated January 18, 1856, recording residence moves, planned Utah emigration, conversion, baptism, priesthood, Festiniog Branch leadership, and family baptisms; the list continues onto PDF page 72."
     },
     {
       "id": "journal-dr-page-072",
