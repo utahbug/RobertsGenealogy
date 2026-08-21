@@ -342,6 +342,16 @@ function renderJournal(journal, data) {
     href: journalViewerUrl(journal),
     text: alias === 'rdr' ? 'Read original / transcription' : 'Read manuscript / translation',
   }));
+  if (alias === 'dr') {
+    actions.appendChild(el('a', {
+      className: 'catalog-action',
+      href: 'output/pdf/David-Roberts-Welsh-Journal-English-Left-Welsh-Right.pdf',
+      target: '_blank',
+      rel: 'noopener',
+      title: 'Source PDF pages 68-109',
+      text: 'Bilingual PDF - English left / Welsh right',
+    }));
+  }
   if (journal.sourceFile) {
     actions.appendChild(el('a', {
       className: 'catalog-action',
