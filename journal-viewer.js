@@ -14,12 +14,12 @@ const JOURNALS = {
     key: 'dr',
     dataPath: 'data/journals/dr/journal-data.json',
     defaultPage: 68,
-    defaultMode: 'welsh-english',
+    defaultMode: 'source',
     modes: [
-      ['welsh-english', 'Welsh + English'],
-      ['welsh', 'Welsh'],
-      ['english', 'English'],
-      ['original', 'Original'],
+      ['source', 'Source transcription'],
+      ['english', 'Modern English'],
+      ['rdr', 'RDR parallel'],
+      ['notes', 'Notes'],
     ],
   },
 };
@@ -29,6 +29,7 @@ const config = JOURNALS[params.get('id')] || JOURNALS.rdr;
 const state = {
   journal: null,
   pages: [],
+  rdrPages: new Map(),
   index: 0,
   mode: params.get('view') || config.defaultMode,
   query: params.get('q') || '',
@@ -102,11 +103,8 @@ function updateUrl() {
   history.replaceState(null, '', url);
 }
 
-function appendHighlightedInline(parent, text, query) {
-  if (!query) {
-    parent.appendChild(document.createTextNode(text));
-    return;
-  }
+function appendSearchHighlight(parent, text, query) {
+  if (!query) return parent.appendChild(document.createTextNode(text));
   const lower = text.toLocaleLowerCase();
   const needle = query.toLocaleLowerCase();
   let cursor = 0;
@@ -120,6 +118,19 @@ function appendHighlightedInline(parent, text, query) {
     parent.appendChild(element('mark', '', text.slice(match, match + query.length)));
     cursor = match + query.length;
   }
+}
+
+function appendHighlightedInline(parent, text, query) {
+  const markerPattern = /(\[(?:unclear(?::[^\]]*)?|illegible|damaged(?::[^\]]*)?|erased(?::[^\]]*)?|overwritten(?::[^\]]*)?)\])/gi;
+  let cursor = 0;
+  for (const match of text.matchAll(markerPattern)) {
+    if (match.index > cursor) appendSearchHighlight(parent, text.slice(cursor, match.index), query);
+    const marker = element('span', 'uncertainty-marker');
+    appendSearchHighlight(marker, match[0], query);
+    parent.appendChild(marker);
+    cursor = match.index + match[0].length;
+  }
+  if (cursor < text.length) appendSearchHighlight(parent, text.slice(cursor), query);
 }
 
 function renderPlainText(container, text, query = '') {
@@ -146,13 +157,26 @@ function sourcePanel(page) {
   image.src = page.image;
   image.alt = `${state.journal.title}, PDF page ${pageNumber(page)}`;
   image.dataset.sourceImage = 'true';
-  scroll.appendChild(image);
+  const imageLink = element('a', 'scan-link');
+  imageLink.href = page.image;
+  imageLink.target = '_blank';
+  imageLink.rel = 'noopener';
+  imageLink.setAttribute('aria-label', `Open larger manuscript image for PDF page ${pageNumber(page)}`);
+  imageLink.appendChild(image);
+  scroll.appendChild(imageLink);
   panel.appendChild(scroll);
-  const sourceLink = element('a', 'source-page-link', 'Open this page in the unchanged source PDF');
+  const actions = element('div', 'source-actions');
+  const imageAction = element('a', 'source-page-link', 'Open larger image');
+  imageAction.href = page.image;
+  imageAction.target = '_blank';
+  imageAction.rel = 'noopener';
+  actions.appendChild(imageAction);
+  const sourceLink = element('a', 'source-page-link', 'Open in unchanged source PDF');
   sourceLink.href = `${state.journal.sourceFile}#page=${pageNumber(page)}`;
   sourceLink.target = '_blank';
   sourceLink.rel = 'noopener';
-  panel.appendChild(sourceLink);
+  actions.appendChild(sourceLink);
+  panel.appendChild(actions);
   requestAnimationFrame(applyImageScale);
   return panel;
 }
@@ -163,11 +187,62 @@ function transcriptionPanel(page, text, heading, query = '') {
   const body = element('div', 'transcription-body');
   renderPlainText(body, text, query);
   panel.appendChild(body);
-  if (page.notes && !/^This PDF page awaits/i.test(page.notes)) {
-    const details = element('details', 'editorial-details');
-    details.appendChild(element('summary', '', 'Editorial annotations'));
-    details.appendChild(element('p', '', page.notes));
-    panel.appendChild(details);
+  return panel;
+}
+
+function notesPanel(page) {
+  const panel = element('section', 'transcription-view notes-view');
+  panel.appendChild(element('h3', '', 'Editorial and source notes'));
+  const body = element('div', 'transcription-body notes-body');
+  renderPlainText(body, page.notes || 'No editorial notes recorded for this page.');
+  panel.appendChild(body);
+  return panel;
+}
+
+function rdrParallelPanel(page) {
+  const panel = element('section', 'transcription-view rdr-view');
+  panel.appendChild(element('h3', '', 'RDR historical English parallel'));
+  panel.appendChild(element('p', 'layer-explanation', 'Historical English version recorded later by Robert D. Roberts. It may paraphrase, omit, expand, reorder, or differ from the Welsh manuscript.'));
+  const passages = page.relatedJournalPassages || [];
+  if (!passages.length) {
+    panel.appendChild(element('p', 'empty-layer', 'No identified RDR parallel for this page.'));
+    return panel;
+  }
+  passages.forEach((passage) => {
+    const related = state.rdrPages.get(passage.pageId);
+    const card = element('article', 'parallel-card');
+    const relatedNumber = related ? pageNumber(related) : passage.pageId.replace(/^.*-/, '');
+    card.appendChild(element('h4', '', `RDR PDF page ${relatedNumber}`));
+    card.appendChild(element('p', 'parallel-meta', `${passage.confidence || 'Unclassified'} · ${(passage.relationship || []).join(' · ')}`));
+    if (related?.transcription) {
+      const body = element('div', 'transcription-body parallel-text');
+      renderPlainText(body, related.transcription, state.query);
+      card.appendChild(body);
+    }
+    if (passage.basis) card.appendChild(element('p', 'parallel-basis', passage.basis));
+    const link = element('a', 'source-page-link', `Open RDR PDF page ${relatedNumber}`);
+    link.href = `journal-viewer.html?id=rdr&page=${relatedNumber}`;
+    card.appendChild(link);
+    panel.appendChild(card);
+  });
+  return panel;
+}
+
+function attributionPanel(page) {
+  const panel = element('aside', 'source-attribution', '', []);
+  const fields = [
+    ['Content author', page.contentAuthor],
+    ['Scribe', page.scribe],
+    ['Attribution', page.attributionStatus],
+  ].filter(([, value]) => value);
+  fields.forEach(([label, value]) => {
+    const item = element('div', 'attribution-item');
+    item.appendChild(element('span', 'attribution-label', label));
+    item.appendChild(element('span', 'attribution-value', value));
+    panel.appendChild(item);
+  });
+  if (/;/.test(page.contentAuthor || '') || /;/.test(page.scribe || '')) {
+    panel.appendChild(element('p', 'mixed-attribution-note', 'This page contains distinct entry-level source layers. See Notes for the governing attribution of each entry.'));
   }
   return panel;
 }
@@ -189,22 +264,21 @@ function renderRdr(page) {
 }
 
 function renderDr(page) {
-  if (state.mode === 'original') {
-    ui.content.appendChild(sourcePanel(page));
-    return;
-  }
-  const welsh = transcriptionPanel(page, page.welshTranscription, page.sourceTranscriptionLabel || 'Welsh transcription', state.query);
-  const english = transcriptionPanel(page, page.translation, page.translationLabel || 'Modern English translation', state.query);
-  if (state.mode === 'welsh') ui.content.appendChild(welsh);
-  else if (state.mode === 'english') ui.content.appendChild(english);
-  else {
-    const grid = element('div', 'language-grid');
-    welsh.classList.add('language-panel');
-    english.classList.add('language-panel');
-    grid.appendChild(welsh);
-    grid.appendChild(english);
-    ui.content.appendChild(grid);
-  }
+  const workspace = element('div', 'edition-workspace');
+  workspace.appendChild(sourcePanel(page));
+  const textWorkspace = element('div', 'textual-workspace');
+  textWorkspace.appendChild(attributionPanel(page));
+  let layer;
+  if (state.mode === 'english') layer = transcriptionPanel(page, page.translation, page.translationLabel || 'Modern English translation', state.query);
+  else if (state.mode === 'rdr') layer = rdrParallelPanel(page);
+  else if (state.mode === 'notes') layer = notesPanel(page);
+  else layer = transcriptionPanel(page, page.welshTranscription, page.sourceTranscriptionLabel || 'Welsh transcription', state.query);
+  layer.id = 'active-text-layer';
+  layer.setAttribute('role', 'tabpanel');
+  layer.setAttribute('tabindex', '0');
+  textWorkspace.appendChild(layer);
+  workspace.appendChild(textWorkspace);
+  ui.content.appendChild(workspace);
 }
 
 function attributionText(page) {
@@ -218,7 +292,7 @@ function attributionText(page) {
 
 function statusText(page) {
   if (page.transcriptionStatus === 'reviewed') return 'Reviewed transcription.';
-  if (page.transcriptionStatus === 'needs-review') return 'Working transcription; needs visual review.';
+  if (page.transcriptionStatus === 'needs-review') return 'Needs review · complete first-pass text with documented scholarly uncertainty.';
   if (page.transcriptionStatus === 'machine-draft') return 'Machine-assisted draft; needs visual review.';
   return 'Transcription not yet completed.';
 }
@@ -237,12 +311,15 @@ function renderPage(updateUrlState = true) {
   ui.attribution.textContent = attributionText(page);
   ui.attribution.hidden = !ui.attribution.textContent;
   ui.transcriptionStatus.textContent = statusText(page);
+  ui.transcriptionStatus.dataset.status = page.transcriptionStatus || 'unstarted';
   ui.content.innerHTML = '';
   state.zoom = 1;
   state.fit = 'page';
+  if (config.key === 'dr' && !modeAvailable(page, state.mode)) state.mode = 'source';
+  buildModeControls(page);
   if (config.key === 'rdr') renderRdr(page);
   else renderDr(page);
-  ui.zoomControls.hidden = !(state.mode === 'original' || state.mode === 'side');
+  ui.zoomControls.hidden = config.key === 'rdr' && !(state.mode === 'original' || state.mode === 'side');
   ui.status.textContent = `Showing PDF page ${number} of ${state.pages.length}.`;
   document.title = `${state.journal.title} - PDF page ${number} | The Roberts Family History`;
   updateModeButtons();
@@ -263,13 +340,26 @@ function goToPageNumber(number, focusPage = false) {
 function updateModeButtons() {
   [...ui.viewModes.querySelectorAll('button')].forEach((button) => {
     button.setAttribute('aria-pressed', String(button.dataset.mode === state.mode));
+    button.setAttribute('aria-selected', String(button.dataset.mode === state.mode));
+    button.tabIndex = button.dataset.mode === state.mode ? 0 : -1;
   });
 }
 
-function buildModeControls() {
-  config.modes.forEach(([value, label]) => {
+function modeAvailable(page, value) {
+  if (config.key !== 'dr') return true;
+  if (value === 'english') return page.translationStatus !== 'not-applicable' && !isPlaceholder(page.translation);
+  if (value === 'rdr') return (page.relatedJournalPassages || []).length > 0;
+  if (value === 'notes') return Boolean(page.notes && !/^This PDF page awaits/i.test(page.notes));
+  return true;
+}
+
+function buildModeControls(page = state.pages[state.index]) {
+  ui.viewModes.innerHTML = '';
+  config.modes.filter(([value]) => modeAvailable(page, value)).forEach(([value, label]) => {
     const button = element('button', 'mode-control', label);
     button.type = 'button';
+    button.setAttribute('role', 'tab');
+    button.setAttribute('aria-controls', 'active-text-layer');
     button.dataset.mode = value;
     button.addEventListener('click', () => {
       state.mode = value;
@@ -277,6 +367,7 @@ function buildModeControls() {
     });
     ui.viewModes.appendChild(button);
   });
+  updateModeButtons();
 }
 
 function applyImageScale() {
@@ -386,12 +477,20 @@ function wireControls() {
 }
 
 async function init() {
-  buildModeControls();
   wireControls();
   try {
-    const response = await fetch(config.dataPath);
+    const responses = await Promise.all([
+      fetch(config.dataPath),
+      config.key === 'dr' ? fetch('data/journals/rdr/journal-data.json') : Promise.resolve(null),
+    ]);
+    const response = responses[0];
     if (!response.ok) throw new Error(`Unable to load journal data (${response.status})`);
     const data = await response.json();
+    if (responses[1]) {
+      if (!responses[1].ok) throw new Error(`Unable to load RDR parallel data (${responses[1].status})`);
+      const rdrData = await responses[1].json();
+      state.rdrPages = new Map((rdrData.journalPages || []).map((page) => [page.id, page]));
+    }
     state.journal = data.journals[0];
     state.pages = [...data.journalPages].sort((a, b) => pageNumber(a) - pageNumber(b));
     ui.title.textContent = state.journal.title;
