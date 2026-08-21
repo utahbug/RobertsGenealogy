@@ -1715,22 +1715,69 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-069.jpg",
       "transcriptionFile": "data/journals/dr/pages/069.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
       "pageLanguage": "Primarily Welsh; later additions may include English",
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
+      "contentAuthor": "David Roberts",
+      "scribe": "David Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "The first-person family narrative continues directly from the dated Fy Hanes entry on page 68 in the same compact Welsh hand and ink. This supports David Roberts as probable content author and scribe, but damage and the absence of a separate signature or independently attributable handwriting sample prevent confirmation.",
+      "people": [
+        "Daniel Roberts",
+        "Gwen Lloyd",
+        "Catherine Jones",
+        "Catherine Roberts",
+        "Elizabeth Roberts",
+        "William Roberts",
+        "John Roberts",
+        "Mary Edwards",
+        "Edward Richards",
+        "Mary Owens",
+        "Sydney Roberts",
+        "Elinor Roberts",
+        "David Roberts"
+      ],
+      "places": [
+        "Llanfrothen",
+        "Festiniog",
+        "Beddgelert",
+        "Gelli",
+        "America",
+        "Vermont"
+      ],
       "dates": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-003",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh continuation and RDR page 3 share the Daniel and Gwen family notice and the transition into John Roberts's family."
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-004",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the John, Edward, Robert, and Elinor family sequence, Vermont setting, child list, burial context, and four-line verse position; RDR preserves fuller prose than the damaged Welsh manuscript."
+        }
+      ],
+      "contentContext": "Continuation of the January 6, 1854 Welsh family-history entry, including Roberts-family notices, extensive erased and abraded text, and a damaged four-line verse; it continues toward PDF page 70."
     },
     {
       "id": "journal-dr-page-070",

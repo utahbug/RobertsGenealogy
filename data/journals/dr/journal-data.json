@@ -2672,8 +2672,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-069.jpg",
       "transcriptionFile": "data/journals/dr/pages/069.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -2681,23 +2681,69 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Jones [unclear: Cae'r Llwynog], Llanfrothen. Ganwyd iddynt 4 o blant fel y canlyn, Catherine, Elizabeth, William a John Roberts.\n\nJohn (yr ieuengaf o honom) a briodwyd Mary Edwards, merch i Edward Richards [damaged: residence or identifying words illegible], Festiniog, a Mary Owens. [damaged: approximately one line concerning their children]. Eu henwau fel y canlyn, Elizabeth, Sydney, William, Daniel Roberts. Claddwyd Robert y cyntaf hynaf yn Mynwent Beddgelert.\n\n[damaged: several lines of family-history prose are partly abraded; isolated words including `Edward`, `Gelli`, and `Calvin Methodist` survive, but the sentences cannot be reconstructed defensibly].\n\n[erased and overwritten: broad horizontal band of approximately four lines; only isolated strokes and words survive].\n\nMae Elinor yn awr yn America fel y tybiaf, yn Nhalaeth Vermont. Enwau ei phlant sydd fel y canlyn, Robert, Catherine, William, John, David, Sydney, yr hon a fu farw ac a gladdwyd [damaged: place and surrounding words illegible]. [damaged: clause introducing the following verse].\n\n[damaged verse, four lines:]\n\n[damaged: Hardd Rosyn Gwridog ... a dorwyd]\n\n[damaged: Ai doriad ...]\n\n[damaged: ... Rosyn ...]\n\n[unclear: Y gwel ei deganau]",
+      "translation": "Jones of [unclear: Cae'r Llwynog], Llanfrothen. Four children were born to them, as follows: Catherine, Elizabeth, William, and John Roberts.\n\nJohn (the youngest of us) married Mary Edwards, daughter of Edward Richards [damaged: residence or identifying words illegible], Festiniog, and Mary Owens. [Damaged: approximately one line concerning their children.] Their names were as follows: Elizabeth, Sydney, William, and Daniel Roberts. Robert, the first and eldest, was buried in Beddgelert cemetery.\n\n[Damaged: several lines of family-history prose are partly abraded; isolated words including Edward, Gelli, and Calvin Methodist survive, but the sentences cannot be translated defensibly.]\n\n[Erased and overwritten: a broad horizontal band of approximately four lines; only isolated strokes and words survive.]\n\nElinor is now in America, as I understand it, in the state of Vermont. The names of her children are as follows: Robert, Catherine, William, John, David, and Sydney, who died and was buried [damaged: place and surrounding words illegible]. [Damaged: clause introducing the following verse.]\n\n[Damaged verse, four lines:]\n\n[Damaged: Fair ruddy rose ... was cut down]\n\n[Damaged: Its cutting ...]\n\n[Damaged: ... rose ...]\n\n[Unclear: Who sees its playthings]",
+      "notes": "Page 69 continues the Daniel Roberts and Gwen Lloyd family entry from page 68, proceeds through several Roberts-family notices, and includes a four-line verse associated with a death in Elinor's family. It continues toward page 70, where the same compact Welsh family narrative and hand remain visible.\n\nThe page has extensive ink loss, abrasion, erasure, and overwriting. The upper genealogy and lower Vermont passage are substantially legible, but a broad middle band and portions of the verse are not recoverable from surviving letterforms. Damage markers represent manuscript loss; words from RDR have not been supplied as Welsh text.\n\nRDR PDF pages 3-4 provide a confirmed historical-English parallel and help establish the order of the Daniel, John, Edward, Robert, and Elinor family notices. RDR contains fuller prose and names than the damaged Welsh page, so it is linked as a close translation/paraphrase with expansion and normalization, not used to reconstruct missing manuscript wording. The Welsh list visible here appears to differ from RDR's fuller list of John and Mary Roberts's children; the source-specific forms are preserved.\n\nThe verse occupies four visually distinct lines and is in the same compact hand and ink as the surrounding entry. Its introductory clause is damaged, and no surviving wording establishes a connection to the hymn attributed to `D. R.` in the 1852 Welsh LDS hymnal. It is therefore treated as an unidentified damaged verse, possibly commemorative, rather than identified as a known hymn.\n\nThe first-person wording, continuity from the dated `Fy Hanes` entry on page 68, and stable hand support David Roberts as probable content author and probable scribe. Damage prevents stronger attribution; no secondary hand or later insertion is apparent.",
       "notesLabel": "Editorial annotations",
-      "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
+      "contentContext": "Continuation of the January 6, 1854 Welsh family-history entry, including Roberts-family notices, extensive erased and abraded text, and a damaged four-line verse; it continues toward PDF page 70.",
+      "contentAuthor": "David Roberts",
+      "scribe": "David Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "The first-person family narrative continues directly from the dated Fy Hanes entry on page 68 in the same compact Welsh hand and ink. This supports David Roberts as probable content author and scribe, but damage and the absence of a separate signature or independently attributable handwriting sample prevent confirmation.",
+      "people": [
+        "Daniel Roberts",
+        "Gwen Lloyd",
+        "Catherine Jones",
+        "Catherine Roberts",
+        "Elizabeth Roberts",
+        "William Roberts",
+        "John Roberts",
+        "Mary Edwards",
+        "Edward Richards",
+        "Mary Owens",
+        "Sydney Roberts",
+        "Elinor Roberts",
+        "David Roberts"
+      ],
+      "places": [
+        "Llanfrothen",
+        "Festiniog",
+        "Beddgelert",
+        "Gelli",
+        "America",
+        "Vermont"
+      ],
       "dates": [],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-003",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh continuation and RDR page 3 share the Daniel and Gwen family notice and the transition into John Roberts's family."
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-004",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "expanded",
+            "normalized"
+          ],
+          "confidence": "confirmed",
+          "basis": "The Welsh and RDR passages share the John, Edward, Robert, and Elinor family sequence, Vermont setting, child list, burial context, and four-line verse position; RDR preserves fuller prose than the damaged Welsh manuscript."
+        }
+      ]
     },
     {
       "id": "journal-dr-page-070",
