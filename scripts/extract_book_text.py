@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "source" / "DavidRoberts-Searchable.pdf"
 OUTPUT = ROOT / "data" / "book-text.json"
 FIRST_PAGE = 1
-LAST_PAGE = 68
+LAST_PAGE = 310
 
 
 def main() -> None:

@@ -265,3 +265,34 @@ Status: reserved for generation after the narrative sections are rebuilt.
 # Subject Index
 
 Status: reserved for generation after the narrative sections are rebuilt.
+
+
+# Section A Pilot: The Compiler Introduces the Earliest Record
+
+*Original source: Book of Remembrance, PDF page 9 (internal page A-1). This pilot ends before the compiler's historical English translation begins.*
+
+## Original compiler narrative
+
+> It is most appropriate that this record should begin with a recital of the earliest writings known in the family, namely, the writings of Grandfather, David Roberts. His record book is in my possession, it having been given into my care by my father, Robert D. Roberts. It is written in the Welsh language and bears the marks of time. The record consists, in the most part, of poetry, as Grandfather was a poet. There are, however, a few pages of historical and genealogical data which have been translated from the Welsh into the English. The first translation was made by my father many years ago and recently I secured another translation by my friend, Mr. John Thomas of Ogden, Utah. I acted as scribe. I have compared the translations and they agree throughout. I am sure that the translation is very accurate, giving not only the letter and meaning but also the spirit of the original. The notes in brackets are inserted by me, by way of explanation. I have also inserted the headings.
+> *(The translation is as follows.)*
+
+## Editor's clarification
+
+The compiler's English text is retained as a valuable historical translation and family witness. It is not the same layer as the project's modern English translation made directly from the Welsh manuscript. Welsh transcription, modern translation, and Robert D. Roberts historical English remain separate so agreements, normalizations, expansions, and conflicts can be evaluated openly.
+
+## Evidence note
+
+The manuscript pages containing the early family narrative are now identified as David Roberts's own hand through comparison with directly signed 1858 samples elsewhere in the shared journal. This supports the compiler's central statement while allowing the wording and dates of the Welsh source to be checked independently.
+
+## Editorial categories used in the edition
+
+- **Editor's correction:** stronger surviving evidence supports a specific correction.
+- **Editor's clarification:** wording or source identity can be made more precise without rejecting the compiler's account.
+- **Evidence note:** identifies the basis for a claim or explains a source relationship.
+- **Unresolved question:** records a genuine conflict without choosing unsupported certainty.
+
+[IMAGE PLACEHOLDER - David Roberts Welsh journal manuscript]
+
+- **Intended caption:** Early Welsh family-history pages in the shared Roberts journal, attributed to David Roberts through signed-sample handwriting comparison.
+- **Suggested source/provenance:** original manuscript image and PDF page reference; custody and reproduction credit to be supplied.
+- **Editorial placement:** after the compiler's introduction, before the historical English translation.

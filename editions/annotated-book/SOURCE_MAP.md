@@ -1,43 +1,82 @@
-# Annotated Book of Remembrance - First-Pass Source Map
+# Book of Remembrance Source Map
 
-## Scope
+## Source
 
-- Base: `source/DavidRoberts-Searchable.pdf` (310 PDF pages).
-- Existing extracted text: `data/book-text.json`, source pages 1-68 only.
-- Completed: editorial front matter, source conventions, A-L/index scaffold, and selected secure front-matter annotations.
-- Stopping boundary: immediately before Section A narrative.
+- Base source: `source/DavidRoberts-Searchable.pdf`
+- Extent: 310 PDF pages
+- Compiler: David D. Roberts (identified in the historical volume as David R. Roberts)
+- Form: loose-leaf Book of Remembrance assembled and supplemented over time
 
-## Structure map
+PDF page numbers below describe physical scan order. The compiler's conceptual A-L order differs because sections were inserted and expanded separately.
 
-| Original component | Rebuilt component | Current state | Major editorial area |
-|---|---|---|---|
-| Title | Original Title | Complete | Source identity |
-| Dedication | Dedication | Partial; scan begins mid-sentence | Physical lacuna |
-| Preface | Preface | Contextual summary; line transcription deferred | Provenance |
-| Explanatory notes | Source Abbreviations | Secure conventions summarized | Source layers |
-| Arrangement | Original Arrangement | Complete scaffold | Section order |
-| Section A | Earliest History | Scaffold | Welsh journal, dates, surname transition |
-| Sections B-H | Branch sections | Scaffold | Family evidence |
-| Section I | Genealogy | Scaffold | Proof and disputed ancestry |
-| Section J | Temple Work | Scaffold | Proxy evidence limits |
-| Sections K-L | Organization/miscellaneous | Scaffold | Historical context |
-| Indexes | Name/subject indexes | Reserved | Generate later |
+## Front matter
 
-## Corrections introduced
+| Material | PDF pages | Notes |
+| --- | ---: | --- |
+| Title and blank verso | 1-2 | Page 1 is sparse; page 2 has no embedded text. |
+| Explanatory notes | 3 | Preservation of earlier records. |
+| Arrangement | 4 | Defines Sections A-L. |
+| Dedication/compiler statement | 5 | Surviving text begins mid-sentence. |
+| Preface | 6 | Describes inherited Welsh and English records. |
+| Family frontispieces | 7-8 | Primarily image content. |
 
-1. Signed February 4 and April 6, 1858 entries document David Roberts's use of `David R Roberts`; exact adoption timing and reason remain unproven.
-2. The `D. R.` hymn identification remains a research lead, not journal-proven authorship.
-3. David D. Roberts the compiler is distinguished from his grandfather David Roberts and Robert D. Roberts.
-4. Journal page 72 names Robert Roberts as David's father but leaves the paternal grandfather unnamed.
+## Verified physical boundaries
 
-## Next-pass controls
+| Physical position | Section | PDF pages | Content |
+| --- | --- | ---: | --- |
+| 1 | A | 9-68 | Earliest ancestry; David and Catherine Roberts; migration and early Utah history. Internal A-1 through A-60. |
+| 2 | B | 69-212 | Robert D. and Hannah (Roberts) Roberts and descendants. Pages 69-70 are image/divider material; B-1 begins p.71. |
+| 3 | D | 213-221 | Thomas D. and Margaret G. (Davies) Roberts and family, including additions. |
+| 4 | C | 222-240 | Robert D. and Eliza (Neagle) Roberts and family. Page 222 is an explicitly inserted item. |
+| 5 | I | 241-272 | Pedigree and family-group sheets; many alternating image-only pages. |
+| 6 | L | 273-292 | Miscellaneous material, appreciations, Welsh background, and concluding observations. |
+| 7 | K | 293-298 | Family organization and constitutions. |
+| 8 | J | 299-310 | Temple-work activities and supporting records. |
 
-- Establish verified source-image/text handling for source pages 69-310.
-- Complete conservative transcription of the dedication and preface.
-- Map exact PDF boundaries of Sections A-L.
-- Build Section A sequentially and compare quotations with surviving journals.
-- Prepare concise citations for grave, cemetery, correspondence, and membership evidence.
+## Conceptual A-L order
 
-## Images
+| Section | Intended subject | PDF coverage |
+| --- | --- | ---: |
+| A | Earliest ancestry and family history | 9-68 |
+| B | Robert D. and Hannah (Roberts) Roberts | 69-212 |
+| C | Robert D. and Eliza (Neagle) Roberts | 222-240 |
+| D | Thomas D. and Margaret G. (Davies) Roberts | 213-221 |
+| E | Daniel and Sarah A. (Hughes) Roberts | Blank; no substantive section inserted. |
+| F | William T. and Ann (Roberts) Hopkins | Blank; no substantive section inserted. |
+| G | Taliesin and Elizabeth (Roberts) Hughes | Blank; no substantive section inserted. |
+| H | Gomer and Jane (Roberts) Hughes | Blank; no substantive section inserted. |
+| I | Genealogy | 241-272 |
+| J | Temple work | 299-310 |
+| K | Family organization | 293-298 |
+| L | Miscellaneous | 273-292 |
+| Indexes | Intended name and subject indexes | Not completed in this scan; p.287 says the double index was deferred. |
 
-Only placeholders are present. No image has been inserted.
+## Extraction status
+
+The embedded-text working layer covers all 310 PDF pages. It is machine extraction, not diplomatic transcription. Quality flags are in `data/book-text-quality.json`.
+
+- Usable machine text: 250 pages
+- Degraded: 13 pages
+- Sparse: 3 pages
+- No embedded text: 44 pages
+- Total accounted for: 310 pages
+
+Pages without reliable embedded text remain linked to their source page and are flagged for visual verification; no text has been invented.
+
+## Section A structure
+
+| Topic | PDF pages |
+| --- | ---: |
+| Compiler introduction and translated David Roberts record | 9-11 |
+| Clynog ancestry and Rhys traditions | 11-12 |
+| Eisteddfod, poetry, and religious recollections | 12-16 |
+| Places and images | 17-18 |
+| Emigration preparation and passenger evidence | 19-21 |
+| Voyage on the S. Curling | 21-25 |
+| Handcart instructions and westward journey | 26-37 |
+| Beginning in Zion; Farmington and Cache Valley | 38-50 |
+| Militia and settlement records | 50-57 |
+| Wales and locality context | 57-63 |
+| Hughes-family migration and concluding evidence | 64-68 |
+
+Detailed claims are mapped in `SECTION_A_EVIDENCE_MAP.md`.
