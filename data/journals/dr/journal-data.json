@@ -4983,8 +4983,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-102.jpg",
       "transcriptionFile": "data/journals/dr/pages/102.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -4992,23 +4992,61 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Dinas Logan Chwefror 11eg 1885\n\nDechra gwaith yn y Teml dros y rhai sydd wedi myned i'r byd ysbrydol, cael Cynnysgaeth dros y rhai a ganlyn:\n\n11eg — Cathrina Thomas Roberts — dros Jane Parry\n\n12 — [ditto] — dros Ann Morris\n\n13 — [ditto] — Cathrina Uch Richards\n\n25 — [ditto] — Margaret Owens\n\n26 — [ditto] — Elizabeth Thomas\n\n27 — [ditto] — Cathrina Richards\n\nChwefror 11 — Ann Roberts Hopkins — dros [unclear: Elizabeth Griffith Catharine]\n\n12 — [ditto] — Elizabeth Roberts\n\n13 — [ditto] — Ann Parry\n\n25 — [ditto] — Elinor Humphries\n\n26 — [ditto] — Ann Roberts\n\n27 — [ditto] — Jane Richards",
+      "translation": "Logan City, February 11, 1885\n\nWork began in the Temple for those who had gone into the spirit world, receiving endowments for the following:\n\n11 — Cathrina Thomas Roberts — for Jane Parry\n\n12 — [ditto] — for Ann Morris\n\n13 — [ditto] — Cathrina Uch Richards\n\n25 — [ditto] — Margaret Owens\n\n26 — [ditto] — Elizabeth Thomas\n\n27 — [ditto] — Cathrina Richards\n\nFebruary 11 — Ann Roberts Hopkins — for [unclear: Elizabeth Griffith Catharine]\n\n12 — [ditto] — Elizabeth Roberts\n\n13 — [ditto] — Ann Parry\n\n25 — [ditto] — Elinor Humphries\n\n26 — [ditto] — Ann Roberts\n\n27 — [ditto] — Jane Richards",
+      "notes": "- This page begins a women’s proxy-endowment list and does not continue the March 1886 men’s confirmation group on page 101. The journal has reordered record groups chronologically.\n- RDR PDF page 27 is a confirmed close-paraphrase parallel, but several legible Welsh name forms differ from RDR. The Welsh appears to give `Jane Parry`, `Elinor Humphries`, and `Jane Richards`, where RDR gives Ann Parry, Elias Roberts, and Lewis Roberts respectively. The sources have not been harmonized.\n- The faint sequence following Ann Roberts Hopkins remains materially uncertain. RDR's own rendering is also marked uncertain and has not been used to force the Welsh.\n- Ditto marks preserve repeated proxy/ordinance context; no relationships have been inferred from list adjacency.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting and list-format continuity with signed Robert D. Roberts entries support attribution.",
+      "people": [
+        "Cathrina Thomas Roberts",
+        "Jane Parry",
+        "Ann Morris",
+        "Cathrina Uch Richards",
+        "Margaret Owens",
+        "Elizabeth Thomas",
+        "Cathrina Richards",
+        "Ann Roberts Hopkins",
+        "Elizabeth Griffith Catharine",
+        "Elizabeth Roberts",
+        "Ann Parry",
+        "Elinor Humphries",
+        "Ann Roberts",
+        "Jane Richards"
+      ],
+      "places": [
+        "Logan City",
+        "Logan Temple",
+        "spirit world"
+      ],
+      "dates": [
+        "February 11, 1885",
+        "February 12, 1885",
+        "February 13, 1885",
+        "February 25, 1885",
+        "February 26, 1885",
+        "February 27, 1885"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-027",
+          "pdfPageNumber": 27,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "reordered"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-103",
@@ -5020,8 +5058,8 @@
       "manuscriptPageNumber": null,
       "image": "assets/journals/dr/journal-dr-page-103.jpg",
       "transcriptionFile": "data/journals/dr/pages/103.md",
-      "transcriptionStatus": "untranscribed",
-      "translationStatus": "untranslated",
+      "transcriptionStatus": "needs-review",
+      "translationStatus": "needs-review",
       "section": "family-history-journal",
       "sectionLabel": "Family history and journal",
       "sectionPriority": "primary",
@@ -5029,23 +5067,77 @@
       "sourceTranscriptionLabel": "Welsh transcription",
       "translationLabel": "Modern English translation",
       "searchLayer": "Welsh transcription",
-      "welshTranscription": "[Untranscribed]",
-      "translation": "[Untranslated]",
-      "notes": "This PDF page awaits line-by-line visual transcription and translation. No handwriting OCR has been treated as authoritative.",
+      "welshTranscription": "Chwefror 11 — Margaret Goodman Davies Roberts — dros David Evans\n\n12 — [ditto] — dros Laura Parry\n\nMawrth 26 — Ann Roberts Hughes — dros Elinor Morris\n\n27 — [ditto] — Elizabeth Morris\n\n28 — [ditto] — Cathrina Morris\n\nMawrth 10fed 1886 — Ann Roberts Hopkins — dros Elinor Griffith\n\n11 — [ditto] — Margaret Roberts\n\n12 — [ditto] — Elinor Roberts\n\nMawrth 11eg 1886 — Cathreina Thomas Roberts — dros Jane Thomas\n\n12 — [ditto] — Margaret Jones\n\nMawrth 19eg 1886 — Sarah Ann Hughes Roberts — dros Margaret Richards\n\n18 — [ditto] — dros Gwen Williams\n\nMrs Margaret Jones, gwraig David Jones",
+      "translation": "February 11 — Margaret Goodman Davies Roberts — for David Evans\n\n12 — [ditto] — for Laura Parry\n\nMarch 26 — Ann Roberts Hughes — for Elinor Morris\n\n27 — [ditto] — Elizabeth Morris\n\n28 — [ditto] — Cathrina Morris\n\nMarch 10, 1886 — Ann Roberts Hopkins — for Elinor Griffith\n\n11 — [ditto] — Margaret Roberts\n\n12 — [ditto] — Elinor Roberts\n\nMarch 11, 1886 — Cathreina Thomas Roberts — for Jane Thomas\n\n12 — [ditto] — Margaret Jones\n\nMarch 19, 1886 — Sarah Ann Hughes Roberts — for Margaret Richards\n\n18 — [ditto] — for Gwen Williams\n\nMrs. Margaret Jones, wife of David Jones",
+      "notes": "- This page continues the women’s proxy list from page 102 in four blank-separated proxy groups. It ends with a relationship statement identifying Margaret Jones as David Jones's wife.\n- RDR PDFs 27–28 are confirmed close-paraphrase parallels. The Welsh appears to read `Elinor Roberts` in the March 10 group, while RDR gives Catherine Roberts; the discrepancy is preserved.\n- The manuscript writes March 19 before a following line dated 18. That apparent date-order irregularity remains as written.\n- Ditto marks preserve repeated proxy/ordinance context. No additional kinship has been inferred.\n- Handwriting continuity supports probable attribution to Robert D. Roberts as content author and scribe. No signature or secondary hand appears.\n- PDF page 104 changes to dense sealing pairs and requires a separate structure-focused pass.\n- No occurrence of `bach` or a distinct Robert-derived nickname is visible.",
       "notesLabel": "Editorial annotations",
       "contentContext": null,
-      "contentAuthor": null,
-      "scribe": null,
-      "translator": null,
-      "editor": null,
-      "attributionStatus": "uncertain",
-      "attributionBasis": "No page-level hand or role attribution has yet been established by comparative review.",
-      "people": [],
-      "places": [],
-      "dates": [],
+      "contentAuthor": "Robert D. Roberts",
+      "scribe": "Robert D. Roberts",
+      "translator": "OpenAI Codex-assisted draft translation",
+      "editor": "OpenAI Codex-assisted transcription review",
+      "attributionStatus": "probable",
+      "attributionBasis": "Handwriting and list-format continuity with signed Robert D. Roberts entries support attribution.",
+      "people": [
+        "Margaret Goodman Davies Roberts",
+        "David Evans",
+        "Laura Parry",
+        "Ann Roberts Hughes",
+        "Elinor Morris",
+        "Elizabeth Morris",
+        "Cathrina Morris",
+        "Ann Roberts Hopkins",
+        "Elinor Griffith",
+        "Margaret Roberts",
+        "Elinor Roberts",
+        "Cathreina Thomas Roberts",
+        "Jane Thomas",
+        "Margaret Jones",
+        "Sarah Ann Hughes Roberts",
+        "Margaret Richards",
+        "Gwen Williams",
+        "David Jones"
+      ],
+      "places": [
+        "Logan Temple"
+      ],
+      "dates": [
+        "February 11, 1885",
+        "February 12, 1885",
+        "March 26, 1885",
+        "March 27, 1885",
+        "March 28, 1885",
+        "March 10, 1886",
+        "March 11, 1886",
+        "March 12, 1886",
+        "March 19, 1886",
+        "March 18, 1886"
+      ],
       "linkedEvents": [],
       "editorialNotes": [],
-      "relatedJournalPassages": []
+      "relatedJournalPassages": [
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-027",
+          "pdfPageNumber": 27,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase",
+            "reordered"
+          ]
+        },
+        {
+          "journalId": "journal-rdr-001",
+          "pageId": "journal-rdr-page-028",
+          "pdfPageNumber": 28,
+          "confidence": "confirmed",
+          "relationship": [
+            "close translation",
+            "paraphrase"
+          ]
+        }
+      ]
     },
     {
       "id": "journal-dr-page-104",
